@@ -1,0 +1,7128 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-11-25'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Perth
+  dates:
+  - '2025-11-21'
+  - '2025-11-22'
+  gender: male
+  match_type: Test
+  match_type_number: 2608
+  outcome:
+    winner: Australia
+    by:
+      wickets: 8
+  player_of_match:
+  - MA Starc
+  players:
+    England:
+    - Z Crawley
+    - BM Duckett
+    - OJ Pope
+    - JE Root
+    - HC Brook
+    - BA Stokes
+    - JL Smith
+    - AAP Atkinson
+    - BA Carse
+    - JC Archer
+    - MA Wood
+    Australia:
+    - J Weatherald
+    - M Labuschagne
+    - SPD Smith
+    - UT Khawaja
+    - TM Head
+    - C Green
+    - AT Carey
+    - MA Starc
+    - NM Lyon
+    - SM Boland
+    - B Doggett
+  registry:
+    people:
+      AAP Atkinson: 70d57519
+      AT Carey: 69d03465
+      AT Holdstock: 6fa3258c
+      B Doggett: 898e628d
+      BA Carse: cad40f5e
+      BA Stokes: e087956b
+      BM Duckett: 5f26f677
+      C Green: eaa76d3c
+      HC Brook: 4ae1755b
+      J Weatherald: edc7ddb6
+      JC Archer: 5574750c
+      JE Root: a343262c
+      JL Smith: c834c290
+      M Labuschagne: fa433be6
+      MA Starc: 3fb19989
+      MA Wood: 8d92a2c3
+      NM Lyon: 96a6a7ad
+      Nitin Menon: e1d41d9e
+      OJ Pope: e94bc520
+      RS Madugalle: 766b5798
+      SAJ Craig: 689f2eed
+      SM Boland: d167edd3
+      SPD Smith: 30a45b23
+      Sharfuddoula: 63896abb
+      TM Head: 12b610c2
+      UT Khawaja: 331ea488
+      Z Crawley: 922e1b19
+  teams:
+  - England
+  - Australia
+  toss:
+    winner: England
+    decision: bat
+  umpires:
+  - AT Holdstock
+  - Nitin Menon
+  venue: Perth Stadium
+innings:
+- 1st innings:
+    team: England
+    deliveries:
+    - 0.1:
+        non_striker: BM Duckett
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 0.2:
+        non_striker: BM Duckett
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 0.3:
+        non_striker: BM Duckett
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 0.4:
+        non_striker: BM Duckett
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 0.5:
+        non_striker: BM Duckett
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 0.6:
+        non_striker: BM Duckett
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+        wicket:
+          player_out: Z Crawley
+          fielders:
+          - UT Khawaja
+          kind: caught
+    - 1.1:
+        non_striker: OJ Pope
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Duckett
+    - 1.2:
+        non_striker: OJ Pope
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Duckett
+    - 1.3:
+        non_striker: BM Duckett
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: OJ Pope
+    - 1.4:
+        non_striker: OJ Pope
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Duckett
+    - 1.5:
+        non_striker: OJ Pope
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Duckett
+    - 1.6:
+        non_striker: OJ Pope
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BM Duckett
+    - 2.1:
+        non_striker: BM Duckett
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 2.2:
+        non_striker: BM Duckett
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 2.3:
+        non_striker: BM Duckett
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 2.4:
+        non_striker: BM Duckett
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 2.5:
+        non_striker: BM Duckett
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 2.6:
+        non_striker: BM Duckett
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 3.1:
+        non_striker: OJ Pope
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BM Duckett
+    - 3.2:
+        non_striker: OJ Pope
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Duckett
+    - 3.3:
+        non_striker: OJ Pope
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Duckett
+    - 3.4:
+        non_striker: OJ Pope
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BM Duckett
+    - 3.5:
+        non_striker: OJ Pope
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Duckett
+    - 3.6:
+        non_striker: OJ Pope
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BM Duckett
+    - 4.1:
+        non_striker: BM Duckett
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: OJ Pope
+    - 4.2:
+        non_striker: OJ Pope
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Duckett
+    - 4.3:
+        non_striker: OJ Pope
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Duckett
+    - 4.4:
+        non_striker: OJ Pope
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BM Duckett
+    - 4.5:
+        non_striker: OJ Pope
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Duckett
+    - 4.6:
+        non_striker: OJ Pope
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Duckett
+    - 5.1:
+        non_striker: BM Duckett
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: OJ Pope
+    - 5.2:
+        non_striker: BM Duckett
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 5.3:
+        non_striker: BM Duckett
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OJ Pope
+    - 5.4:
+        non_striker: OJ Pope
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Duckett
+    - 5.5:
+        non_striker: OJ Pope
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BM Duckett
+    - 5.6:
+        non_striker: OJ Pope
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Duckett
+    - 6.1:
+        non_striker: BM Duckett
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 6.2:
+        non_striker: BM Duckett
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: OJ Pope
+    - 6.3:
+        non_striker: BM Duckett
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OJ Pope
+    - 6.4:
+        non_striker: OJ Pope
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Duckett
+        wicket:
+          player_out: BM Duckett
+          kind: lbw
+    - 6.5:
+        non_striker: OJ Pope
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Root
+    - 6.6:
+        non_striker: OJ Pope
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Root
+    - 7.1:
+        non_striker: JE Root
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: OJ Pope
+    - 7.2:
+        non_striker: JE Root
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 7.3:
+        non_striker: JE Root
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 7.4:
+        non_striker: JE Root
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 7.5:
+        non_striker: JE Root
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: OJ Pope
+    - 7.6:
+        non_striker: JE Root
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 8.1:
+        non_striker: OJ Pope
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Root
+    - 8.2:
+        non_striker: OJ Pope
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Root
+    - 8.3:
+        non_striker: OJ Pope
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Root
+    - 8.4:
+        non_striker: OJ Pope
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Root
+    - 8.5:
+        non_striker: OJ Pope
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Root
+        wicket:
+          player_out: JE Root
+          fielders:
+          - M Labuschagne
+          kind: caught
+    - 8.6:
+        non_striker: OJ Pope
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+    - 9.1:
+        non_striker: HC Brook
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 9.2:
+        non_striker: HC Brook
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 9.3:
+        non_striker: HC Brook
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 9.4:
+        non_striker: HC Brook
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 9.5:
+        non_striker: HC Brook
+        bowler: B Doggett
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: OJ Pope
+    - 9.6:
+        non_striker: HC Brook
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 10.1:
+        non_striker: OJ Pope
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: HC Brook
+    - 10.2:
+        non_striker: HC Brook
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 10.3:
+        non_striker: HC Brook
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 10.4:
+        non_striker: HC Brook
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 10.5:
+        non_striker: HC Brook
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 10.6:
+        non_striker: HC Brook
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: OJ Pope
+    - 11.1:
+        non_striker: OJ Pope
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+    - 11.2:
+        non_striker: OJ Pope
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 11.3:
+        non_striker: HC Brook
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 11.4:
+        non_striker: HC Brook
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 11.5:
+        non_striker: HC Brook
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OJ Pope
+    - 11.6:
+        non_striker: OJ Pope
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HC Brook
+    - 12.1:
+        non_striker: HC Brook
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 12.2:
+        non_striker: HC Brook
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 12.3:
+        non_striker: HC Brook
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 12.4:
+        non_striker: HC Brook
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 12.5:
+        non_striker: HC Brook
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: OJ Pope
+    - 12.6:
+        non_striker: OJ Pope
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+    - 13.1:
+        non_striker: HC Brook
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 13.2:
+        non_striker: HC Brook
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 13.3:
+        non_striker: HC Brook
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: OJ Pope
+    - 13.4:
+        non_striker: HC Brook
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 13.5:
+        non_striker: HC Brook
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: OJ Pope
+    - 13.6:
+        non_striker: OJ Pope
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+    - 14.1:
+        non_striker: HC Brook
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OJ Pope
+    - 14.2:
+        non_striker: OJ Pope
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+    - 14.3:
+        non_striker: OJ Pope
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+    - 14.4:
+        non_striker: OJ Pope
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+    - 14.5:
+        non_striker: OJ Pope
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HC Brook
+    - 14.6:
+        non_striker: OJ Pope
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+    - 15.1:
+        non_striker: HC Brook
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OJ Pope
+    - 15.2:
+        non_striker: OJ Pope
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 15.3:
+        non_striker: HC Brook
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 15.4:
+        non_striker: HC Brook
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OJ Pope
+    - 15.5:
+        non_striker: OJ Pope
+        bowler: B Doggett
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: HC Brook
+    - 15.6:
+        non_striker: HC Brook
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 16.1:
+        non_striker: OJ Pope
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+    - 16.2:
+        non_striker: OJ Pope
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+    - 16.3:
+        non_striker: OJ Pope
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+    - 16.4:
+        non_striker: OJ Pope
+        bowler: SM Boland
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: HC Brook
+    - 16.5:
+        non_striker: OJ Pope
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+    - 16.6:
+        non_striker: OJ Pope
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+    - 16.7:
+        non_striker: OJ Pope
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 17.1:
+        non_striker: OJ Pope
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+    - 17.2:
+        non_striker: OJ Pope
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+    - 17.3:
+        non_striker: OJ Pope
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 17.4:
+        non_striker: HC Brook
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 17.5:
+        non_striker: HC Brook
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 17.6:
+        non_striker: HC Brook
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 18.1:
+        non_striker: OJ Pope
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+    - 18.2:
+        non_striker: OJ Pope
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 18.3:
+        non_striker: HC Brook
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OJ Pope
+    - 18.4:
+        non_striker: OJ Pope
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HC Brook
+    - 18.5:
+        non_striker: OJ Pope
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 18.6:
+        non_striker: HC Brook
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OJ Pope
+    - 19.1:
+        non_striker: HC Brook
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OJ Pope
+    - 19.2:
+        non_striker: OJ Pope
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 19.3:
+        non_striker: HC Brook
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: OJ Pope
+    - 19.4:
+        non_striker: HC Brook
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: OJ Pope
+    - 19.5:
+        non_striker: OJ Pope
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 19.6:
+        non_striker: HC Brook
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+        wicket:
+          player_out: OJ Pope
+          kind: lbw
+    - 20.1:
+        non_striker: BA Stokes
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+    - 20.2:
+        non_striker: BA Stokes
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+    - 20.3:
+        non_striker: BA Stokes
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+    - 20.4:
+        non_striker: BA Stokes
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+    - 20.5:
+        non_striker: BA Stokes
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+    - 20.6:
+        non_striker: BA Stokes
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+    - 21.1:
+        non_striker: HC Brook
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Stokes
+    - 21.2:
+        non_striker: HC Brook
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Stokes
+    - 21.3:
+        non_striker: BA Stokes
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 21.4:
+        non_striker: HC Brook
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Stokes
+    - 21.5:
+        non_striker: BA Stokes
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+    - 21.6:
+        non_striker: BA Stokes
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 22.1:
+        non_striker: BA Stokes
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HC Brook
+    - 22.2:
+        non_striker: BA Stokes
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 22.3:
+        non_striker: HC Brook
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Stokes
+    - 22.4:
+        non_striker: HC Brook
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Stokes
+    - 22.5:
+        non_striker: HC Brook
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BA Stokes
+    - 22.6:
+        non_striker: HC Brook
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Stokes
+    - 23.1:
+        non_striker: BA Stokes
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+    - 23.2:
+        non_striker: BA Stokes
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HC Brook
+    - 23.3:
+        non_striker: BA Stokes
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HC Brook
+    - 23.4:
+        non_striker: BA Stokes
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+    - 23.5:
+        non_striker: BA Stokes
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+    - 23.6:
+        non_striker: BA Stokes
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+    - 24.1:
+        non_striker: HC Brook
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BA Stokes
+    - 24.2:
+        non_striker: HC Brook
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Stokes
+    - 24.3:
+        non_striker: HC Brook
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Stokes
+    - 24.4:
+        non_striker: HC Brook
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Stokes
+    - 24.5:
+        non_striker: HC Brook
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Stokes
+        wicket:
+          player_out: BA Stokes
+          kind: bowled
+    - 24.6:
+        non_striker: HC Brook
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Smith
+    - 25.1:
+        non_striker: JL Smith
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 25.2:
+        non_striker: HC Brook
+        bowler: SM Boland
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: JL Smith
+    - 25.3:
+        non_striker: HC Brook
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Smith
+    - 25.4:
+        non_striker: HC Brook
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Smith
+    - 25.5:
+        non_striker: HC Brook
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Smith
+    - 25.6:
+        non_striker: HC Brook
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Smith
+    - 25.7:
+        non_striker: HC Brook
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JL Smith
+    - 26.1:
+        non_striker: JL Smith
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+    - 26.2:
+        non_striker: JL Smith
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HC Brook
+    - 26.3:
+        non_striker: JL Smith
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HC Brook
+    - 26.4:
+        non_striker: JL Smith
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+    - 26.5:
+        non_striker: JL Smith
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+    - 26.6:
+        non_striker: JL Smith
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+    - 27.1:
+        non_striker: HC Brook
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JL Smith
+    - 27.2:
+        non_striker: HC Brook
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Smith
+    - 27.3:
+        non_striker: HC Brook
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Smith
+    - 27.4:
+        non_striker: JL Smith
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+    - 27.5:
+        non_striker: JL Smith
+        bowler: SM Boland
+        runs:
+          extras: 0
+          non_boundary: 1
+          total: 4
+          batsman: 4
+        batsman: HC Brook
+    - 27.6:
+        non_striker: JL Smith
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+    - 28.1:
+        non_striker: HC Brook
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Smith
+    - 28.2:
+        non_striker: HC Brook
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JL Smith
+    - 28.3:
+        non_striker: HC Brook
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JL Smith
+    - 28.4:
+        non_striker: HC Brook
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Smith
+    - 28.5:
+        non_striker: JL Smith
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 28.6:
+        non_striker: HC Brook
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JL Smith
+    - 29.1:
+        non_striker: JL Smith
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 29.2:
+        non_striker: HC Brook
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: JL Smith
+    - 29.3:
+        non_striker: JL Smith
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 29.4:
+        non_striker: HC Brook
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: JL Smith
+    - 29.5:
+        non_striker: JL Smith
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+        wicket:
+          player_out: HC Brook
+          fielders:
+          - AT Carey
+          kind: caught
+    - 29.6:
+        non_striker: JL Smith
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AAP Atkinson
+    - 30.1:
+        non_striker: JL Smith
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAP Atkinson
+        wicket:
+          player_out: AAP Atkinson
+          fielders:
+          - SPD Smith
+          kind: caught
+    - 30.2:
+        non_striker: JL Smith
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BA Carse
+    - 30.3:
+        non_striker: JL Smith
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Carse
+    - 30.4:
+        non_striker: JL Smith
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Carse
+    - 30.5:
+        non_striker: JL Smith
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Carse
+    - 30.6:
+        non_striker: JL Smith
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BA Carse
+    - 31.1:
+        non_striker: BA Carse
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Smith
+    - 31.2:
+        non_striker: JL Smith
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Carse
+    - 31.3:
+        non_striker: JL Smith
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Carse
+    - 31.4:
+        non_striker: JL Smith
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Carse
+    - 31.5:
+        non_striker: JL Smith
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Carse
+        wicket:
+          player_out: BA Carse
+          fielders:
+          - M Labuschagne
+          kind: caught
+    - 31.6:
+        non_striker: JL Smith
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Archer
+    - 32.1:
+        non_striker: JC Archer
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JL Smith
+    - 32.2:
+        non_striker: JC Archer
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Smith
+    - 32.3:
+        non_striker: JC Archer
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Smith
+    - 32.4:
+        non_striker: JC Archer
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Smith
+        wicket:
+          player_out: JL Smith
+          fielders:
+          - C Green
+          kind: caught
+    - 32.5:
+        non_striker: JC Archer
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Wood
+        wicket:
+          player_out: MA Wood
+          fielders:
+          - AT Carey
+          kind: caught
+- 2nd innings:
+    team: Australia
+    deliveries:
+    - 0.1:
+        non_striker: M Labuschagne
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Weatherald
+    - 0.2:
+        non_striker: M Labuschagne
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Weatherald
+        wicket:
+          player_out: J Weatherald
+          kind: lbw
+    - 0.3:
+        non_striker: M Labuschagne
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 0.4:
+        non_striker: M Labuschagne
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 0.5:
+        non_striker: M Labuschagne
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 0.6:
+        non_striker: M Labuschagne
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 1.1:
+        non_striker: SPD Smith
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 1.2:
+        non_striker: SPD Smith
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 1.3:
+        non_striker: SPD Smith
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 1.4:
+        non_striker: SPD Smith
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 1.5:
+        non_striker: SPD Smith
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 1.6:
+        non_striker: SPD Smith
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 2.1:
+        non_striker: M Labuschagne
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 2.2:
+        non_striker: M Labuschagne
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 2.3:
+        non_striker: M Labuschagne
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 2.4:
+        non_striker: M Labuschagne
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 2.5:
+        non_striker: M Labuschagne
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 2.6:
+        non_striker: M Labuschagne
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 3.1:
+        non_striker: SPD Smith
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 3.2:
+        non_striker: SPD Smith
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 3.3:
+        non_striker: SPD Smith
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 3.4:
+        non_striker: SPD Smith
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 3.5:
+        non_striker: SPD Smith
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 3.6:
+        non_striker: SPD Smith
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 4.1:
+        non_striker: M Labuschagne
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 4.2:
+        non_striker: M Labuschagne
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 4.3:
+        non_striker: M Labuschagne
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 4.4:
+        non_striker: M Labuschagne
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 4.5:
+        non_striker: SPD Smith
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 4.6:
+        non_striker: SPD Smith
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Labuschagne
+    - 5.1:
+        non_striker: M Labuschagne
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 5.2:
+        non_striker: M Labuschagne
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 5.3:
+        non_striker: M Labuschagne
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 5.4:
+        non_striker: M Labuschagne
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 5.5:
+        non_striker: M Labuschagne
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 5.6:
+        non_striker: M Labuschagne
+        bowler: AAP Atkinson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SPD Smith
+    - 6.1:
+        non_striker: M Labuschagne
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 6.2:
+        non_striker: SPD Smith
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 6.3:
+        non_striker: SPD Smith
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 6.4:
+        non_striker: SPD Smith
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 6.5:
+        non_striker: SPD Smith
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 6.6:
+        non_striker: SPD Smith
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 7.1:
+        non_striker: M Labuschagne
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 7.2:
+        non_striker: SPD Smith
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 7.3:
+        non_striker: SPD Smith
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 7.4:
+        non_striker: SPD Smith
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 7.5:
+        non_striker: SPD Smith
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 7.6:
+        non_striker: SPD Smith
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Labuschagne
+    - 8.1:
+        non_striker: SPD Smith
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Labuschagne
+    - 8.2:
+        non_striker: M Labuschagne
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 8.3:
+        non_striker: M Labuschagne
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 8.4:
+        non_striker: SPD Smith
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 8.5:
+        non_striker: SPD Smith
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 8.6:
+        non_striker: SPD Smith
+        bowler: MA Wood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: M Labuschagne
+    - 8.7:
+        non_striker: SPD Smith
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 9.1:
+        non_striker: M Labuschagne
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 9.2:
+        non_striker: M Labuschagne
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: SPD Smith
+    - 9.3:
+        non_striker: SPD Smith
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 9.4:
+        non_striker: SPD Smith
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 9.5:
+        non_striker: SPD Smith
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 9.6:
+        non_striker: SPD Smith
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 10.1:
+        non_striker: M Labuschagne
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 10.2:
+        non_striker: M Labuschagne
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 10.3:
+        non_striker: M Labuschagne
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 10.4:
+        non_striker: M Labuschagne
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 10.5:
+        non_striker: M Labuschagne
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 10.6:
+        non_striker: M Labuschagne
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 11.1:
+        non_striker: SPD Smith
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: M Labuschagne
+    - 11.2:
+        non_striker: M Labuschagne
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 11.3:
+        non_striker: M Labuschagne
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 11.4:
+        non_striker: M Labuschagne
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 11.5:
+        non_striker: SPD Smith
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 11.6:
+        non_striker: SPD Smith
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 12.1:
+        non_striker: M Labuschagne
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 12.2:
+        non_striker: M Labuschagne
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 12.3:
+        non_striker: M Labuschagne
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 12.4:
+        non_striker: SPD Smith
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 12.5:
+        non_striker: SPD Smith
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 12.6:
+        non_striker: SPD Smith
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 13.1:
+        non_striker: M Labuschagne
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SPD Smith
+    - 13.2:
+        non_striker: M Labuschagne
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 13.3:
+        non_striker: M Labuschagne
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SPD Smith
+    - 13.4:
+        non_striker: M Labuschagne
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 13.5:
+        non_striker: M Labuschagne
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 13.6:
+        non_striker: M Labuschagne
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 14.1:
+        non_striker: SPD Smith
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 14.2:
+        non_striker: SPD Smith
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+        wicket:
+          player_out: M Labuschagne
+          kind: bowled
+    - 14.3:
+        non_striker: SPD Smith
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 14.4:
+        non_striker: SPD Smith
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UT Khawaja
+    - 14.5:
+        non_striker: UT Khawaja
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 14.6:
+        non_striker: UT Khawaja
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 15.1:
+        non_striker: SPD Smith
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 15.2:
+        non_striker: SPD Smith
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UT Khawaja
+    - 15.3:
+        non_striker: UT Khawaja
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 15.4:
+        non_striker: UT Khawaja
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 15.5:
+        non_striker: UT Khawaja
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+        wicket:
+          player_out: SPD Smith
+          fielders:
+          - HC Brook
+          kind: caught
+    - 15.6:
+        non_striker: UT Khawaja
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 16.1:
+        non_striker: UT Khawaja
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 16.2:
+        non_striker: UT Khawaja
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 16.3:
+        non_striker: UT Khawaja
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 16.4:
+        non_striker: UT Khawaja
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 16.5:
+        non_striker: UT Khawaja
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 16.6:
+        non_striker: UT Khawaja
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 17.1:
+        non_striker: TM Head
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 17.2:
+        non_striker: TM Head
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+        wicket:
+          player_out: UT Khawaja
+          fielders:
+          - JL Smith
+          kind: caught
+    - 17.3:
+        non_striker: TM Head
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 17.4:
+        non_striker: TM Head
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 17.5:
+        non_striker: TM Head
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 17.6:
+        non_striker: TM Head
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 18.1:
+        non_striker: C Green
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TM Head
+    - 18.2:
+        non_striker: C Green
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 18.3:
+        non_striker: C Green
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 18.4:
+        non_striker: TM Head
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Green
+    - 18.5:
+        non_striker: TM Head
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 18.6:
+        non_striker: TM Head
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 19.1:
+        non_striker: C Green
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: TM Head
+    - 19.2:
+        non_striker: TM Head
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 19.3:
+        non_striker: TM Head
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 19.4:
+        non_striker: TM Head
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 19.5:
+        non_striker: TM Head
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 19.6:
+        non_striker: TM Head
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 20.1:
+        non_striker: C Green
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 20.2:
+        non_striker: C Green
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 20.3:
+        non_striker: TM Head
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 20.4:
+        non_striker: TM Head
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 20.5:
+        non_striker: TM Head
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 20.6:
+        non_striker: TM Head
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 21.1:
+        non_striker: C Green
+        bowler: MA Wood
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: TM Head
+    - 21.2:
+        non_striker: C Green
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 21.3:
+        non_striker: TM Head
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 21.4:
+        non_striker: TM Head
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 21.5:
+        non_striker: TM Head
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 21.6:
+        non_striker: TM Head
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Green
+    - 22.1:
+        non_striker: TM Head
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 22.2:
+        non_striker: TM Head
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 22.3:
+        non_striker: TM Head
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Green
+    - 22.4:
+        non_striker: C Green
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 22.5:
+        non_striker: C Green
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 22.6:
+        non_striker: C Green
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 23.1:
+        non_striker: TM Head
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 23.2:
+        non_striker: TM Head
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Green
+    - 23.3:
+        non_striker: C Green
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: TM Head
+    - 23.4:
+        non_striker: TM Head
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 23.5:
+        non_striker: TM Head
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 23.6:
+        non_striker: TM Head
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 24.1:
+        non_striker: C Green
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TM Head
+    - 24.2:
+        non_striker: C Green
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TM Head
+    - 24.3:
+        non_striker: C Green
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 24.4:
+        non_striker: C Green
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 24.5:
+        non_striker: C Green
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 24.6:
+        non_striker: C Green
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 25.1:
+        non_striker: TM Head
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 25.2:
+        non_striker: TM Head
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Green
+    - 25.3:
+        non_striker: TM Head
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Green
+    - 25.4:
+        non_striker: TM Head
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 25.5:
+        non_striker: TM Head
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 25.6:
+        non_striker: TM Head
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Green
+    - 26.1:
+        non_striker: C Green
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 26.2:
+        non_striker: C Green
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 26.3:
+        non_striker: C Green
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 26.4:
+        non_striker: C Green
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 26.5:
+        non_striker: C Green
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 26.6:
+        non_striker: C Green
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 27.1:
+        non_striker: TM Head
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 27.2:
+        non_striker: TM Head
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 27.3:
+        non_striker: TM Head
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 27.4:
+        non_striker: TM Head
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: C Green
+    - 27.5:
+        non_striker: C Green
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 27.6:
+        non_striker: C Green
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 28.1:
+        non_striker: TM Head
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 28.2:
+        non_striker: TM Head
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 28.3:
+        non_striker: TM Head
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 28.4:
+        non_striker: TM Head
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Green
+    - 28.5:
+        non_striker: C Green
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 28.6:
+        non_striker: TM Head
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Green
+    - 29.1:
+        non_striker: C Green
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+        wicket:
+          player_out: TM Head
+          fielders:
+          - BA Carse
+          kind: caught
+    - 29.2:
+        non_striker: C Green
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Carey
+    - 29.3:
+        non_striker: AT Carey
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Green
+    - 29.4:
+        non_striker: AT Carey
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 29.5:
+        non_striker: AT Carey
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 29.6:
+        non_striker: AT Carey
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 30.1:
+        non_striker: C Green
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Carey
+    - 30.2:
+        non_striker: AT Carey
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 30.3:
+        non_striker: AT Carey
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Green
+    - 30.4:
+        non_striker: C Green
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Carey
+    - 30.5:
+        non_striker: C Green
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Carey
+    - 30.6:
+        non_striker: C Green
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AT Carey
+    - 31.1:
+        non_striker: AT Carey
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+        wicket:
+          player_out: C Green
+          fielders:
+          - JL Smith
+          kind: caught
+    - 31.2:
+        non_striker: AT Carey
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Starc
+    - 31.3:
+        non_striker: MA Starc
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AT Carey
+    - 31.4:
+        non_striker: MA Starc
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AT Carey
+    - 31.5:
+        non_striker: MA Starc
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Carey
+    - 31.6:
+        non_striker: MA Starc
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Carey
+    - 32.1:
+        non_striker: MA Starc
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Carey
+    - 32.2:
+        non_striker: MA Starc
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Carey
+    - 32.3:
+        non_striker: MA Starc
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Carey
+    - 32.4:
+        non_striker: AT Carey
+        bowler: BA Carse
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: MA Starc
+    - 32.5:
+        non_striker: AT Carey
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MA Starc
+    - 32.6:
+        non_striker: AT Carey
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Starc
+    - 32.7:
+        non_striker: MA Starc
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AT Carey
+    - 33.1:
+        non_striker: AT Carey
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Starc
+    - 33.2:
+        non_striker: AT Carey
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: MA Starc
+    - 33.3:
+        non_striker: MA Starc
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Carey
+    - 33.4:
+        non_striker: MA Starc
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Carey
+    - 33.5:
+        non_striker: MA Starc
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Carey
+    - 33.6:
+        non_striker: MA Starc
+        bowler: BA Stokes
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AT Carey
+    - 34.1:
+        non_striker: MA Starc
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Carey
+    - 34.2:
+        non_striker: MA Starc
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Carey
+    - 34.3:
+        non_striker: AT Carey
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Starc
+    - 34.4:
+        non_striker: MA Starc
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Carey
+    - 34.5:
+        non_striker: AT Carey
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Starc
+    - 34.6:
+        non_striker: MA Starc
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AT Carey
+    - 35.1:
+        non_striker: AT Carey
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Starc
+    - 35.2:
+        non_striker: MA Starc
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AT Carey
+    - 35.3:
+        non_striker: MA Starc
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Carey
+    - 35.4:
+        non_striker: AT Carey
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MA Starc
+    - 35.5:
+        non_striker: AT Carey
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Starc
+    - 35.6:
+        non_striker: AT Carey
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Starc
+        wicket:
+          player_out: MA Starc
+          fielders:
+          - BA Carse
+          kind: caught
+    - 36.1:
+        non_striker: NM Lyon
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Carey
+    - 36.2:
+        non_striker: AT Carey
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NM Lyon
+    - 36.3:
+        non_striker: AT Carey
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NM Lyon
+    - 36.4:
+        non_striker: AT Carey
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NM Lyon
+    - 36.5:
+        non_striker: AT Carey
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NM Lyon
+    - 36.6:
+        non_striker: AT Carey
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NM Lyon
+    - 37.1:
+        non_striker: AT Carey
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NM Lyon
+    - 37.2:
+        non_striker: AT Carey
+        bowler: BA Stokes
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: NM Lyon
+    - 37.3:
+        non_striker: NM Lyon
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Carey
+    - 37.4:
+        non_striker: NM Lyon
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Carey
+        wicket:
+          player_out: AT Carey
+          fielders:
+          - BA Carse
+          kind: caught
+    - 37.5:
+        non_striker: NM Lyon
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Boland
+    - 37.6:
+        non_striker: NM Lyon
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Boland
+        wicket:
+          player_out: SM Boland
+          fielders:
+          - HC Brook
+          kind: caught
+    - 38.1:
+        non_striker: B Doggett
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NM Lyon
+    - 38.2:
+        non_striker: B Doggett
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NM Lyon
+    - 38.3:
+        non_striker: B Doggett
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NM Lyon
+    - 38.4:
+        non_striker: B Doggett
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NM Lyon
+    - 38.5:
+        non_striker: B Doggett
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NM Lyon
+    - 38.6:
+        non_striker: B Doggett
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NM Lyon
+    - 39.1:
+        non_striker: NM Lyon
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Doggett
+    - 39.2:
+        non_striker: NM Lyon
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Doggett
+    - 39.3:
+        non_striker: NM Lyon
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Doggett
+    - 39.4:
+        non_striker: NM Lyon
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Doggett
+    - 39.5:
+        non_striker: NM Lyon
+        bowler: MA Wood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: B Doggett
+    - 39.6:
+        non_striker: B Doggett
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NM Lyon
+    - 40.1:
+        non_striker: NM Lyon
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Doggett
+    - 40.2:
+        non_striker: NM Lyon
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Doggett
+    - 40.3:
+        non_striker: NM Lyon
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Doggett
+    - 40.4:
+        non_striker: NM Lyon
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Doggett
+    - 40.5:
+        non_striker: NM Lyon
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Doggett
+    - 40.6:
+        non_striker: NM Lyon
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Doggett
+    - 41.1:
+        non_striker: B Doggett
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NM Lyon
+    - 41.2:
+        non_striker: NM Lyon
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Doggett
+    - 41.3:
+        non_striker: NM Lyon
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Doggett
+    - 41.4:
+        non_striker: NM Lyon
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Doggett
+    - 41.5:
+        non_striker: NM Lyon
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Doggett
+    - 41.6:
+        non_striker: NM Lyon
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Doggett
+    - 42.1:
+        non_striker: NM Lyon
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Doggett
+    - 42.2:
+        non_striker: NM Lyon
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Doggett
+    - 42.3:
+        non_striker: NM Lyon
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Doggett
+    - 42.4:
+        non_striker: NM Lyon
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Doggett
+    - 42.5:
+        non_striker: B Doggett
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NM Lyon
+    - 42.6:
+        non_striker: B Doggett
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NM Lyon
+    - 43.1:
+        non_striker: NM Lyon
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Doggett
+    - 43.2:
+        non_striker: NM Lyon
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Doggett
+    - 43.3:
+        non_striker: NM Lyon
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Doggett
+    - 43.4:
+        non_striker: NM Lyon
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Doggett
+    - 43.5:
+        non_striker: B Doggett
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NM Lyon
+    - 43.6:
+        non_striker: B Doggett
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NM Lyon
+    - 44.1:
+        non_striker: NM Lyon
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Doggett
+    - 44.2:
+        non_striker: NM Lyon
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Doggett
+    - 44.3:
+        non_striker: NM Lyon
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Doggett
+    - 44.4:
+        non_striker: NM Lyon
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Doggett
+    - 44.5:
+        non_striker: NM Lyon
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Doggett
+    - 44.6:
+        non_striker: NM Lyon
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Doggett
+    - 45.1:
+        non_striker: B Doggett
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NM Lyon
+    - 45.2:
+        non_striker: B Doggett
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NM Lyon
+        wicket:
+          player_out: NM Lyon
+          fielders:
+          - BM Duckett
+          kind: caught
+- 3rd innings:
+    team: England
+    deliveries:
+    - 0.1:
+        non_striker: BM Duckett
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 0.2:
+        non_striker: BM Duckett
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 0.3:
+        non_striker: BM Duckett
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 0.4:
+        non_striker: BM Duckett
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 0.5:
+        non_striker: BM Duckett
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+        wicket:
+          player_out: Z Crawley
+          kind: caught and bowled
+    - 0.6:
+        non_striker: BM Duckett
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 1.1:
+        non_striker: OJ Pope
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Duckett
+    - 1.2:
+        non_striker: OJ Pope
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Duckett
+    - 1.3:
+        non_striker: OJ Pope
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Duckett
+    - 1.4:
+        non_striker: BM Duckett
+        bowler: SM Boland
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: OJ Pope
+    - 1.5:
+        non_striker: OJ Pope
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Duckett
+    - 1.6:
+        non_striker: OJ Pope
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Duckett
+    - 2.1:
+        non_striker: BM Duckett
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 2.2:
+        non_striker: BM Duckett
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OJ Pope
+    - 2.3:
+        non_striker: OJ Pope
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Duckett
+    - 2.4:
+        non_striker: OJ Pope
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BM Duckett
+    - 2.5:
+        non_striker: OJ Pope
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BM Duckett
+    - 2.6:
+        non_striker: OJ Pope
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Duckett
+    - 3.1:
+        non_striker: BM Duckett
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 3.2:
+        non_striker: BM Duckett
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 3.3:
+        non_striker: BM Duckett
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 3.4:
+        non_striker: BM Duckett
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: OJ Pope
+    - 3.5:
+        non_striker: OJ Pope
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BM Duckett
+    - 3.6:
+        non_striker: OJ Pope
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BM Duckett
+    - 4.1:
+        non_striker: BM Duckett
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 4.2:
+        non_striker: BM Duckett
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: OJ Pope
+    - 4.3:
+        non_striker: BM Duckett
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 4.4:
+        non_striker: BM Duckett
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OJ Pope
+    - 4.5:
+        non_striker: OJ Pope
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Duckett
+    - 4.6:
+        non_striker: OJ Pope
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Duckett
+    - 5.1:
+        non_striker: BM Duckett
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: OJ Pope
+    - 5.2:
+        non_striker: OJ Pope
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Duckett
+    - 5.3:
+        non_striker: OJ Pope
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Duckett
+    - 5.4:
+        non_striker: BM Duckett
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 5.5:
+        non_striker: BM Duckett
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 5.6:
+        non_striker: BM Duckett
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OJ Pope
+    - 6.1:
+        non_striker: BM Duckett
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 6.2:
+        non_striker: BM Duckett
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 6.3:
+        non_striker: BM Duckett
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 6.4:
+        non_striker: BM Duckett
+        bowler: MA Starc
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: OJ Pope
+    - 6.5:
+        non_striker: OJ Pope
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Duckett
+    - 6.6:
+        non_striker: OJ Pope
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BM Duckett
+    - 7.1:
+        non_striker: BM Duckett
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 7.2:
+        non_striker: BM Duckett
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: OJ Pope
+    - 7.3:
+        non_striker: OJ Pope
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Duckett
+    - 7.4:
+        non_striker: BM Duckett
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 7.5:
+        non_striker: BM Duckett
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: OJ Pope
+    - 7.6:
+        non_striker: BM Duckett
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 8.1:
+        non_striker: OJ Pope
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Duckett
+    - 8.2:
+        non_striker: OJ Pope
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Duckett
+    - 8.3:
+        non_striker: BM Duckett
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 8.4:
+        non_striker: BM Duckett
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 8.5:
+        non_striker: BM Duckett
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 8.6:
+        non_striker: BM Duckett
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 9.1:
+        non_striker: OJ Pope
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BM Duckett
+    - 9.2:
+        non_striker: OJ Pope
+        bowler: B Doggett
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          legbyes: 5
+        batsman: BM Duckett
+    - 9.3:
+        non_striker: BM Duckett
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 9.4:
+        non_striker: BM Duckett
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: OJ Pope
+    - 9.5:
+        non_striker: OJ Pope
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Duckett
+    - 9.6:
+        non_striker: OJ Pope
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Duckett
+    - 10.1:
+        non_striker: OJ Pope
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Duckett
+    - 10.2:
+        non_striker: BM Duckett
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 10.3:
+        non_striker: BM Duckett
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 10.4:
+        non_striker: BM Duckett
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 10.5:
+        non_striker: BM Duckett
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 10.6:
+        non_striker: BM Duckett
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OJ Pope
+    - 11.1:
+        non_striker: BM Duckett
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 11.2:
+        non_striker: BM Duckett
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 11.3:
+        non_striker: BM Duckett
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OJ Pope
+    - 11.4:
+        non_striker: OJ Pope
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BM Duckett
+    - 11.5:
+        non_striker: OJ Pope
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Duckett
+    - 11.6:
+        non_striker: OJ Pope
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Duckett
+    - 12.1:
+        non_striker: BM Duckett
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 12.2:
+        non_striker: BM Duckett
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 12.3:
+        non_striker: BM Duckett
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 12.4:
+        non_striker: BM Duckett
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 12.5:
+        non_striker: BM Duckett
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 12.6:
+        non_striker: BM Duckett
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 13.1:
+        non_striker: OJ Pope
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Duckett
+    - 13.2:
+        non_striker: OJ Pope
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Duckett
+    - 13.3:
+        non_striker: OJ Pope
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BM Duckett
+    - 13.4:
+        non_striker: OJ Pope
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Duckett
+    - 13.5:
+        non_striker: OJ Pope
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Duckett
+    - 13.6:
+        non_striker: OJ Pope
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Duckett
+    - 14.1:
+        non_striker: BM Duckett
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 14.2:
+        non_striker: BM Duckett
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 14.3:
+        non_striker: BM Duckett
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OJ Pope
+    - 14.4:
+        non_striker: OJ Pope
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Duckett
+    - 14.5:
+        non_striker: OJ Pope
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Duckett
+    - 14.6:
+        non_striker: OJ Pope
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Duckett
+    - 15.1:
+        non_striker: BM Duckett
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 15.2:
+        non_striker: BM Duckett
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 15.3:
+        non_striker: BM Duckett
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: OJ Pope
+    - 15.4:
+        non_striker: BM Duckett
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OJ Pope
+    - 15.5:
+        non_striker: OJ Pope
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Duckett
+    - 15.6:
+        non_striker: OJ Pope
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Duckett
+    - 16.1:
+        non_striker: BM Duckett
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OJ Pope
+    - 16.2:
+        non_striker: OJ Pope
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Duckett
+        wicket:
+          player_out: BM Duckett
+          fielders:
+          - SPD Smith
+          kind: caught
+    - 16.3:
+        non_striker: OJ Pope
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JE Root
+    - 16.4:
+        non_striker: OJ Pope
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Root
+    - 16.5:
+        non_striker: OJ Pope
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Root
+    - 16.6:
+        non_striker: OJ Pope
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Root
+    - 17.1:
+        non_striker: JE Root
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 17.2:
+        non_striker: JE Root
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: OJ Pope
+    - 17.3:
+        non_striker: OJ Pope
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Root
+    - 17.4:
+        non_striker: OJ Pope
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Root
+    - 17.5:
+        non_striker: OJ Pope
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JE Root
+    - 17.6:
+        non_striker: OJ Pope
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Root
+    - 18.1:
+        non_striker: OJ Pope
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Root
+    - 18.2:
+        non_striker: JE Root
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 18.3:
+        non_striker: JE Root
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+        wicket:
+          player_out: OJ Pope
+          fielders:
+          - AT Carey
+          kind: caught
+    - 18.4:
+        non_striker: JE Root
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+    - 18.5:
+        non_striker: JE Root
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+    - 18.6:
+        non_striker: JE Root
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+        wicket:
+          player_out: HC Brook
+          fielders:
+          - UT Khawaja
+          kind: caught
+    - 19.1:
+        non_striker: BA Stokes
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Root
+    - 19.2:
+        non_striker: BA Stokes
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Root
+        wicket:
+          player_out: JE Root
+          kind: bowled
+    - 19.3:
+        non_striker: BA Stokes
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Smith
+    - 19.4:
+        non_striker: BA Stokes
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Smith
+    - 19.5:
+        non_striker: BA Stokes
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Smith
+    - 19.6:
+        non_striker: JL Smith
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Stokes
+    - 20.1:
+        non_striker: BA Stokes
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Smith
+    - 20.2:
+        non_striker: BA Stokes
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Smith
+    - 20.3:
+        non_striker: BA Stokes
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Smith
+    - 20.4:
+        non_striker: BA Stokes
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Smith
+    - 20.5:
+        non_striker: BA Stokes
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: JL Smith
+    - 20.6:
+        non_striker: JL Smith
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Stokes
+    - 21.1:
+        non_striker: BA Stokes
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Smith
+    - 21.2:
+        non_striker: JL Smith
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Stokes
+    - 21.3:
+        non_striker: JL Smith
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Stokes
+    - 21.4:
+        non_striker: JL Smith
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Stokes
+    - 21.5:
+        non_striker: BA Stokes
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Smith
+    - 21.6:
+        non_striker: BA Stokes
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Smith
+    - 22.1:
+        non_striker: BA Stokes
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Smith
+    - 22.2:
+        non_striker: BA Stokes
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Smith
+    - 22.3:
+        non_striker: BA Stokes
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Smith
+    - 22.4:
+        non_striker: BA Stokes
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Smith
+    - 22.5:
+        non_striker: BA Stokes
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Smith
+    - 22.6:
+        non_striker: BA Stokes
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Smith
+    - 23.1:
+        non_striker: JL Smith
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Stokes
+    - 23.2:
+        non_striker: JL Smith
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Stokes
+    - 23.3:
+        non_striker: JL Smith
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Stokes
+    - 23.4:
+        non_striker: JL Smith
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Stokes
+    - 23.5:
+        non_striker: JL Smith
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Stokes
+    - 23.6:
+        non_striker: BA Stokes
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Smith
+    - 24.1:
+        non_striker: BA Stokes
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JL Smith
+    - 24.2:
+        non_striker: BA Stokes
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Smith
+    - 24.3:
+        non_striker: BA Stokes
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Smith
+    - 24.4:
+        non_striker: JL Smith
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Stokes
+        wicket:
+          player_out: BA Stokes
+          fielders:
+          - SPD Smith
+          kind: caught
+    - 24.5:
+        non_striker: JL Smith
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAP Atkinson
+    - 24.6:
+        non_striker: JL Smith
+        bowler: MA Starc
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: AAP Atkinson
+    - 25.1:
+        non_striker: AAP Atkinson
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Smith
+    - 25.2:
+        non_striker: JL Smith
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAP Atkinson
+    - 25.3:
+        non_striker: JL Smith
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAP Atkinson
+    - 25.4:
+        non_striker: JL Smith
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAP Atkinson
+    - 25.5:
+        non_striker: JL Smith
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAP Atkinson
+    - 25.6:
+        non_striker: JL Smith
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AAP Atkinson
+    - 26.1:
+        non_striker: AAP Atkinson
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JL Smith
+    - 26.2:
+        non_striker: AAP Atkinson
+        bowler: MA Starc
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: JL Smith
+    - 26.3:
+        non_striker: JL Smith
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAP Atkinson
+    - 26.4:
+        non_striker: JL Smith
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAP Atkinson
+    - 26.5:
+        non_striker: JL Smith
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AAP Atkinson
+    - 26.6:
+        non_striker: JL Smith
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAP Atkinson
+    - 27.1:
+        non_striker: AAP Atkinson
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Smith
+        wicket:
+          player_out: JL Smith
+          fielders:
+          - AT Carey
+          kind: caught
+    - 27.2:
+        non_striker: AAP Atkinson
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Carse
+    - 27.3:
+        non_striker: AAP Atkinson
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Carse
+    - 27.4:
+        non_striker: BA Carse
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AAP Atkinson
+    - 27.5:
+        non_striker: AAP Atkinson
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BA Carse
+    - 27.6:
+        non_striker: AAP Atkinson
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Carse
+    - 28.1:
+        non_striker: BA Carse
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AAP Atkinson
+    - 28.2:
+        non_striker: AAP Atkinson
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Carse
+    - 28.3:
+        non_striker: AAP Atkinson
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Carse
+    - 28.4:
+        non_striker: AAP Atkinson
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Carse
+    - 28.5:
+        non_striker: AAP Atkinson
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Carse
+    - 28.6:
+        non_striker: AAP Atkinson
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Carse
+    - 29.1:
+        non_striker: AAP Atkinson
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Carse
+    - 29.2:
+        non_striker: AAP Atkinson
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BA Carse
+    - 29.3:
+        non_striker: AAP Atkinson
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Carse
+    - 29.4:
+        non_striker: AAP Atkinson
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Carse
+    - 29.5:
+        non_striker: BA Carse
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AAP Atkinson
+    - 29.6:
+        non_striker: AAP Atkinson
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Carse
+    - 30.1:
+        non_striker: BA Carse
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AAP Atkinson
+    - 30.2:
+        non_striker: BA Carse
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: AAP Atkinson
+    - 30.3:
+        non_striker: AAP Atkinson
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BA Carse
+    - 30.4:
+        non_striker: AAP Atkinson
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Carse
+    - 30.5:
+        non_striker: AAP Atkinson
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Carse
+    - 30.6:
+        non_striker: AAP Atkinson
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Carse
+    - 31.1:
+        non_striker: BA Carse
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AAP Atkinson
+    - 31.2:
+        non_striker: BA Carse
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AAP Atkinson
+    - 31.3:
+        non_striker: AAP Atkinson
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Carse
+    - 31.4:
+        non_striker: BA Carse
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAP Atkinson
+    - 31.5:
+        non_striker: BA Carse
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAP Atkinson
+    - 31.6:
+        non_striker: BA Carse
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AAP Atkinson
+    - 32.1:
+        non_striker: BA Carse
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AAP Atkinson
+    - 32.2:
+        non_striker: BA Carse
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAP Atkinson
+    - 32.3:
+        non_striker: BA Carse
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AAP Atkinson
+    - 32.4:
+        non_striker: BA Carse
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AAP Atkinson
+    - 32.5:
+        non_striker: BA Carse
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AAP Atkinson
+    - 32.6:
+        non_striker: BA Carse
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAP Atkinson
+    - 33.1:
+        non_striker: AAP Atkinson
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Carse
+        wicket:
+          player_out: BA Carse
+          fielders:
+          - AT Carey
+          kind: caught
+    - 33.2:
+        non_striker: AAP Atkinson
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Archer
+    - 33.3:
+        non_striker: JC Archer
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AAP Atkinson
+    - 33.4:
+        non_striker: AAP Atkinson
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JC Archer
+    - 33.5:
+        non_striker: AAP Atkinson
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Archer
+        wicket:
+          player_out: JC Archer
+          fielders:
+          - SPD Smith
+          kind: caught
+    - 33.6:
+        non_striker: AAP Atkinson
+        bowler: B Doggett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MA Wood
+    - 34.1:
+        non_striker: MA Wood
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAP Atkinson
+    - 34.2:
+        non_striker: MA Wood
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAP Atkinson
+    - 34.3:
+        non_striker: MA Wood
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAP Atkinson
+    - 34.4:
+        non_striker: MA Wood
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAP Atkinson
+        wicket:
+          player_out: AAP Atkinson
+          fielders:
+          - B Doggett
+          kind: caught
+- 4th innings:
+    team: Australia
+    deliveries:
+    - 0.1:
+        non_striker: J Weatherald
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 0.2:
+        non_striker: J Weatherald
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 0.3:
+        non_striker: J Weatherald
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 0.4:
+        non_striker: J Weatherald
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 0.5:
+        non_striker: J Weatherald
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 0.6:
+        non_striker: J Weatherald
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TM Head
+    - 1.1:
+        non_striker: TM Head
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Weatherald
+    - 1.2:
+        non_striker: TM Head
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Weatherald
+    - 1.3:
+        non_striker: TM Head
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Weatherald
+    - 1.4:
+        non_striker: TM Head
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Weatherald
+    - 1.5:
+        non_striker: TM Head
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Weatherald
+    - 1.6:
+        non_striker: TM Head
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Weatherald
+    - 2.1:
+        non_striker: J Weatherald
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 2.2:
+        non_striker: J Weatherald
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 2.3:
+        non_striker: J Weatherald
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 2.4:
+        non_striker: TM Head
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Weatherald
+    - 2.5:
+        non_striker: TM Head
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Weatherald
+    - 2.6:
+        non_striker: TM Head
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Weatherald
+    - 3.1:
+        non_striker: J Weatherald
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 3.2:
+        non_striker: J Weatherald
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 3.3:
+        non_striker: J Weatherald
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 3.4:
+        non_striker: J Weatherald
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 3.5:
+        non_striker: J Weatherald
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 3.6:
+        non_striker: J Weatherald
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 4.1:
+        non_striker: TM Head
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Weatherald
+    - 4.2:
+        non_striker: TM Head
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: J Weatherald
+    - 4.3:
+        non_striker: J Weatherald
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 4.4:
+        non_striker: TM Head
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Weatherald
+    - 4.5:
+        non_striker: TM Head
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Weatherald
+    - 4.6:
+        non_striker: TM Head
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Weatherald
+    - 5.1:
+        non_striker: TM Head
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Weatherald
+    - 5.2:
+        non_striker: TM Head
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: J Weatherald
+    - 5.3:
+        non_striker: J Weatherald
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: TM Head
+    - 5.4:
+        non_striker: TM Head
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Weatherald
+    - 5.5:
+        non_striker: TM Head
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Weatherald
+    - 5.6:
+        non_striker: TM Head
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Weatherald
+    - 6.1:
+        non_striker: J Weatherald
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 6.2:
+        non_striker: J Weatherald
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TM Head
+    - 6.3:
+        non_striker: J Weatherald
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: TM Head
+    - 6.4:
+        non_striker: TM Head
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Weatherald
+    - 6.5:
+        non_striker: TM Head
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Weatherald
+    - 6.6:
+        non_striker: TM Head
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Weatherald
+    - 7.1:
+        non_striker: TM Head
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Weatherald
+    - 7.2:
+        non_striker: J Weatherald
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TM Head
+    - 7.3:
+        non_striker: J Weatherald
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 7.4:
+        non_striker: J Weatherald
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 7.5:
+        non_striker: J Weatherald
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 7.6:
+        non_striker: J Weatherald
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 8.1:
+        non_striker: TM Head
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Weatherald
+    - 8.2:
+        non_striker: TM Head
+        bowler: MA Wood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: J Weatherald
+    - 8.3:
+        non_striker: J Weatherald
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 8.4:
+        non_striker: J Weatherald
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: TM Head
+    - 8.5:
+        non_striker: TM Head
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Weatherald
+    - 8.6:
+        non_striker: TM Head
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Weatherald
+    - 9.1:
+        non_striker: J Weatherald
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TM Head
+    - 9.2:
+        non_striker: J Weatherald
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 9.3:
+        non_striker: J Weatherald
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TM Head
+    - 9.4:
+        non_striker: J Weatherald
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 9.5:
+        non_striker: TM Head
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Weatherald
+    - 9.6:
+        non_striker: TM Head
+        bowler: BA Carse
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Weatherald
+    - 9.7:
+        non_striker: TM Head
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Weatherald
+    - 10.1:
+        non_striker: TM Head
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Weatherald
+    - 10.2:
+        non_striker: J Weatherald
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 10.3:
+        non_striker: J Weatherald
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 10.4:
+        non_striker: TM Head
+        bowler: MA Wood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: J Weatherald
+    - 10.5:
+        non_striker: J Weatherald
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TM Head
+    - 10.6:
+        non_striker: J Weatherald
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 11.1:
+        non_striker: TM Head
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Weatherald
+    - 11.2:
+        non_striker: TM Head
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Weatherald
+    - 11.3:
+        non_striker: TM Head
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Weatherald
+        wicket:
+          player_out: J Weatherald
+          fielders:
+          - BM Duckett
+          kind: caught
+    - 11.4:
+        non_striker: TM Head
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 11.5:
+        non_striker: TM Head
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 11.6:
+        non_striker: TM Head
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 12.1:
+        non_striker: M Labuschagne
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 12.2:
+        non_striker: TM Head
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 12.3:
+        non_striker: TM Head
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Labuschagne
+    - 12.4:
+        non_striker: TM Head
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 12.5:
+        non_striker: TM Head
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Labuschagne
+    - 12.6:
+        non_striker: M Labuschagne
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 13.1:
+        non_striker: TM Head
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 13.2:
+        non_striker: TM Head
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 13.3:
+        non_striker: TM Head
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Labuschagne
+    - 13.4:
+        non_striker: TM Head
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 13.5:
+        non_striker: TM Head
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: M Labuschagne
+    - 13.6:
+        non_striker: M Labuschagne
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 14.1:
+        non_striker: TM Head
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 14.2:
+        non_striker: TM Head
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Labuschagne
+    - 14.3:
+        non_striker: M Labuschagne
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 14.4:
+        non_striker: M Labuschagne
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 14.5:
+        non_striker: M Labuschagne
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 14.6:
+        non_striker: M Labuschagne
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 15.1:
+        non_striker: TM Head
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Labuschagne
+    - 15.2:
+        non_striker: M Labuschagne
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 15.3:
+        non_striker: M Labuschagne
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 15.4:
+        non_striker: TM Head
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 15.5:
+        non_striker: TM Head
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 15.6:
+        non_striker: TM Head
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 16.1:
+        non_striker: M Labuschagne
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 16.2:
+        non_striker: M Labuschagne
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 16.3:
+        non_striker: M Labuschagne
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 16.4:
+        non_striker: M Labuschagne
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 16.5:
+        non_striker: M Labuschagne
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 16.6:
+        non_striker: M Labuschagne
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 17.1:
+        non_striker: M Labuschagne
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 17.2:
+        non_striker: M Labuschagne
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 17.3:
+        non_striker: M Labuschagne
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 17.4:
+        non_striker: M Labuschagne
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 17.5:
+        non_striker: M Labuschagne
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 17.6:
+        non_striker: TM Head
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 18.1:
+        non_striker: M Labuschagne
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 18.2:
+        non_striker: TM Head
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Labuschagne
+    - 18.3:
+        non_striker: TM Head
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Labuschagne
+    - 18.4:
+        non_striker: M Labuschagne
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 18.5:
+        non_striker: M Labuschagne
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 18.6:
+        non_striker: M Labuschagne
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TM Head
+    - 19.1:
+        non_striker: TM Head
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 19.2:
+        non_striker: TM Head
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Labuschagne
+    - 19.3:
+        non_striker: M Labuschagne
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 19.4:
+        non_striker: M Labuschagne
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 19.5:
+        non_striker: M Labuschagne
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 19.6:
+        non_striker: M Labuschagne
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 20.1:
+        non_striker: TM Head
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 20.2:
+        non_striker: TM Head
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Labuschagne
+    - 20.3:
+        non_striker: M Labuschagne
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 20.4:
+        non_striker: M Labuschagne
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 20.5:
+        non_striker: M Labuschagne
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 20.6:
+        non_striker: TM Head
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 21.1:
+        non_striker: M Labuschagne
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TM Head
+    - 21.2:
+        non_striker: M Labuschagne
+        bowler: AAP Atkinson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TM Head
+    - 21.3:
+        non_striker: M Labuschagne
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 21.4:
+        non_striker: M Labuschagne
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 21.5:
+        non_striker: TM Head
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 21.6:
+        non_striker: TM Head
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 21.7:
+        non_striker: TM Head
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Labuschagne
+    - 22.1:
+        non_striker: TM Head
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 22.2:
+        non_striker: TM Head
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Labuschagne
+    - 22.3:
+        non_striker: TM Head
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 22.4:
+        non_striker: TM Head
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Labuschagne
+    - 22.5:
+        non_striker: M Labuschagne
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 22.6:
+        non_striker: TM Head
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Labuschagne
+    - 23.1:
+        non_striker: TM Head
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Labuschagne
+    - 23.2:
+        non_striker: TM Head
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Labuschagne
+    - 23.3:
+        non_striker: M Labuschagne
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 23.4:
+        non_striker: TM Head
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Labuschagne
+    - 23.5:
+        non_striker: M Labuschagne
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 23.6:
+        non_striker: M Labuschagne
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 24.1:
+        non_striker: M Labuschagne
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 24.2:
+        non_striker: M Labuschagne
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 24.3:
+        non_striker: TM Head
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 24.4:
+        non_striker: TM Head
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 24.5:
+        non_striker: TM Head
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 24.6:
+        non_striker: TM Head
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Labuschagne
+    - 25.1:
+        non_striker: TM Head
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Labuschagne
+    - 25.2:
+        non_striker: TM Head
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Labuschagne
+    - 25.3:
+        non_striker: M Labuschagne
+        bowler: AAP Atkinson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TM Head
+    - 25.4:
+        non_striker: M Labuschagne
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 25.5:
+        non_striker: M Labuschagne
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 25.6:
+        non_striker: M Labuschagne
+        bowler: AAP Atkinson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TM Head
+    - 25.7:
+        non_striker: M Labuschagne
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 25.8:
+        non_striker: TM Head
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Labuschagne
+    - 26.1:
+        non_striker: M Labuschagne
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 26.2:
+        non_striker: M Labuschagne
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 26.3:
+        non_striker: M Labuschagne
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TM Head
+    - 26.4:
+        non_striker: M Labuschagne
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 26.5:
+        non_striker: M Labuschagne
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+        wicket:
+          player_out: TM Head
+          fielders:
+          - OJ Pope
+          kind: caught
+    - 26.6:
+        non_striker: M Labuschagne
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 27.1:
+        non_striker: SPD Smith
+        bowler: JE Root
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 27.2:
+        non_striker: SPD Smith
+        bowler: JE Root
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Labuschagne
+    - 27.3:
+        non_striker: M Labuschagne
+        bowler: JE Root
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 27.4:
+        non_striker: SPD Smith
+        bowler: JE Root
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Labuschagne
+    - 27.5:
+        non_striker: SPD Smith
+        bowler: JE Root
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 27.6:
+        non_striker: SPD Smith
+        bowler: JE Root
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Labuschagne
+    - 28.1:
+        non_striker: M Labuschagne
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 28.2:
+        non_striker: M Labuschagne
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith

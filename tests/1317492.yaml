@@ -1,0 +1,7281 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-12-22'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Brisbane
+  dates:
+  - '2022-12-17'
+  - '2022-12-18'
+  gender: male
+  match_type: Test
+  match_type_number: 2482
+  outcome:
+    winner: Australia
+    by:
+      wickets: 6
+  player_of_match:
+  - TM Head
+  players:
+    South Africa:
+    - D Elgar
+    - SJ Erwee
+    - HE van der Dussen
+    - T Bavuma
+    - K Zondo
+    - K Verreynne
+    - M Jansen
+    - KA Maharaj
+    - K Rabada
+    - A Nortje
+    - L Ngidi
+    Australia:
+    - DA Warner
+    - UT Khawaja
+    - M Labuschagne
+    - SPD Smith
+    - TM Head
+    - SM Boland
+    - C Green
+    - AT Carey
+    - MA Starc
+    - PJ Cummins
+    - NM Lyon
+  registry:
+    people:
+      A Nortje: acdc62f5
+      AT Carey: 69d03465
+      C Green: eaa76d3c
+      CB Gaffaney: d5ac41d8
+      D Elgar: 33085ffb
+      DA Warner: dcce6f09
+      DM Koch: 6d10c034
+      HE van der Dussen: 9948e262
+      K Rabada: e62dd25d
+      K Verreynne: bf814547
+      K Zondo: 4aad78d3
+      KA Maharaj: 0b60eb09
+      L Ngidi: f834dcfc
+      M Jansen: 81c36ee9
+      M Labuschagne: fa433be6
+      MA Starc: 3fb19989
+      NM Lyon: 96a6a7ad
+      PJ Cummins: ded9240e
+      RA Kettleborough: 4017868f
+      RB Richardson: 410e2f12
+      RJ Tucker: 38810cfc
+      SJ Erwee: a3ce3d1d
+      SM Boland: d167edd3
+      SPD Smith: 30a45b23
+      SR Harmer: '23638956'
+      T Bavuma: 9ffd1ac1
+      TM Head: 12b610c2
+      UT Khawaja: 331ea488
+  teams:
+  - South Africa
+  - Australia
+  toss:
+    winner: Australia
+    decision: field
+  umpires:
+  - CB Gaffaney
+  - RJ Tucker
+  venue: Brisbane Cricket Ground, Woolloongabba, Brisbane
+innings:
+- 1st innings:
+    team: South Africa
+    deliveries:
+    - 0.1:
+        non_striker: SJ Erwee
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Elgar
+    - 0.2:
+        non_striker: SJ Erwee
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Elgar
+    - 0.3:
+        non_striker: SJ Erwee
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Elgar
+    - 0.4:
+        non_striker: D Elgar
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Erwee
+    - 0.5:
+        non_striker: D Elgar
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Erwee
+    - 0.6:
+        non_striker: D Elgar
+        bowler: MA Starc
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SJ Erwee
+    - 1.1:
+        non_striker: D Elgar
+        bowler: PJ Cummins
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: SJ Erwee
+    - 1.2:
+        non_striker: D Elgar
+        bowler: PJ Cummins
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: SJ Erwee
+    - 1.3:
+        non_striker: D Elgar
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Erwee
+    - 1.4:
+        non_striker: D Elgar
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Erwee
+    - 1.5:
+        non_striker: D Elgar
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Erwee
+    - 1.6:
+        non_striker: D Elgar
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Erwee
+    - 2.1:
+        non_striker: SJ Erwee
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Elgar
+    - 2.2:
+        non_striker: SJ Erwee
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Elgar
+    - 2.3:
+        non_striker: SJ Erwee
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Elgar
+    - 2.4:
+        non_striker: SJ Erwee
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Elgar
+    - 2.5:
+        non_striker: SJ Erwee
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Elgar
+    - 2.6:
+        non_striker: SJ Erwee
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Elgar
+    - 3.1:
+        non_striker: D Elgar
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Erwee
+    - 3.2:
+        non_striker: D Elgar
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Erwee
+    - 3.3:
+        non_striker: D Elgar
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Erwee
+    - 3.4:
+        non_striker: D Elgar
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Erwee
+    - 3.5:
+        non_striker: D Elgar
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Erwee
+    - 3.6:
+        non_striker: D Elgar
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Erwee
+    - 4.1:
+        non_striker: SJ Erwee
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Elgar
+        wicket:
+          player_out: D Elgar
+          fielders:
+          - AT Carey
+          kind: caught
+    - 4.2:
+        non_striker: SJ Erwee
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 4.3:
+        non_striker: SJ Erwee
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 4.4:
+        non_striker: SJ Erwee
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 4.5:
+        non_striker: SJ Erwee
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 4.6:
+        non_striker: SJ Erwee
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 5.1:
+        non_striker: HE van der Dussen
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Erwee
+    - 5.2:
+        non_striker: HE van der Dussen
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Erwee
+    - 5.3:
+        non_striker: HE van der Dussen
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Erwee
+    - 5.4:
+        non_striker: HE van der Dussen
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Erwee
+    - 5.5:
+        non_striker: SJ Erwee
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 5.6:
+        non_striker: SJ Erwee
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 6.1:
+        non_striker: HE van der Dussen
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Erwee
+    - 6.2:
+        non_striker: HE van der Dussen
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Erwee
+    - 6.3:
+        non_striker: HE van der Dussen
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Erwee
+    - 6.4:
+        non_striker: SJ Erwee
+        bowler: MA Starc
+        runs:
+          extras: 0
+          non_boundary: 1
+          total: 4
+          batsman: 4
+        batsman: HE van der Dussen
+    - 6.5:
+        non_striker: SJ Erwee
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 6.6:
+        non_striker: SJ Erwee
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 7.1:
+        non_striker: HE van der Dussen
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Erwee
+    - 7.2:
+        non_striker: HE van der Dussen
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Erwee
+    - 7.3:
+        non_striker: HE van der Dussen
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Erwee
+    - 7.4:
+        non_striker: HE van der Dussen
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Erwee
+    - 7.5:
+        non_striker: HE van der Dussen
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Erwee
+    - 7.6:
+        non_striker: HE van der Dussen
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ Erwee
+    - 8.1:
+        non_striker: SJ Erwee
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 8.2:
+        non_striker: HE van der Dussen
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Erwee
+    - 8.3:
+        non_striker: HE van der Dussen
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ Erwee
+    - 8.4:
+        non_striker: HE van der Dussen
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Erwee
+    - 8.5:
+        non_striker: HE van der Dussen
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Erwee
+    - 8.6:
+        non_striker: HE van der Dussen
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Erwee
+    - 9.1:
+        non_striker: SJ Erwee
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+        wicket:
+          player_out: HE van der Dussen
+          fielders:
+          - AT Carey
+          kind: caught
+    - 9.2:
+        non_striker: SJ Erwee
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 9.3:
+        non_striker: SJ Erwee
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 9.4:
+        non_striker: SJ Erwee
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 9.5:
+        non_striker: SJ Erwee
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 9.6:
+        non_striker: SJ Erwee
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 10.1:
+        non_striker: T Bavuma
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Erwee
+    - 10.2:
+        non_striker: T Bavuma
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Erwee
+    - 10.3:
+        non_striker: T Bavuma
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Erwee
+    - 10.4:
+        non_striker: T Bavuma
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Erwee
+        wicket:
+          player_out: SJ Erwee
+          fielders:
+          - C Green
+          kind: caught
+    - 10.5:
+        non_striker: T Bavuma
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 10.6:
+        non_striker: T Bavuma
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+        wicket:
+          player_out: K Zondo
+          kind: lbw
+    - 11.1:
+        non_striker: K Verreynne
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 11.2:
+        non_striker: K Verreynne
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 11.3:
+        non_striker: K Verreynne
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bavuma
+    - 11.4:
+        non_striker: T Bavuma
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 11.5:
+        non_striker: T Bavuma
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Verreynne
+    - 11.6:
+        non_striker: K Verreynne
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 12.1:
+        non_striker: T Bavuma
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 12.2:
+        non_striker: T Bavuma
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 12.3:
+        non_striker: T Bavuma
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 12.4:
+        non_striker: T Bavuma
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 12.5:
+        non_striker: T Bavuma
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 12.6:
+        non_striker: T Bavuma
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 13.1:
+        non_striker: K Verreynne
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bavuma
+    - 13.2:
+        non_striker: T Bavuma
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Verreynne
+    - 13.3:
+        non_striker: T Bavuma
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 13.4:
+        non_striker: T Bavuma
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: K Verreynne
+    - 13.5:
+        non_striker: T Bavuma
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 13.6:
+        non_striker: T Bavuma
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 14.1:
+        non_striker: K Verreynne
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 14.2:
+        non_striker: K Verreynne
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bavuma
+    - 14.3:
+        non_striker: T Bavuma
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 14.4:
+        non_striker: T Bavuma
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 14.5:
+        non_striker: T Bavuma
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 14.6:
+        non_striker: T Bavuma
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 15.1:
+        non_striker: K Verreynne
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bavuma
+    - 15.2:
+        non_striker: T Bavuma
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 15.3:
+        non_striker: T Bavuma
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Verreynne
+    - 15.4:
+        non_striker: K Verreynne
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 15.5:
+        non_striker: K Verreynne
+        bowler: C Green
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: T Bavuma
+    - 15.6:
+        non_striker: T Bavuma
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 16.1:
+        non_striker: K Verreynne
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bavuma
+    - 16.2:
+        non_striker: T Bavuma
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Verreynne
+    - 16.3:
+        non_striker: K Verreynne
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 16.4:
+        non_striker: K Verreynne
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 16.5:
+        non_striker: K Verreynne
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bavuma
+    - 16.6:
+        non_striker: T Bavuma
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 17.1:
+        non_striker: K Verreynne
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 17.2:
+        non_striker: K Verreynne
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 17.3:
+        non_striker: K Verreynne
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bavuma
+    - 17.4:
+        non_striker: T Bavuma
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Verreynne
+    - 17.5:
+        non_striker: T Bavuma
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 17.6:
+        non_striker: T Bavuma
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Verreynne
+    - 18.1:
+        non_striker: K Verreynne
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 18.2:
+        non_striker: K Verreynne
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 18.3:
+        non_striker: K Verreynne
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 18.4:
+        non_striker: K Verreynne
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 18.5:
+        non_striker: K Verreynne
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bavuma
+    - 18.6:
+        non_striker: T Bavuma
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 19.1:
+        non_striker: K Verreynne
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 19.2:
+        non_striker: K Verreynne
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Bavuma
+    - 19.3:
+        non_striker: K Verreynne
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 19.4:
+        non_striker: K Verreynne
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 19.5:
+        non_striker: K Verreynne
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bavuma
+    - 19.6:
+        non_striker: T Bavuma
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Verreynne
+    - 20.1:
+        non_striker: T Bavuma
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 20.2:
+        non_striker: T Bavuma
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 20.3:
+        non_striker: T Bavuma
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 20.4:
+        non_striker: T Bavuma
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 20.5:
+        non_striker: T Bavuma
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 20.6:
+        non_striker: T Bavuma
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Verreynne
+    - 21.1:
+        non_striker: K Verreynne
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bavuma
+    - 21.2:
+        non_striker: T Bavuma
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Verreynne
+    - 21.3:
+        non_striker: T Bavuma
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 21.4:
+        non_striker: T Bavuma
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 21.5:
+        non_striker: T Bavuma
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 21.6:
+        non_striker: T Bavuma
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 22.1:
+        non_striker: K Verreynne
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 22.2:
+        non_striker: K Verreynne
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 22.3:
+        non_striker: K Verreynne
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Bavuma
+    - 22.4:
+        non_striker: K Verreynne
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 22.5:
+        non_striker: K Verreynne
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 22.6:
+        non_striker: K Verreynne
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Bavuma
+    - 23.1:
+        non_striker: T Bavuma
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 23.2:
+        non_striker: T Bavuma
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 23.3:
+        non_striker: T Bavuma
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Verreynne
+    - 23.4:
+        non_striker: T Bavuma
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 23.5:
+        non_striker: T Bavuma
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 23.6:
+        non_striker: T Bavuma
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 24.1:
+        non_striker: K Verreynne
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bavuma
+    - 24.2:
+        non_striker: T Bavuma
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: K Verreynne
+    - 24.3:
+        non_striker: K Verreynne
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 24.4:
+        non_striker: K Verreynne
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 24.5:
+        non_striker: K Verreynne
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 24.6:
+        non_striker: K Verreynne
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 25.1:
+        non_striker: T Bavuma
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: K Verreynne
+    - 25.2:
+        non_striker: K Verreynne
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 25.3:
+        non_striker: K Verreynne
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 25.4:
+        non_striker: K Verreynne
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 25.5:
+        non_striker: K Verreynne
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 25.6:
+        non_striker: K Verreynne
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 26.1:
+        non_striker: T Bavuma
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 26.2:
+        non_striker: T Bavuma
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 26.3:
+        non_striker: T Bavuma
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 26.4:
+        non_striker: T Bavuma
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: K Verreynne
+    - 26.5:
+        non_striker: K Verreynne
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Bavuma
+    - 26.6:
+        non_striker: K Verreynne
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 27.1:
+        non_striker: T Bavuma
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 27.2:
+        non_striker: T Bavuma
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 27.3:
+        non_striker: T Bavuma
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 27.4:
+        non_striker: T Bavuma
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 27.5:
+        non_striker: T Bavuma
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 27.6:
+        non_striker: T Bavuma
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Verreynne
+    - 28.1:
+        non_striker: T Bavuma
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Verreynne
+    - 28.2:
+        non_striker: T Bavuma
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 28.3:
+        non_striker: T Bavuma
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 28.4:
+        non_striker: T Bavuma
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Verreynne
+    - 28.5:
+        non_striker: K Verreynne
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 28.6:
+        non_striker: K Verreynne
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bavuma
+    - 29.1:
+        non_striker: K Verreynne
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 29.2:
+        non_striker: K Verreynne
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: T Bavuma
+    - 29.3:
+        non_striker: T Bavuma
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 29.4:
+        non_striker: T Bavuma
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Verreynne
+    - 29.5:
+        non_striker: K Verreynne
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 29.6:
+        non_striker: K Verreynne
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 30.1:
+        non_striker: T Bavuma
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Verreynne
+    - 30.2:
+        non_striker: T Bavuma
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 30.3:
+        non_striker: T Bavuma
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 30.4:
+        non_striker: T Bavuma
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 30.5:
+        non_striker: T Bavuma
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Verreynne
+    - 30.6:
+        non_striker: K Verreynne
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 31.1:
+        non_striker: T Bavuma
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Verreynne
+    - 31.2:
+        non_striker: T Bavuma
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 31.3:
+        non_striker: T Bavuma
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 31.4:
+        non_striker: T Bavuma
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 31.5:
+        non_striker: T Bavuma
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 31.6:
+        non_striker: T Bavuma
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 32.1:
+        non_striker: K Verreynne
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Bavuma
+    - 32.2:
+        non_striker: K Verreynne
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 32.3:
+        non_striker: K Verreynne
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 32.4:
+        non_striker: K Verreynne
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bavuma
+    - 32.5:
+        non_striker: T Bavuma
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 32.6:
+        non_striker: T Bavuma
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 33.1:
+        non_striker: K Verreynne
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 33.2:
+        non_striker: K Verreynne
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: T Bavuma
+    - 33.3:
+        non_striker: T Bavuma
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Verreynne
+    - 33.4:
+        non_striker: K Verreynne
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 33.5:
+        non_striker: K Verreynne
+        bowler: SM Boland
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Bavuma
+    - 33.6:
+        non_striker: K Verreynne
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 33.7:
+        non_striker: K Verreynne
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bavuma
+    - 34.1:
+        non_striker: K Verreynne
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 34.2:
+        non_striker: K Verreynne
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Bavuma
+    - 34.3:
+        non_striker: K Verreynne
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+        wicket:
+          player_out: T Bavuma
+          kind: bowled
+    - 34.4:
+        non_striker: K Verreynne
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Jansen
+    - 34.5:
+        non_striker: K Verreynne
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Jansen
+    - 34.6:
+        non_striker: K Verreynne
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Jansen
+    - 35.1:
+        non_striker: M Jansen
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 35.2:
+        non_striker: M Jansen
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 35.3:
+        non_striker: M Jansen
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Verreynne
+    - 35.4:
+        non_striker: K Verreynne
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Jansen
+    - 35.5:
+        non_striker: K Verreynne
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Jansen
+    - 35.6:
+        non_striker: M Jansen
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 36.1:
+        non_striker: K Verreynne
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Jansen
+    - 36.2:
+        non_striker: K Verreynne
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Jansen
+    - 36.3:
+        non_striker: K Verreynne
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Jansen
+    - 36.4:
+        non_striker: M Jansen
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 36.5:
+        non_striker: M Jansen
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Verreynne
+    - 36.6:
+        non_striker: K Verreynne
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Jansen
+    - 37.1:
+        non_striker: M Jansen
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 37.2:
+        non_striker: M Jansen
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 37.3:
+        non_striker: M Jansen
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Verreynne
+    - 37.4:
+        non_striker: K Verreynne
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Jansen
+    - 37.5:
+        non_striker: K Verreynne
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Jansen
+    - 37.6:
+        non_striker: K Verreynne
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Jansen
+    - 38.1:
+        non_striker: M Jansen
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Verreynne
+    - 38.2:
+        non_striker: K Verreynne
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Jansen
+    - 38.3:
+        non_striker: K Verreynne
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Jansen
+    - 38.4:
+        non_striker: K Verreynne
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Jansen
+    - 38.5:
+        non_striker: K Verreynne
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Jansen
+    - 38.6:
+        non_striker: K Verreynne
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Jansen
+    - 39.1:
+        non_striker: M Jansen
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 39.2:
+        non_striker: M Jansen
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 39.3:
+        non_striker: M Jansen
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Verreynne
+    - 39.4:
+        non_striker: K Verreynne
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Jansen
+    - 39.5:
+        non_striker: K Verreynne
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Jansen
+        wicket:
+          player_out: M Jansen
+          fielders:
+          - C Green
+          kind: caught
+    - 39.6:
+        non_striker: K Verreynne
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Maharaj
+    - 40.1:
+        non_striker: KA Maharaj
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Verreynne
+    - 40.2:
+        non_striker: K Verreynne
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Maharaj
+    - 40.3:
+        non_striker: K Verreynne
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Maharaj
+    - 40.4:
+        non_striker: K Verreynne
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KA Maharaj
+    - 40.5:
+        non_striker: K Verreynne
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Maharaj
+    - 40.6:
+        non_striker: K Verreynne
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Maharaj
+        wicket:
+          player_out: KA Maharaj
+          fielders:
+          - SPD Smith
+          kind: caught
+    - 41.1:
+        non_striker: K Rabada
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 41.2:
+        non_striker: K Rabada
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 41.3:
+        non_striker: K Rabada
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 41.4:
+        non_striker: K Rabada
+        bowler: NM Lyon
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: K Verreynne
+    - 41.5:
+        non_striker: K Rabada
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 41.6:
+        non_striker: K Rabada
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+        wicket:
+          player_out: K Verreynne
+          fielders:
+          - SPD Smith
+          kind: caught
+    - 42.1:
+        non_striker: A Nortje
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Rabada
+    - 42.2:
+        non_striker: A Nortje
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Rabada
+    - 42.3:
+        non_striker: A Nortje
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Rabada
+    - 42.4:
+        non_striker: A Nortje
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Rabada
+    - 42.5:
+        non_striker: A Nortje
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Rabada
+    - 42.6:
+        non_striker: A Nortje
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Rabada
+    - 43.1:
+        non_striker: K Rabada
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Nortje
+    - 43.2:
+        non_striker: K Rabada
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Nortje
+    - 43.3:
+        non_striker: K Rabada
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Nortje
+    - 43.4:
+        non_striker: K Rabada
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Nortje
+    - 43.5:
+        non_striker: K Rabada
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Nortje
+    - 43.6:
+        non_striker: K Rabada
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Nortje
+    - 44.1:
+        non_striker: A Nortje
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Rabada
+    - 44.2:
+        non_striker: A Nortje
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Rabada
+    - 44.3:
+        non_striker: A Nortje
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Rabada
+    - 44.4:
+        non_striker: A Nortje
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Rabada
+    - 44.5:
+        non_striker: A Nortje
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Rabada
+    - 44.6:
+        non_striker: A Nortje
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Rabada
+    - 45.1:
+        non_striker: K Rabada
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Nortje
+        wicket:
+          player_out: A Nortje
+          fielders:
+          - TM Head
+          kind: caught
+    - 45.2:
+        non_striker: K Rabada
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ngidi
+    - 45.3:
+        non_striker: K Rabada
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ngidi
+    - 45.4:
+        non_striker: K Rabada
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ngidi
+    - 45.5:
+        non_striker: K Rabada
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Ngidi
+    - 45.6:
+        non_striker: K Rabada
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ngidi
+    - 46.1:
+        non_striker: L Ngidi
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Rabada
+    - 46.2:
+        non_striker: K Rabada
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ngidi
+    - 46.3:
+        non_striker: K Rabada
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ngidi
+    - 46.4:
+        non_striker: K Rabada
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ngidi
+    - 46.5:
+        non_striker: K Rabada
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ngidi
+    - 46.6:
+        non_striker: K Rabada
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ngidi
+    - 47.1:
+        non_striker: L Ngidi
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Rabada
+    - 47.2:
+        non_striker: L Ngidi
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Rabada
+    - 47.3:
+        non_striker: L Ngidi
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Rabada
+    - 47.4:
+        non_striker: L Ngidi
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: K Rabada
+    - 47.5:
+        non_striker: K Rabada
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Ngidi
+    - 47.6:
+        non_striker: L Ngidi
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Rabada
+    - 48.1:
+        non_striker: K Rabada
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ngidi
+    - 48.2:
+        non_striker: K Rabada
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ngidi
+        wicket:
+          player_out: L Ngidi
+          fielders:
+          - C Green
+          kind: caught
+- 2nd innings:
+    team: Australia
+    deliveries:
+    - 0.1:
+        non_striker: UT Khawaja
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+        wicket:
+          player_out: DA Warner
+          fielders:
+          - K Zondo
+          kind: caught
+    - 0.2:
+        non_striker: UT Khawaja
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 0.3:
+        non_striker: UT Khawaja
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Labuschagne
+    - 0.4:
+        non_striker: UT Khawaja
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 0.5:
+        non_striker: UT Khawaja
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 0.6:
+        non_striker: UT Khawaja
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Labuschagne
+    - 1.1:
+        non_striker: M Labuschagne
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 1.2:
+        non_striker: M Labuschagne
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 1.3:
+        non_striker: M Labuschagne
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 1.4:
+        non_striker: M Labuschagne
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 1.5:
+        non_striker: M Labuschagne
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 1.6:
+        non_striker: M Labuschagne
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 2.1:
+        non_striker: UT Khawaja
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 2.2:
+        non_striker: UT Khawaja
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 2.3:
+        non_striker: UT Khawaja
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 2.4:
+        non_striker: UT Khawaja
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 2.5:
+        non_striker: UT Khawaja
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 2.6:
+        non_striker: UT Khawaja
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 3.1:
+        non_striker: M Labuschagne
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 3.2:
+        non_striker: M Labuschagne
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 3.3:
+        non_striker: M Labuschagne
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 3.4:
+        non_striker: M Labuschagne
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 3.5:
+        non_striker: M Labuschagne
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 3.6:
+        non_striker: M Labuschagne
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UT Khawaja
+    - 4.1:
+        non_striker: M Labuschagne
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: UT Khawaja
+    - 4.2:
+        non_striker: M Labuschagne
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 4.3:
+        non_striker: M Labuschagne
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 4.4:
+        non_striker: M Labuschagne
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 4.5:
+        non_striker: M Labuschagne
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 4.6:
+        non_striker: M Labuschagne
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 5.1:
+        non_striker: UT Khawaja
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 5.2:
+        non_striker: UT Khawaja
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Labuschagne
+    - 5.3:
+        non_striker: UT Khawaja
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 5.4:
+        non_striker: UT Khawaja
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 5.5:
+        non_striker: UT Khawaja
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 5.6:
+        non_striker: UT Khawaja
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 6.1:
+        non_striker: M Labuschagne
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 6.2:
+        non_striker: M Labuschagne
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 6.3:
+        non_striker: M Labuschagne
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UT Khawaja
+    - 6.4:
+        non_striker: UT Khawaja
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 6.5:
+        non_striker: UT Khawaja
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 6.6:
+        non_striker: UT Khawaja
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 7.1:
+        non_striker: M Labuschagne
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UT Khawaja
+    - 7.2:
+        non_striker: UT Khawaja
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 7.3:
+        non_striker: UT Khawaja
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 7.4:
+        non_striker: UT Khawaja
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Labuschagne
+    - 7.5:
+        non_striker: M Labuschagne
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 7.6:
+        non_striker: M Labuschagne
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 8.1:
+        non_striker: UT Khawaja
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+        wicket:
+          player_out: M Labuschagne
+          fielders:
+          - D Elgar
+          kind: caught
+    - 8.2:
+        non_striker: UT Khawaja
+        bowler: M Jansen
+        runs:
+          extras: 1
+          total: 5
+          non_boundary: 1
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: SPD Smith
+    - 8.3:
+        non_striker: UT Khawaja
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 8.4:
+        non_striker: UT Khawaja
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 8.5:
+        non_striker: UT Khawaja
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 8.6:
+        non_striker: UT Khawaja
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 8.7:
+        non_striker: UT Khawaja
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 9.1:
+        non_striker: SPD Smith
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: UT Khawaja
+    - 9.2:
+        non_striker: SPD Smith
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+        wicket:
+          player_out: UT Khawaja
+          fielders:
+          - SR Harmer (sub)
+          kind: caught
+    - 9.3:
+        non_striker: SPD Smith
+        bowler: A Nortje
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: TM Head
+    - 9.4:
+        non_striker: SPD Smith
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 9.5:
+        non_striker: SPD Smith
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 9.6:
+        non_striker: TM Head
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 9.7:
+        non_striker: TM Head
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 10.1:
+        non_striker: SPD Smith
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 10.2:
+        non_striker: SPD Smith
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 10.3:
+        non_striker: SPD Smith
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 10.4:
+        non_striker: TM Head
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 10.5:
+        non_striker: TM Head
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 10.6:
+        non_striker: TM Head
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SPD Smith
+    - 11.1:
+        non_striker: SPD Smith
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 11.2:
+        non_striker: SPD Smith
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 11.3:
+        non_striker: SPD Smith
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 11.4:
+        non_striker: SPD Smith
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 11.5:
+        non_striker: SPD Smith
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 11.6:
+        non_striker: SPD Smith
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 12.1:
+        non_striker: TM Head
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: SPD Smith
+    - 12.2:
+        non_striker: SPD Smith
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 12.3:
+        non_striker: SPD Smith
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 12.4:
+        non_striker: SPD Smith
+        bowler: M Jansen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: TM Head
+    - 12.5:
+        non_striker: TM Head
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 12.6:
+        non_striker: TM Head
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 13.1:
+        non_striker: SPD Smith
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 13.2:
+        non_striker: SPD Smith
+        bowler: A Nortje
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: TM Head
+    - 13.3:
+        non_striker: TM Head
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 13.4:
+        non_striker: TM Head
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 13.5:
+        non_striker: SPD Smith
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 13.6:
+        non_striker: SPD Smith
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 14.1:
+        non_striker: TM Head
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 14.2:
+        non_striker: TM Head
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 14.3:
+        non_striker: TM Head
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 14.4:
+        non_striker: TM Head
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 14.5:
+        non_striker: TM Head
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 14.6:
+        non_striker: TM Head
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 15.1:
+        non_striker: SPD Smith
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 15.2:
+        non_striker: TM Head
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 15.3:
+        non_striker: SPD Smith
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 15.4:
+        non_striker: SPD Smith
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: TM Head
+    - 15.5:
+        non_striker: TM Head
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 15.6:
+        non_striker: SPD Smith
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 16.1:
+        non_striker: SPD Smith
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 16.2:
+        non_striker: SPD Smith
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 16.3:
+        non_striker: SPD Smith
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 16.4:
+        non_striker: SPD Smith
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 16.5:
+        non_striker: SPD Smith
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 16.6:
+        non_striker: SPD Smith
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 17.1:
+        non_striker: TM Head
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SPD Smith
+    - 17.2:
+        non_striker: TM Head
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 17.3:
+        non_striker: TM Head
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SPD Smith
+    - 17.4:
+        non_striker: TM Head
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 17.5:
+        non_striker: TM Head
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 17.6:
+        non_striker: TM Head
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 18.1:
+        non_striker: SPD Smith
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 18.2:
+        non_striker: SPD Smith
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 18.3:
+        non_striker: SPD Smith
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 18.4:
+        non_striker: SPD Smith
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 18.5:
+        non_striker: SPD Smith
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 18.6:
+        non_striker: SPD Smith
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 19.1:
+        non_striker: SPD Smith
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 19.2:
+        non_striker: TM Head
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SPD Smith
+    - 19.3:
+        non_striker: TM Head
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 19.4:
+        non_striker: SPD Smith
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 19.5:
+        non_striker: SPD Smith
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 19.6:
+        non_striker: SPD Smith
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 20.1:
+        non_striker: TM Head
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 20.2:
+        non_striker: TM Head
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 20.3:
+        non_striker: TM Head
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 20.4:
+        non_striker: TM Head
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 20.5:
+        non_striker: SPD Smith
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 20.6:
+        non_striker: SPD Smith
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: TM Head
+    - 21.1:
+        non_striker: SPD Smith
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 21.2:
+        non_striker: SPD Smith
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 21.3:
+        non_striker: SPD Smith
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 21.4:
+        non_striker: SPD Smith
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: TM Head
+    - 21.5:
+        non_striker: TM Head
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 21.6:
+        non_striker: SPD Smith
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 22.1:
+        non_striker: TM Head
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 22.2:
+        non_striker: SPD Smith
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 22.3:
+        non_striker: SPD Smith
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 22.4:
+        non_striker: SPD Smith
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TM Head
+    - 22.5:
+        non_striker: SPD Smith
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 22.6:
+        non_striker: SPD Smith
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 23.1:
+        non_striker: TM Head
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 23.2:
+        non_striker: TM Head
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SPD Smith
+    - 23.3:
+        non_striker: TM Head
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 23.4:
+        non_striker: TM Head
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 23.5:
+        non_striker: TM Head
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 23.6:
+        non_striker: SPD Smith
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 24.1:
+        non_striker: TM Head
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 24.2:
+        non_striker: SPD Smith
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 24.3:
+        non_striker: SPD Smith
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 24.4:
+        non_striker: TM Head
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 24.5:
+        non_striker: TM Head
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 24.6:
+        non_striker: TM Head
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 25.1:
+        non_striker: SPD Smith
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 25.2:
+        non_striker: SPD Smith
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 25.3:
+        non_striker: SPD Smith
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 25.4:
+        non_striker: SPD Smith
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 25.5:
+        non_striker: SPD Smith
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 25.6:
+        non_striker: SPD Smith
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 26.1:
+        non_striker: TM Head
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 26.2:
+        non_striker: TM Head
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SPD Smith
+    - 26.3:
+        non_striker: TM Head
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 26.4:
+        non_striker: TM Head
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 26.5:
+        non_striker: TM Head
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 26.6:
+        non_striker: TM Head
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 27.1:
+        non_striker: SPD Smith
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 27.2:
+        non_striker: SPD Smith
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 27.3:
+        non_striker: SPD Smith
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 27.4:
+        non_striker: TM Head
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 27.5:
+        non_striker: TM Head
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 27.6:
+        non_striker: TM Head
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 28.1:
+        non_striker: SPD Smith
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 28.2:
+        non_striker: SPD Smith
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 28.3:
+        non_striker: SPD Smith
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 28.4:
+        non_striker: TM Head
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 28.5:
+        non_striker: TM Head
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 28.6:
+        non_striker: TM Head
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 29.1:
+        non_striker: SPD Smith
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 29.2:
+        non_striker: SPD Smith
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 29.3:
+        non_striker: SPD Smith
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 29.4:
+        non_striker: SPD Smith
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 29.5:
+        non_striker: SPD Smith
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 29.6:
+        non_striker: SPD Smith
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 30.1:
+        non_striker: TM Head
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 30.2:
+        non_striker: TM Head
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 30.3:
+        non_striker: TM Head
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 30.4:
+        non_striker: TM Head
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 30.5:
+        non_striker: TM Head
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 30.6:
+        non_striker: SPD Smith
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 31.1:
+        non_striker: TM Head
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 31.2:
+        non_striker: TM Head
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 31.3:
+        non_striker: SPD Smith
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 31.4:
+        non_striker: SPD Smith
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 31.5:
+        non_striker: SPD Smith
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TM Head
+    - 31.6:
+        non_striker: SPD Smith
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 32.1:
+        non_striker: TM Head
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 32.2:
+        non_striker: TM Head
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+        wicket:
+          player_out: SPD Smith
+          kind: bowled
+    - 32.3:
+        non_striker: TM Head
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Boland
+    - 32.4:
+        non_striker: TM Head
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Boland
+    - 32.5:
+        non_striker: TM Head
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Boland
+    - 32.6:
+        non_striker: SM Boland
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 33.1:
+        non_striker: TM Head
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Boland
+        wicket:
+          player_out: SM Boland
+          fielders:
+          - K Verreynne
+          kind: caught
+    - 33.2:
+        non_striker: TM Head
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Green
+    - 33.3:
+        non_striker: C Green
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 33.4:
+        non_striker: C Green
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 33.5:
+        non_striker: C Green
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: TM Head
+    - 33.6:
+        non_striker: TM Head
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Green
+    - 34.1:
+        non_striker: C Green
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 34.2:
+        non_striker: C Green
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 34.3:
+        non_striker: C Green
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 34.4:
+        non_striker: C Green
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 34.5:
+        non_striker: C Green
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 34.6:
+        non_striker: C Green
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 35.1:
+        non_striker: TM Head
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 35.2:
+        non_striker: TM Head
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 35.3:
+        non_striker: TM Head
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 35.4:
+        non_striker: TM Head
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 35.5:
+        non_striker: TM Head
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Green
+    - 35.6:
+        non_striker: TM Head
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 36.1:
+        non_striker: C Green
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 36.2:
+        non_striker: C Green
+        bowler: A Nortje
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: TM Head
+    - 36.3:
+        non_striker: C Green
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TM Head
+    - 36.4:
+        non_striker: C Green
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 36.5:
+        non_striker: C Green
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TM Head
+    - 36.6:
+        non_striker: C Green
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 37.1:
+        non_striker: C Green
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 37.2:
+        non_striker: C Green
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: TM Head
+    - 37.3:
+        non_striker: TM Head
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 37.4:
+        non_striker: TM Head
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 37.5:
+        non_striker: TM Head
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Green
+    - 37.6:
+        non_striker: TM Head
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Green
+    - 38.1:
+        non_striker: TM Head
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Green
+    - 38.2:
+        non_striker: TM Head
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 38.3:
+        non_striker: TM Head
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 38.4:
+        non_striker: TM Head
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 38.5:
+        non_striker: TM Head
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 38.6:
+        non_striker: TM Head
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 39.1:
+        non_striker: C Green
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: TM Head
+    - 39.2:
+        non_striker: TM Head
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+        wicket:
+          player_out: C Green
+          fielders:
+          - SJ Erwee
+          kind: caught
+    - 39.3:
+        non_striker: TM Head
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Carey
+    - 39.4:
+        non_striker: AT Carey
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+        wicket:
+          player_out: TM Head
+          fielders:
+          - K Verreynne
+          kind: caught
+    - 39.5:
+        non_striker: AT Carey
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Starc
+    - 39.6:
+        non_striker: AT Carey
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MA Starc
+    - 40.1:
+        non_striker: MA Starc
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Carey
+    - 40.2:
+        non_striker: MA Starc
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Carey
+    - 40.3:
+        non_striker: MA Starc
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Carey
+    - 40.4:
+        non_striker: AT Carey
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Starc
+    - 40.5:
+        non_striker: AT Carey
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Starc
+    - 40.6:
+        non_striker: AT Carey
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Starc
+    - 41.1:
+        non_striker: MA Starc
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Carey
+    - 41.2:
+        non_striker: MA Starc
+        bowler: M Jansen
+        runs:
+          extras: 0
+          non_boundary: 1
+          total: 4
+          batsman: 4
+        batsman: AT Carey
+    - 41.3:
+        non_striker: MA Starc
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Carey
+    - 41.4:
+        non_striker: MA Starc
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Carey
+    - 41.5:
+        non_striker: AT Carey
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Starc
+    - 41.6:
+        non_striker: AT Carey
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Starc
+    - 42.1:
+        non_striker: MA Starc
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Carey
+    - 42.2:
+        non_striker: AT Carey
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Starc
+    - 42.3:
+        non_striker: AT Carey
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Starc
+    - 42.4:
+        non_striker: AT Carey
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Starc
+    - 42.5:
+        non_striker: AT Carey
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Starc
+    - 42.6:
+        non_striker: AT Carey
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MA Starc
+    - 43.1:
+        non_striker: MA Starc
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Carey
+    - 43.2:
+        non_striker: MA Starc
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Carey
+    - 43.3:
+        non_striker: MA Starc
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Carey
+    - 43.4:
+        non_striker: AT Carey
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Starc
+    - 43.5:
+        non_striker: AT Carey
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Starc
+    - 43.6:
+        non_striker: AT Carey
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Starc
+    - 44.1:
+        non_striker: MA Starc
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Carey
+    - 44.2:
+        non_striker: MA Starc
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Carey
+    - 44.3:
+        non_striker: MA Starc
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Carey
+    - 44.4:
+        non_striker: MA Starc
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Carey
+    - 44.5:
+        non_striker: AT Carey
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Starc
+    - 44.6:
+        non_striker: AT Carey
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Starc
+    - 45.1:
+        non_striker: MA Starc
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Carey
+    - 45.2:
+        non_striker: MA Starc
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AT Carey
+    - 45.3:
+        non_striker: MA Starc
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Carey
+    - 45.4:
+        non_striker: AT Carey
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Starc
+    - 45.5:
+        non_striker: AT Carey
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Starc
+    - 45.6:
+        non_striker: AT Carey
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Starc
+    - 46.1:
+        non_striker: MA Starc
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Carey
+    - 46.2:
+        non_striker: AT Carey
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Starc
+    - 46.3:
+        non_striker: AT Carey
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Starc
+    - 46.4:
+        non_striker: AT Carey
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Starc
+    - 46.5:
+        non_striker: AT Carey
+        bowler: K Rabada
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: MA Starc
+    - 46.6:
+        non_striker: AT Carey
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Starc
+    - 46.7:
+        non_striker: AT Carey
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Starc
+    - 47.1:
+        non_striker: AT Carey
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MA Starc
+    - 47.2:
+        non_striker: AT Carey
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Starc
+    - 47.3:
+        non_striker: AT Carey
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Starc
+    - 47.4:
+        non_striker: MA Starc
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AT Carey
+    - 47.5:
+        non_striker: MA Starc
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Carey
+    - 47.6:
+        non_striker: AT Carey
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Starc
+        wicket:
+          player_out: MA Starc
+          kind: caught and bowled
+    - 48.1:
+        non_striker: PJ Cummins
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Carey
+    - 48.2:
+        non_striker: PJ Cummins
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Carey
+    - 48.3:
+        non_striker: AT Carey
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+    - 48.4:
+        non_striker: AT Carey
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+    - 48.5:
+        non_striker: AT Carey
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+        wicket:
+          player_out: PJ Cummins
+          fielders:
+          - A Nortje
+          kind: caught
+    - 48.6:
+        non_striker: AT Carey
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NM Lyon
+    - 49.1:
+        non_striker: NM Lyon
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AT Carey
+    - 49.2:
+        non_striker: NM Lyon
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Carey
+    - 49.3:
+        non_striker: NM Lyon
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Carey
+    - 49.4:
+        non_striker: NM Lyon
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Carey
+    - 49.5:
+        non_striker: NM Lyon
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Carey
+    - 49.6:
+        non_striker: AT Carey
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NM Lyon
+    - 50.1:
+        non_striker: NM Lyon
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Carey
+    - 50.2:
+        non_striker: AT Carey
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NM Lyon
+    - 50.3:
+        non_striker: AT Carey
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NM Lyon
+        wicket:
+          player_out: NM Lyon
+          fielders:
+          - HE van der Dussen
+          kind: caught
+- 3rd innings:
+    team: South Africa
+    deliveries:
+    - 0.1:
+        non_striker: D Elgar
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Erwee
+    - 0.2:
+        non_striker: D Elgar
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Erwee
+    - 0.3:
+        non_striker: D Elgar
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Erwee
+    - 0.4:
+        non_striker: D Elgar
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Erwee
+    - 0.5:
+        non_striker: D Elgar
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Erwee
+    - 0.6:
+        non_striker: D Elgar
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Erwee
+    - 1.1:
+        non_striker: SJ Erwee
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Elgar
+    - 1.2:
+        non_striker: SJ Erwee
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Elgar
+    - 1.3:
+        non_striker: SJ Erwee
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Elgar
+    - 1.4:
+        non_striker: SJ Erwee
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Elgar
+        wicket:
+          player_out: D Elgar
+          kind: lbw
+    - 1.5:
+        non_striker: SJ Erwee
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 1.6:
+        non_striker: SJ Erwee
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 2.1:
+        non_striker: HE van der Dussen
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Erwee
+    - 2.2:
+        non_striker: HE van der Dussen
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Erwee
+    - 2.3:
+        non_striker: HE van der Dussen
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Erwee
+    - 2.4:
+        non_striker: SJ Erwee
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 2.5:
+        non_striker: SJ Erwee
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+        wicket:
+          player_out: HE van der Dussen
+          kind: bowled
+    - 2.6:
+        non_striker: SJ Erwee
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 3.1:
+        non_striker: T Bavuma
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Erwee
+    - 3.2:
+        non_striker: T Bavuma
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Erwee
+    - 3.3:
+        non_striker: T Bavuma
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Erwee
+    - 3.4:
+        non_striker: T Bavuma
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Erwee
+    - 3.5:
+        non_striker: T Bavuma
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Erwee
+    - 3.6:
+        non_striker: T Bavuma
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Erwee
+    - 4.1:
+        non_striker: SJ Erwee
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 4.2:
+        non_striker: SJ Erwee
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 4.3:
+        non_striker: SJ Erwee
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 4.4:
+        non_striker: SJ Erwee
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 4.5:
+        non_striker: SJ Erwee
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 4.6:
+        non_striker: SJ Erwee
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 5.1:
+        non_striker: T Bavuma
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Erwee
+    - 5.2:
+        non_striker: T Bavuma
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Erwee
+    - 5.3:
+        non_striker: T Bavuma
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Erwee
+    - 5.4:
+        non_striker: T Bavuma
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Erwee
+    - 5.5:
+        non_striker: T Bavuma
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Erwee
+    - 5.6:
+        non_striker: T Bavuma
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Erwee
+    - 6.1:
+        non_striker: SJ Erwee
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 6.2:
+        non_striker: SJ Erwee
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 6.3:
+        non_striker: SJ Erwee
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 6.4:
+        non_striker: SJ Erwee
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 6.5:
+        non_striker: SJ Erwee
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 6.6:
+        non_striker: SJ Erwee
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 7.1:
+        non_striker: T Bavuma
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SJ Erwee
+    - 7.2:
+        non_striker: T Bavuma
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Erwee
+        wicket:
+          player_out: SJ Erwee
+          fielders:
+          - C Green
+          kind: caught
+    - 7.3:
+        non_striker: T Bavuma
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 7.4:
+        non_striker: T Bavuma
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 7.5:
+        non_striker: T Bavuma
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 7.6:
+        non_striker: T Bavuma
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 8.1:
+        non_striker: K Zondo
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 8.2:
+        non_striker: K Zondo
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 8.3:
+        non_striker: K Zondo
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: T Bavuma
+    - 8.4:
+        non_striker: T Bavuma
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Zondo
+    - 8.5:
+        non_striker: K Zondo
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 8.6:
+        non_striker: K Zondo
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 9.1:
+        non_striker: T Bavuma
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 9.2:
+        non_striker: T Bavuma
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 9.3:
+        non_striker: T Bavuma
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 9.4:
+        non_striker: T Bavuma
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 9.5:
+        non_striker: T Bavuma
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Zondo
+    - 9.6:
+        non_striker: T Bavuma
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 10.1:
+        non_striker: K Zondo
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 10.2:
+        non_striker: K Zondo
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bavuma
+    - 10.3:
+        non_striker: T Bavuma
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 10.4:
+        non_striker: T Bavuma
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 10.5:
+        non_striker: T Bavuma
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 10.6:
+        non_striker: T Bavuma
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 11.1:
+        non_striker: K Zondo
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 11.2:
+        non_striker: K Zondo
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Bavuma
+    - 11.3:
+        non_striker: K Zondo
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 11.4:
+        non_striker: K Zondo
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 11.5:
+        non_striker: K Zondo
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 11.6:
+        non_striker: K Zondo
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 12.1:
+        non_striker: T Bavuma
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 12.2:
+        non_striker: T Bavuma
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 12.3:
+        non_striker: T Bavuma
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 12.4:
+        non_striker: T Bavuma
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 12.5:
+        non_striker: T Bavuma
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 12.6:
+        non_striker: T Bavuma
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 13.1:
+        non_striker: K Zondo
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bavuma
+    - 13.2:
+        non_striker: T Bavuma
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 13.3:
+        non_striker: T Bavuma
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 13.4:
+        non_striker: T Bavuma
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 13.5:
+        non_striker: T Bavuma
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 13.6:
+        non_striker: T Bavuma
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 14.1:
+        non_striker: K Zondo
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 14.2:
+        non_striker: K Zondo
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 14.3:
+        non_striker: K Zondo
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 14.4:
+        non_striker: K Zondo
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 14.5:
+        non_striker: K Zondo
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Bavuma
+    - 14.6:
+        non_striker: K Zondo
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 15.1:
+        non_striker: T Bavuma
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 15.2:
+        non_striker: T Bavuma
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 15.3:
+        non_striker: T Bavuma
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 15.4:
+        non_striker: T Bavuma
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Zondo
+    - 15.5:
+        non_striker: T Bavuma
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 15.6:
+        non_striker: T Bavuma
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 16.1:
+        non_striker: K Zondo
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 16.2:
+        non_striker: K Zondo
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 16.3:
+        non_striker: K Zondo
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 16.4:
+        non_striker: K Zondo
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 16.5:
+        non_striker: K Zondo
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bavuma
+    - 16.6:
+        non_striker: T Bavuma
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 17.1:
+        non_striker: K Zondo
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 17.2:
+        non_striker: K Zondo
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bavuma
+    - 17.3:
+        non_striker: T Bavuma
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 17.4:
+        non_striker: T Bavuma
+        bowler: PJ Cummins
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: K Zondo
+    - 17.5:
+        non_striker: T Bavuma
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 17.6:
+        non_striker: T Bavuma
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 17.7:
+        non_striker: T Bavuma
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 18.1:
+        non_striker: K Zondo
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Bavuma
+    - 18.2:
+        non_striker: K Zondo
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bavuma
+    - 18.3:
+        non_striker: T Bavuma
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 18.4:
+        non_striker: T Bavuma
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 18.5:
+        non_striker: T Bavuma
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 18.6:
+        non_striker: T Bavuma
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 19.1:
+        non_striker: K Zondo
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 19.2:
+        non_striker: K Zondo
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 19.3:
+        non_striker: K Zondo
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 19.4:
+        non_striker: K Zondo
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bavuma
+    - 19.5:
+        non_striker: T Bavuma
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Zondo
+    - 19.6:
+        non_striker: K Zondo
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bavuma
+    - 20.1:
+        non_striker: K Zondo
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 20.2:
+        non_striker: K Zondo
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 20.3:
+        non_striker: K Zondo
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Bavuma
+    - 20.4:
+        non_striker: K Zondo
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 20.5:
+        non_striker: K Zondo
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 20.6:
+        non_striker: K Zondo
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bavuma
+    - 21.1:
+        non_striker: K Zondo
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bavuma
+    - 21.2:
+        non_striker: T Bavuma
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 21.3:
+        non_striker: T Bavuma
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 21.4:
+        non_striker: T Bavuma
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 21.5:
+        non_striker: T Bavuma
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 21.6:
+        non_striker: T Bavuma
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 22.1:
+        non_striker: K Zondo
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 22.2:
+        non_striker: K Zondo
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bavuma
+    - 22.3:
+        non_striker: T Bavuma
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 22.4:
+        non_striker: T Bavuma
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 22.5:
+        non_striker: T Bavuma
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 22.6:
+        non_striker: T Bavuma
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 23.1:
+        non_striker: K Zondo
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 23.2:
+        non_striker: K Zondo
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 23.3:
+        non_striker: K Zondo
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 23.4:
+        non_striker: K Zondo
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Bavuma
+    - 23.5:
+        non_striker: K Zondo
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+        wicket:
+          player_out: T Bavuma
+          kind: lbw
+    - 23.6:
+        non_striker: K Zondo
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 24.1:
+        non_striker: K Verreynne
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Zondo
+    - 24.2:
+        non_striker: K Zondo
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+        wicket:
+          player_out: K Verreynne
+          fielders:
+          - SPD Smith
+          kind: caught
+    - 24.3:
+        non_striker: K Zondo
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Jansen
+    - 24.4:
+        non_striker: K Zondo
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Jansen
+        wicket:
+          player_out: M Jansen
+          kind: bowled
+    - 24.5:
+        non_striker: K Zondo
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Maharaj
+    - 24.6:
+        non_striker: K Zondo
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Maharaj
+    - 25.1:
+        non_striker: K Zondo
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KA Maharaj
+    - 25.2:
+        non_striker: K Zondo
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Maharaj
+    - 25.3:
+        non_striker: K Zondo
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Maharaj
+    - 25.4:
+        non_striker: K Zondo
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Maharaj
+    - 25.5:
+        non_striker: K Zondo
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Maharaj
+    - 25.6:
+        non_striker: K Zondo
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Maharaj
+    - 26.1:
+        non_striker: KA Maharaj
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 26.2:
+        non_striker: KA Maharaj
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 26.3:
+        non_striker: KA Maharaj
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 26.4:
+        non_striker: KA Maharaj
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 26.5:
+        non_striker: KA Maharaj
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 26.6:
+        non_striker: KA Maharaj
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 27.1:
+        non_striker: K Zondo
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Maharaj
+    - 27.2:
+        non_striker: K Zondo
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Maharaj
+    - 27.3:
+        non_striker: K Zondo
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KA Maharaj
+    - 27.4:
+        non_striker: K Zondo
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Maharaj
+    - 27.5:
+        non_striker: K Zondo
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Maharaj
+    - 27.6:
+        non_striker: KA Maharaj
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 28.1:
+        non_striker: K Zondo
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Maharaj
+    - 28.2:
+        non_striker: K Zondo
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Maharaj
+    - 28.3:
+        non_striker: K Zondo
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KA Maharaj
+    - 28.4:
+        non_striker: K Zondo
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KA Maharaj
+    - 28.5:
+        non_striker: K Zondo
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Maharaj
+        wicket:
+          player_out: KA Maharaj
+          fielders:
+          - AT Carey
+          kind: caught
+    - 28.6:
+        non_striker: K Zondo
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Rabada
+    - 29.1:
+        non_striker: K Rabada
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 29.2:
+        non_striker: K Rabada
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 29.3:
+        non_striker: K Rabada
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Zondo
+    - 29.4:
+        non_striker: K Zondo
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Rabada
+    - 29.5:
+        non_striker: K Zondo
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Rabada
+    - 29.6:
+        non_striker: K Zondo
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Rabada
+    - 30.1:
+        non_striker: K Zondo
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Rabada
+    - 30.2:
+        non_striker: K Zondo
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Rabada
+    - 30.3:
+        non_striker: K Zondo
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Rabada
+    - 30.4:
+        non_striker: K Rabada
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 30.5:
+        non_striker: K Rabada
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Zondo
+    - 30.6:
+        non_striker: K Zondo
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Rabada
+    - 31.1:
+        non_striker: K Zondo
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Rabada
+    - 31.2:
+        non_striker: K Zondo
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Rabada
+    - 31.3:
+        non_striker: K Zondo
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Rabada
+    - 31.4:
+        non_striker: K Zondo
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Rabada
+    - 31.5:
+        non_striker: K Zondo
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Rabada
+        wicket:
+          player_out: K Rabada
+          fielders:
+          - AT Carey
+          kind: caught
+    - 31.6:
+        non_striker: K Zondo
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Nortje
+        wicket:
+          player_out: A Nortje
+          fielders:
+          - C Green
+          kind: caught
+    - 32.1:
+        non_striker: L Ngidi
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Zondo
+    - 32.2:
+        non_striker: K Zondo
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ngidi
+    - 32.3:
+        non_striker: K Zondo
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ngidi
+    - 32.4:
+        non_striker: K Zondo
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Ngidi
+    - 32.5:
+        non_striker: K Zondo
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ngidi
+    - 32.6:
+        non_striker: K Zondo
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ngidi
+    - 33.1:
+        non_striker: L Ngidi
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 33.2:
+        non_striker: L Ngidi
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Zondo
+    - 33.3:
+        non_striker: L Ngidi
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 33.4:
+        non_striker: L Ngidi
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 33.5:
+        non_striker: L Ngidi
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Zondo
+    - 33.6:
+        non_striker: K Zondo
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ngidi
+    - 34.1:
+        non_striker: L Ngidi
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 34.2:
+        non_striker: L Ngidi
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Zondo
+    - 34.3:
+        non_striker: L Ngidi
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 34.4:
+        non_striker: L Ngidi
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Zondo
+    - 34.5:
+        non_striker: K Zondo
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ngidi
+    - 34.6:
+        non_striker: K Zondo
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ngidi
+    - 35.1:
+        non_striker: L Ngidi
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 35.2:
+        non_striker: L Ngidi
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Zondo
+    - 35.3:
+        non_striker: L Ngidi
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Zondo
+    - 35.4:
+        non_striker: L Ngidi
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Zondo
+    - 35.5:
+        non_striker: L Ngidi
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 35.6:
+        non_striker: L Ngidi
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 36.1:
+        non_striker: K Zondo
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ngidi
+    - 36.2:
+        non_striker: K Zondo
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Ngidi
+    - 36.3:
+        non_striker: L Ngidi
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 36.4:
+        non_striker: L Ngidi
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 36.5:
+        non_striker: L Ngidi
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 36.6:
+        non_striker: L Ngidi
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 37.1:
+        non_striker: K Zondo
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ngidi
+    - 37.2:
+        non_striker: K Zondo
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Ngidi
+    - 37.3:
+        non_striker: K Zondo
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ngidi
+    - 37.4:
+        non_striker: K Zondo
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ngidi
+        wicket:
+          player_out: L Ngidi
+          fielders:
+          - DA Warner
+          kind: caught
+- 4th innings:
+    team: Australia
+    deliveries:
+    - 0.1:
+        non_striker: DA Warner
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 0.2:
+        non_striker: DA Warner
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 0.3:
+        non_striker: DA Warner
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 0.4:
+        non_striker: DA Warner
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 0.5:
+        non_striker: DA Warner
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 0.6:
+        non_striker: DA Warner
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 1.1:
+        non_striker: UT Khawaja
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 1.2:
+        non_striker: UT Khawaja
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 1.3:
+        non_striker: UT Khawaja
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DA Warner
+    - 1.4:
+        non_striker: UT Khawaja
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 1.5:
+        non_striker: UT Khawaja
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 1.6:
+        non_striker: UT Khawaja
+        bowler: A Nortje
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: DA Warner
+    - 2.1:
+        non_striker: DA Warner
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 2.2:
+        non_striker: DA Warner
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 2.3:
+        non_striker: DA Warner
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 2.4:
+        non_striker: DA Warner
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 2.5:
+        non_striker: DA Warner
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: UT Khawaja
+    - 2.6:
+        non_striker: DA Warner
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+        wicket:
+          player_out: UT Khawaja
+          fielders:
+          - KA Maharaj
+          kind: caught
+    - 3.1:
+        non_striker: M Labuschagne
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 3.2:
+        non_striker: DA Warner
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 3.3:
+        non_striker: DA Warner
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 3.4:
+        non_striker: DA Warner
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 3.5:
+        non_striker: DA Warner
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 3.6:
+        non_striker: DA Warner
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 4.1:
+        non_striker: M Labuschagne
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 4.2:
+        non_striker: M Labuschagne
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 4.3:
+        non_striker: M Labuschagne
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 4.4:
+        non_striker: M Labuschagne
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+        wicket:
+          player_out: DA Warner
+          fielders:
+          - SJ Erwee
+          kind: caught
+    - 4.5:
+        non_striker: M Labuschagne
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 4.6:
+        non_striker: M Labuschagne
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SPD Smith
+    - 5.1:
+        non_striker: SPD Smith
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 5.2:
+        non_striker: SPD Smith
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Labuschagne
+    - 5.3:
+        non_striker: SPD Smith
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 5.4:
+        non_striker: SPD Smith
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 5.5:
+        non_striker: SPD Smith
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 5.6:
+        non_striker: SPD Smith
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 6.1:
+        non_striker: M Labuschagne
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 6.2:
+        non_striker: M Labuschagne
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SPD Smith
+    - 6.3:
+        non_striker: M Labuschagne
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+        wicket:
+          player_out: SPD Smith
+          fielders:
+          - K Verreynne
+          kind: caught
+    - 6.4:
+        non_striker: M Labuschagne
+        bowler: K Rabada
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: TM Head
+    - 6.5:
+        non_striker: M Labuschagne
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+        wicket:
+          player_out: TM Head
+          fielders:
+          - K Verreynne
+          kind: caught
+    - 6.6:
+        non_striker: M Labuschagne
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 6.7:
+        non_striker: M Labuschagne
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 7.1:
+        non_striker: C Green
+        bowler: A Nortje
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: M Labuschagne
+    - 7.2:
+        non_striker: C Green
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 7.3:
+        non_striker: C Green
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 7.4:
+        non_striker: C Green
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 7.5:
+        non_striker: C Green
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 7.6:
+        non_striker: C Green
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Labuschagne
+    - 7.7:
+        non_striker: M Labuschagne
+        bowler: A Nortje
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: C Green

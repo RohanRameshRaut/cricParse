@@ -1,0 +1,8783 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-07-17'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kingston
+  dates:
+  - '2025-07-12'
+  - '2025-07-13'
+  - '2025-07-14'
+  gender: male
+  match_type: Test
+  match_type_number: 2595
+  outcome:
+    winner: Australia
+    by:
+      runs: 176
+  player_of_match:
+  - MA Starc
+  players:
+    Australia:
+    - UT Khawaja
+    - S Konstas
+    - C Green
+    - SPD Smith
+    - TM Head
+    - BJ Webster
+    - AT Carey
+    - PJ Cummins
+    - MA Starc
+    - SM Boland
+    - JR Hazlewood
+    West Indies:
+    - BA King
+    - KA Anderson
+    - RL Chase
+    - JD Campbell
+    - M Louis
+    - SD Hope
+    - JP Greaves
+    - AS Joseph
+    - S Joseph
+    - JA Warrican
+    - JNT Seales
+  registry:
+    people:
+      A Phillip: f2665768
+      AS Joseph: b0946605
+      AT Carey: 69d03465
+      AT Holdstock: 6fa3258c
+      BA King: 7fca84b7
+      BJ Webster: 56b93d46
+      C Green: eaa76d3c
+      J Srinath: bad31fac
+      JA Warrican: cc23e91e
+      JD Campbell: 6fd0c8e1
+      JNT Seales: ded9ff1e
+      JP Greaves: 74d12124
+      JP Inglis: 989889ff
+      JR Hazlewood: '03806cf8'
+      KA Anderson: 672d7379
+      M Louis: 1d8c298b
+      MA Starc: 3fb19989
+      Nitin Menon: e1d41d9e
+      PJ Cummins: ded9240e
+      RA Kettleborough: 4017868f
+      RL Chase: 3feda4fa
+      S Joseph: 97290faf
+      S Konstas: 3c34c9e1
+      SD Hope: 1fc6ef83
+      SM Boland: d167edd3
+      SPD Smith: 30a45b23
+      TM Head: 12b610c2
+      UT Khawaja: 331ea488
+      Zahid Bassarath: ca6bf044
+  teams:
+  - Australia
+  - West Indies
+  toss:
+    winner: Australia
+    decision: bat
+  umpires:
+  - AT Holdstock
+  - Nitin Menon
+  venue: Sabina Park, Kingston, Jamaica
+innings:
+- 1st innings:
+    team: Australia
+    deliveries:
+    - 0.1:
+        non_striker: S Konstas
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UT Khawaja
+    - 0.2:
+        non_striker: UT Khawaja
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Konstas
+    - 0.3:
+        non_striker: UT Khawaja
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Konstas
+    - 0.4:
+        non_striker: S Konstas
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 0.5:
+        non_striker: S Konstas
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 0.6:
+        non_striker: S Konstas
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UT Khawaja
+    - 1.1:
+        non_striker: S Konstas
+        bowler: S Joseph
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: UT Khawaja
+    - 1.2:
+        non_striker: S Konstas
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 1.3:
+        non_striker: S Konstas
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 1.4:
+        non_striker: S Konstas
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 1.5:
+        non_striker: S Konstas
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 1.6:
+        non_striker: S Konstas
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 1.7:
+        non_striker: S Konstas
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 2.1:
+        non_striker: UT Khawaja
+        bowler: JNT Seales
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: S Konstas
+    - 2.2:
+        non_striker: UT Khawaja
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Konstas
+    - 2.3:
+        non_striker: UT Khawaja
+        bowler: JNT Seales
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: S Konstas
+    - 2.4:
+        non_striker: UT Khawaja
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Konstas
+    - 2.5:
+        non_striker: UT Khawaja
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Konstas
+    - 2.6:
+        non_striker: UT Khawaja
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Konstas
+    - 2.7:
+        non_striker: UT Khawaja
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Konstas
+    - 2.8:
+        non_striker: UT Khawaja
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Konstas
+    - 3.1:
+        non_striker: S Konstas
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 3.2:
+        non_striker: S Konstas
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 3.3:
+        non_striker: S Konstas
+        bowler: S Joseph
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: UT Khawaja
+    - 3.4:
+        non_striker: S Konstas
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 3.5:
+        non_striker: S Konstas
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 3.6:
+        non_striker: S Konstas
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 3.7:
+        non_striker: S Konstas
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 4.1:
+        non_striker: UT Khawaja
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Konstas
+    - 4.2:
+        non_striker: UT Khawaja
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Konstas
+    - 4.3:
+        non_striker: UT Khawaja
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Konstas
+    - 4.4:
+        non_striker: UT Khawaja
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Konstas
+    - 4.5:
+        non_striker: UT Khawaja
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Konstas
+    - 4.6:
+        non_striker: UT Khawaja
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Konstas
+    - 5.1:
+        non_striker: S Konstas
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 5.2:
+        non_striker: S Konstas
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 5.3:
+        non_striker: S Konstas
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 5.4:
+        non_striker: S Konstas
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 5.5:
+        non_striker: S Konstas
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 5.6:
+        non_striker: S Konstas
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 6.1:
+        non_striker: UT Khawaja
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Konstas
+    - 6.2:
+        non_striker: UT Khawaja
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Konstas
+    - 6.3:
+        non_striker: UT Khawaja
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Konstas
+    - 6.4:
+        non_striker: UT Khawaja
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Konstas
+    - 6.5:
+        non_striker: UT Khawaja
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Konstas
+    - 6.6:
+        non_striker: UT Khawaja
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Konstas
+    - 7.1:
+        non_striker: UT Khawaja
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Konstas
+    - 7.2:
+        non_striker: UT Khawaja
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Konstas
+    - 7.3:
+        non_striker: UT Khawaja
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Konstas
+    - 7.4:
+        non_striker: UT Khawaja
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Konstas
+    - 7.5:
+        non_striker: UT Khawaja
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Konstas
+    - 7.6:
+        non_striker: UT Khawaja
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Konstas
+    - 8.1:
+        non_striker: UT Khawaja
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Konstas
+    - 8.2:
+        non_striker: UT Khawaja
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Konstas
+    - 8.3:
+        non_striker: UT Khawaja
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Konstas
+    - 8.4:
+        non_striker: UT Khawaja
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Konstas
+    - 8.5:
+        non_striker: UT Khawaja
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Konstas
+    - 8.6:
+        non_striker: UT Khawaja
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Konstas
+    - 9.1:
+        non_striker: S Konstas
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 9.2:
+        non_striker: S Konstas
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 9.3:
+        non_striker: S Konstas
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 9.4:
+        non_striker: S Konstas
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 9.5:
+        non_striker: S Konstas
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 9.6:
+        non_striker: S Konstas
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 10.1:
+        non_striker: UT Khawaja
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Konstas
+    - 10.2:
+        non_striker: UT Khawaja
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Konstas
+    - 10.3:
+        non_striker: UT Khawaja
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Konstas
+    - 10.4:
+        non_striker: UT Khawaja
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Konstas
+    - 10.5:
+        non_striker: UT Khawaja
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Konstas
+    - 10.6:
+        non_striker: UT Khawaja
+        bowler: AS Joseph
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: S Konstas
+    - 10.7:
+        non_striker: UT Khawaja
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Konstas
+    - 11.1:
+        non_striker: S Konstas
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 11.2:
+        non_striker: S Konstas
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UT Khawaja
+    - 11.3:
+        non_striker: UT Khawaja
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Konstas
+    - 11.4:
+        non_striker: S Konstas
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 11.5:
+        non_striker: S Konstas
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 11.6:
+        non_striker: S Konstas
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 12.1:
+        non_striker: UT Khawaja
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: S Konstas
+    - 12.2:
+        non_striker: S Konstas
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 12.3:
+        non_striker: S Konstas
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: UT Khawaja
+    - 12.4:
+        non_striker: S Konstas
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 12.5:
+        non_striker: S Konstas
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 12.6:
+        non_striker: S Konstas
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 13.1:
+        non_striker: UT Khawaja
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Konstas
+    - 13.2:
+        non_striker: UT Khawaja
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Konstas
+    - 13.3:
+        non_striker: UT Khawaja
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Konstas
+    - 13.4:
+        non_striker: UT Khawaja
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Konstas
+    - 13.5:
+        non_striker: UT Khawaja
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Konstas
+    - 13.6:
+        non_striker: UT Khawaja
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Konstas
+    - 14.1:
+        non_striker: S Konstas
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 14.2:
+        non_striker: S Konstas
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 14.3:
+        non_striker: S Konstas
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UT Khawaja
+    - 14.4:
+        non_striker: UT Khawaja
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Konstas
+    - 14.5:
+        non_striker: UT Khawaja
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Konstas
+    - 14.6:
+        non_striker: UT Khawaja
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Konstas
+    - 15.1:
+        non_striker: S Konstas
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 15.2:
+        non_striker: S Konstas
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 15.3:
+        non_striker: S Konstas
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 15.4:
+        non_striker: S Konstas
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 15.5:
+        non_striker: S Konstas
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 15.6:
+        non_striker: S Konstas
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 16.1:
+        non_striker: UT Khawaja
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Konstas
+        wicket:
+          player_out: S Konstas
+          kind: lbw
+    - 16.2:
+        non_striker: UT Khawaja
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 16.3:
+        non_striker: UT Khawaja
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 16.4:
+        non_striker: UT Khawaja
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 16.5:
+        non_striker: UT Khawaja
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 16.6:
+        non_striker: UT Khawaja
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 17.1:
+        non_striker: C Green
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UT Khawaja
+    - 17.2:
+        non_striker: UT Khawaja
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 17.3:
+        non_striker: UT Khawaja
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 17.4:
+        non_striker: UT Khawaja
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Green
+    - 17.5:
+        non_striker: UT Khawaja
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 17.6:
+        non_striker: UT Khawaja
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 18.1:
+        non_striker: C Green
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 18.2:
+        non_striker: C Green
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 18.3:
+        non_striker: C Green
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 18.4:
+        non_striker: C Green
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: UT Khawaja
+    - 18.5:
+        non_striker: C Green
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: UT Khawaja
+    - 18.6:
+        non_striker: C Green
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 19.1:
+        non_striker: UT Khawaja
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 19.2:
+        non_striker: UT Khawaja
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 19.3:
+        non_striker: UT Khawaja
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 19.4:
+        non_striker: UT Khawaja
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 19.5:
+        non_striker: UT Khawaja
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 19.6:
+        non_striker: UT Khawaja
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 20.1:
+        non_striker: C Green
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 20.2:
+        non_striker: C Green
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: UT Khawaja
+    - 20.3:
+        non_striker: C Green
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 20.4:
+        non_striker: C Green
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 20.5:
+        non_striker: C Green
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 20.6:
+        non_striker: C Green
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 21.1:
+        non_striker: UT Khawaja
+        bowler: JNT Seales
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: C Green
+    - 21.2:
+        non_striker: UT Khawaja
+        bowler: JNT Seales
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: C Green
+    - 21.3:
+        non_striker: UT Khawaja
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 21.4:
+        non_striker: UT Khawaja
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 21.5:
+        non_striker: UT Khawaja
+        bowler: JNT Seales
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: C Green
+    - 21.6:
+        non_striker: UT Khawaja
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 21.7:
+        non_striker: UT Khawaja
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 21.8:
+        non_striker: UT Khawaja
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 22.1:
+        non_striker: C Green
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 22.2:
+        non_striker: C Green
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 22.3:
+        non_striker: C Green
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 22.4:
+        non_striker: C Green
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 22.5:
+        non_striker: C Green
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UT Khawaja
+    - 22.6:
+        non_striker: UT Khawaja
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 23.1:
+        non_striker: C Green
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 23.2:
+        non_striker: C Green
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 23.3:
+        non_striker: C Green
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 23.4:
+        non_striker: C Green
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 23.5:
+        non_striker: C Green
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 23.6:
+        non_striker: C Green
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 24.1:
+        non_striker: UT Khawaja
+        bowler: JA Warrican
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 24.2:
+        non_striker: UT Khawaja
+        bowler: JA Warrican
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 24.3:
+        non_striker: UT Khawaja
+        bowler: JA Warrican
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 24.4:
+        non_striker: UT Khawaja
+        bowler: JA Warrican
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 24.5:
+        non_striker: UT Khawaja
+        bowler: JA Warrican
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 24.6:
+        non_striker: UT Khawaja
+        bowler: JA Warrican
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 25.1:
+        non_striker: C Green
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: UT Khawaja
+    - 25.2:
+        non_striker: C Green
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 25.3:
+        non_striker: C Green
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 25.4:
+        non_striker: C Green
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 25.5:
+        non_striker: C Green
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 25.6:
+        non_striker: C Green
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 26.1:
+        non_striker: UT Khawaja
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 26.2:
+        non_striker: UT Khawaja
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 26.3:
+        non_striker: UT Khawaja
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 26.4:
+        non_striker: UT Khawaja
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 26.5:
+        non_striker: UT Khawaja
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 26.6:
+        non_striker: UT Khawaja
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 27.1:
+        non_striker: C Green
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 27.2:
+        non_striker: C Green
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 27.3:
+        non_striker: C Green
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 27.4:
+        non_striker: C Green
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 27.5:
+        non_striker: C Green
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 27.6:
+        non_striker: C Green
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 28.1:
+        non_striker: UT Khawaja
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 28.2:
+        non_striker: UT Khawaja
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Green
+    - 28.3:
+        non_striker: UT Khawaja
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 28.4:
+        non_striker: UT Khawaja
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Green
+    - 28.5:
+        non_striker: UT Khawaja
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 28.6:
+        non_striker: UT Khawaja
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 29.1:
+        non_striker: C Green
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UT Khawaja
+    - 29.2:
+        non_striker: UT Khawaja
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 29.3:
+        non_striker: UT Khawaja
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 29.4:
+        non_striker: UT Khawaja
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 29.5:
+        non_striker: UT Khawaja
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 29.6:
+        non_striker: UT Khawaja
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Green
+    - 30.1:
+        non_striker: C Green
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 30.2:
+        non_striker: C Green
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 30.3:
+        non_striker: C Green
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: UT Khawaja
+    - 30.4:
+        non_striker: C Green
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 30.5:
+        non_striker: C Green
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 30.6:
+        non_striker: C Green
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 31.1:
+        non_striker: UT Khawaja
+        bowler: S Joseph
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: C Green
+    - 31.2:
+        non_striker: C Green
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: UT Khawaja
+    - 31.3:
+        non_striker: C Green
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+        wicket:
+          player_out: UT Khawaja
+          fielders:
+          - SD Hope
+          kind: caught
+    - 31.4:
+        non_striker: C Green
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 31.5:
+        non_striker: C Green
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 31.6:
+        non_striker: C Green
+        bowler: S Joseph
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: SPD Smith
+    - 31.7:
+        non_striker: C Green
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 32.1:
+        non_striker: SPD Smith
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 32.2:
+        non_striker: SPD Smith
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 32.3:
+        non_striker: SPD Smith
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 32.4:
+        non_striker: SPD Smith
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 32.5:
+        non_striker: SPD Smith
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 32.6:
+        non_striker: SPD Smith
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Green
+    - 33.1:
+        non_striker: C Green
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 33.2:
+        non_striker: C Green
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 33.3:
+        non_striker: C Green
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SPD Smith
+    - 33.4:
+        non_striker: C Green
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 33.5:
+        non_striker: C Green
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 33.6:
+        non_striker: C Green
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SPD Smith
+    - 34.1:
+        non_striker: SPD Smith
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 34.2:
+        non_striker: SPD Smith
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 34.3:
+        non_striker: SPD Smith
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Green
+    - 34.4:
+        non_striker: C Green
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 34.5:
+        non_striker: C Green
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 34.6:
+        non_striker: C Green
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SPD Smith
+    - 35.1:
+        non_striker: SPD Smith
+        bowler: JA Warrican
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 35.2:
+        non_striker: SPD Smith
+        bowler: JA Warrican
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Green
+    - 35.3:
+        non_striker: C Green
+        bowler: JA Warrican
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 35.4:
+        non_striker: SPD Smith
+        bowler: JA Warrican
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 35.5:
+        non_striker: SPD Smith
+        bowler: JA Warrican
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 35.6:
+        non_striker: SPD Smith
+        bowler: JA Warrican
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 36.1:
+        non_striker: C Green
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 36.2:
+        non_striker: C Green
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SPD Smith
+    - 36.3:
+        non_striker: C Green
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SPD Smith
+    - 36.4:
+        non_striker: C Green
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SPD Smith
+    - 36.5:
+        non_striker: C Green
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 36.6:
+        non_striker: C Green
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 37.1:
+        non_striker: SPD Smith
+        bowler: JA Warrican
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 37.2:
+        non_striker: SPD Smith
+        bowler: JA Warrican
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 37.3:
+        non_striker: SPD Smith
+        bowler: JA Warrican
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Green
+    - 37.4:
+        non_striker: SPD Smith
+        bowler: JA Warrican
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 37.5:
+        non_striker: SPD Smith
+        bowler: JA Warrican
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Green
+    - 37.6:
+        non_striker: C Green
+        bowler: JA Warrican
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 38.1:
+        non_striker: SPD Smith
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Green
+    - 38.2:
+        non_striker: C Green
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SPD Smith
+    - 38.3:
+        non_striker: C Green
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 38.4:
+        non_striker: SPD Smith
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 38.5:
+        non_striker: SPD Smith
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 38.6:
+        non_striker: SPD Smith
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 39.1:
+        non_striker: C Green
+        bowler: JA Warrican
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 39.2:
+        non_striker: C Green
+        bowler: JA Warrican
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 39.3:
+        non_striker: C Green
+        bowler: JA Warrican
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 39.4:
+        non_striker: C Green
+        bowler: JA Warrican
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 39.5:
+        non_striker: C Green
+        bowler: JA Warrican
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 39.6:
+        non_striker: C Green
+        bowler: JA Warrican
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 40.1:
+        non_striker: SPD Smith
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 40.2:
+        non_striker: SPD Smith
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Green
+    - 40.3:
+        non_striker: C Green
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 40.4:
+        non_striker: C Green
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 40.5:
+        non_striker: C Green
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 40.6:
+        non_striker: C Green
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 41.1:
+        non_striker: SPD Smith
+        bowler: JA Warrican
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Green
+    - 41.2:
+        non_striker: SPD Smith
+        bowler: JA Warrican
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 41.3:
+        non_striker: SPD Smith
+        bowler: JA Warrican
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Green
+    - 41.4:
+        non_striker: C Green
+        bowler: JA Warrican
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 41.5:
+        non_striker: C Green
+        bowler: JA Warrican
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 41.6:
+        non_striker: C Green
+        bowler: JA Warrican
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 42.1:
+        non_striker: SPD Smith
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Green
+    - 42.2:
+        non_striker: SPD Smith
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 42.3:
+        non_striker: SPD Smith
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 42.4:
+        non_striker: SPD Smith
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 42.5:
+        non_striker: SPD Smith
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 42.6:
+        non_striker: SPD Smith
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Green
+    - 43.1:
+        non_striker: SPD Smith
+        bowler: JA Warrican
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 43.2:
+        non_striker: SPD Smith
+        bowler: JA Warrican
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 43.3:
+        non_striker: SPD Smith
+        bowler: JA Warrican
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Green
+    - 43.4:
+        non_striker: SPD Smith
+        bowler: JA Warrican
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 43.5:
+        non_striker: SPD Smith
+        bowler: JA Warrican
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 43.6:
+        non_striker: SPD Smith
+        bowler: JA Warrican
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Green
+    - 44.1:
+        non_striker: SPD Smith
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 44.2:
+        non_striker: SPD Smith
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 44.3:
+        non_striker: SPD Smith
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 44.4:
+        non_striker: SPD Smith
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 44.5:
+        non_striker: SPD Smith
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Green
+    - 44.6:
+        non_striker: C Green
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 45.1:
+        non_striker: SPD Smith
+        bowler: JA Warrican
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 45.2:
+        non_striker: SPD Smith
+        bowler: JA Warrican
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 45.3:
+        non_striker: SPD Smith
+        bowler: JA Warrican
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 45.4:
+        non_striker: SPD Smith
+        bowler: JA Warrican
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 45.5:
+        non_striker: SPD Smith
+        bowler: JA Warrican
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 45.6:
+        non_striker: SPD Smith
+        bowler: JA Warrican
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 46.1:
+        non_striker: C Green
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SPD Smith
+    - 46.2:
+        non_striker: C Green
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 46.3:
+        non_striker: C Green
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 46.4:
+        non_striker: C Green
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 46.5:
+        non_striker: SPD Smith
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 46.6:
+        non_striker: SPD Smith
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: C Green
+    - 47.1:
+        non_striker: SPD Smith
+        bowler: JA Warrican
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Green
+    - 47.2:
+        non_striker: C Green
+        bowler: JA Warrican
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 47.3:
+        non_striker: C Green
+        bowler: JA Warrican
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 47.4:
+        non_striker: C Green
+        bowler: JA Warrican
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 47.5:
+        non_striker: C Green
+        bowler: JA Warrican
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 47.6:
+        non_striker: C Green
+        bowler: JA Warrican
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 48.1:
+        non_striker: SPD Smith
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 48.2:
+        non_striker: SPD Smith
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 48.3:
+        non_striker: SPD Smith
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: C Green
+    - 48.4:
+        non_striker: C Green
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 48.5:
+        non_striker: SPD Smith
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 48.6:
+        non_striker: SPD Smith
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+        wicket:
+          player_out: C Green
+          kind: bowled
+    - 49.1:
+        non_striker: TM Head
+        bowler: JA Warrican
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SPD Smith
+    - 49.2:
+        non_striker: TM Head
+        bowler: JA Warrican
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 49.3:
+        non_striker: TM Head
+        bowler: JA Warrican
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 49.4:
+        non_striker: TM Head
+        bowler: JA Warrican
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 49.5:
+        non_striker: TM Head
+        bowler: JA Warrican
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SPD Smith
+    - 49.6:
+        non_striker: TM Head
+        bowler: JA Warrican
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 50.1:
+        non_striker: SPD Smith
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 50.2:
+        non_striker: SPD Smith
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TM Head
+    - 50.3:
+        non_striker: SPD Smith
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 50.4:
+        non_striker: SPD Smith
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 50.5:
+        non_striker: SPD Smith
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 50.6:
+        non_striker: TM Head
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 51.1:
+        non_striker: SPD Smith
+        bowler: JA Warrican
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 51.2:
+        non_striker: SPD Smith
+        bowler: JA Warrican
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 51.3:
+        non_striker: SPD Smith
+        bowler: JA Warrican
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 51.4:
+        non_striker: SPD Smith
+        bowler: JA Warrican
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 51.5:
+        non_striker: SPD Smith
+        bowler: JA Warrican
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 51.6:
+        non_striker: SPD Smith
+        bowler: JA Warrican
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 52.1:
+        non_striker: TM Head
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 52.2:
+        non_striker: TM Head
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SPD Smith
+    - 52.3:
+        non_striker: TM Head
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 52.4:
+        non_striker: SPD Smith
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TM Head
+    - 52.5:
+        non_striker: SPD Smith
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 52.6:
+        non_striker: SPD Smith
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 53.1:
+        non_striker: TM Head
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 53.2:
+        non_striker: TM Head
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 53.3:
+        non_striker: SPD Smith
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 53.4:
+        non_striker: SPD Smith
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 53.5:
+        non_striker: SPD Smith
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 53.6:
+        non_striker: SPD Smith
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 54.1:
+        non_striker: TM Head
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 54.2:
+        non_striker: TM Head
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 54.3:
+        non_striker: TM Head
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SPD Smith
+    - 54.4:
+        non_striker: TM Head
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 54.5:
+        non_striker: TM Head
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SPD Smith
+    - 54.6:
+        non_striker: TM Head
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 55.1:
+        non_striker: SPD Smith
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 55.2:
+        non_striker: SPD Smith
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 55.3:
+        non_striker: SPD Smith
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 55.4:
+        non_striker: SPD Smith
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 55.5:
+        non_striker: SPD Smith
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 55.6:
+        non_striker: TM Head
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+        wicket:
+          player_out: SPD Smith
+          fielders:
+          - BA King
+          kind: caught
+    - 56.1:
+        non_striker: BJ Webster
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 56.2:
+        non_striker: BJ Webster
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 56.3:
+        non_striker: BJ Webster
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 56.4:
+        non_striker: TM Head
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Webster
+    - 56.5:
+        non_striker: TM Head
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Webster
+    - 56.6:
+        non_striker: TM Head
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Webster
+    - 57.1:
+        non_striker: BJ Webster
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 57.2:
+        non_striker: BJ Webster
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 57.3:
+        non_striker: BJ Webster
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 57.4:
+        non_striker: BJ Webster
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 57.5:
+        non_striker: BJ Webster
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 57.6:
+        non_striker: TM Head
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Webster
+    - 58.1:
+        non_striker: BJ Webster
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 58.2:
+        non_striker: BJ Webster
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 58.3:
+        non_striker: BJ Webster
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 58.4:
+        non_striker: BJ Webster
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 58.5:
+        non_striker: BJ Webster
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 58.6:
+        non_striker: TM Head
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Webster
+    - 59.1:
+        non_striker: TM Head
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Webster
+    - 59.2:
+        non_striker: TM Head
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Webster
+    - 59.3:
+        non_striker: TM Head
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Webster
+    - 59.4:
+        non_striker: TM Head
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Webster
+        wicket:
+          player_out: BJ Webster
+          fielders:
+          - SD Hope
+          kind: caught
+    - 59.5:
+        non_striker: TM Head
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Carey
+    - 59.6:
+        non_striker: TM Head
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AT Carey
+    - 60.1:
+        non_striker: AT Carey
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 60.2:
+        non_striker: TM Head
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Carey
+    - 60.3:
+        non_striker: TM Head
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AT Carey
+    - 60.4:
+        non_striker: TM Head
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Carey
+    - 60.5:
+        non_striker: TM Head
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AT Carey
+    - 60.6:
+        non_striker: TM Head
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Carey
+    - 61.1:
+        non_striker: TM Head
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Carey
+    - 61.2:
+        non_striker: TM Head
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Carey
+    - 61.3:
+        non_striker: TM Head
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Carey
+    - 61.4:
+        non_striker: TM Head
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Carey
+    - 61.5:
+        non_striker: TM Head
+        bowler: S Joseph
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AT Carey
+    - 61.6:
+        non_striker: AT Carey
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 62.1:
+        non_striker: AT Carey
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 62.2:
+        non_striker: AT Carey
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 62.3:
+        non_striker: AT Carey
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 62.4:
+        non_striker: AT Carey
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 62.5:
+        non_striker: AT Carey
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 62.6:
+        non_striker: AT Carey
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 63.1:
+        non_striker: AT Carey
+        bowler: JA Warrican
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 63.2:
+        non_striker: AT Carey
+        bowler: JA Warrican
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 63.3:
+        non_striker: AT Carey
+        bowler: JA Warrican
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 63.4:
+        non_striker: AT Carey
+        bowler: JA Warrican
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 63.5:
+        non_striker: AT Carey
+        bowler: JA Warrican
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 63.6:
+        non_striker: AT Carey
+        bowler: JA Warrican
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 64.1:
+        non_striker: TM Head
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Carey
+    - 64.2:
+        non_striker: TM Head
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AT Carey
+    - 64.3:
+        non_striker: TM Head
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Carey
+    - 64.4:
+        non_striker: AT Carey
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 64.5:
+        non_striker: AT Carey
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 64.6:
+        non_striker: AT Carey
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+        wicket:
+          player_out: TM Head
+          fielders:
+          - A Phillip (sub)
+          kind: caught
+    - 65.1:
+        non_striker: PJ Cummins
+        bowler: JA Warrican
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Carey
+    - 65.2:
+        non_striker: AT Carey
+        bowler: JA Warrican
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+    - 65.3:
+        non_striker: AT Carey
+        bowler: JA Warrican
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+    - 65.4:
+        non_striker: AT Carey
+        bowler: JA Warrican
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PJ Cummins
+    - 65.5:
+        non_striker: AT Carey
+        bowler: JA Warrican
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PJ Cummins
+    - 65.6:
+        non_striker: AT Carey
+        bowler: JA Warrican
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+    - 66.1:
+        non_striker: PJ Cummins
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Carey
+    - 66.2:
+        non_striker: PJ Cummins
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Carey
+    - 66.3:
+        non_striker: PJ Cummins
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Carey
+    - 66.4:
+        non_striker: PJ Cummins
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Carey
+        wicket:
+          player_out: AT Carey
+          fielders:
+          - SD Hope
+          kind: caught
+    - 66.5:
+        non_striker: PJ Cummins
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Starc
+    - 66.6:
+        non_striker: PJ Cummins
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Starc
+    - 67.1:
+        non_striker: MA Starc
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+    - 67.2:
+        non_striker: MA Starc
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+    - 67.3:
+        non_striker: MA Starc
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+    - 67.4:
+        non_striker: MA Starc
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PJ Cummins
+    - 67.5:
+        non_striker: PJ Cummins
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Starc
+    - 67.6:
+        non_striker: PJ Cummins
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Starc
+        wicket:
+          player_out: MA Starc
+          kind: bowled
+    - 68.1:
+        non_striker: SM Boland
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PJ Cummins
+    - 68.2:
+        non_striker: PJ Cummins
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Boland
+    - 68.3:
+        non_striker: PJ Cummins
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Boland
+    - 68.4:
+        non_striker: SM Boland
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PJ Cummins
+    - 68.5:
+        non_striker: SM Boland
+        bowler: JP Greaves
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: PJ Cummins
+    - 68.6:
+        non_striker: PJ Cummins
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Boland
+    - 69.1:
+        non_striker: SM Boland
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PJ Cummins
+    - 69.2:
+        non_striker: SM Boland
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PJ Cummins
+    - 69.3:
+        non_striker: SM Boland
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+    - 69.4:
+        non_striker: SM Boland
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+    - 69.5:
+        non_striker: SM Boland
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+        wicket:
+          player_out: PJ Cummins
+          fielders:
+          - KA Anderson
+          kind: caught
+    - 69.6:
+        non_striker: SM Boland
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JR Hazlewood
+    - 70.1:
+        non_striker: JR Hazlewood
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Boland
+    - 70.2:
+        non_striker: JR Hazlewood
+        bowler: S Joseph
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: SM Boland
+    - 70.3:
+        non_striker: SM Boland
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Hazlewood
+        wicket:
+          player_out: JR Hazlewood
+          fielders:
+          - AS Joseph
+          kind: caught
+- 2nd innings:
+    team: West Indies
+    deliveries:
+    - 0.1:
+        non_striker: KA Anderson
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 0.2:
+        non_striker: KA Anderson
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 0.3:
+        non_striker: KA Anderson
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA King
+    - 0.4:
+        non_striker: BA King
+        bowler: MA Starc
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: KA Anderson
+    - 0.5:
+        non_striker: KA Anderson
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 0.6:
+        non_striker: KA Anderson
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 1.1:
+        non_striker: BA King
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KA Anderson
+    - 1.2:
+        non_striker: BA King
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Anderson
+    - 1.3:
+        non_striker: BA King
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Anderson
+    - 1.4:
+        non_striker: BA King
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Anderson
+    - 1.5:
+        non_striker: BA King
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Anderson
+    - 1.6:
+        non_striker: BA King
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Anderson
+    - 2.1:
+        non_striker: BA King
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Anderson
+    - 2.2:
+        non_striker: BA King
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Anderson
+    - 2.3:
+        non_striker: BA King
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Anderson
+    - 2.4:
+        non_striker: BA King
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Anderson
+    - 2.5:
+        non_striker: BA King
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Anderson
+    - 2.6:
+        non_striker: BA King
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Anderson
+    - 3.1:
+        non_striker: KA Anderson
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 3.2:
+        non_striker: KA Anderson
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 3.3:
+        non_striker: KA Anderson
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 3.4:
+        non_striker: KA Anderson
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 3.5:
+        non_striker: KA Anderson
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BA King
+    - 3.6:
+        non_striker: KA Anderson
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA King
+    - 4.1:
+        non_striker: KA Anderson
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA King
+    - 4.2:
+        non_striker: BA King
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Anderson
+        wicket:
+          player_out: KA Anderson
+          kind: bowled
+    - 4.3:
+        non_striker: BA King
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 4.4:
+        non_striker: BA King
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 4.5:
+        non_striker: BA King
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 4.6:
+        non_striker: BA King
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 5.1:
+        non_striker: RL Chase
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 5.2:
+        non_striker: RL Chase
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 5.3:
+        non_striker: RL Chase
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 5.4:
+        non_striker: RL Chase
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA King
+    - 5.5:
+        non_striker: BA King
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 5.6:
+        non_striker: BA King
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 6.1:
+        non_striker: RL Chase
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 6.2:
+        non_striker: RL Chase
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 6.3:
+        non_striker: RL Chase
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 6.4:
+        non_striker: RL Chase
+        bowler: MA Starc
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: BA King
+    - 6.5:
+        non_striker: BA King
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 6.6:
+        non_striker: BA King
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 7.1:
+        non_striker: BA King
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 7.2:
+        non_striker: BA King
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RL Chase
+    - 7.3:
+        non_striker: BA King
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 7.4:
+        non_striker: BA King
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 7.5:
+        non_striker: BA King
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 7.6:
+        non_striker: BA King
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 8.1:
+        non_striker: RL Chase
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 8.2:
+        non_striker: RL Chase
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 8.3:
+        non_striker: RL Chase
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 8.4:
+        non_striker: RL Chase
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 8.5:
+        non_striker: RL Chase
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 8.6:
+        non_striker: RL Chase
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 9.1:
+        non_striker: BA King
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 9.2:
+        non_striker: BA King
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 9.3:
+        non_striker: BA King
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 9.4:
+        non_striker: BA King
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 9.5:
+        non_striker: BA King
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 9.6:
+        non_striker: BA King
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 10.1:
+        non_striker: BA King
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 10.2:
+        non_striker: BA King
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 10.3:
+        non_striker: BA King
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 10.4:
+        non_striker: BA King
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 10.5:
+        non_striker: BA King
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 10.6:
+        non_striker: BA King
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 11.1:
+        non_striker: RL Chase
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 11.2:
+        non_striker: RL Chase
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 11.3:
+        non_striker: RL Chase
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 11.4:
+        non_striker: RL Chase
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 11.5:
+        non_striker: RL Chase
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BA King
+    - 11.6:
+        non_striker: RL Chase
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 12.1:
+        non_striker: BA King
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 12.2:
+        non_striker: BA King
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 12.3:
+        non_striker: BA King
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 12.4:
+        non_striker: RL Chase
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 12.5:
+        non_striker: RL Chase
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 12.6:
+        non_striker: RL Chase
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 13.1:
+        non_striker: BA King
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 13.2:
+        non_striker: BA King
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 13.3:
+        non_striker: RL Chase
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 13.4:
+        non_striker: RL Chase
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 13.5:
+        non_striker: RL Chase
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 13.6:
+        non_striker: RL Chase
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BA King
+    - 14.1:
+        non_striker: BA King
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RL Chase
+    - 14.2:
+        non_striker: BA King
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 14.3:
+        non_striker: BA King
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 14.4:
+        non_striker: BA King
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 14.5:
+        non_striker: BA King
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 14.6:
+        non_striker: RL Chase
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 15.1:
+        non_striker: BA King
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 15.2:
+        non_striker: BA King
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 15.3:
+        non_striker: BA King
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 15.4:
+        non_striker: BA King
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 15.5:
+        non_striker: BA King
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 15.6:
+        non_striker: BA King
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 16.1:
+        non_striker: RL Chase
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 16.2:
+        non_striker: RL Chase
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+        wicket:
+          player_out: BA King
+          kind: lbw
+    - 16.3:
+        non_striker: RL Chase
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Campbell
+    - 16.4:
+        non_striker: RL Chase
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JD Campbell
+    - 16.5:
+        non_striker: RL Chase
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Campbell
+    - 16.6:
+        non_striker: RL Chase
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Campbell
+    - 17.1:
+        non_striker: JD Campbell
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 17.2:
+        non_striker: JD Campbell
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 17.3:
+        non_striker: JD Campbell
+        bowler: SM Boland
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: RL Chase
+    - 17.4:
+        non_striker: JD Campbell
+        bowler: SM Boland
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: RL Chase
+    - 17.5:
+        non_striker: JD Campbell
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RL Chase
+    - 17.6:
+        non_striker: JD Campbell
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 17.7:
+        non_striker: JD Campbell
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 17.8:
+        non_striker: JD Campbell
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 18.1:
+        non_striker: RL Chase
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Campbell
+    - 18.2:
+        non_striker: RL Chase
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JD Campbell
+    - 18.3:
+        non_striker: RL Chase
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Campbell
+    - 18.4:
+        non_striker: RL Chase
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JD Campbell
+    - 18.5:
+        non_striker: RL Chase
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Campbell
+    - 18.6:
+        non_striker: RL Chase
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Campbell
+    - 19.1:
+        non_striker: JD Campbell
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 19.2:
+        non_striker: JD Campbell
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 19.3:
+        non_striker: JD Campbell
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 19.4:
+        non_striker: JD Campbell
+        bowler: SM Boland
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: RL Chase
+    - 19.5:
+        non_striker: JD Campbell
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 19.6:
+        non_striker: JD Campbell
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 19.7:
+        non_striker: JD Campbell
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RL Chase
+    - 20.1:
+        non_striker: RL Chase
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Campbell
+    - 20.2:
+        non_striker: RL Chase
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Campbell
+    - 20.3:
+        non_striker: RL Chase
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Campbell
+    - 20.4:
+        non_striker: RL Chase
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Campbell
+    - 20.5:
+        non_striker: JD Campbell
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 20.6:
+        non_striker: JD Campbell
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 21.1:
+        non_striker: RL Chase
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Campbell
+    - 21.2:
+        non_striker: RL Chase
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Campbell
+    - 21.3:
+        non_striker: RL Chase
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Campbell
+    - 21.4:
+        non_striker: JD Campbell
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 21.5:
+        non_striker: JD Campbell
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 21.6:
+        non_striker: JD Campbell
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 22.1:
+        non_striker: RL Chase
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Campbell
+    - 22.2:
+        non_striker: RL Chase
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Campbell
+    - 22.3:
+        non_striker: RL Chase
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Campbell
+    - 22.4:
+        non_striker: RL Chase
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JD Campbell
+    - 22.5:
+        non_striker: RL Chase
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Campbell
+    - 22.6:
+        non_striker: RL Chase
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Campbell
+    - 23.1:
+        non_striker: RL Chase
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Campbell
+    - 23.2:
+        non_striker: JD Campbell
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RL Chase
+    - 23.3:
+        non_striker: JD Campbell
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 23.4:
+        non_striker: RL Chase
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Campbell
+    - 23.5:
+        non_striker: RL Chase
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Campbell
+    - 23.6:
+        non_striker: RL Chase
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Campbell
+    - 24.1:
+        non_striker: RL Chase
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Campbell
+    - 24.2:
+        non_striker: RL Chase
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Campbell
+    - 24.3:
+        non_striker: RL Chase
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Campbell
+    - 24.4:
+        non_striker: JD Campbell
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 24.5:
+        non_striker: JD Campbell
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 24.6:
+        non_striker: JD Campbell
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 25.1:
+        non_striker: RL Chase
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Campbell
+    - 25.2:
+        non_striker: RL Chase
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Campbell
+    - 25.3:
+        non_striker: RL Chase
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Campbell
+    - 25.4:
+        non_striker: RL Chase
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Campbell
+    - 25.5:
+        non_striker: RL Chase
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Campbell
+    - 25.6:
+        non_striker: RL Chase
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Campbell
+    - 26.1:
+        non_striker: JD Campbell
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 26.2:
+        non_striker: JD Campbell
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 26.3:
+        non_striker: JD Campbell
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 26.4:
+        non_striker: JD Campbell
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+        wicket:
+          player_out: RL Chase
+          fielders:
+          - UT Khawaja
+          kind: caught
+    - 26.5:
+        non_striker: JD Campbell
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Louis
+    - 26.6:
+        non_striker: JD Campbell
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Louis
+    - 27.1:
+        non_striker: M Louis
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Campbell
+    - 27.2:
+        non_striker: M Louis
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Campbell
+    - 27.3:
+        non_striker: M Louis
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Campbell
+    - 27.4:
+        non_striker: JD Campbell
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Louis
+    - 27.5:
+        non_striker: M Louis
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Campbell
+    - 27.6:
+        non_striker: JD Campbell
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Louis
+    - 28.1:
+        non_striker: M Louis
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Campbell
+    - 28.2:
+        non_striker: JD Campbell
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Louis
+    - 28.3:
+        non_striker: M Louis
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Campbell
+    - 28.4:
+        non_striker: M Louis
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Campbell
+    - 28.5:
+        non_striker: M Louis
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Campbell
+    - 28.6:
+        non_striker: M Louis
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Campbell
+    - 29.1:
+        non_striker: JD Campbell
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Louis
+    - 29.2:
+        non_striker: JD Campbell
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Louis
+    - 29.3:
+        non_striker: JD Campbell
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Louis
+    - 29.4:
+        non_striker: JD Campbell
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Louis
+    - 29.5:
+        non_striker: JD Campbell
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Louis
+    - 29.6:
+        non_striker: JD Campbell
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Louis
+    - 30.1:
+        non_striker: M Louis
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Campbell
+    - 30.2:
+        non_striker: M Louis
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Campbell
+    - 30.3:
+        non_striker: M Louis
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 5
+          batsman: 5
+        batsman: JD Campbell
+    - 30.4:
+        non_striker: JD Campbell
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Louis
+    - 30.5:
+        non_striker: JD Campbell
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Louis
+    - 30.6:
+        non_striker: JD Campbell
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Louis
+    - 31.1:
+        non_striker: M Louis
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Campbell
+    - 31.2:
+        non_striker: M Louis
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Campbell
+    - 31.3:
+        non_striker: M Louis
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Campbell
+    - 31.4:
+        non_striker: M Louis
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Campbell
+    - 31.5:
+        non_striker: M Louis
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JD Campbell
+    - 31.6:
+        non_striker: M Louis
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Campbell
+    - 32.1:
+        non_striker: M Louis
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Campbell
+    - 32.2:
+        non_striker: M Louis
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Campbell
+    - 32.3:
+        non_striker: M Louis
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Campbell
+    - 32.4:
+        non_striker: M Louis
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Campbell
+    - 32.5:
+        non_striker: M Louis
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Campbell
+    - 32.6:
+        non_striker: M Louis
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JD Campbell
+    - 33.1:
+        non_striker: JD Campbell
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Louis
+    - 33.2:
+        non_striker: JD Campbell
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Louis
+    - 33.3:
+        non_striker: JD Campbell
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Louis
+    - 33.4:
+        non_striker: JD Campbell
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Louis
+    - 33.5:
+        non_striker: JD Campbell
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Louis
+    - 33.6:
+        non_striker: JD Campbell
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Louis
+    - 34.1:
+        non_striker: M Louis
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Campbell
+    - 34.2:
+        non_striker: M Louis
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Campbell
+    - 34.3:
+        non_striker: M Louis
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Campbell
+    - 34.4:
+        non_striker: M Louis
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Campbell
+    - 34.5:
+        non_striker: JD Campbell
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Louis
+    - 34.6:
+        non_striker: JD Campbell
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Louis
+    - 35.1:
+        non_striker: M Louis
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Campbell
+        wicket:
+          player_out: JD Campbell
+          kind: lbw
+    - 35.2:
+        non_striker: M Louis
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SD Hope
+    - 35.3:
+        non_striker: M Louis
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 35.4:
+        non_striker: M Louis
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 35.5:
+        non_striker: M Louis
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 35.6:
+        non_striker: M Louis
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SD Hope
+    - 36.1:
+        non_striker: SD Hope
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Louis
+    - 36.2:
+        non_striker: SD Hope
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Louis
+    - 36.3:
+        non_striker: SD Hope
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Louis
+    - 36.4:
+        non_striker: SD Hope
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Louis
+    - 36.5:
+        non_striker: M Louis
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 36.6:
+        non_striker: M Louis
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 37.1:
+        non_striker: SD Hope
+        bowler: SM Boland
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: M Louis
+    - 37.2:
+        non_striker: M Louis
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 37.3:
+        non_striker: M Louis
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 37.4:
+        non_striker: M Louis
+        bowler: SM Boland
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: SD Hope
+    - 37.5:
+        non_striker: M Louis
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 37.6:
+        non_striker: M Louis
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SD Hope
+    - 37.7:
+        non_striker: M Louis
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 38.1:
+        non_striker: SD Hope
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Louis
+    - 38.2:
+        non_striker: SD Hope
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Louis
+    - 38.3:
+        non_striker: SD Hope
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Louis
+        wicket:
+          player_out: M Louis
+          kind: bowled
+    - 38.4:
+        non_striker: SD Hope
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Greaves
+    - 38.5:
+        non_striker: SD Hope
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Greaves
+    - 38.6:
+        non_striker: SD Hope
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Greaves
+    - 39.1:
+        non_striker: JP Greaves
+        bowler: BJ Webster
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 39.2:
+        non_striker: SD Hope
+        bowler: BJ Webster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Greaves
+    - 39.3:
+        non_striker: SD Hope
+        bowler: BJ Webster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Greaves
+    - 39.4:
+        non_striker: SD Hope
+        bowler: BJ Webster
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Greaves
+    - 39.5:
+        non_striker: JP Greaves
+        bowler: BJ Webster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 39.6:
+        non_striker: JP Greaves
+        bowler: BJ Webster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 40.1:
+        non_striker: SD Hope
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JP Greaves
+    - 40.2:
+        non_striker: SD Hope
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JP Greaves
+    - 40.3:
+        non_striker: SD Hope
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Greaves
+    - 40.4:
+        non_striker: SD Hope
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: JP Greaves
+    - 40.5:
+        non_striker: JP Greaves
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 40.6:
+        non_striker: SD Hope
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Greaves
+    - 41.1:
+        non_striker: JP Greaves
+        bowler: BJ Webster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 41.2:
+        non_striker: JP Greaves
+        bowler: BJ Webster
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 41.3:
+        non_striker: SD Hope
+        bowler: BJ Webster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Greaves
+    - 41.4:
+        non_striker: SD Hope
+        bowler: BJ Webster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Greaves
+    - 41.5:
+        non_striker: SD Hope
+        bowler: BJ Webster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Greaves
+    - 41.6:
+        non_striker: SD Hope
+        bowler: BJ Webster
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JP Greaves
+    - 42.1:
+        non_striker: JP Greaves
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 42.2:
+        non_striker: JP Greaves
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: SD Hope
+    - 42.3:
+        non_striker: SD Hope
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Greaves
+    - 42.4:
+        non_striker: SD Hope
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Greaves
+    - 42.5:
+        non_striker: SD Hope
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Greaves
+    - 42.6:
+        non_striker: SD Hope
+        bowler: MA Starc
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: JP Greaves
+    - 43.1:
+        non_striker: JP Greaves
+        bowler: BJ Webster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 43.2:
+        non_striker: JP Greaves
+        bowler: BJ Webster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 43.3:
+        non_striker: JP Greaves
+        bowler: BJ Webster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 43.4:
+        non_striker: JP Greaves
+        bowler: BJ Webster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 43.5:
+        non_striker: JP Greaves
+        bowler: BJ Webster
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 43.6:
+        non_striker: SD Hope
+        bowler: BJ Webster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Greaves
+    - 44.1:
+        non_striker: JP Greaves
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 44.2:
+        non_striker: JP Greaves
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 44.3:
+        non_striker: JP Greaves
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SD Hope
+    - 44.4:
+        non_striker: JP Greaves
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 44.5:
+        non_striker: JP Greaves
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 44.6:
+        non_striker: JP Greaves
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 45.1:
+        non_striker: SD Hope
+        bowler: BJ Webster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Greaves
+    - 45.2:
+        non_striker: SD Hope
+        bowler: BJ Webster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Greaves
+    - 45.3:
+        non_striker: SD Hope
+        bowler: BJ Webster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Greaves
+    - 45.4:
+        non_striker: SD Hope
+        bowler: BJ Webster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Greaves
+    - 45.5:
+        non_striker: SD Hope
+        bowler: BJ Webster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Greaves
+    - 45.6:
+        non_striker: SD Hope
+        bowler: BJ Webster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Greaves
+    - 46.1:
+        non_striker: JP Greaves
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 46.2:
+        non_striker: JP Greaves
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SD Hope
+    - 46.3:
+        non_striker: JP Greaves
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+        wicket:
+          player_out: SD Hope
+          kind: bowled
+    - 46.4:
+        non_striker: JP Greaves
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Joseph
+    - 46.5:
+        non_striker: JP Greaves
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Joseph
+    - 46.6:
+        non_striker: JP Greaves
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AS Joseph
+    - 47.1:
+        non_striker: AS Joseph
+        bowler: BJ Webster
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Greaves
+    - 47.2:
+        non_striker: JP Greaves
+        bowler: BJ Webster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Joseph
+        wicket:
+          player_out: AS Joseph
+          fielders:
+          - SPD Smith
+          kind: caught
+    - 47.3:
+        non_striker: JP Greaves
+        bowler: BJ Webster
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Joseph
+    - 47.4:
+        non_striker: JP Greaves
+        bowler: BJ Webster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Joseph
+    - 47.5:
+        non_striker: JP Greaves
+        bowler: BJ Webster
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Joseph
+    - 47.6:
+        non_striker: S Joseph
+        bowler: BJ Webster
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Greaves
+    - 48.1:
+        non_striker: S Joseph
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Greaves
+    - 48.2:
+        non_striker: S Joseph
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Greaves
+    - 48.3:
+        non_striker: S Joseph
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JP Greaves
+        wicket:
+          player_out: JP Greaves
+          fielders:
+          - S Konstas
+          - SM Boland
+          kind: run out
+    - 48.4:
+        non_striker: JA Warrican
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Joseph
+    - 48.5:
+        non_striker: JA Warrican
+        bowler: SM Boland
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: S Joseph
+    - 48.6:
+        non_striker: S Joseph
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Warrican
+    - 49.1:
+        non_striker: JA Warrican
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Joseph
+    - 49.2:
+        non_striker: JA Warrican
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Joseph
+    - 49.3:
+        non_striker: S Joseph
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Warrican
+    - 49.4:
+        non_striker: S Joseph
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Warrican
+    - 49.5:
+        non_striker: S Joseph
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Warrican
+    - 49.6:
+        non_striker: S Joseph
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Warrican
+        wicket:
+          player_out: JA Warrican
+          fielders:
+          - AT Carey
+          kind: caught
+    - 50.1:
+        non_striker: JNT Seales
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Joseph
+    - 50.2:
+        non_striker: S Joseph
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JNT Seales
+    - 50.3:
+        non_striker: S Joseph
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JNT Seales
+    - 50.4:
+        non_striker: JNT Seales
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Joseph
+    - 50.5:
+        non_striker: JNT Seales
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Joseph
+    - 50.6:
+        non_striker: JNT Seales
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Joseph
+    - 51.1:
+        non_striker: S Joseph
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JNT Seales
+    - 51.2:
+        non_striker: S Joseph
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JNT Seales
+    - 51.3:
+        non_striker: JNT Seales
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Joseph
+    - 51.4:
+        non_striker: S Joseph
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JNT Seales
+    - 51.5:
+        non_striker: S Joseph
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JNT Seales
+    - 51.6:
+        non_striker: S Joseph
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JNT Seales
+    - 52.1:
+        non_striker: JNT Seales
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Joseph
+        wicket:
+          player_out: S Joseph
+          kind: bowled
+- 3rd innings:
+    team: Australia
+    deliveries:
+    - 0.1:
+        non_striker: S Konstas
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 0.2:
+        non_striker: S Konstas
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 0.3:
+        non_striker: S Konstas
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 0.4:
+        non_striker: S Konstas
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 0.5:
+        non_striker: S Konstas
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 0.6:
+        non_striker: S Konstas
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 1.1:
+        non_striker: UT Khawaja
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Konstas
+    - 1.2:
+        non_striker: UT Khawaja
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Konstas
+    - 1.3:
+        non_striker: UT Khawaja
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Konstas
+    - 1.4:
+        non_striker: UT Khawaja
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Konstas
+    - 1.5:
+        non_striker: UT Khawaja
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Konstas
+        wicket:
+          player_out: S Konstas
+          fielders:
+          - RL Chase
+          kind: caught
+    - 1.6:
+        non_striker: UT Khawaja
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 2.1:
+        non_striker: C Green
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: UT Khawaja
+    - 2.2:
+        non_striker: C Green
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: UT Khawaja
+    - 2.3:
+        non_striker: C Green
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 2.4:
+        non_striker: C Green
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 2.5:
+        non_striker: C Green
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 2.6:
+        non_striker: C Green
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: UT Khawaja
+    - 3.1:
+        non_striker: UT Khawaja
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 3.2:
+        non_striker: UT Khawaja
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 3.3:
+        non_striker: UT Khawaja
+        bowler: S Joseph
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: C Green
+    - 3.4:
+        non_striker: C Green
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 3.5:
+        non_striker: C Green
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 3.6:
+        non_striker: C Green
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 4.1:
+        non_striker: UT Khawaja
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 4.2:
+        non_striker: UT Khawaja
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 4.3:
+        non_striker: UT Khawaja
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 4.4:
+        non_striker: UT Khawaja
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: C Green
+    - 4.5:
+        non_striker: C Green
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 4.6:
+        non_striker: C Green
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 5.1:
+        non_striker: UT Khawaja
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Green
+    - 5.2:
+        non_striker: C Green
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: UT Khawaja
+    - 5.3:
+        non_striker: C Green
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: UT Khawaja
+    - 5.4:
+        non_striker: C Green
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 5.5:
+        non_striker: C Green
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+        wicket:
+          player_out: UT Khawaja
+          kind: bowled
+    - 5.6:
+        non_striker: C Green
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 6.1:
+        non_striker: C Green
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 6.2:
+        non_striker: C Green
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 6.3:
+        non_striker: C Green
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SPD Smith
+    - 6.4:
+        non_striker: C Green
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 6.5:
+        non_striker: C Green
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 6.6:
+        non_striker: C Green
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 7.1:
+        non_striker: SPD Smith
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 7.2:
+        non_striker: SPD Smith
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 7.3:
+        non_striker: SPD Smith
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 7.4:
+        non_striker: SPD Smith
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 7.5:
+        non_striker: SPD Smith
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 7.6:
+        non_striker: SPD Smith
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Green
+    - 8.1:
+        non_striker: C Green
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 8.2:
+        non_striker: C Green
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 8.3:
+        non_striker: C Green
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 8.4:
+        non_striker: C Green
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 8.5:
+        non_striker: C Green
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 8.6:
+        non_striker: C Green
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+        wicket:
+          player_out: SPD Smith
+          kind: bowled
+    - 9.1:
+        non_striker: TM Head
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 9.2:
+        non_striker: TM Head
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 9.3:
+        non_striker: TM Head
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 9.4:
+        non_striker: TM Head
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 9.5:
+        non_striker: TM Head
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 9.6:
+        non_striker: TM Head
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 10.1:
+        non_striker: C Green
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 10.2:
+        non_striker: C Green
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 10.3:
+        non_striker: C Green
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 10.4:
+        non_striker: C Green
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TM Head
+    - 10.5:
+        non_striker: C Green
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 10.6:
+        non_striker: C Green
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 11.1:
+        non_striker: TM Head
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Green
+    - 11.2:
+        non_striker: C Green
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 11.3:
+        non_striker: C Green
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 11.4:
+        non_striker: C Green
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 11.5:
+        non_striker: C Green
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 11.6:
+        non_striker: C Green
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TM Head
+    - 12.1:
+        non_striker: TM Head
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 12.2:
+        non_striker: TM Head
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 12.3:
+        non_striker: TM Head
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 12.4:
+        non_striker: TM Head
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Green
+    - 12.5:
+        non_striker: TM Head
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 12.6:
+        non_striker: TM Head
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 13.1:
+        non_striker: C Green
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 13.2:
+        non_striker: C Green
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 13.3:
+        non_striker: C Green
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 13.4:
+        non_striker: C Green
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 13.5:
+        non_striker: C Green
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 13.6:
+        non_striker: C Green
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 14.1:
+        non_striker: TM Head
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 14.2:
+        non_striker: TM Head
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 14.3:
+        non_striker: TM Head
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Green
+    - 14.4:
+        non_striker: C Green
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 14.5:
+        non_striker: C Green
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 14.6:
+        non_striker: C Green
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 15.1:
+        non_striker: TM Head
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 15.2:
+        non_striker: TM Head
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 15.3:
+        non_striker: TM Head
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 15.4:
+        non_striker: TM Head
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 15.5:
+        non_striker: TM Head
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 15.6:
+        non_striker: TM Head
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 16.1:
+        non_striker: C Green
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 16.2:
+        non_striker: C Green
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 16.3:
+        non_striker: C Green
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 16.4:
+        non_striker: C Green
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+        wicket:
+          player_out: TM Head
+          fielders:
+          - KA Anderson
+          kind: caught
+    - 16.5:
+        non_striker: C Green
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BJ Webster
+    - 16.6:
+        non_striker: C Green
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Webster
+    - 17.1:
+        non_striker: C Green
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Webster
+    - 17.2:
+        non_striker: C Green
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Webster
+    - 17.3:
+        non_striker: C Green
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Webster
+    - 17.4:
+        non_striker: C Green
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Webster
+    - 17.5:
+        non_striker: C Green
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BJ Webster
+    - 17.6:
+        non_striker: C Green
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Webster
+    - 18.1:
+        non_striker: C Green
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Webster
+    - 18.2:
+        non_striker: C Green
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Webster
+    - 18.3:
+        non_striker: C Green
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Webster
+    - 18.4:
+        non_striker: BJ Webster
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Green
+    - 18.5:
+        non_striker: BJ Webster
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 18.6:
+        non_striker: BJ Webster
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Green
+    - 19.1:
+        non_striker: C Green
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Webster
+    - 19.2:
+        non_striker: C Green
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BJ Webster
+    - 19.3:
+        non_striker: C Green
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Webster
+    - 19.4:
+        non_striker: C Green
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Webster
+    - 19.5:
+        non_striker: C Green
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Webster
+    - 19.6:
+        non_striker: C Green
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Webster
+    - 20.1:
+        non_striker: BJ Webster
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 20.2:
+        non_striker: BJ Webster
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Green
+    - 20.3:
+        non_striker: C Green
+        bowler: AS Joseph
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BJ Webster
+    - 20.4:
+        non_striker: C Green
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Webster
+        wicket:
+          player_out: BJ Webster
+          kind: bowled
+    - 20.5:
+        non_striker: C Green
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Carey
+    - 20.6:
+        non_striker: C Green
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Carey
+    - 20.7:
+        non_striker: C Green
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Carey
+        wicket:
+          player_out: AT Carey
+          fielders:
+          - BA King
+          kind: caught
+    - 21.1:
+        non_striker: PJ Cummins
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Green
+    - 21.2:
+        non_striker: PJ Cummins
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Green
+    - 21.3:
+        non_striker: PJ Cummins
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 21.4:
+        non_striker: PJ Cummins
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 21.5:
+        non_striker: PJ Cummins
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Green
+    - 21.6:
+        non_striker: PJ Cummins
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 22.1:
+        non_striker: C Green
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+    - 22.2:
+        non_striker: C Green
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+    - 22.3:
+        non_striker: C Green
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+    - 22.4:
+        non_striker: C Green
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+    - 22.5:
+        non_striker: C Green
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PJ Cummins
+    - 22.6:
+        non_striker: PJ Cummins
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 23.1:
+        non_striker: C Green
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+    - 23.2:
+        non_striker: C Green
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+    - 23.3:
+        non_striker: C Green
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+    - 23.4:
+        non_striker: C Green
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PJ Cummins
+    - 23.5:
+        non_striker: PJ Cummins
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 23.6:
+        non_striker: PJ Cummins
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Green
+    - 24.1:
+        non_striker: C Green
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PJ Cummins
+    - 24.2:
+        non_striker: PJ Cummins
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 24.3:
+        non_striker: PJ Cummins
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 24.4:
+        non_striker: PJ Cummins
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Green
+    - 24.5:
+        non_striker: C Green
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+    - 24.6:
+        non_striker: C Green
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+    - 25.1:
+        non_striker: PJ Cummins
+        bowler: S Joseph
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: C Green
+    - 25.2:
+        non_striker: PJ Cummins
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 25.3:
+        non_striker: PJ Cummins
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 25.4:
+        non_striker: PJ Cummins
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Green
+    - 25.5:
+        non_striker: C Green
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+    - 25.6:
+        non_striker: C Green
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+    - 26.1:
+        non_striker: PJ Cummins
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Green
+    - 26.2:
+        non_striker: PJ Cummins
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Green
+    - 26.3:
+        non_striker: C Green
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+    - 26.4:
+        non_striker: C Green
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+    - 26.5:
+        non_striker: C Green
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+    - 26.6:
+        non_striker: C Green
+        bowler: JP Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+    - 27.1:
+        non_striker: PJ Cummins
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Green
+    - 27.2:
+        non_striker: C Green
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+    - 27.3:
+        non_striker: C Green
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+    - 27.4:
+        non_striker: C Green
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+    - 27.5:
+        non_striker: C Green
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+    - 27.6:
+        non_striker: C Green
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+    - 28.1:
+        non_striker: PJ Cummins
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 28.2:
+        non_striker: PJ Cummins
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 28.3:
+        non_striker: PJ Cummins
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 28.4:
+        non_striker: PJ Cummins
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Green
+    - 28.5:
+        non_striker: C Green
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PJ Cummins
+    - 28.6:
+        non_striker: C Green
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+    - 29.1:
+        non_striker: PJ Cummins
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+        wicket:
+          player_out: C Green
+          kind: bowled
+    - 29.2:
+        non_striker: PJ Cummins
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Starc
+    - 29.3:
+        non_striker: PJ Cummins
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Starc
+    - 29.4:
+        non_striker: PJ Cummins
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Starc
+    - 29.5:
+        non_striker: PJ Cummins
+        bowler: S Joseph
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: MA Starc
+    - 29.6:
+        non_striker: PJ Cummins
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Starc
+    - 30.1:
+        non_striker: PJ Cummins
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Starc
+    - 30.2:
+        non_striker: PJ Cummins
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Starc
+    - 30.3:
+        non_striker: PJ Cummins
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Starc
+    - 30.4:
+        non_striker: PJ Cummins
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Starc
+    - 30.5:
+        non_striker: PJ Cummins
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Starc
+    - 30.6:
+        non_striker: PJ Cummins
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Starc
+    - 31.1:
+        non_striker: MA Starc
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+    - 31.2:
+        non_striker: MA Starc
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+    - 31.3:
+        non_striker: MA Starc
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+    - 31.4:
+        non_striker: MA Starc
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+    - 31.5:
+        non_striker: MA Starc
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+    - 31.6:
+        non_striker: MA Starc
+        bowler: S Joseph
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: PJ Cummins
+    - 32.1:
+        non_striker: MA Starc
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+        wicket:
+          player_out: PJ Cummins
+          fielders:
+          - KA Anderson
+          kind: caught
+    - 32.2:
+        non_striker: MA Starc
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Boland
+    - 32.3:
+        non_striker: MA Starc
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Boland
+    - 32.4:
+        non_striker: MA Starc
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Boland
+    - 32.5:
+        non_striker: SM Boland
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Starc
+    - 32.6:
+        non_striker: SM Boland
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Starc
+    - 33.1:
+        non_striker: SM Boland
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MA Starc
+    - 33.2:
+        non_striker: SM Boland
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Starc
+    - 33.3:
+        non_striker: SM Boland
+        bowler: S Joseph
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MA Starc
+    - 33.4:
+        non_striker: MA Starc
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Boland
+    - 33.5:
+        non_striker: MA Starc
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Boland
+    - 33.6:
+        non_striker: MA Starc
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Boland
+    - 34.1:
+        non_striker: SM Boland
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MA Starc
+    - 34.2:
+        non_striker: SM Boland
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Starc
+    - 34.3:
+        non_striker: SM Boland
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Starc
+    - 34.4:
+        non_striker: MA Starc
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Boland
+    - 34.5:
+        non_striker: MA Starc
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Boland
+    - 34.6:
+        non_striker: MA Starc
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Boland
+    - 35.1:
+        non_striker: SM Boland
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Starc
+    - 35.2:
+        non_striker: SM Boland
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Starc
+    - 35.3:
+        non_striker: SM Boland
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Starc
+    - 35.4:
+        non_striker: MA Starc
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Boland
+    - 35.5:
+        non_striker: MA Starc
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Boland
+        wicket:
+          player_out: SM Boland
+          kind: bowled
+    - 35.6:
+        non_striker: MA Starc
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JR Hazlewood
+    - 36.1:
+        non_striker: JR Hazlewood
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Starc
+    - 36.2:
+        non_striker: JR Hazlewood
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Starc
+    - 36.3:
+        non_striker: JR Hazlewood
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Starc
+    - 36.4:
+        non_striker: JR Hazlewood
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Starc
+    - 36.5:
+        non_striker: MA Starc
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Hazlewood
+    - 36.6:
+        non_striker: MA Starc
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Hazlewood
+        wicket:
+          player_out: JR Hazlewood
+          kind: bowled
+- 4th innings:
+    team: West Indies
+    deliveries:
+    - 0.1:
+        non_striker: M Louis
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Campbell
+        wicket:
+          player_out: JD Campbell
+          fielders:
+          - JP Inglis (sub)
+          kind: caught
+    - 0.2:
+        non_striker: M Louis
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Anderson
+    - 0.3:
+        non_striker: M Louis
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Anderson
+    - 0.4:
+        non_striker: M Louis
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Anderson
+    - 0.5:
+        non_striker: M Louis
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Anderson
+        wicket:
+          player_out: KA Anderson
+          kind: lbw
+    - 0.6:
+        non_striker: M Louis
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+        wicket:
+          player_out: BA King
+          kind: bowled
+    - 1.1:
+        non_striker: RL Chase
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Louis
+    - 1.2:
+        non_striker: RL Chase
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Louis
+    - 1.3:
+        non_striker: RL Chase
+        bowler: JR Hazlewood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: M Louis
+    - 1.4:
+        non_striker: M Louis
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 1.5:
+        non_striker: M Louis
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 1.6:
+        non_striker: M Louis
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 2.1:
+        non_striker: RL Chase
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Louis
+    - 2.2:
+        non_striker: RL Chase
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Louis
+    - 2.3:
+        non_striker: RL Chase
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Louis
+    - 2.4:
+        non_striker: RL Chase
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Louis
+    - 2.5:
+        non_striker: RL Chase
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Louis
+    - 2.6:
+        non_striker: RL Chase
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Louis
+    - 3.1:
+        non_striker: M Louis
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 3.2:
+        non_striker: M Louis
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 3.3:
+        non_striker: M Louis
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 3.4:
+        non_striker: M Louis
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 3.5:
+        non_striker: M Louis
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 3.6:
+        non_striker: M Louis
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 4.1:
+        non_striker: RL Chase
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Louis
+        wicket:
+          player_out: M Louis
+          kind: lbw
+    - 4.2:
+        non_striker: RL Chase
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SD Hope
+    - 4.3:
+        non_striker: RL Chase
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+        wicket:
+          player_out: SD Hope
+          kind: lbw
+    - 4.4:
+        non_striker: RL Chase
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Greaves
+    - 4.5:
+        non_striker: RL Chase
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JP Greaves
+    - 4.6:
+        non_striker: RL Chase
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Greaves
+    - 5.1:
+        non_striker: JP Greaves
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 5.2:
+        non_striker: JP Greaves
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+        wicket:
+          player_out: RL Chase
+          fielders:
+          - JP Inglis (sub)
+          kind: caught
+    - 5.3:
+        non_striker: JP Greaves
+        bowler: JR Hazlewood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AS Joseph
+    - 5.4:
+        non_striker: AS Joseph
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Greaves
+    - 5.5:
+        non_striker: AS Joseph
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Greaves
+    - 5.6:
+        non_striker: AS Joseph
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Greaves
+    - 6.1:
+        non_striker: JP Greaves
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Joseph
+    - 6.2:
+        non_striker: JP Greaves
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Joseph
+    - 6.3:
+        non_striker: JP Greaves
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Joseph
+    - 6.4:
+        non_striker: JP Greaves
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Joseph
+    - 6.5:
+        non_striker: JP Greaves
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Joseph
+    - 6.6:
+        non_striker: JP Greaves
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Joseph
+    - 7.1:
+        non_striker: AS Joseph
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JP Greaves
+    - 7.2:
+        non_striker: AS Joseph
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Greaves
+    - 7.3:
+        non_striker: AS Joseph
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Greaves
+    - 7.4:
+        non_striker: AS Joseph
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JP Greaves
+    - 7.5:
+        non_striker: AS Joseph
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Greaves
+    - 7.6:
+        non_striker: AS Joseph
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Greaves
+    - 8.1:
+        non_striker: JP Greaves
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Joseph
+    - 8.2:
+        non_striker: JP Greaves
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Joseph
+    - 8.3:
+        non_striker: JP Greaves
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Joseph
+    - 8.4:
+        non_striker: JP Greaves
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Joseph
+    - 8.5:
+        non_striker: JP Greaves
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Joseph
+    - 8.6:
+        non_striker: JP Greaves
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Joseph
+    - 9.1:
+        non_striker: AS Joseph
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Greaves
+    - 9.2:
+        non_striker: AS Joseph
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Greaves
+    - 9.3:
+        non_striker: AS Joseph
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Greaves
+    - 9.4:
+        non_striker: AS Joseph
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Greaves
+    - 9.5:
+        non_striker: AS Joseph
+        bowler: JR Hazlewood
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: JP Greaves
+    - 9.6:
+        non_striker: AS Joseph
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Greaves
+    - 10.1:
+        non_striker: JP Greaves
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Joseph
+    - 10.2:
+        non_striker: JP Greaves
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Joseph
+    - 10.3:
+        non_striker: AS Joseph
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Greaves
+    - 10.4:
+        non_striker: AS Joseph
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Greaves
+    - 10.5:
+        non_striker: AS Joseph
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Greaves
+    - 10.6:
+        non_striker: AS Joseph
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Greaves
+    - 11.1:
+        non_striker: JP Greaves
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Joseph
+    - 11.2:
+        non_striker: JP Greaves
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Joseph
+    - 11.3:
+        non_striker: JP Greaves
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Joseph
+    - 11.4:
+        non_striker: JP Greaves
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AS Joseph
+    - 11.5:
+        non_striker: JP Greaves
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Joseph
+    - 11.6:
+        non_striker: JP Greaves
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Joseph
+    - 12.1:
+        non_striker: AS Joseph
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Greaves
+    - 12.2:
+        non_striker: JP Greaves
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Joseph
+    - 12.3:
+        non_striker: JP Greaves
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Joseph
+    - 12.4:
+        non_striker: JP Greaves
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Joseph
+    - 12.5:
+        non_striker: JP Greaves
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Joseph
+    - 12.6:
+        non_striker: JP Greaves
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Joseph
+    - 13.1:
+        non_striker: AS Joseph
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Greaves
+        wicket:
+          player_out: JP Greaves
+          fielders:
+          - BJ Webster
+          kind: caught
+    - 13.2:
+        non_striker: AS Joseph
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Joseph
+        wicket:
+          player_out: S Joseph
+          kind: lbw
+    - 13.3:
+        non_striker: AS Joseph
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Warrican
+        wicket:
+          player_out: JA Warrican
+          kind: bowled
+    - 13.4:
+        non_striker: AS Joseph
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JNT Seales
+    - 13.5:
+        non_striker: AS Joseph
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JNT Seales
+    - 13.6:
+        non_striker: AS Joseph
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JNT Seales
+    - 14.1:
+        non_striker: JNT Seales
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Joseph
+    - 14.2:
+        non_striker: JNT Seales
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Joseph
+    - 14.3:
+        non_striker: AS Joseph
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JNT Seales
+        wicket:
+          player_out: JNT Seales
+          kind: bowled

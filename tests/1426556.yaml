@@ -1,0 +1,8707 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-12-18'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Adelaide
+  dates:
+  - '2024-12-06'
+  - '2024-12-07'
+  - '2024-12-08'
+  gender: male
+  match_type: Test
+  match_type_number: 2568
+  outcome:
+    winner: Australia
+    by:
+      wickets: 10
+  player_of_match:
+  - TM Head
+  players:
+    India:
+    - YBK Jaiswal
+    - KL Rahul
+    - Shubman Gill
+    - V Kohli
+    - RR Pant
+    - RG Sharma
+    - Nithish Kumar Reddy
+    - R Ashwin
+    - Harshit Rana
+    - JJ Bumrah
+    - Mohammed Siraj
+    Australia:
+    - UT Khawaja
+    - NA McSweeney
+    - M Labuschagne
+    - SPD Smith
+    - TM Head
+    - MR Marsh
+    - AT Carey
+    - PJ Cummins
+    - MA Starc
+    - NM Lyon
+    - SM Boland
+  registry:
+    people:
+      AT Carey: 69d03465
+      CB Gaffaney: d5ac41d8
+      Harshit Rana: 77b1aa15
+      JJ Bumrah: 462411b3
+      KL Rahul: b17e2f24
+      M Labuschagne: fa433be6
+      MA Starc: 3fb19989
+      MR Marsh: 3d8feaf8
+      Mohammed Siraj: 2f49c897
+      NA McSweeney: e94d2d50
+      NM Lyon: 96a6a7ad
+      Nithish Kumar Reddy: aad0c365
+      PJ Cummins: ded9240e
+      PJ Gillespie: 3e253a50
+      R Ashwin: 495d42a5
+      RA Kettleborough: 4017868f
+      RG Sharma: 740742ef
+      RK Illingworth: '20672246'
+      RR Pant: 919a3be2
+      RS Madugalle: 766b5798
+      SM Boland: d167edd3
+      SPD Smith: 30a45b23
+      Shubman Gill: b4b99816
+      TM Head: 12b610c2
+      UT Khawaja: 331ea488
+      V Kohli: ba607b88
+      YBK Jaiswal: 6c19c6e5
+  teams:
+  - India
+  - Australia
+  toss:
+    winner: India
+    decision: bat
+  umpires:
+  - CB Gaffaney
+  - RK Illingworth
+  venue: Adelaide Oval
+innings:
+- 1st innings:
+    team: India
+    deliveries:
+    - 0.1:
+        non_striker: KL Rahul
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YBK Jaiswal
+        wicket:
+          player_out: YBK Jaiswal
+          kind: lbw
+    - 0.2:
+        non_striker: KL Rahul
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 0.3:
+        non_striker: KL Rahul
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 0.4:
+        non_striker: KL Rahul
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shubman Gill
+    - 0.5:
+        non_striker: KL Rahul
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shubman Gill
+    - 0.6:
+        non_striker: KL Rahul
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 1.1:
+        non_striker: Shubman Gill
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 1.2:
+        non_striker: Shubman Gill
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 1.3:
+        non_striker: Shubman Gill
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 1.4:
+        non_striker: Shubman Gill
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 1.5:
+        non_striker: Shubman Gill
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 1.6:
+        non_striker: Shubman Gill
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 2.1:
+        non_striker: KL Rahul
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 2.2:
+        non_striker: KL Rahul
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shubman Gill
+    - 2.3:
+        non_striker: KL Rahul
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 2.4:
+        non_striker: KL Rahul
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 2.5:
+        non_striker: KL Rahul
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 2.6:
+        non_striker: KL Rahul
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 3.1:
+        non_striker: Shubman Gill
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 3.2:
+        non_striker: Shubman Gill
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 3.3:
+        non_striker: Shubman Gill
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 3.4:
+        non_striker: Shubman Gill
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 3.5:
+        non_striker: Shubman Gill
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 3.6:
+        non_striker: Shubman Gill
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 4.1:
+        non_striker: KL Rahul
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 4.2:
+        non_striker: KL Rahul
+        bowler: MA Starc
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Shubman Gill
+    - 4.3:
+        non_striker: KL Rahul
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 4.4:
+        non_striker: KL Rahul
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 4.5:
+        non_striker: KL Rahul
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shubman Gill
+    - 4.6:
+        non_striker: KL Rahul
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 4.7:
+        non_striker: KL Rahul
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 5.1:
+        non_striker: Shubman Gill
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 5.2:
+        non_striker: Shubman Gill
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 5.3:
+        non_striker: Shubman Gill
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 5.4:
+        non_striker: Shubman Gill
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 5.5:
+        non_striker: Shubman Gill
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 5.6:
+        non_striker: Shubman Gill
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 6.1:
+        non_striker: KL Rahul
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 6.2:
+        non_striker: KL Rahul
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 6.3:
+        non_striker: KL Rahul
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 6.4:
+        non_striker: KL Rahul
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shubman Gill
+    - 6.5:
+        non_striker: KL Rahul
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 6.6:
+        non_striker: KL Rahul
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 7.1:
+        non_striker: Shubman Gill
+        bowler: SM Boland
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: KL Rahul
+    - 7.2:
+        non_striker: Shubman Gill
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 7.3:
+        non_striker: Shubman Gill
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KL Rahul
+    - 7.4:
+        non_striker: Shubman Gill
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 7.5:
+        non_striker: Shubman Gill
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 7.6:
+        non_striker: Shubman Gill
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 7.7:
+        non_striker: KL Rahul
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 8.1:
+        non_striker: Shubman Gill
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 8.2:
+        non_striker: Shubman Gill
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 8.3:
+        non_striker: Shubman Gill
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL Rahul
+    - 8.4:
+        non_striker: Shubman Gill
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 8.5:
+        non_striker: Shubman Gill
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 8.6:
+        non_striker: Shubman Gill
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KL Rahul
+    - 9.1:
+        non_striker: KL Rahul
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 9.2:
+        non_striker: KL Rahul
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 9.3:
+        non_striker: KL Rahul
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 9.4:
+        non_striker: KL Rahul
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 9.5:
+        non_striker: Shubman Gill
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 9.6:
+        non_striker: Shubman Gill
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 10.1:
+        non_striker: KL Rahul
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 10.2:
+        non_striker: KL Rahul
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 10.3:
+        non_striker: KL Rahul
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 10.4:
+        non_striker: KL Rahul
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 10.5:
+        non_striker: KL Rahul
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shubman Gill
+    - 10.6:
+        non_striker: KL Rahul
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shubman Gill
+    - 11.1:
+        non_striker: Shubman Gill
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 11.2:
+        non_striker: Shubman Gill
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 11.3:
+        non_striker: Shubman Gill
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 11.4:
+        non_striker: Shubman Gill
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 11.5:
+        non_striker: Shubman Gill
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 11.6:
+        non_striker: Shubman Gill
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KL Rahul
+    - 12.1:
+        non_striker: KL Rahul
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 12.2:
+        non_striker: KL Rahul
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 12.3:
+        non_striker: KL Rahul
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 12.4:
+        non_striker: KL Rahul
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 12.5:
+        non_striker: KL Rahul
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 12.6:
+        non_striker: KL Rahul
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 13.1:
+        non_striker: Shubman Gill
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL Rahul
+    - 13.2:
+        non_striker: Shubman Gill
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 13.3:
+        non_striker: Shubman Gill
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 13.4:
+        non_striker: Shubman Gill
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 13.5:
+        non_striker: Shubman Gill
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 13.6:
+        non_striker: KL Rahul
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 14.1:
+        non_striker: Shubman Gill
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 14.2:
+        non_striker: Shubman Gill
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 14.3:
+        non_striker: Shubman Gill
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KL Rahul
+    - 14.4:
+        non_striker: Shubman Gill
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL Rahul
+    - 14.5:
+        non_striker: Shubman Gill
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL Rahul
+    - 14.6:
+        non_striker: Shubman Gill
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 15.1:
+        non_striker: KL Rahul
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 15.2:
+        non_striker: KL Rahul
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 15.3:
+        non_striker: KL Rahul
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shubman Gill
+    - 15.4:
+        non_striker: KL Rahul
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 15.5:
+        non_striker: KL Rahul
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 15.6:
+        non_striker: Shubman Gill
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 16.1:
+        non_striker: KL Rahul
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 16.2:
+        non_striker: Shubman Gill
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL Rahul
+    - 16.3:
+        non_striker: Shubman Gill
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 16.4:
+        non_striker: Shubman Gill
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 16.5:
+        non_striker: Shubman Gill
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 16.6:
+        non_striker: Shubman Gill
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 17.1:
+        non_striker: KL Rahul
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 17.2:
+        non_striker: Shubman Gill
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 17.3:
+        non_striker: Shubman Gill
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 17.4:
+        non_striker: Shubman Gill
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL Rahul
+    - 17.5:
+        non_striker: Shubman Gill
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 17.6:
+        non_striker: Shubman Gill
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 18.1:
+        non_striker: Shubman Gill
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KL Rahul
+    - 18.2:
+        non_striker: Shubman Gill
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 18.3:
+        non_striker: Shubman Gill
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 18.4:
+        non_striker: Shubman Gill
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+        wicket:
+          player_out: KL Rahul
+          fielders:
+          - NA McSweeney
+          kind: caught
+    - 18.5:
+        non_striker: Shubman Gill
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 18.6:
+        non_striker: Shubman Gill
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 19.1:
+        non_striker: V Kohli
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 19.2:
+        non_striker: Shubman Gill
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 19.3:
+        non_striker: Shubman Gill
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Kohli
+    - 19.4:
+        non_striker: Shubman Gill
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 19.5:
+        non_striker: Shubman Gill
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 19.6:
+        non_striker: Shubman Gill
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: V Kohli
+    - 20.1:
+        non_striker: Shubman Gill
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+        wicket:
+          player_out: V Kohli
+          fielders:
+          - SPD Smith
+          kind: caught
+    - 20.2:
+        non_striker: Shubman Gill
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 20.3:
+        non_striker: Shubman Gill
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Pant
+    - 20.4:
+        non_striker: Shubman Gill
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 20.5:
+        non_striker: Shubman Gill
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 20.6:
+        non_striker: Shubman Gill
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 21.1:
+        non_striker: RR Pant
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+        wicket:
+          player_out: Shubman Gill
+          kind: lbw
+    - 21.2:
+        non_striker: RR Pant
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 21.3:
+        non_striker: RR Pant
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 21.4:
+        non_striker: RR Pant
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 21.5:
+        non_striker: RR Pant
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Sharma
+    - 21.6:
+        non_striker: RG Sharma
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 22.1:
+        non_striker: RR Pant
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 22.2:
+        non_striker: RR Pant
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 22.3:
+        non_striker: RR Pant
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 22.4:
+        non_striker: RR Pant
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 22.5:
+        non_striker: RR Pant
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 22.6:
+        non_striker: RR Pant
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 23.1:
+        non_striker: RG Sharma
+        bowler: SM Boland
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: RR Pant
+    - 23.2:
+        non_striker: RR Pant
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 23.3:
+        non_striker: RR Pant
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 23.4:
+        non_striker: RR Pant
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 23.5:
+        non_striker: RR Pant
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 23.6:
+        non_striker: RR Pant
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Sharma
+    - 24.1:
+        non_striker: RR Pant
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 24.2:
+        non_striker: RR Pant
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Sharma
+    - 24.3:
+        non_striker: RG Sharma
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 24.4:
+        non_striker: RR Pant
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 24.5:
+        non_striker: RR Pant
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 24.6:
+        non_striker: RR Pant
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 25.1:
+        non_striker: RG Sharma
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 25.2:
+        non_striker: RG Sharma
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 25.3:
+        non_striker: RR Pant
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 25.4:
+        non_striker: RR Pant
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 25.5:
+        non_striker: RR Pant
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+        wicket:
+          player_out: RG Sharma
+          kind: lbw
+    - 25.6:
+        non_striker: RR Pant
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 26.1:
+        non_striker: Nithish Kumar Reddy
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 26.2:
+        non_striker: Nithish Kumar Reddy
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 26.3:
+        non_striker: Nithish Kumar Reddy
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Pant
+    - 26.4:
+        non_striker: Nithish Kumar Reddy
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 26.5:
+        non_striker: Nithish Kumar Reddy
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 26.6:
+        non_striker: RR Pant
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 27.1:
+        non_striker: Nithish Kumar Reddy
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 27.2:
+        non_striker: RR Pant
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 27.3:
+        non_striker: RR Pant
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 27.4:
+        non_striker: RR Pant
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 27.5:
+        non_striker: RR Pant
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 27.6:
+        non_striker: RR Pant
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 28.1:
+        non_striker: Nithish Kumar Reddy
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 28.2:
+        non_striker: Nithish Kumar Reddy
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 28.3:
+        non_striker: Nithish Kumar Reddy
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 28.4:
+        non_striker: Nithish Kumar Reddy
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 28.5:
+        non_striker: Nithish Kumar Reddy
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Pant
+    - 28.6:
+        non_striker: Nithish Kumar Reddy
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 29.1:
+        non_striker: Nithish Kumar Reddy
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 29.2:
+        non_striker: Nithish Kumar Reddy
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 29.3:
+        non_striker: Nithish Kumar Reddy
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 29.4:
+        non_striker: Nithish Kumar Reddy
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 29.5:
+        non_striker: RR Pant
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 29.6:
+        non_striker: RR Pant
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 30.1:
+        non_striker: Nithish Kumar Reddy
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 30.2:
+        non_striker: Nithish Kumar Reddy
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 30.3:
+        non_striker: RR Pant
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 30.4:
+        non_striker: RR Pant
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nithish Kumar Reddy
+    - 30.5:
+        non_striker: RR Pant
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 30.6:
+        non_striker: RR Pant
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 31.1:
+        non_striker: Nithish Kumar Reddy
+        bowler: MR Marsh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 31.2:
+        non_striker: Nithish Kumar Reddy
+        bowler: MR Marsh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 31.3:
+        non_striker: Nithish Kumar Reddy
+        bowler: MR Marsh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Pant
+    - 31.4:
+        non_striker: Nithish Kumar Reddy
+        bowler: MR Marsh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 31.5:
+        non_striker: RR Pant
+        bowler: MR Marsh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 31.6:
+        non_striker: RR Pant
+        bowler: MR Marsh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nithish Kumar Reddy
+    - 32.1:
+        non_striker: Nithish Kumar Reddy
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 32.2:
+        non_striker: Nithish Kumar Reddy
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 32.3:
+        non_striker: RR Pant
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 32.4:
+        non_striker: RR Pant
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nithish Kumar Reddy
+    - 32.5:
+        non_striker: Nithish Kumar Reddy
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+        wicket:
+          player_out: RR Pant
+          fielders:
+          - M Labuschagne
+          kind: caught
+    - 32.6:
+        non_striker: Nithish Kumar Reddy
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ashwin
+    - 33.1:
+        non_striker: R Ashwin
+        bowler: MR Marsh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nithish Kumar Reddy
+    - 33.2:
+        non_striker: R Ashwin
+        bowler: MR Marsh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 33.3:
+        non_striker: R Ashwin
+        bowler: MR Marsh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 33.4:
+        non_striker: R Ashwin
+        bowler: MR Marsh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nithish Kumar Reddy
+    - 33.5:
+        non_striker: Nithish Kumar Reddy
+        bowler: MR Marsh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ashwin
+    - 33.6:
+        non_striker: Nithish Kumar Reddy
+        bowler: MR Marsh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ashwin
+    - 34.1:
+        non_striker: R Ashwin
+        bowler: PJ Cummins
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: Nithish Kumar Reddy
+    - 34.2:
+        non_striker: R Ashwin
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nithish Kumar Reddy
+    - 34.3:
+        non_striker: Nithish Kumar Reddy
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Ashwin
+    - 34.4:
+        non_striker: R Ashwin
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 34.5:
+        non_striker: R Ashwin
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 34.6:
+        non_striker: R Ashwin
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 35.1:
+        non_striker: Nithish Kumar Reddy
+        bowler: MR Marsh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Ashwin
+    - 35.2:
+        non_striker: Nithish Kumar Reddy
+        bowler: MR Marsh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: R Ashwin
+    - 35.3:
+        non_striker: Nithish Kumar Reddy
+        bowler: MR Marsh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ashwin
+    - 35.4:
+        non_striker: Nithish Kumar Reddy
+        bowler: MR Marsh
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: R Ashwin
+    - 35.5:
+        non_striker: R Ashwin
+        bowler: MR Marsh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 35.6:
+        non_striker: R Ashwin
+        bowler: MR Marsh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 35.7:
+        non_striker: R Ashwin
+        bowler: MR Marsh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 36.1:
+        non_striker: Nithish Kumar Reddy
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Ashwin
+    - 36.2:
+        non_striker: Nithish Kumar Reddy
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ashwin
+    - 36.3:
+        non_striker: Nithish Kumar Reddy
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ashwin
+    - 36.4:
+        non_striker: Nithish Kumar Reddy
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Ashwin
+    - 36.5:
+        non_striker: Nithish Kumar Reddy
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Ashwin
+    - 36.6:
+        non_striker: R Ashwin
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 37.1:
+        non_striker: Nithish Kumar Reddy
+        bowler: MR Marsh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ashwin
+    - 37.2:
+        non_striker: Nithish Kumar Reddy
+        bowler: MR Marsh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Ashwin
+    - 37.3:
+        non_striker: Nithish Kumar Reddy
+        bowler: MR Marsh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: R Ashwin
+    - 37.4:
+        non_striker: Nithish Kumar Reddy
+        bowler: MR Marsh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ashwin
+    - 37.5:
+        non_striker: Nithish Kumar Reddy
+        bowler: MR Marsh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Ashwin
+    - 37.6:
+        non_striker: Nithish Kumar Reddy
+        bowler: MR Marsh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ashwin
+    - 37.7:
+        non_striker: Nithish Kumar Reddy
+        bowler: MR Marsh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Ashwin
+    - 38.1:
+        non_striker: Nithish Kumar Reddy
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ashwin
+    - 38.2:
+        non_striker: Nithish Kumar Reddy
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ashwin
+        wicket:
+          player_out: R Ashwin
+          kind: lbw
+    - 38.3:
+        non_striker: Nithish Kumar Reddy
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harshit Rana
+    - 38.4:
+        non_striker: Nithish Kumar Reddy
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harshit Rana
+    - 38.5:
+        non_striker: Nithish Kumar Reddy
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harshit Rana
+        wicket:
+          player_out: Harshit Rana
+          kind: bowled
+    - 38.6:
+        non_striker: Nithish Kumar Reddy
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Bumrah
+    - 39.1:
+        non_striker: JJ Bumrah
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 39.2:
+        non_striker: JJ Bumrah
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nithish Kumar Reddy
+    - 39.3:
+        non_striker: JJ Bumrah
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 39.4:
+        non_striker: JJ Bumrah
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 39.5:
+        non_striker: JJ Bumrah
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nithish Kumar Reddy
+    - 39.6:
+        non_striker: Nithish Kumar Reddy
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Bumrah
+    - 40.1:
+        non_striker: JJ Bumrah
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Nithish Kumar Reddy
+    - 40.2:
+        non_striker: JJ Bumrah
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 40.3:
+        non_striker: JJ Bumrah
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 40.4:
+        non_striker: JJ Bumrah
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 40.5:
+        non_striker: JJ Bumrah
+        bowler: MA Starc
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Nithish Kumar Reddy
+    - 40.6:
+        non_striker: JJ Bumrah
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nithish Kumar Reddy
+    - 40.7:
+        non_striker: Nithish Kumar Reddy
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Bumrah
+    - 41.1:
+        non_striker: JJ Bumrah
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 41.2:
+        non_striker: JJ Bumrah
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Nithish Kumar Reddy
+    - 41.3:
+        non_striker: JJ Bumrah
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nithish Kumar Reddy
+    - 41.4:
+        non_striker: JJ Bumrah
+        bowler: SM Boland
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: Nithish Kumar Reddy
+    - 41.5:
+        non_striker: JJ Bumrah
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Nithish Kumar Reddy
+    - 41.6:
+        non_striker: JJ Bumrah
+        bowler: SM Boland
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: Nithish Kumar Reddy
+    - 41.7:
+        non_striker: Nithish Kumar Reddy
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Bumrah
+    - 41.8:
+        non_striker: Nithish Kumar Reddy
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Bumrah
+    - 42.1:
+        non_striker: JJ Bumrah
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 42.2:
+        non_striker: JJ Bumrah
+        bowler: MA Starc
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Nithish Kumar Reddy
+    - 42.3:
+        non_striker: JJ Bumrah
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 42.4:
+        non_striker: JJ Bumrah
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 42.5:
+        non_striker: JJ Bumrah
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 42.6:
+        non_striker: JJ Bumrah
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 42.7:
+        non_striker: JJ Bumrah
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 43.1:
+        non_striker: Nithish Kumar Reddy
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Bumrah
+    - 43.2:
+        non_striker: Nithish Kumar Reddy
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Bumrah
+    - 43.3:
+        non_striker: Nithish Kumar Reddy
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Bumrah
+        wicket:
+          player_out: JJ Bumrah
+          fielders:
+          - UT Khawaja
+          kind: caught
+    - 43.4:
+        non_striker: Nithish Kumar Reddy
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Siraj
+    - 43.5:
+        non_striker: Nithish Kumar Reddy
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Siraj
+    - 43.6:
+        non_striker: Nithish Kumar Reddy
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammed Siraj
+    - 44.1:
+        non_striker: Mohammed Siraj
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+        wicket:
+          player_out: Nithish Kumar Reddy
+          fielders:
+          - TM Head
+          kind: caught
+- 2nd innings:
+    team: Australia
+    deliveries:
+    - 0.1:
+        non_striker: NA McSweeney
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 0.2:
+        non_striker: NA McSweeney
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 0.3:
+        non_striker: NA McSweeney
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 0.4:
+        non_striker: NA McSweeney
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: UT Khawaja
+    - 0.5:
+        non_striker: NA McSweeney
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 0.6:
+        non_striker: NA McSweeney
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 1.1:
+        non_striker: UT Khawaja
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 1.2:
+        non_striker: UT Khawaja
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 1.3:
+        non_striker: UT Khawaja
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 1.4:
+        non_striker: UT Khawaja
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 1.5:
+        non_striker: UT Khawaja
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 1.6:
+        non_striker: UT Khawaja
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 2.1:
+        non_striker: NA McSweeney
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 2.2:
+        non_striker: NA McSweeney
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 2.3:
+        non_striker: NA McSweeney
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 2.4:
+        non_striker: NA McSweeney
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 2.5:
+        non_striker: NA McSweeney
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 2.6:
+        non_striker: NA McSweeney
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 3.1:
+        non_striker: UT Khawaja
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 3.2:
+        non_striker: UT Khawaja
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 3.3:
+        non_striker: UT Khawaja
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 3.4:
+        non_striker: UT Khawaja
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 3.5:
+        non_striker: UT Khawaja
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 3.6:
+        non_striker: UT Khawaja
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 4.1:
+        non_striker: NA McSweeney
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 4.2:
+        non_striker: NA McSweeney
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 4.3:
+        non_striker: NA McSweeney
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UT Khawaja
+    - 4.4:
+        non_striker: UT Khawaja
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 4.5:
+        non_striker: UT Khawaja
+        bowler: JJ Bumrah
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: NA McSweeney
+    - 4.6:
+        non_striker: UT Khawaja
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 5.1:
+        non_striker: NA McSweeney
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 5.2:
+        non_striker: NA McSweeney
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 5.3:
+        non_striker: NA McSweeney
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: UT Khawaja
+    - 5.4:
+        non_striker: NA McSweeney
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UT Khawaja
+    - 5.5:
+        non_striker: UT Khawaja
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 5.6:
+        non_striker: UT Khawaja
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA McSweeney
+    - 6.1:
+        non_striker: UT Khawaja
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 6.2:
+        non_striker: UT Khawaja
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NA McSweeney
+    - 6.3:
+        non_striker: UT Khawaja
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NA McSweeney
+    - 6.4:
+        non_striker: UT Khawaja
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 6.5:
+        non_striker: UT Khawaja
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 6.6:
+        non_striker: UT Khawaja
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 7.1:
+        non_striker: NA McSweeney
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 7.2:
+        non_striker: NA McSweeney
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: UT Khawaja
+    - 7.3:
+        non_striker: NA McSweeney
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 7.4:
+        non_striker: NA McSweeney
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 7.5:
+        non_striker: NA McSweeney
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 7.6:
+        non_striker: NA McSweeney
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 8.1:
+        non_striker: UT Khawaja
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 8.2:
+        non_striker: UT Khawaja
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 8.3:
+        non_striker: UT Khawaja
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 8.4:
+        non_striker: UT Khawaja
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 8.5:
+        non_striker: UT Khawaja
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 8.6:
+        non_striker: UT Khawaja
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 9.1:
+        non_striker: NA McSweeney
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 9.2:
+        non_striker: NA McSweeney
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 9.3:
+        non_striker: NA McSweeney
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 9.4:
+        non_striker: NA McSweeney
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 9.5:
+        non_striker: NA McSweeney
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UT Khawaja
+    - 9.6:
+        non_striker: UT Khawaja
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 10.1:
+        non_striker: NA McSweeney
+        bowler: JJ Bumrah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: UT Khawaja
+    - 10.2:
+        non_striker: UT Khawaja
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA McSweeney
+    - 10.3:
+        non_striker: NA McSweeney
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 10.4:
+        non_striker: NA McSweeney
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 10.5:
+        non_striker: NA McSweeney
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 10.6:
+        non_striker: NA McSweeney
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+        wicket:
+          player_out: UT Khawaja
+          fielders:
+          - RG Sharma
+          kind: caught
+    - 11.1:
+        non_striker: M Labuschagne
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 11.2:
+        non_striker: M Labuschagne
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 11.3:
+        non_striker: M Labuschagne
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 11.4:
+        non_striker: M Labuschagne
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 11.5:
+        non_striker: M Labuschagne
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 11.6:
+        non_striker: M Labuschagne
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 12.1:
+        non_striker: NA McSweeney
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 12.2:
+        non_striker: NA McSweeney
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 12.3:
+        non_striker: NA McSweeney
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 12.4:
+        non_striker: NA McSweeney
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 12.5:
+        non_striker: NA McSweeney
+        bowler: JJ Bumrah
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: M Labuschagne
+    - 12.6:
+        non_striker: NA McSweeney
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 13.1:
+        non_striker: M Labuschagne
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NA McSweeney
+    - 13.2:
+        non_striker: M Labuschagne
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 13.3:
+        non_striker: M Labuschagne
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 13.4:
+        non_striker: M Labuschagne
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 13.5:
+        non_striker: M Labuschagne
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 13.6:
+        non_striker: M Labuschagne
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 14.1:
+        non_striker: NA McSweeney
+        bowler: Mohammed Siraj
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: M Labuschagne
+    - 14.2:
+        non_striker: NA McSweeney
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 14.3:
+        non_striker: NA McSweeney
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 14.4:
+        non_striker: NA McSweeney
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 14.5:
+        non_striker: NA McSweeney
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 14.6:
+        non_striker: NA McSweeney
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 15.1:
+        non_striker: M Labuschagne
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 15.2:
+        non_striker: M Labuschagne
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA McSweeney
+    - 15.3:
+        non_striker: NA McSweeney
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 15.4:
+        non_striker: NA McSweeney
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 15.5:
+        non_striker: NA McSweeney
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 15.6:
+        non_striker: NA McSweeney
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 16.1:
+        non_striker: M Labuschagne
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 16.2:
+        non_striker: M Labuschagne
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 16.3:
+        non_striker: M Labuschagne
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 16.4:
+        non_striker: M Labuschagne
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA McSweeney
+    - 16.5:
+        non_striker: NA McSweeney
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 16.6:
+        non_striker: NA McSweeney
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 17.1:
+        non_striker: M Labuschagne
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 17.2:
+        non_striker: M Labuschagne
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 17.3:
+        non_striker: M Labuschagne
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 17.4:
+        non_striker: M Labuschagne
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 17.5:
+        non_striker: M Labuschagne
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 17.6:
+        non_striker: M Labuschagne
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 18.1:
+        non_striker: NA McSweeney
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Labuschagne
+    - 18.2:
+        non_striker: NA McSweeney
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 18.3:
+        non_striker: NA McSweeney
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Labuschagne
+    - 18.4:
+        non_striker: NA McSweeney
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 18.5:
+        non_striker: NA McSweeney
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: M Labuschagne
+    - 18.6:
+        non_striker: M Labuschagne
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 19.1:
+        non_striker: NA McSweeney
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 19.2:
+        non_striker: NA McSweeney
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 19.3:
+        non_striker: NA McSweeney
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 19.4:
+        non_striker: NA McSweeney
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 19.5:
+        non_striker: NA McSweeney
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 19.6:
+        non_striker: NA McSweeney
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 20.1:
+        non_striker: M Labuschagne
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 20.2:
+        non_striker: M Labuschagne
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 20.3:
+        non_striker: M Labuschagne
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 20.4:
+        non_striker: M Labuschagne
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NA McSweeney
+    - 20.5:
+        non_striker: M Labuschagne
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 20.6:
+        non_striker: M Labuschagne
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 21.1:
+        non_striker: NA McSweeney
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Labuschagne
+    - 21.2:
+        non_striker: NA McSweeney
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 21.3:
+        non_striker: NA McSweeney
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 21.4:
+        non_striker: NA McSweeney
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 21.5:
+        non_striker: NA McSweeney
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 21.6:
+        non_striker: NA McSweeney
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 22.1:
+        non_striker: M Labuschagne
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 22.2:
+        non_striker: M Labuschagne
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 22.3:
+        non_striker: M Labuschagne
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 22.4:
+        non_striker: M Labuschagne
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 22.5:
+        non_striker: M Labuschagne
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 22.6:
+        non_striker: M Labuschagne
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: NA McSweeney
+    - 23.1:
+        non_striker: M Labuschagne
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 23.2:
+        non_striker: M Labuschagne
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 23.3:
+        non_striker: M Labuschagne
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 23.4:
+        non_striker: M Labuschagne
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 23.5:
+        non_striker: M Labuschagne
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NA McSweeney
+    - 23.6:
+        non_striker: M Labuschagne
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NA McSweeney
+    - 24.1:
+        non_striker: NA McSweeney
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 24.2:
+        non_striker: NA McSweeney
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 24.3:
+        non_striker: NA McSweeney
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 24.4:
+        non_striker: NA McSweeney
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 24.5:
+        non_striker: NA McSweeney
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Labuschagne
+    - 24.6:
+        non_striker: NA McSweeney
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 25.1:
+        non_striker: M Labuschagne
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 25.2:
+        non_striker: M Labuschagne
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NA McSweeney
+    - 25.3:
+        non_striker: M Labuschagne
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 25.4:
+        non_striker: M Labuschagne
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 25.5:
+        non_striker: M Labuschagne
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 25.6:
+        non_striker: M Labuschagne
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 26.1:
+        non_striker: NA McSweeney
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 26.2:
+        non_striker: NA McSweeney
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 26.3:
+        non_striker: NA McSweeney
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 26.4:
+        non_striker: NA McSweeney
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 26.5:
+        non_striker: NA McSweeney
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 26.6:
+        non_striker: NA McSweeney
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 27.1:
+        non_striker: M Labuschagne
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 27.2:
+        non_striker: M Labuschagne
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 27.3:
+        non_striker: M Labuschagne
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 27.4:
+        non_striker: M Labuschagne
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA McSweeney
+    - 27.5:
+        non_striker: NA McSweeney
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 27.6:
+        non_striker: NA McSweeney
+        bowler: Harshit Rana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: M Labuschagne
+    - 28.1:
+        non_striker: NA McSweeney
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 28.2:
+        non_striker: NA McSweeney
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Labuschagne
+    - 28.3:
+        non_striker: M Labuschagne
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 28.4:
+        non_striker: M Labuschagne
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 28.5:
+        non_striker: M Labuschagne
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 28.6:
+        non_striker: M Labuschagne
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 29.1:
+        non_striker: NA McSweeney
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 29.2:
+        non_striker: NA McSweeney
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 29.3:
+        non_striker: NA McSweeney
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 29.4:
+        non_striker: NA McSweeney
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Labuschagne
+    - 29.5:
+        non_striker: M Labuschagne
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NA McSweeney
+    - 29.6:
+        non_striker: M Labuschagne
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NA McSweeney
+    - 30.1:
+        non_striker: NA McSweeney
+        bowler: JJ Bumrah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: M Labuschagne
+    - 30.2:
+        non_striker: NA McSweeney
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 30.3:
+        non_striker: NA McSweeney
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 30.4:
+        non_striker: NA McSweeney
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 30.5:
+        non_striker: NA McSweeney
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 30.6:
+        non_striker: NA McSweeney
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 30.7:
+        non_striker: NA McSweeney
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 31.1:
+        non_striker: M Labuschagne
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 31.2:
+        non_striker: M Labuschagne
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 31.3:
+        non_striker: M Labuschagne
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 31.4:
+        non_striker: M Labuschagne
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 31.5:
+        non_striker: M Labuschagne
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 31.6:
+        non_striker: M Labuschagne
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 32.1:
+        non_striker: NA McSweeney
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 32.2:
+        non_striker: NA McSweeney
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 32.3:
+        non_striker: NA McSweeney
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 32.4:
+        non_striker: NA McSweeney
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 32.5:
+        non_striker: NA McSweeney
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Labuschagne
+    - 32.6:
+        non_striker: M Labuschagne
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 33.1:
+        non_striker: NA McSweeney
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: M Labuschagne
+    - 33.2:
+        non_striker: M Labuschagne
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 33.3:
+        non_striker: M Labuschagne
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 33.4:
+        non_striker: M Labuschagne
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 33.5:
+        non_striker: M Labuschagne
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 33.6:
+        non_striker: M Labuschagne
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA McSweeney
+    - 34.1:
+        non_striker: M Labuschagne
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 34.2:
+        non_striker: M Labuschagne
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 34.3:
+        non_striker: M Labuschagne
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 34.4:
+        non_striker: M Labuschagne
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 34.5:
+        non_striker: M Labuschagne
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 34.6:
+        non_striker: M Labuschagne
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 35.1:
+        non_striker: NA McSweeney
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 35.2:
+        non_striker: NA McSweeney
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 35.3:
+        non_striker: NA McSweeney
+        bowler: Mohammed Siraj
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: M Labuschagne
+    - 35.4:
+        non_striker: NA McSweeney
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 35.5:
+        non_striker: NA McSweeney
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 35.6:
+        non_striker: NA McSweeney
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 35.7:
+        non_striker: NA McSweeney
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 36.1:
+        non_striker: M Labuschagne
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+        wicket:
+          player_out: NA McSweeney
+          fielders:
+          - RR Pant
+          kind: caught
+    - 36.2:
+        non_striker: M Labuschagne
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 36.3:
+        non_striker: SPD Smith
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 36.4:
+        non_striker: SPD Smith
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 36.5:
+        non_striker: SPD Smith
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: M Labuschagne
+    - 36.6:
+        non_striker: M Labuschagne
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 37.1:
+        non_striker: SPD Smith
+        bowler: Mohammed Siraj
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: M Labuschagne
+    - 37.2:
+        non_striker: SPD Smith
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 37.3:
+        non_striker: SPD Smith
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 37.4:
+        non_striker: SPD Smith
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 37.5:
+        non_striker: SPD Smith
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 37.6:
+        non_striker: SPD Smith
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 37.7:
+        non_striker: SPD Smith
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 38.1:
+        non_striker: M Labuschagne
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 38.2:
+        non_striker: M Labuschagne
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 38.3:
+        non_striker: M Labuschagne
+        bowler: JJ Bumrah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: SPD Smith
+    - 38.4:
+        non_striker: M Labuschagne
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 38.5:
+        non_striker: M Labuschagne
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 38.6:
+        non_striker: M Labuschagne
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 38.7:
+        non_striker: M Labuschagne
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 39.1:
+        non_striker: SPD Smith
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 39.2:
+        non_striker: SPD Smith
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Labuschagne
+    - 39.3:
+        non_striker: M Labuschagne
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 39.4:
+        non_striker: SPD Smith
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 39.5:
+        non_striker: SPD Smith
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 39.6:
+        non_striker: SPD Smith
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          non_boundary: 1
+          total: 4
+          batsman: 4
+        batsman: M Labuschagne
+    - 40.1:
+        non_striker: M Labuschagne
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+        wicket:
+          player_out: SPD Smith
+          fielders:
+          - RR Pant
+          kind: caught
+    - 40.2:
+        non_striker: M Labuschagne
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 40.3:
+        non_striker: M Labuschagne
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 40.4:
+        non_striker: M Labuschagne
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 40.5:
+        non_striker: M Labuschagne
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 40.6:
+        non_striker: M Labuschagne
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 41.1:
+        non_striker: M Labuschagne
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 41.2:
+        non_striker: M Labuschagne
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 41.3:
+        non_striker: M Labuschagne
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 41.4:
+        non_striker: M Labuschagne
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 41.5:
+        non_striker: M Labuschagne
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 41.6:
+        non_striker: M Labuschagne
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 42.1:
+        non_striker: TM Head
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 42.2:
+        non_striker: TM Head
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Labuschagne
+    - 42.3:
+        non_striker: TM Head
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Labuschagne
+    - 42.4:
+        non_striker: TM Head
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 42.5:
+        non_striker: TM Head
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 42.6:
+        non_striker: TM Head
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 43.1:
+        non_striker: M Labuschagne
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 43.2:
+        non_striker: TM Head
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 43.3:
+        non_striker: TM Head
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 43.4:
+        non_striker: TM Head
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 43.5:
+        non_striker: TM Head
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 43.6:
+        non_striker: TM Head
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 44.1:
+        non_striker: M Labuschagne
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 44.2:
+        non_striker: M Labuschagne
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 44.3:
+        non_striker: M Labuschagne
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 44.4:
+        non_striker: TM Head
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 44.5:
+        non_striker: TM Head
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: M Labuschagne
+    - 44.6:
+        non_striker: M Labuschagne
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 45.1:
+        non_striker: M Labuschagne
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 45.2:
+        non_striker: M Labuschagne
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 45.3:
+        non_striker: TM Head
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 45.4:
+        non_striker: TM Head
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 45.5:
+        non_striker: TM Head
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Labuschagne
+    - 45.6:
+        non_striker: TM Head
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 46.1:
+        non_striker: M Labuschagne
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 46.2:
+        non_striker: M Labuschagne
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 46.3:
+        non_striker: M Labuschagne
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TM Head
+    - 46.4:
+        non_striker: M Labuschagne
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TM Head
+    - 46.5:
+        non_striker: M Labuschagne
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 46.6:
+        non_striker: M Labuschagne
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 47.1:
+        non_striker: TM Head
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 47.2:
+        non_striker: TM Head
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Labuschagne
+    - 47.3:
+        non_striker: M Labuschagne
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 47.4:
+        non_striker: M Labuschagne
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TM Head
+    - 47.5:
+        non_striker: M Labuschagne
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 47.6:
+        non_striker: M Labuschagne
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 48.1:
+        non_striker: TM Head
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Labuschagne
+    - 48.2:
+        non_striker: M Labuschagne
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 48.3:
+        non_striker: TM Head
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 48.4:
+        non_striker: TM Head
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 48.5:
+        non_striker: TM Head
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 48.6:
+        non_striker: TM Head
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Labuschagne
+    - 49.1:
+        non_striker: M Labuschagne
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 49.2:
+        non_striker: M Labuschagne
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 49.3:
+        non_striker: M Labuschagne
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 49.4:
+        non_striker: M Labuschagne
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 49.5:
+        non_striker: TM Head
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 49.6:
+        non_striker: TM Head
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 50.1:
+        non_striker: M Labuschagne
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 50.2:
+        non_striker: M Labuschagne
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 50.3:
+        non_striker: TM Head
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Labuschagne
+    - 50.4:
+        non_striker: TM Head
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Labuschagne
+    - 50.5:
+        non_striker: TM Head
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 50.6:
+        non_striker: TM Head
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Labuschagne
+    - 51.1:
+        non_striker: M Labuschagne
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 51.2:
+        non_striker: M Labuschagne
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 51.3:
+        non_striker: M Labuschagne
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 51.4:
+        non_striker: M Labuschagne
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 51.5:
+        non_striker: M Labuschagne
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 51.6:
+        non_striker: M Labuschagne
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 52.1:
+        non_striker: TM Head
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Labuschagne
+    - 52.2:
+        non_striker: M Labuschagne
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 52.3:
+        non_striker: M Labuschagne
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 52.4:
+        non_striker: M Labuschagne
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 52.5:
+        non_striker: M Labuschagne
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TM Head
+    - 52.6:
+        non_striker: M Labuschagne
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: TM Head
+    - 53.1:
+        non_striker: M Labuschagne
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 53.2:
+        non_striker: M Labuschagne
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 53.3:
+        non_striker: TM Head
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 53.4:
+        non_striker: TM Head
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Labuschagne
+    - 53.5:
+        non_striker: M Labuschagne
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 53.6:
+        non_striker: M Labuschagne
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 54.1:
+        non_striker: TM Head
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 54.2:
+        non_striker: TM Head
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 54.3:
+        non_striker: TM Head
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+        wicket:
+          player_out: M Labuschagne
+          fielders:
+          - YBK Jaiswal
+          kind: caught
+    - 54.4:
+        non_striker: TM Head
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 54.5:
+        non_striker: TM Head
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 54.6:
+        non_striker: TM Head
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 55.1:
+        non_striker: MR Marsh
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TM Head
+    - 55.2:
+        non_striker: MR Marsh
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 55.3:
+        non_striker: MR Marsh
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 55.4:
+        non_striker: MR Marsh
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TM Head
+    - 55.5:
+        non_striker: MR Marsh
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TM Head
+    - 55.6:
+        non_striker: MR Marsh
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 56.1:
+        non_striker: MR Marsh
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 56.2:
+        non_striker: MR Marsh
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 56.3:
+        non_striker: MR Marsh
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 56.4:
+        non_striker: MR Marsh
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 56.5:
+        non_striker: MR Marsh
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 56.6:
+        non_striker: MR Marsh
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TM Head
+    - 57.1:
+        non_striker: TM Head
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 57.2:
+        non_striker: TM Head
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 57.3:
+        non_striker: TM Head
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 57.4:
+        non_striker: TM Head
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 57.5:
+        non_striker: TM Head
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 57.6:
+        non_striker: TM Head
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 58.1:
+        non_striker: TM Head
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 58.2:
+        non_striker: MR Marsh
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 58.3:
+        non_striker: MR Marsh
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 58.4:
+        non_striker: MR Marsh
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 58.5:
+        non_striker: MR Marsh
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 58.6:
+        non_striker: MR Marsh
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 59.1:
+        non_striker: TM Head
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 59.2:
+        non_striker: TM Head
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 59.3:
+        non_striker: TM Head
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 59.4:
+        non_striker: MR Marsh
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 59.5:
+        non_striker: MR Marsh
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 59.6:
+        non_striker: MR Marsh
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 60.1:
+        non_striker: TM Head
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 60.2:
+        non_striker: MR Marsh
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 60.3:
+        non_striker: MR Marsh
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 60.4:
+        non_striker: MR Marsh
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 60.5:
+        non_striker: MR Marsh
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 60.6:
+        non_striker: TM Head
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 61.1:
+        non_striker: MR Marsh
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 61.2:
+        non_striker: MR Marsh
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 61.3:
+        non_striker: TM Head
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 61.4:
+        non_striker: MR Marsh
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 61.5:
+        non_striker: MR Marsh
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 61.6:
+        non_striker: MR Marsh
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TM Head
+    - 62.1:
+        non_striker: TM Head
+        bowler: JJ Bumrah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: MR Marsh
+    - 62.2:
+        non_striker: TM Head
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 62.3:
+        non_striker: TM Head
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MR Marsh
+    - 62.4:
+        non_striker: TM Head
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 62.5:
+        non_striker: TM Head
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 62.6:
+        non_striker: TM Head
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 62.7:
+        non_striker: TM Head
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 63.1:
+        non_striker: MR Marsh
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 63.2:
+        non_striker: TM Head
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 63.3:
+        non_striker: TM Head
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 63.4:
+        non_striker: TM Head
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+        wicket:
+          player_out: MR Marsh
+          fielders:
+          - RR Pant
+          kind: caught
+    - 63.5:
+        non_striker: TM Head
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Carey
+    - 63.6:
+        non_striker: TM Head
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AT Carey
+    - 64.1:
+        non_striker: AT Carey
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 64.2:
+        non_striker: TM Head
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Carey
+    - 64.3:
+        non_striker: TM Head
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AT Carey
+    - 64.4:
+        non_striker: TM Head
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Carey
+    - 64.5:
+        non_striker: AT Carey
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 64.6:
+        non_striker: AT Carey
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 65.1:
+        non_striker: TM Head
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Carey
+    - 65.2:
+        non_striker: TM Head
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Carey
+    - 65.3:
+        non_striker: TM Head
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Carey
+    - 65.4:
+        non_striker: TM Head
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Carey
+    - 65.5:
+        non_striker: TM Head
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Carey
+    - 65.6:
+        non_striker: TM Head
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Carey
+    - 66.1:
+        non_striker: AT Carey
+        bowler: JJ Bumrah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: TM Head
+    - 66.2:
+        non_striker: AT Carey
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 66.3:
+        non_striker: AT Carey
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 66.4:
+        non_striker: AT Carey
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 66.5:
+        non_striker: TM Head
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Carey
+    - 66.6:
+        non_striker: TM Head
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Carey
+    - 66.7:
+        non_striker: TM Head
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Carey
+    - 67.1:
+        non_striker: AT Carey
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TM Head
+    - 67.2:
+        non_striker: AT Carey
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 67.3:
+        non_striker: AT Carey
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TM Head
+    - 67.4:
+        non_striker: AT Carey
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TM Head
+    - 67.5:
+        non_striker: AT Carey
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 67.6:
+        non_striker: AT Carey
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 68.1:
+        non_striker: TM Head
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Carey
+    - 68.2:
+        non_striker: AT Carey
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 68.3:
+        non_striker: AT Carey
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 68.4:
+        non_striker: AT Carey
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 68.5:
+        non_striker: AT Carey
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 68.6:
+        non_striker: AT Carey
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 69.1:
+        non_striker: TM Head
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Carey
+    - 69.2:
+        non_striker: AT Carey
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 69.3:
+        non_striker: AT Carey
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TM Head
+    - 69.4:
+        non_striker: AT Carey
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 69.5:
+        non_striker: AT Carey
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 69.6:
+        non_striker: TM Head
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Carey
+    - 70.1:
+        non_striker: AT Carey
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 70.2:
+        non_striker: AT Carey
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 70.3:
+        non_striker: AT Carey
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 70.4:
+        non_striker: AT Carey
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 70.5:
+        non_striker: AT Carey
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 70.6:
+        non_striker: TM Head
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Carey
+    - 71.1:
+        non_striker: AT Carey
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 71.2:
+        non_striker: AT Carey
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 71.3:
+        non_striker: TM Head
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Carey
+    - 71.4:
+        non_striker: TM Head
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Carey
+    - 71.5:
+        non_striker: AT Carey
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 71.6:
+        non_striker: AT Carey
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 72.1:
+        non_striker: AT Carey
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 72.2:
+        non_striker: AT Carey
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 72.3:
+        non_striker: AT Carey
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 72.4:
+        non_striker: AT Carey
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 72.5:
+        non_striker: AT Carey
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 72.6:
+        non_striker: AT Carey
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 73.1:
+        non_striker: TM Head
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Carey
+    - 73.2:
+        non_striker: TM Head
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Carey
+    - 73.3:
+        non_striker: AT Carey
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 73.4:
+        non_striker: AT Carey
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 73.5:
+        non_striker: TM Head
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Carey
+    - 73.6:
+        non_striker: AT Carey
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 74.1:
+        non_striker: TM Head
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Carey
+    - 74.2:
+        non_striker: TM Head
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Carey
+    - 74.3:
+        non_striker: TM Head
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Carey
+    - 74.4:
+        non_striker: AT Carey
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 74.5:
+        non_striker: TM Head
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Carey
+    - 74.6:
+        non_striker: AT Carey
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 75.1:
+        non_striker: TM Head
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Carey
+    - 75.2:
+        non_striker: TM Head
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Carey
+    - 75.3:
+        non_striker: AT Carey
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 75.4:
+        non_striker: AT Carey
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 75.5:
+        non_striker: AT Carey
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 75.6:
+        non_striker: AT Carey
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 76.1:
+        non_striker: TM Head
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Carey
+    - 76.2:
+        non_striker: AT Carey
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 76.3:
+        non_striker: AT Carey
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 76.4:
+        non_striker: TM Head
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Carey
+    - 76.5:
+        non_striker: AT Carey
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 76.6:
+        non_striker: TM Head
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Carey
+        wicket:
+          player_out: AT Carey
+          fielders:
+          - RR Pant
+          kind: caught
+    - 77.1:
+        non_striker: PJ Cummins
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 77.2:
+        non_striker: PJ Cummins
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 77.3:
+        non_striker: TM Head
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+    - 77.4:
+        non_striker: TM Head
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+    - 77.5:
+        non_striker: TM Head
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PJ Cummins
+    - 77.6:
+        non_striker: PJ Cummins
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 78.1:
+        non_striker: TM Head
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+    - 78.2:
+        non_striker: TM Head
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+    - 78.3:
+        non_striker: TM Head
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PJ Cummins
+    - 78.4:
+        non_striker: TM Head
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+    - 78.5:
+        non_striker: TM Head
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PJ Cummins
+    - 78.6:
+        non_striker: TM Head
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PJ Cummins
+    - 79.1:
+        non_striker: TM Head
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+    - 79.2:
+        non_striker: TM Head
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+    - 79.3:
+        non_striker: TM Head
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+    - 79.4:
+        non_striker: TM Head
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+    - 79.5:
+        non_striker: TM Head
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+    - 79.6:
+        non_striker: TM Head
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+    - 80.1:
+        non_striker: PJ Cummins
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 80.2:
+        non_striker: PJ Cummins
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 80.3:
+        non_striker: PJ Cummins
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 80.4:
+        non_striker: PJ Cummins
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 80.5:
+        non_striker: PJ Cummins
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 80.6:
+        non_striker: TM Head
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+    - 81.1:
+        non_striker: PJ Cummins
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 81.2:
+        non_striker: PJ Cummins
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 81.3:
+        non_striker: PJ Cummins
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TM Head
+    - 81.4:
+        non_striker: PJ Cummins
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+        wicket:
+          player_out: TM Head
+          kind: bowled
+    - 81.5:
+        non_striker: PJ Cummins
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MA Starc
+    - 81.6:
+        non_striker: PJ Cummins
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Starc
+    - 82.1:
+        non_striker: PJ Cummins
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Starc
+    - 82.2:
+        non_striker: PJ Cummins
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Starc
+    - 82.3:
+        non_striker: MA Starc
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+    - 82.4:
+        non_striker: MA Starc
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+    - 82.5:
+        non_striker: MA Starc
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+    - 82.6:
+        non_striker: MA Starc
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+    - 83.1:
+        non_striker: PJ Cummins
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MA Starc
+    - 83.2:
+        non_striker: PJ Cummins
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Starc
+    - 83.3:
+        non_striker: PJ Cummins
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Starc
+    - 83.4:
+        non_striker: PJ Cummins
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MA Starc
+    - 83.5:
+        non_striker: PJ Cummins
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MA Starc
+    - 83.6:
+        non_striker: PJ Cummins
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Starc
+    - 84.1:
+        non_striker: PJ Cummins
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Starc
+    - 84.2:
+        non_striker: PJ Cummins
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Starc
+    - 84.3:
+        non_striker: PJ Cummins
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Starc
+    - 84.4:
+        non_striker: PJ Cummins
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Starc
+    - 84.5:
+        non_striker: MA Starc
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PJ Cummins
+    - 84.6:
+        non_striker: MA Starc
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+        wicket:
+          player_out: PJ Cummins
+          kind: bowled
+    - 85.1:
+        non_striker: NM Lyon
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Starc
+        wicket:
+          player_out: MA Starc
+          fielders:
+          - Harshit Rana
+          kind: caught
+    - 85.2:
+        non_striker: NM Lyon
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Boland
+    - 85.3:
+        non_striker: NM Lyon
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Boland
+    - 85.4:
+        non_striker: NM Lyon
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Boland
+    - 85.5:
+        non_striker: NM Lyon
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Boland
+    - 85.6:
+        non_striker: NM Lyon
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Boland
+    - 86.1:
+        non_striker: SM Boland
+        bowler: JJ Bumrah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: NM Lyon
+    - 86.2:
+        non_striker: SM Boland
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NM Lyon
+    - 86.3:
+        non_striker: SM Boland
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NM Lyon
+    - 86.4:
+        non_striker: SM Boland
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NM Lyon
+    - 86.5:
+        non_striker: NM Lyon
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Boland
+    - 86.6:
+        non_striker: NM Lyon
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Boland
+    - 86.7:
+        non_striker: NM Lyon
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Boland
+    - 87.1:
+        non_striker: SM Boland
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NM Lyon
+    - 87.2:
+        non_striker: SM Boland
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: NM Lyon
+    - 87.3:
+        non_striker: NM Lyon
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Boland
+        wicket:
+          player_out: SM Boland
+          kind: bowled
+- 3rd innings:
+    team: India
+    deliveries:
+    - 0.1:
+        non_striker: KL Rahul
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YBK Jaiswal
+    - 0.2:
+        non_striker: KL Rahul
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YBK Jaiswal
+    - 0.3:
+        non_striker: KL Rahul
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YBK Jaiswal
+    - 0.4:
+        non_striker: KL Rahul
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YBK Jaiswal
+    - 0.5:
+        non_striker: KL Rahul
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YBK Jaiswal
+    - 0.6:
+        non_striker: KL Rahul
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YBK Jaiswal
+    - 1.1:
+        non_striker: YBK Jaiswal
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 1.2:
+        non_striker: KL Rahul
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YBK Jaiswal
+    - 1.3:
+        non_striker: KL Rahul
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YBK Jaiswal
+    - 1.4:
+        non_striker: KL Rahul
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YBK Jaiswal
+    - 1.5:
+        non_striker: KL Rahul
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YBK Jaiswal
+    - 1.6:
+        non_striker: KL Rahul
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YBK Jaiswal
+    - 2.1:
+        non_striker: YBK Jaiswal
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL Rahul
+    - 2.2:
+        non_striker: YBK Jaiswal
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 2.3:
+        non_striker: KL Rahul
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YBK Jaiswal
+    - 2.4:
+        non_striker: KL Rahul
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YBK Jaiswal
+    - 2.5:
+        non_striker: YBK Jaiswal
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 2.6:
+        non_striker: YBK Jaiswal
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 3.1:
+        non_striker: YBK Jaiswal
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 3.2:
+        non_striker: YBK Jaiswal
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 3.3:
+        non_striker: YBK Jaiswal
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 3.4:
+        non_striker: YBK Jaiswal
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 3.5:
+        non_striker: YBK Jaiswal
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+        wicket:
+          player_out: KL Rahul
+          fielders:
+          - AT Carey
+          kind: caught
+    - 3.6:
+        non_striker: YBK Jaiswal
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shubman Gill
+    - 4.1:
+        non_striker: Shubman Gill
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YBK Jaiswal
+    - 4.2:
+        non_striker: Shubman Gill
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YBK Jaiswal
+    - 4.3:
+        non_striker: Shubman Gill
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YBK Jaiswal
+    - 4.4:
+        non_striker: Shubman Gill
+        bowler: MA Starc
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: YBK Jaiswal
+    - 4.5:
+        non_striker: Shubman Gill
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YBK Jaiswal
+    - 4.6:
+        non_striker: Shubman Gill
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YBK Jaiswal
+    - 5.1:
+        non_striker: YBK Jaiswal
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 5.2:
+        non_striker: Shubman Gill
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YBK Jaiswal
+    - 5.3:
+        non_striker: Shubman Gill
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YBK Jaiswal
+    - 5.4:
+        non_striker: Shubman Gill
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YBK Jaiswal
+    - 5.5:
+        non_striker: Shubman Gill
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YBK Jaiswal
+    - 5.6:
+        non_striker: YBK Jaiswal
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 6.1:
+        non_striker: Shubman Gill
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YBK Jaiswal
+    - 6.2:
+        non_striker: Shubman Gill
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YBK Jaiswal
+    - 6.3:
+        non_striker: Shubman Gill
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YBK Jaiswal
+    - 6.4:
+        non_striker: Shubman Gill
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YBK Jaiswal
+    - 6.5:
+        non_striker: Shubman Gill
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: YBK Jaiswal
+    - 6.6:
+        non_striker: YBK Jaiswal
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 7.1:
+        non_striker: YBK Jaiswal
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 7.2:
+        non_striker: YBK Jaiswal
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 7.3:
+        non_striker: YBK Jaiswal
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 7.4:
+        non_striker: Shubman Gill
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YBK Jaiswal
+    - 7.5:
+        non_striker: Shubman Gill
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: YBK Jaiswal
+    - 7.6:
+        non_striker: YBK Jaiswal
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 8.1:
+        non_striker: Shubman Gill
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YBK Jaiswal
+        wicket:
+          player_out: YBK Jaiswal
+          fielders:
+          - AT Carey
+          kind: caught
+    - 8.2:
+        non_striker: Shubman Gill
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 8.3:
+        non_striker: Shubman Gill
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Kohli
+    - 8.4:
+        non_striker: Shubman Gill
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 8.5:
+        non_striker: Shubman Gill
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 8.6:
+        non_striker: Shubman Gill
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 9.1:
+        non_striker: V Kohli
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 9.2:
+        non_striker: V Kohli
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 9.3:
+        non_striker: Shubman Gill
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 9.4:
+        non_striker: V Kohli
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shubman Gill
+    - 9.5:
+        non_striker: V Kohli
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shubman Gill
+    - 9.6:
+        non_striker: V Kohli
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 10.1:
+        non_striker: V Kohli
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 10.2:
+        non_striker: V Kohli
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 10.3:
+        non_striker: Shubman Gill
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 10.4:
+        non_striker: Shubman Gill
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 10.5:
+        non_striker: Shubman Gill
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 10.6:
+        non_striker: Shubman Gill
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 11.1:
+        non_striker: V Kohli
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 11.2:
+        non_striker: V Kohli
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 11.3:
+        non_striker: V Kohli
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 11.4:
+        non_striker: V Kohli
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 11.5:
+        non_striker: Shubman Gill
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 11.6:
+        non_striker: Shubman Gill
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 12.1:
+        non_striker: V Kohli
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 12.2:
+        non_striker: V Kohli
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 12.3:
+        non_striker: Shubman Gill
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 12.4:
+        non_striker: Shubman Gill
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 12.5:
+        non_striker: Shubman Gill
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 12.6:
+        non_striker: Shubman Gill
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 13.1:
+        non_striker: V Kohli
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 13.2:
+        non_striker: V Kohli
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 13.3:
+        non_striker: V Kohli
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 13.4:
+        non_striker: Shubman Gill
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Kohli
+    - 13.5:
+        non_striker: Shubman Gill
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 13.6:
+        non_striker: Shubman Gill
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 14.1:
+        non_striker: Shubman Gill
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: V Kohli
+    - 14.2:
+        non_striker: V Kohli
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 14.3:
+        non_striker: Shubman Gill
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+        wicket:
+          player_out: V Kohli
+          fielders:
+          - AT Carey
+          kind: caught
+    - 14.4:
+        non_striker: Shubman Gill
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Pant
+    - 14.5:
+        non_striker: Shubman Gill
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Pant
+    - 14.6:
+        non_striker: Shubman Gill
+        bowler: SM Boland
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: RR Pant
+    - 15.1:
+        non_striker: Shubman Gill
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 15.2:
+        non_striker: Shubman Gill
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 15.3:
+        non_striker: Shubman Gill
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 15.4:
+        non_striker: RR Pant
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shubman Gill
+    - 15.5:
+        non_striker: RR Pant
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shubman Gill
+    - 15.6:
+        non_striker: RR Pant
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shubman Gill
+    - 16.1:
+        non_striker: Shubman Gill
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 16.2:
+        non_striker: Shubman Gill
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 16.3:
+        non_striker: Shubman Gill
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Pant
+    - 16.4:
+        non_striker: Shubman Gill
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 16.5:
+        non_striker: Shubman Gill
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 16.6:
+        non_striker: Shubman Gill
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 17.1:
+        non_striker: RR Pant
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 17.2:
+        non_striker: RR Pant
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+        wicket:
+          player_out: Shubman Gill
+          kind: bowled
+    - 17.3:
+        non_striker: RR Pant
+        bowler: MA Starc
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: RG Sharma
+    - 17.4:
+        non_striker: RR Pant
+        bowler: MA Starc
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: RG Sharma
+    - 17.5:
+        non_striker: RR Pant
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 17.6:
+        non_striker: RR Pant
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 17.7:
+        non_striker: RR Pant
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RG Sharma
+    - 17.8:
+        non_striker: RR Pant
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 18.1:
+        non_striker: RG Sharma
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 18.2:
+        non_striker: RG Sharma
+        bowler: SM Boland
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: RR Pant
+    - 18.3:
+        non_striker: RG Sharma
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Pant
+    - 18.4:
+        non_striker: RG Sharma
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Pant
+    - 18.5:
+        non_striker: RG Sharma
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 18.6:
+        non_striker: RG Sharma
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 19.1:
+        non_striker: RR Pant
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 19.2:
+        non_striker: RR Pant
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 19.3:
+        non_striker: RR Pant
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 19.4:
+        non_striker: RR Pant
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 19.5:
+        non_striker: RR Pant
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 19.6:
+        non_striker: RR Pant
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RG Sharma
+    - 20.1:
+        non_striker: RG Sharma
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 20.2:
+        non_striker: RG Sharma
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 20.3:
+        non_striker: RR Pant
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 20.4:
+        non_striker: RR Pant
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 20.5:
+        non_striker: RR Pant
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+        wicket:
+          player_out: RG Sharma
+          kind: bowled
+    - 20.6:
+        non_striker: RR Pant
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 21.1:
+        non_striker: Nithish Kumar Reddy
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 21.2:
+        non_striker: RR Pant
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 21.3:
+        non_striker: RR Pant
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 21.4:
+        non_striker: RR Pant
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nithish Kumar Reddy
+    - 21.5:
+        non_striker: RR Pant
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 21.6:
+        non_striker: RR Pant
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 22.1:
+        non_striker: Nithish Kumar Reddy
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 22.2:
+        non_striker: RR Pant
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 22.3:
+        non_striker: RR Pant
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nithish Kumar Reddy
+    - 22.4:
+        non_striker: Nithish Kumar Reddy
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 22.5:
+        non_striker: RR Pant
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 22.6:
+        non_striker: RR Pant
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nithish Kumar Reddy
+    - 23.1:
+        non_striker: Nithish Kumar Reddy
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Pant
+    - 23.2:
+        non_striker: Nithish Kumar Reddy
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 23.3:
+        non_striker: RR Pant
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nithish Kumar Reddy
+    - 23.4:
+        non_striker: RR Pant
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 23.5:
+        non_striker: RR Pant
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 23.6:
+        non_striker: RR Pant
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nithish Kumar Reddy
+    - 24.1:
+        non_striker: Nithish Kumar Reddy
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 24.2:
+        non_striker: Nithish Kumar Reddy
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 24.3:
+        non_striker: Nithish Kumar Reddy
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 24.4:
+        non_striker: Nithish Kumar Reddy
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 24.5:
+        non_striker: Nithish Kumar Reddy
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 24.6:
+        non_striker: Nithish Kumar Reddy
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+        wicket:
+          player_out: RR Pant
+          fielders:
+          - SPD Smith
+          kind: caught
+    - 25.1:
+        non_striker: R Ashwin
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 25.2:
+        non_striker: R Ashwin
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nithish Kumar Reddy
+    - 25.3:
+        non_striker: R Ashwin
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 25.4:
+        non_striker: R Ashwin
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 25.5:
+        non_striker: R Ashwin
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nithish Kumar Reddy
+    - 25.6:
+        non_striker: Nithish Kumar Reddy
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Ashwin
+    - 26.1:
+        non_striker: Nithish Kumar Reddy
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ashwin
+    - 26.2:
+        non_striker: Nithish Kumar Reddy
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: R Ashwin
+    - 26.3:
+        non_striker: R Ashwin
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 26.4:
+        non_striker: R Ashwin
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nithish Kumar Reddy
+    - 26.5:
+        non_striker: Nithish Kumar Reddy
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ashwin
+    - 26.6:
+        non_striker: Nithish Kumar Reddy
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ashwin
+    - 27.1:
+        non_striker: R Ashwin
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 27.2:
+        non_striker: R Ashwin
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nithish Kumar Reddy
+    - 27.3:
+        non_striker: R Ashwin
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 27.4:
+        non_striker: R Ashwin
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 27.5:
+        non_striker: R Ashwin
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 27.6:
+        non_striker: R Ashwin
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 28.1:
+        non_striker: Nithish Kumar Reddy
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ashwin
+    - 28.2:
+        non_striker: Nithish Kumar Reddy
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ashwin
+    - 28.3:
+        non_striker: Nithish Kumar Reddy
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ashwin
+    - 28.4:
+        non_striker: Nithish Kumar Reddy
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Ashwin
+    - 28.5:
+        non_striker: R Ashwin
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 28.6:
+        non_striker: R Ashwin
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nithish Kumar Reddy
+    - 29.1:
+        non_striker: Nithish Kumar Reddy
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Ashwin
+    - 29.2:
+        non_striker: Nithish Kumar Reddy
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ashwin
+    - 29.3:
+        non_striker: Nithish Kumar Reddy
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ashwin
+    - 29.4:
+        non_striker: Nithish Kumar Reddy
+        bowler: PJ Cummins
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: R Ashwin
+    - 29.5:
+        non_striker: Nithish Kumar Reddy
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ashwin
+        wicket:
+          player_out: R Ashwin
+          fielders:
+          - AT Carey
+          kind: caught
+    - 29.6:
+        non_striker: Nithish Kumar Reddy
+        bowler: PJ Cummins
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Harshit Rana
+    - 29.7:
+        non_striker: Nithish Kumar Reddy
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harshit Rana
+    - 29.8:
+        non_striker: Nithish Kumar Reddy
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harshit Rana
+    - 30.1:
+        non_striker: Harshit Rana
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 30.2:
+        non_striker: Harshit Rana
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 30.3:
+        non_striker: Harshit Rana
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 30.4:
+        non_striker: Harshit Rana
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 30.5:
+        non_striker: Harshit Rana
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nithish Kumar Reddy
+    - 30.6:
+        non_striker: Nithish Kumar Reddy
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harshit Rana
+    - 31.1:
+        non_striker: Harshit Rana
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nithish Kumar Reddy
+    - 31.2:
+        non_striker: Nithish Kumar Reddy
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harshit Rana
+    - 31.3:
+        non_striker: Nithish Kumar Reddy
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harshit Rana
+    - 31.4:
+        non_striker: Nithish Kumar Reddy
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harshit Rana
+    - 31.5:
+        non_striker: Nithish Kumar Reddy
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harshit Rana
+    - 31.6:
+        non_striker: Nithish Kumar Reddy
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harshit Rana
+    - 32.1:
+        non_striker: Harshit Rana
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 32.2:
+        non_striker: Harshit Rana
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 32.3:
+        non_striker: Harshit Rana
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 32.4:
+        non_striker: Harshit Rana
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nithish Kumar Reddy
+    - 32.5:
+        non_striker: Nithish Kumar Reddy
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harshit Rana
+    - 32.6:
+        non_striker: Nithish Kumar Reddy
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harshit Rana
+    - 33.1:
+        non_striker: Harshit Rana
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nithish Kumar Reddy
+    - 33.2:
+        non_striker: Nithish Kumar Reddy
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harshit Rana
+    - 33.3:
+        non_striker: Nithish Kumar Reddy
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harshit Rana
+        wicket:
+          player_out: Harshit Rana
+          fielders:
+          - UT Khawaja
+          kind: caught
+    - 33.4:
+        non_striker: Nithish Kumar Reddy
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JJ Bumrah
+    - 33.5:
+        non_striker: Nithish Kumar Reddy
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Bumrah
+    - 33.6:
+        non_striker: Nithish Kumar Reddy
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Bumrah
+    - 34.1:
+        non_striker: JJ Bumrah
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 34.2:
+        non_striker: JJ Bumrah
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 34.3:
+        non_striker: JJ Bumrah
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nithish Kumar Reddy
+    - 34.4:
+        non_striker: JJ Bumrah
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 34.5:
+        non_striker: JJ Bumrah
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nithish Kumar Reddy
+    - 34.6:
+        non_striker: Nithish Kumar Reddy
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Bumrah
+    - 35.1:
+        non_striker: JJ Bumrah
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Nithish Kumar Reddy
+    - 35.2:
+        non_striker: JJ Bumrah
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+        wicket:
+          player_out: Nithish Kumar Reddy
+          fielders:
+          - NA McSweeney
+          kind: caught
+    - 35.3:
+        non_striker: JJ Bumrah
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Siraj
+    - 35.4:
+        non_striker: JJ Bumrah
+        bowler: PJ Cummins
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mohammed Siraj
+    - 35.5:
+        non_striker: JJ Bumrah
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Siraj
+    - 35.6:
+        non_striker: JJ Bumrah
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammed Siraj
+    - 35.7:
+        non_striker: Mohammed Siraj
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Bumrah
+    - 36.1:
+        non_striker: JJ Bumrah
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Siraj
+    - 36.2:
+        non_striker: JJ Bumrah
+        bowler: SM Boland
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mohammed Siraj
+    - 36.3:
+        non_striker: JJ Bumrah
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammed Siraj
+    - 36.4:
+        non_striker: JJ Bumrah
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammed Siraj
+    - 36.5:
+        non_striker: JJ Bumrah
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Siraj
+    - 36.6:
+        non_striker: JJ Bumrah
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Siraj
+        wicket:
+          player_out: Mohammed Siraj
+          fielders:
+          - TM Head
+          kind: caught
+- 4th innings:
+    team: Australia
+    deliveries:
+    - 0.1:
+        non_striker: UT Khawaja
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 0.2:
+        non_striker: UT Khawaja
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 0.3:
+        non_striker: UT Khawaja
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 0.4:
+        non_striker: UT Khawaja
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 0.5:
+        non_striker: UT Khawaja
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NA McSweeney
+    - 0.6:
+        non_striker: UT Khawaja
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 1.1:
+        non_striker: NA McSweeney
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 1.2:
+        non_striker: NA McSweeney
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: UT Khawaja
+    - 1.3:
+        non_striker: NA McSweeney
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 1.4:
+        non_striker: NA McSweeney
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: UT Khawaja
+    - 1.5:
+        non_striker: NA McSweeney
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 1.6:
+        non_striker: NA McSweeney
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: UT Khawaja
+    - 2.1:
+        non_striker: UT Khawaja
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 2.2:
+        non_striker: UT Khawaja
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NA McSweeney
+    - 2.3:
+        non_striker: UT Khawaja
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 2.4:
+        non_striker: UT Khawaja
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 2.5:
+        non_striker: UT Khawaja
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 2.6:
+        non_striker: UT Khawaja
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NA McSweeney
+    - 3.1:
+        non_striker: NA McSweeney
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 3.2:
+        non_striker: NA McSweeney
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UT Khawaja
