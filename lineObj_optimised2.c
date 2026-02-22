@@ -53,6 +53,7 @@ typedef struct delT{
 	ContentT outcome;
 	unsigned char player_index;
 	unsigned char player_index2;
+	unsigned char player_index3;
 }delT;
 
 //overT object validation
@@ -102,8 +103,8 @@ typedef struct InningT{
 	_BatsmanT *bat;
 	_bowlerT *blr;
 	unsigned char nbat, nblr;
-	unsigned char novers;
-	unsigned short start, end;
+	unsigned char novers, nwickets;
+	unsigned short start, end, target;
 }InningT;
 
 //toss object validation
@@ -453,10 +454,6 @@ int main(int aa, char **ab)
 		printf("inning indentation err at: %d\n", lncnt);
 		return 0;
 	}
-	if(!((0 <= inning[0].novers && inning[0].novers <= NOVERS) && (0 <= inning[1].novers && inning[1].novers <= NOVERS))){ //validating the number of overs in innings
-		inV.inning_oflag[inning[0].end] = 1;
-		printf("err in inning_oflag: %d\n", inning[0].end);
-	}
 	overT *o1 = malloc(inning[0].novers * (sizeof(overT))); // try to allocate sufficient space for the lines sequence
 	inning[0].overs = o1; // will allocate 0 to 49 overs and we'll access it from 0
 	overT *o2 = malloc(inning[1].novers * (sizeof(overT))); // try to allocate sufficient space for the lines sequence
@@ -534,7 +531,7 @@ int main(int aa, char **ab)
 				}
 				if(j == line[lncnt].length-17){
 					inning[i].overs[cnt-1].player_index = teams[it].plr[c].index;
-					printf("bowler player_index: %d at: %d\n", inning[i].overs[cnt-1].player_index, inning[i].overs[cnt-1].over_no);
+				//	printf("bowler player_index: %d at: %d\n", inning[i].overs[cnt-1].player_index, inning[i].overs[cnt-1].over_no);
 				}
 				c += 1;
 			}
@@ -555,11 +552,12 @@ int main(int aa, char **ab)
 	}
 	//______________________________________________________________________________________________________________________
 	c=0, i=0, cnt=0;
+	inning[0].nwickets = 0, inning[0].target = 0, inning[1].target = 0;
 	unsigned char cnt0=0;
 	unsigned char stri_sub_str[] = "        batsman:", strilen=16;
 	unsigned char nsub_str[] = "        non_striker:";
 	unsigned char osub_str[] = "        extras:", olen=14;
-	unsigned char rsub_str[] = "        runs:", rlen=12;
+	unsigned char rsub_str[] = "          total:", rlen=16;
 	unsigned char wsub_str[] = "          player_out:", wlen=21;
 	len = 20;
 	lncnt = inning[0].start; //reusing the lncnt
@@ -628,6 +626,20 @@ int main(int aa, char **ab)
 			}
 		}
 		if(j == wlen){
+			c = 0;
+			while( c < NPP){
+				for(j=0;j<line[lncnt].length-23;j++){
+					if(buf[line[teams[it].plr[c].name.cnl].start_index+teams[it].plr[c].name.start+j] != (buf[line[lncnt].start_index+22+j])){
+						break;
+					}
+				}
+				if(j == line[lncnt].length-23){
+					inning[i].overs[cnt-1].ds[cnt0-1].player_index3 = teams[it].plr[c].index;
+					inning[i].nwickets += 1;
+//					printf("wicket player_index: %d\n", inning[i].overs[cnt-1].ds[cnt0-1].player_index3);
+				}
+				c += 1;
+			}
 			inning[i].overs[cnt-1].ds[cnt0-1].outcome.cnl = lncnt;
 			inning[i].overs[cnt-1].ds[cnt0-1].outcome.start = wlen+1;
 		}
@@ -639,7 +651,8 @@ int main(int aa, char **ab)
 		if(j == rlen){
 			inning[i].overs[cnt-1].ds[cnt0-1].runs.cnl = lncnt;
 			inning[i].overs[cnt-1].ds[cnt0-1].runs.start = rlen+1;
-			//	printf("inning[%d].overs[%ld].ds[%d].runs.cnl: %d\n", i, cnt-1, cnt0-1, inning[i].overs[cnt-1].ds[cnt0-1].runs.cnl);
+//			printf("runs: %c\n", buf[line[inning[i].overs[cnt-1].ds[cnt0-1].runs.cnl].start_index+inning[i].overs[cnt-1].ds[cnt0-1].runs.start]);
+			inning[i].target += (char)buf[line[inning[i].overs[cnt-1].ds[cnt0-1].runs.cnl].start_index+inning[i].overs[cnt-1].ds[cnt0-1].runs.start] - 48;
 		}
 		if(((buf[line[lncnt].start_index]) == '-') && ((buf[line[lncnt].start_index+1]) == ' ')&& (buf[line[lncnt].start_index+2]) == '2'){
 			i = 1, cnt = 0,c=0, it = !it;
@@ -692,6 +705,14 @@ int main(int aa, char **ab)
 	}
 	printf("inning[0].nbal: %d\n",inning[0].nblr);
 	printf("inning[1].nbal: %d\n",inning[1].nblr);
+	if(!((0 <= inning[0].novers && inning[0].novers <= NOVERS) && (0 <= inning[1].novers && inning[1].novers <= NOVERS))){ //validating the number of overs in innings
+		inV.inning_oflag[inning[0].end] = 1;
+		printf("err in inning_oflag: %d\n", inning[0].end);
+	}
+	printf("inning[0].nwickets: %d\n", inning[0].nwickets);
+	printf("inning[1].nwickets: %d\n", inning[1].nwickets);
+	printf("inning[0].target: %d\n", inning[0].target);
+	printf("inning[1].target: %d\n", inning[1].target);
 	free(buf);
 	free(line);
 	return 0;
