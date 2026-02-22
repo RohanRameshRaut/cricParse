@@ -1,6 +1,14 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <assert.h>
+//define all the sub_string_keys and their lengths
+#define WBYTES " :-.'\n_()," //wanted bytes in file, decared directly
+#define WBYTES_LEN 10
+#define PLAYER_KEY "    - " //starting indentatioin pattern for players
+#define PLAYER_KEY_LEN 6
+#define REGISTRY_KEY "  registry"
+#define REGISTRY_KEY_LEN 10
+#define TEAM_KEY "  - "
+#define TEAM_KEY_LEN 4
 
 #define ERR (1)
 #define EMPTY "SEQUENCE_IS_EMPTY"
@@ -171,23 +179,24 @@ int main(int aa, char **ab)
 		perror("Failed to read file");
 		return ERR;
 	}
-	unsigned long nl = 0, cnt = 0;
-	unsigned char wnb[] = {' ',':','-','.','\'','\n','_', '(', ')', ','}, i=0, j=0;
-	b.wb = wnb;
+	unsigned long nl = 0, cnt = 0, sizem = 1;
+	unsigned short lncnt = 0;
+	unsigned char *sub_str = WBYTES, i=0, j=0, flag = 1, *sub_str2, *sub_str3, c=0,len=0;
+	b.wb = sub_str;
 	while (cnt < size)
 	{	
-		for(i=0;i<10;i++){ //10 is the size of wnb array
+		for(i=0;i<WBYTES_LEN;i++){ //10 is the size of wnb array
 			if(buf[cnt] == b.wb[i]){
 				break;
 			}
 		}
-		if((i==10) && !(('A'<=buf[cnt] && buf[cnt]<='Z') || ('a'<=buf[cnt] && buf[cnt]<='z') || ('0'<=buf[cnt] && buf[cnt]<='9'))){
+		if((i==WBYTES_LEN) && !(('A'<=buf[cnt] && buf[cnt]<='Z') || ('a'<=buf[cnt] && buf[cnt]<='z') || ('0'<=buf[cnt] && buf[cnt]<='9'))){
 			printf("invalid char: %c\n", buf[cnt]);
 		}
 		if(buf[cnt] == '\n') nl++;
 		++cnt;
 	}
-	LineT *line = malloc((nl) * (sizeof(LineT))); // try to allocate sufficient space for the lines sequence
+	LineT *line = (LineT*) calloc(nl, (sizeof(LineT))); // try to allocate sufficient space for the lines sequence
 	slinesV lsV; //slinesV object 
 	TeamsV tsV;
 	PlayersV psV;
@@ -216,12 +225,6 @@ int main(int aa, char **ab)
 		fclose(f); return ERR;
 	}
 	cnt = 0; // we shall use the cnt again for our computation
-	unsigned short lncnt = 0;
-	line[0].length = 0;
-	unsigned long sizem=1;
-	line[0].start_index = 0;
-	line[0].ind = 0, line[0].col = 0;
-	unsigned char flag = 1;
 	while (cnt < size-1)
 	{
 		if(buf[cnt] == '\n')
@@ -266,7 +269,9 @@ int main(int aa, char **ab)
 	flag = 1;
 	Players *p[2];
 	Teams teams[2];
-	unsigned char sub_str[] = "    - ", len = 6, c=0, flag2=0, flag3 = 1, flag4 = 0, flag5 = 1, NP=0, NPP=0, reg_sub_str[] = "  registry", reg_len = 10, team_sub_str[] = "  - ", team_len = 4;
+	sub_str= PLAYER_KEY, c=0;
+	unsigned char f2=0, f3 = 1, f4 = 0, f5 = 1, NP=0, NPP=0;
+	sub_str2= REGISTRY_KEY, sub_str3= TEAM_KEY;
 	while(lncnt < nl){
 		if(flag){
 			for(j=0;j<line[lncnt].length-1;j++){
@@ -274,37 +279,37 @@ int main(int aa, char **ab)
 					break;
 				}
 			}
-			if(j == len){
+			if(j == PLAYER_KEY_LEN){
 				NP += 1;	
 			}
-			if(1 <= NP && NP < 11 && (j != len)){
+			if(1 <= NP && NP < 11 && (j != PLAYER_KEY_LEN)){
 				psV.pcflag[lncnt] = 1;
 				printf("player count err at: %d\n", lncnt);
 				return ERR;
 				NP = 0;
 			}
-			if(11 <= NP && (j != len)){//reset the NP for next team
+			if(11 <= NP && (j != PLAYER_KEY_LEN)){//reset the NP for next team
 				NPP = NP;	
 				p[c] = malloc(NPP * (sizeof(Players)));
 				NP = 0, c=1;
 			}
 		}
 		for(j=0;j<line[lncnt].length-1;j++){
-			if((buf[line[lncnt].start_index+j]) != reg_sub_str[j]){
+			if((buf[line[lncnt].start_index+j]) != sub_str2[j]){
 				break;
 			}
 		}
-		if(j == reg_len){
+		if(j == REGISTRY_KEY_LEN){
 			flag = 0;
-			flag2 = 1;
+			f2 = 1;
 		}
-		if(flag2){
+		if(f2){
 			for(j=0;j<line[lncnt].length-1;j++){
-				if((buf[line[lncnt].start_index+j]) != team_sub_str[j]){
+				if((buf[line[lncnt].start_index+j]) != sub_str3[j]){
 					break;
 				}
 			}
-			if(j == team_len){
+			if(j == TEAM_KEY_LEN){
 				teams[0].name.cnl = lncnt, teams[0].name.start = line[lncnt].ind, teams[1].name.cnl = lncnt+1, teams[1].name.start = line[lncnt].ind;
 				if(! (0 < (line[teams[0].name.cnl].length-teams[0].name.start) && 0 < (line[teams[1].name.cnl].length-teams[1].name.start))){ //checking for the input size of decision
 					tsV.teams_eflag[teams[0].name.cnl] = 1;
@@ -315,7 +320,7 @@ int main(int aa, char **ab)
 				//	printf("line[teams[c].name.cnl]: %d\n", line[teams[1].name.cnl].length-teams[1].name.start);
 				//	fwrite(buf+line[teams[0].name.cnl].start_index+teams[0].name.start, 1, line[teams[0].name.cnl].length-teams[0].name.start, stdout); printf("\n");
 				//	fwrite(buf+line[teams[1].name.cnl].start_index+teams[0].name.start, 1, line[teams[1].name.cnl].length-teams[1].name.start, stdout);
-				flag2 = 0;
+				f2 = 0;
 			}
 		}
 		if(!((buf[line[lncnt].start_index] == ' ')||(buf[line[lncnt].start_index] == '-')||('a'<= buf[line[lncnt].start_index] && buf[line[lncnt].start_index]<='z'))){
@@ -338,7 +343,7 @@ int main(int aa, char **ab)
 		lncnt += 1;
 	}
 	Toss Toss;
-	flag = 1, c=0, flag2=0;
+	flag = 1, c=0, f2=0;
 	unsigned char tsub_str[] = "    decision:", tlen=13, counter = 0;
 	InningT inning[2];
 	teams[0].plr = p[0];
@@ -400,15 +405,15 @@ int main(int aa, char **ab)
 			Toss.decision.cnl = lncnt, Toss.decision.start = tlen+1;
 			Toss.winner.cnl = lncnt+1, Toss.winner.start = tlen-1;
 		}
-		if(flag5){
+		if(f5){
 			if(((buf[line[lncnt].start_index]) == '-') && ((buf[line[lncnt].start_index+1]) == ' ')){
 				inning[0].start = lncnt;
 				inning[1].start = lncnt+2;
-				flag2 = 1;
-				flag5 = 0;
+				f2 = 1;
+				f5 = 0;
 			}
 		}
-		if(flag2){
+		if(f2){
 			for(j=0;j<line[lncnt].length-1;j++){
 				if((buf[line[lncnt].start_index+j]) != sub_str[j]){
 					break;
@@ -425,10 +430,10 @@ int main(int aa, char **ab)
 			inning[1].start = lncnt;
 			inning[0].end = lncnt-1;
 			inning[1].end = nl-1;
-			flag4 = 1;
-			flag2 = 0;
+			f4 = 1;
+			f2 = 0;
 		}
-		if(flag4){
+		if(f4){
 			for(j=0;j<line[lncnt].length-1;j++){
 				if((buf[line[lncnt].start_index+j]) != sub_str[j]){
 					break;
@@ -577,7 +582,7 @@ int main(int aa, char **ab)
 				}
 				if(j == line[lncnt].length-18){
 					inning[i].overs[cnt-1].ds[cnt0-1].player_index = teams[it].plr[c].index;
-//					printf("striker player_index: %d\n", inning[i].overs[cnt-1].ds[cnt0-1].player_index);
+					//					printf("striker player_index: %d\n", inning[i].overs[cnt-1].ds[cnt0-1].player_index);
 				}
 				c += 1;
 			}
@@ -634,36 +639,10 @@ int main(int aa, char **ab)
 		}
 		if(((buf[line[lncnt].start_index]) == '-') && ((buf[line[lncnt].start_index+1]) == ' ')&& (buf[line[lncnt].start_index+2]) == '2'){
 			i = 1, cnt = 0,c=0, it = !it;
-			printf("\n2nd inning\n");
+			printf("\n\n2nd inning\n");
 		}
 		lncnt++;
 	}
-	cnt = 0, c = 0, cnt0 = 0, j = 0, i = 0, it = !it, flag = 0;
-	inning[0].nbat = 0;
-	while(i<2){
-		for(c=0;c<NPP;c++){
-			for(cnt=0;cnt<inning[i].novers;cnt++){
-				for(cnt0=0;cnt0<inning[i].overs[cnt].ndel;cnt0++){
-					if(teams[it].plr[c].index == inning[i].overs[cnt].ds[cnt0].player_index || teams[it].plr[c].index == inning[i].overs[cnt].ds[cnt0].player_index2){
-						inning[i].nbat += 1;
-						flag = 1;
-						break;
-					}
-				}
-				if(flag){
-					flag = 0;
-					break;
-				}
-			}
-		}
-		i += 1, it = !it;
-	}
-	if(!((2 <= inning[0].nbat && inning[0].nbat <= 11) && (2 <= inning[1].nbat && inning[1].nbat <= 11))){//batsman count validation in inning
-		inV.inning_sflag[inning[0].end] = 1;
-		printf("err in nbat at: %d\n", inning[0].end);
-	}
-	printf("inning[0].nbat: %d\n",inning[0].nbat);
-	printf("inning[1].nbat: %d\n",inning[1].nbat);
 	free(buf);
 	free(line);
 	return 0;
