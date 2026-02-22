@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <assert.h>
-
+#define NOVERS 50
 #define ERR (1)
 #define EMPTY "SEQUENCE_IS_EMPTY"
 #define MAXB 1000000 //max bytes allowed
@@ -54,6 +54,12 @@ typedef struct delT{
 	unsigned char player_index;
 	unsigned char player_index2;
 }delT;
+
+//overT object validation
+typedef struct overV{
+	unsigned char *over_dflag;//d:ndel, p:playerIndex, po:player_out
+	unsigned char *over_pflag, *over_poflag;
+}overV;
 
 typedef struct overT{
 	unsigned short start;
@@ -447,13 +453,16 @@ int main(int aa, char **ab)
 		printf("inning indentation err at: %d\n", lncnt);
 		return 0;
 	}
-
+	if(!((0 <= inning[0].novers && inning[0].novers <= NOVERS) && (0 <= inning[1].novers && inning[1].novers <= NOVERS))){ //validating the number of overs in innings
+		inV.inning_oflag[inning[0].end] = 1;
+		printf("err in inning_oflag: %d\n", inning[0].end);
+	}
 	overT *o1 = malloc(inning[0].novers * (sizeof(overT))); // try to allocate sufficient space for the lines sequence
 	inning[0].overs = o1; // will allocate 0 to 49 overs and we'll access it from 0
 	overT *o2 = malloc(inning[1].novers * (sizeof(overT))); // try to allocate sufficient space for the lines sequence
 	inning[1].overs = o2;
-	printf("inning[0].start: %d\n",  inning[0].start);
-	printf("inning[1].start: %d\n",  inning[1].start);
+//	printf("inning[0].start: %d\n",  inning[0].start);
+//	printf("inning[1].start: %d\n",  inning[1].start);
 
 	//	________________________________________________________________________________________________________________________________
 	c=101, i=0, cnt= 0;
@@ -525,7 +534,7 @@ int main(int aa, char **ab)
 				}
 				if(j == line[lncnt].length-17){
 					inning[i].overs[cnt-1].player_index = teams[it].plr[c].index;
-					//					printf("bowler player_index: %d at: %d\n", inning[i].overs[cnt-1].player_index, inning[i].overs[cnt-1].over_no);
+					printf("bowler player_index: %d at: %d\n", inning[i].overs[cnt-1].player_index, inning[i].overs[cnt-1].over_no);
 				}
 				c += 1;
 			}
@@ -639,6 +648,7 @@ int main(int aa, char **ab)
 		lncnt++;
 	}
 	cnt = 0, c = 0, cnt0 = 0, j = 0, i = 0, it = !it, flag = 0;
+	printf("it at nbat: %d\n", it);
 	inning[0].nbat = 0;
 	while(i<2){
 		for(c=0;c<NPP;c++){
@@ -662,8 +672,26 @@ int main(int aa, char **ab)
 		inV.inning_sflag[inning[0].end] = 1;
 		printf("err in nbat at: %d\n", inning[0].end);
 	}
-	printf("inning[0].nbat: %d\n",inning[0].nbat);
-	printf("inning[1].nbat: %d\n",inning[1].nbat);
+	cnt = 0, c = 0, i = 0,it = !it;
+	inning[0].nblr = 0;
+	printf("it at nblr: %d\n", it);
+	while(i<2){
+		for(c=0;c<NPP;c++){
+			for(cnt=0;cnt<inning[i].novers;cnt++){
+				if(teams[it].plr[c].index == inning[i].overs[cnt].player_index){
+					inning[i].nblr += 1;
+					break;
+				}
+			}
+		}
+		i += 1, it = !it;
+	}
+	if(!((0 <= inning[0].nblr && inning[0].nblr <= 11) && (0 <= inning[1].nblr && inning[1].nblr <= 11))){
+		inV.inning_bflag[inning[0].end] = 1;
+		printf("err in nblr at: %d\n", inning[0].end);
+	}
+	printf("inning[0].nbal: %d\n",inning[0].nblr);
+	printf("inning[1].nbal: %d\n",inning[1].nblr);
 	free(buf);
 	free(line);
 	return 0;
