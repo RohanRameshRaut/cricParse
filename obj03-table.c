@@ -1,10 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <stdint.h>
 
-#define ERR (1)
-
-int main(void)
+int main()
 {
     // This program contains some errors!
     // Study the code and remove the errors.
@@ -57,7 +54,7 @@ int main(void)
     // |    |    |    |    |\n
     // +----+----+----+----+\n
     //
-    unsigned char *comp[5]; //to hold the 5 components needed to construct the table object
+    unsigned char *comp[4]; //to hold the 5 components needed to construct the table object
     //let's allocate space needed to hold these components
     comp[0] = malloc (t.cw - 1);
     comp[1] = malloc (t.cw - 1);
@@ -69,15 +66,15 @@ int main(void)
     comp[0][0] = '+';
     comp[1][0] = '|';
     size_t i, j, k;
-    for (j = 0; j < t.cw-1; ++j)
+    for (j = 1; j < t.cw-1; ++j)
        {
         // +----
         // |    
-         comp[0][j+1] = '-';
-         comp[1][j+1] = ' ';
+         comp[0][j] = '-';
+         comp[1][j] = ' ';
        }
 
-    for (i = 0; i <= t.nc; ++i)
+    for (i = 0; i < t.nc; ++i)
     {
       for (j = 0; j < t.cw-1; ++j)
       {
@@ -87,17 +84,17 @@ int main(void)
         // +----+----+----+----   +\n
         // |    |    |    |       |\n
       }
-      comp[2][t.nc*(t.cw-1)+1] = '+';
-      comp[3][t.nc*(t.cw-1)+1] = '|';
+      comp[2][t.nc*(t.cw-1)] = '+';
+      comp[3][t.nc*(t.cw-1)] = '|';
     }
     // now let's print the table
     printf ("\nThe table should look as under:\n");
     for (i = 0; i < t.nr; ++i)
     {
       // comp[2][0], 1, (t.nc*(t.rw-1)+1),
-      fwrite((comp[2]+0), 1, (t.nc*(t.cw-1)+1),stdout);
+      fwrite((comp[2]), 1, (t.nc*(t.cw-1)+1),stdout);
       printf("\n");
-      fwrite((comp[3]+0), 1, (t.nc*(t.cw-1)+1),stdout);
+      fwrite((comp[3]), 1, (t.nc*(t.cw-1)+1),stdout);
       printf("\n");
     }
     fwrite((comp[2]+0), 1, (t.nc*(t.cw-1)+1),stdout);

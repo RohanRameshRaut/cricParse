@@ -233,7 +233,7 @@ int main(int aa, char **ab)
 		if(buf[cnt] == '\n')
 		{
 			line[lncnt].length = sizem-1;
-			//				printf("Line %d: starting_index: %d size %d: \n", lncnt, line[lncnt].start_index, line[lncnt].length);
+							printf("Line %d: starting_index: %d size %d: \n", lncnt, line[lncnt].start_index, line[lncnt].length);
 			line[lncnt].col = 0;
 			if(buf[cnt-1] == ':'){ //check for the colon at the end and set the flag 1 else 0
 				line[lncnt].col = 1;
