@@ -16,7 +16,7 @@
 #define IND_MAX 12 //max indentation allowed
 #define SUFFIX 2 // suffix size after the key ': '
 #define MAXLENGTH(a, b) ((a) > (b) ? (a): (b))
-
+#define MINLENGTH(a, b) ((a) < (b) ? (a): (b))
 
 //ref validation objects
 typedef struct sbytesV{
@@ -91,7 +91,8 @@ typedef struct KeyT{
 
 typedef struct LineT{
 	unsigned int start_index;
-	unsigned char length, ind, col, key_index;
+	unsigned char length, ind, col;
+	char key_index;
 }LineT;
 
 typedef struct ContentT{
@@ -124,7 +125,7 @@ typedef struct OversT{
 }OversT;
 
 typedef struct InningT{
-	ContentT *teams[2];
+	ContentT teams;
 	OversT *overs;
 	unsigned char novers, start, end;
 }InningT;
@@ -281,6 +282,7 @@ int main(int aa, char **ab)
 
 	lncnt = 0, len=0, cnt=0, i=0,j=0;
 	while(lncnt < nl){//replace all the keys with index
+		line[lncnt].key_index = -1;//initialise key_index with -1 for all
 		for(j=0; buf[line[lncnt].start_index+line[lncnt].ind+j] != ':'&&j<line[lncnt].length; j++){
 			cnt += 1;//count the length of key of a perticular line
 		}
@@ -291,8 +293,7 @@ int main(int aa, char **ab)
 				}
 			}
 			if(j == MAXLENGTH(cnt, KEYS_ARR[i])){
-				line[lncnt].key_index = i;
-				//printf("line[%d].key_index: %d\n", lncnt, line[lncnt].key_index);
+				line[lncnt].key_index = i;//assign the matched key index
 			}
 		}
 		lncnt += 1;
@@ -303,6 +304,7 @@ int main(int aa, char **ab)
 	ContentT teams[2];
 	ContentT toss[2];//toss[0]:decision, toss[1]:winner
 	while(lncnt < nl){//get the PlayersT object initialised
+			  //		printf("line[%d].key_index: %d\n", lncnt, line[lncnt].key_index);
 		if(line[lncnt].key_index == 29) flag = 0;//match the <registry> key at 29th index
 		if(flag){
 			if((buf[line[lncnt].start_index+line[lncnt].length-1]) == ':'){
@@ -341,31 +343,102 @@ int main(int aa, char **ab)
 		if(line[lncnt].key_index == 36) j = 0;//match the <umpires> key at 36 index
 		lncnt += 1;
 	}
-//	fwrite(buf+line[toss[0].cnl].start_index+toss[0].start, 1, line[toss[0].cnl].length-toss[0].start, stdout);
-//	printf("\n");
-//	fwrite(buf+line[toss[1].cnl].start_index+toss[1].start, 1, line[toss[1].cnl].length-toss[1].start, stdout);
-//	printf("\n");
+	//	fwrite(buf+line[toss[0].cnl].start_index+toss[0].start, 1, line[toss[0].cnl].length-toss[0].start, stdout);
+	//	printf("\n");
+	//	fwrite(buf+line[toss[1].cnl].start_index+toss[1].start, 1, line[toss[1].cnl].length-toss[1].start, stdout);
+	//	printf("\n");
+	//	printf("nplr: %d\n", players.nplr);
 	players.index = (char*) calloc(players.nplr, (sizeof(char)));
 	if(!players.index) return ERR;
 	for(i=0;i<players.nplr;i++) players.index[i] = i;
 	players.name = (ContentT*) calloc(players.nplr, (sizeof(ContentT)));
 	if(!players.name) return ERR;
-	lncnt = 0, i=0, flag=0;
+	lncnt = 0, i=0, flag=0, j=0;
+	InningT inning[2];
+	inning[0].novers = 0;
 	while(lncnt < nl){//get the Players.name initialised
 		if(line[lncnt].key_index == 29) flag = 0;//match the <registry> key at 29th index
 		if(flag){
 			if((buf[line[lncnt].start_index+line[lncnt].ind-2]) == '-'){ //match the pattern from player name lines "ind-2 contains '-'"
 				players.name[i].cnl = lncnt;
 				players.name[i].start = line[lncnt].ind;
-				//	fwrite(buf+line[players.name[i].cnl].start_index+players.name[i].start, 1, line[players.name[i].cnl].length-players.name[i].start, stdout);
-				//	printf("\n");
+				//		fwrite(buf+line[players.name[i].cnl].start_index+players.name[i].start, 1, line[players.name[i].cnl].length-players.name[i].start, stdout);
+				//		printf("\n");
+				i += 1;
 			}
 		}
 		if(line[lncnt].key_index == 28) flag = 1;//match the <players> key at 28th index
-		lncnt += 1;
-		i += 1;
-	}
 
+		if(line[lncnt].key_index == 0){
+			inning[0].start = lncnt;
+			printf("inning[0].start: %d\n", inning[0].start);
+		}
+		if(line[lncnt].key_index == 32){
+			inning[j].teams.cnl = lncnt;
+			inning[j].teams.start = line[lncnt].ind;
+		}
+		if(buf[line[lncnt].start_index+line[lncnt].length-1] == ':' &&
+				buf[line[lncnt].start_index+line[lncnt].length-2] == '1' &&
+				buf[line[lncnt].start_index+line[lncnt].length-3] == '.'){
+			inning[j].novers += 1;
+		}
+		if(line[lncnt].key_index == 1){
+			inning[1].start = lncnt;
+			inning[0].end = lncnt-1;
+			inning[1].end = nl-1;
+			j = 1;
+		}
+		lncnt += 1;
+	}
+	printf("inning[0].novers: %d\n", inning[0].novers);
+	printf("inning[1].novers: %d\n", inning[1].novers);
+	OversT *o1 = (OversT*) calloc(inning[0].novers, (sizeof(OversT)));
+	inning[0].overs = o1;
+	OversT *o2 = (OversT*) calloc(inning[1].novers, (sizeof(OversT)));
+	inning[1].overs = o2;
+
+	lncnt = 0, i=0, flag=0, j=0, cnt=0, len=0;
+	KeyT k;
+	while(lncnt < nl){//get the Players.name initialised
+		if(buf[line[lncnt].start_index+line[lncnt].length-1] == ':' &&
+				buf[line[lncnt].start_index+line[lncnt].length-2] == '1' &&
+				buf[line[lncnt].start_index+line[lncnt].length-3] == '.'){
+			inning[i].overs[cnt].start = lncnt;
+			inning[i].overs[cnt].ndel = 0;
+			inning[i].overs[cnt].over_no = cnt+1;
+			cnt += 1;
+		}
+		if(line[lncnt].key_index == 4){//4: bowler key
+			len = 0;
+			for(j=0;buf[line[lncnt].start_index+line[lncnt].ind+KEYS_ARR[line[lncnt].key_index]+SUFFIX+j] != '\n';j++){
+				len += 1;
+			}
+			flag = 0;
+			while(flag < players.nplr){
+				for(j=0;j<MINLENGTH(len,line[players.name[flag].cnl].length-players.name[flag].start);j++){
+					if(buf[line[lncnt].start_index+line[lncnt].ind+KEYS_ARR[line[lncnt].key_index]+SUFFIX+j] !=
+							buf[line[players.name[flag].cnl].start_index+players.name[flag].start+j]){
+						break;
+					}
+				}
+				if(j == MAXLENGTH(len, (line[players.name[flag].cnl].length-players.name[flag].start))){
+					inning[i].overs[cnt-1].plr_index = flag;
+					printf("inning[%d].overs[%d].plr_index: %d\n", i, cnt-1, inning[i].overs[cnt-1].plr_index);
+				}
+				flag += 1;
+			}
+		}
+		if(buf[line[lncnt].start_index+line[lncnt].length-1] == ':' &&
+				buf[line[lncnt].start_index+line[lncnt].length-3] == '.'){
+			inning[i].overs[cnt-1].ndel += 1;
+		}
+		if(line[lncnt].key_index == 1){//1: 2nd inning, to reset the values
+			i = 1, cnt = 0, flag = 0;
+		}
+		lncnt += 1;
+	}
+	printf("inning[i].overs[cnt-1].ndel: %d\n", inning[0].overs[4].ndel);
+	printf("line[players.name[flag].cnl].length-players.name[flag].start):%d\n",MAXLENGTH(11, line[players.name[2].cnl].length-players.name[2].start));
 
 	return 0;
 }
