@@ -45,12 +45,19 @@ int main(){
 		cnt = 0;
 	}
 	cnt = 0;
-	cnt = cnt | (1 << 7);
-	cnt = cnt | (1 << 6);
-	printf("cnt: %d\n", cnt);
+	cnt = (8 << 4);
+	cnt = (6 << 4);
+	printf("cnt: %d\n", (cnt>>4 & 0x0F));//shift the first 4bits to right and get the last 4bits
+	/*
+	cnt: 01100000
+	cnt>>4 :00000110
+	      &
+	0x0F(00001111)
+	---------------
+	00000110(6 indecimal)
+	*/
+	printf("cnt: %d\n",(cnt&0x0F));//get the last four bits
 
-	val = 28;
-	if(val == 28) printf("it's present\n");
 
 	return 0;
 }
