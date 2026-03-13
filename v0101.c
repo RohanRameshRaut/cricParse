@@ -8,7 +8,7 @@
 #define MINB 27000 //max bytes allowed
 #define WBYTES " :-.\'\n_(),"
 #define WBYTES_LEN 10
-#define KEYS {"1st innings", "2nd innings", "balls_per_over", "sman", "bowler", "by", "byes", "created", "data_version", "dates", "decision", "deliveries", "extras", "fielders", "gender", "info", "innings", "kind", "legbyes", "match_type", "meta", "noballs", "non_striker", "outcome", "overs", "people", "player_of_match", "player_out", "players", "registry", "revision", "runs", "team", "teams", "toss", "total", "umpires","venue", "wicket", "wides", "winner" };
+#define KEYS {"1st innings", "2nd innings", "balls_per_over", "batsman", "bowler", "by", "byes", "created", "data_version", "dates", "decision", "deliveries", "extras", "fielders", "gender", "info", "innings", "kind", "legbyes", "match_type", "meta", "noballs", "non_striker", "outcome", "overs", "people", "player_of_match", "player_out", "players", "registry", "revision", "runs", "team", "teams", "toss", "total", "umpires","venue", "wicket", "wides", "winner" };
 #define KEYS_LEN 41
 #define EXTRAS {6, 18, 21, 39}//6:byes, 18:legbyes, 21:noballs, 39:wides
 #define EXTRAS_LEN 4
@@ -115,10 +115,11 @@ typedef struct BowlerS{
 }BowlerS;
 
 typedef struct TeamS{
-	unsigned char nplr, run, wicket, over, nbatsman, nbowler, *index;
+	unsigned char nplr, wicket, over, nbatsman, nbowler, *index;
 	BatsmanS *batsman;
 	BowlerS *bowler;
 	ContentT *name;
+	unsigned short run;
 }TeamS;
 
 TeamS team[2];
@@ -516,8 +517,8 @@ int main(int aa, char **ab){
 					}
 				}
 				if(j == MAXLENGTH(len, (line[players.name[flag].cnl].length-players.name[flag].start))){
-					if(line[lncnt].key_index == 3) inning[i].overs[cnt-1].ds[cnt0-1].plr_index[0] = flag;// printf("inning[%d].overs[%d].ds[%d].plr_index[0]: %d, lncnt: %d\n", i, cnt-1, cnt0-1, inning[i].overs[cnt-1].ds[cnt0-1].plr_index[0], lncnt);
-					if(line[lncnt].key_index == 22) inning[i].overs[cnt-1].ds[cnt0-1].plr_index[1] = flag;// printf("inning[%d].overs[%d].ds[%d].plr_index[1]: %d lncnt: %d\n", i, cnt-1, cnt0-1, inning[i].overs[cnt-1].ds[cnt0-1].plr_index[1], lncnt);
+					if(line[lncnt].key_index == 3) inning[i].overs[cnt-1].ds[cnt0-1].plr_index[0] = flag;//printf("inning[%d].overs[%d].ds[%d].plr_index[0]: %d, lncnt: %d\n", i, cnt-1, cnt0-1, inning[i].overs[cnt-1].ds[cnt0-1].plr_index[0], lncnt);
+					if(line[lncnt].key_index == 22) inning[i].overs[cnt-1].ds[cnt0-1].plr_index[1] = flag;//printf("inning[%d].overs[%d].ds[%d].plr_index[1]: %d lncnt: %d\n", i, cnt-1, cnt0-1, inning[i].overs[cnt-1].ds[cnt0-1].plr_index[1], lncnt);
 					if(line[lncnt].key_index == 27) inning[i].overs[cnt-1].ds[cnt0-1].plr_index[2] = flag;//printf("inning[%d].overs[%d].ds[%d].plr_index[2]: %d lncnt: %d\n", i, cnt-1, cnt0-1, inning[i].overs[cnt-1].ds[cnt0-1].plr_index[2], lncnt);
 				}
 				flag += 1;
@@ -555,26 +556,27 @@ int main(int aa, char **ab){
 	//---------------------------------------------------------------------------------------------------------------
 	unsigned char c = 101;
 	i=0, a = 101;
-		while(i<2){//players.teams[i].cnl].length-1, -1 to ignore the ':' at the end of players team name
-			for(j=0;j<MAXLENGTH(((line[players.teams[i].cnl].length-1)-players.teams[i].start),(line[inning[0].teams.cnl].length-inning[0].teams.start));j++){
-				if((buf[line[inning[0].teams.cnl].start_index+inning[0].teams.start+j]) != buf[line[players.teams[i].cnl].start_index+players.teams[i].start+j]){
-					break;
-				}
+	while(i<2){//players.teams[i].cnl].length-1, -1 to ignore the ':' at the end of players team name
+		for(j=0;j<MAXLENGTH(((line[players.teams[i].cnl].length-1)-players.teams[i].start),(line[inning[0].teams.cnl].length-inning[0].teams.start));j++){
+			if((buf[line[inning[0].teams.cnl].start_index+inning[0].teams.start+j]) != buf[line[players.teams[i].cnl].start_index+players.teams[i].start+j]){
+				break;
 			}
-			if(j == (line[players.teams[i].cnl].length-1)-players.teams[i].start){
-				c = i;
-			}
-			i += 1;
 		}
-	printf("for bat c: %d\n", c);
+		if(j == (line[players.teams[i].cnl].length-1)-players.teams[i].start){
+			c = i;
+		}
+		i += 1;
+	}
 	flag=0, cnt=0, len=0, cnt0=0;
 	team[0].nbatsman = 0;
 	team[1].nbatsman = 0;
+	printf("c for bat: %d\n", c);
 	for(i=0;i<2;i++){
 		for(j=0;j<team[c].nplr;j++){
 			for(cnt=0;cnt<inning[i].novers;cnt++){
 				for(cnt0=0;cnt0<inning[i].overs[cnt].ndel;cnt0++){
 					flag = 0;
+				//	printf("inning[i].overs[cnt].ds[cnt0].plr_index[0]: %d\n", inning[i].overs[cnt].ds[cnt0].plr_index[1]);
 					if(team[c].index[j] == inning[i].overs[cnt].ds[cnt0].plr_index[0] || team[c].index[j] == inning[i].overs[cnt].ds[cnt0].plr_index[1]){
 						team[c].nbatsman += 1;
 						flag = 1;
@@ -586,11 +588,16 @@ int main(int aa, char **ab){
 		}
 		c = !c;
 	}
-	printf("team[0].nbatsman: %d\n", team[0].nbatsman);
-	printf("team[1].nbatsman: %d\n", team[1].nbatsman);
+	printf("team[0].nbatsman: %d\n", team[0].nbatsman );
+	printf("team[1].nbatsman: %d\n", team[1].nbatsman );
+	BatsmanS *bt1 = calloc(team[0].nbatsman, sizeof(BatsmanS));
+	if(!bt1) return ERR;
+	team[0].batsman = bt1;
+	BatsmanS *bt2 = calloc(team[1].nbatsman, sizeof(BatsmanS));
+	if(!bt2) return ERR;
+	team[1].batsman = bt2;
 	//---------------------------------------------------------------------------------------------------------------
 	i=0, flag=0, j=0, cnt=0, len=0, cnt0=0, a=0, c = !c;
-	printf("for bowl c: %d\n", c);
 	for(i=0;i<2;i++){
 		for(j=0;j<team[c].nplr;j++){
 			for(cnt=0;cnt<inning[i].novers;cnt++){
@@ -604,8 +611,43 @@ int main(int aa, char **ab){
 		}
 		c = !c;
 	}
-	printf("team[0].nbowler: %d\n", team[0].nbowler);
-	printf("team[1].nbowler: %d\n", team[1].nbowler);
+	BowlerS *bs1 = calloc(team[0].nbowler, sizeof(BowlerS));
+	if(!bs1) return ERR;
+	team[0].bowler = bs1;
+	BowlerS *bs2 = calloc(team[1].nbowler, sizeof(BowlerS));
+	if(!bs2) return ERR;
+	team[1].bowler = bs2;
+	i=0, flag=0, j=0, cnt=0, len=0, cnt0=0, a=0, c = !c, lncnt = 0;//lncnt(total)
+	for(i=0;i<2;i++){
+		for(cnt=0;cnt<inning[i].novers;cnt++){
+			for(cnt0=0;cnt0<inning[i].overs[cnt].ndel;cnt0++){
+				lncnt += inning[i].overs[cnt].ds[cnt0].runs & 0b00001111;
+			}
+		}
+		team[c].run = lncnt;
+		lncnt = 0;
+		c = !c;
+	}
+	printf("team[0].run: %d\n", team[0].run);
+	printf("team[1].run: %d\n", team[1].run);
+	cnt=0, cnt0=0, a=0, lncnt = 0;//lncnt(total)
+	printf("c for bat run: %d\n", c);
+	for(i=0;i<2;i++){
+		for(j=0;j<team[c].nplr;j++){
+			for(cnt=0;cnt<inning[i].novers;cnt++){
+				for(cnt0=0;cnt0<inning[i].overs[cnt].ndel;cnt0++){
+					if(team[c].index[j] == inning[i].overs[cnt].ds[cnt0].plr_index[0]){
+						printf("inside if\n");
+						lncnt += inning[i].overs[cnt].ds[cnt0].runs & 0b11110000;
+					}
+				}
+			}
+			team[c].batsman[j].run = lncnt;
+			printf("team[%d].batsman[%d].run: %d\n", c, j, team[c].batsman[j].run);
+			lncnt = 0;
+		}
+		c = !c;
+	}
 	//-------------------------------------------------------------------------------
 	//	initscr();
 	//	cbreak();
