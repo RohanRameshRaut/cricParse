@@ -8,7 +8,7 @@
 #define MINB 27000 //max bytes allowed
 #define WBYTES " :-.\'\n_(),"
 #define WBYTES_LEN 10
-#define KEYS {"1st innings", "2nd innings", "balls_per_over", "batsman", "bowler", "by", "byes", "created", "data_version", "dates", "decision", "deliveries", "extras", "fielders", "gender", "info", "innings", "kind", "legbyes", "match_type", "meta", "noballs", "non_striker", "outcome", "overs", "people", "player_of_match", "player_out", "players", "registry", "revision", "runs", "team", "teams", "toss", "total", "umpires","venue", "wicket", "wides", "winner" };
+#define KEYS {"1st innings", "2nd innings", "balls_per_over", "sman", "bowler", "by", "byes", "created", "data_version", "dates", "decision", "deliveries", "extras", "fielders", "gender", "info", "innings", "kind", "legbyes", "match_type", "meta", "noballs", "non_striker", "outcome", "overs", "people", "player_of_match", "player_out", "players", "registry", "revision", "runs", "team", "teams", "toss", "total", "umpires","venue", "wicket", "wides", "winner" };
 #define KEYS_LEN 41
 #define EXTRAS {6, 18, 21, 39}//6:byes, 18:legbyes, 21:noballs, 39:wides
 #define EXTRAS_LEN 4
@@ -107,21 +107,18 @@ typedef struct InningT{
 
 //summary objects
 typedef struct BatsmanS{
-	unsigned char key_index, key_index_wc;//batsman name: key_index, bowler name(for wicket): key_index_wc
 	unsigned char run, ball;
 }BatsmanS;
 
 typedef struct BowlerS{
-	unsigned char key_index, key_index_bat;//bowler name: key_index, batsman name(for wicket): key_index_bat
 	unsigned char run, over;
 }BowlerS;
 
 typedef struct TeamS{
-	unsigned char nplr, nbatsman, nbowler, run, wicket, over;
+	unsigned char nplr, run, wicket, over, nbatsman, nbowler, *index;
 	BatsmanS *batsman;
 	BowlerS *bowler;
 	ContentT *name;
-
 }TeamS;
 
 TeamS team[2];
@@ -344,6 +341,18 @@ int main(int aa, char **ab){
 		lncnt += 1;
 	}
 	players.index = (char*) calloc(players.nplr, (sizeof(char)));
+	team[0].index = (char*) calloc(team[0].nplr, (sizeof(char)));
+	if(!team[0].index) return ERR;
+	team[1].index = (char*) calloc(team[1].nplr, (sizeof(char)));
+	if(!team[1].index) return ERR;
+	a = 0, j = 0;
+	for(i=0;i<team[0].nplr;i++){
+		team[0].index[i] = i;
+	}
+	for(i=team[0].nplr;i<players.nplr;i++){
+		team[1].index[j] = i;
+		j++;
+	}
 	playersV psV;
 	psV.flag_player = 0;
 	if(!players.index) return ERR;
@@ -364,7 +373,7 @@ int main(int aa, char **ab){
 		if(line[lncnt].key_index == 29) flag = 0;//match the <registry> key at 29th index
 		if(flag){
 			if((buf[line[lncnt].start_index+line[lncnt].length-1]) == ':'){
-			        a++;
+				a++;
 				m = 0;
 			}
 			if((buf[line[lncnt].start_index+line[lncnt].ind-2]) == '-'){ //match the pattern from player name lines "ind-2 contains '-'"
@@ -373,8 +382,8 @@ int main(int aa, char **ab){
 				team[a].name[m].cnl = lncnt;
 				team[a].name[m].start = line[lncnt].ind;
 				if(! (0 < (line[players.name[i].cnl].length-players.name[i].start))) psV.flag_player = psV.flag_player | (1<<7);//empty player name flag
-		//	fwrite(buf+line[team[a].name[i].cnl].start_index+team[a].name[i].start, 1, line[team[a].name[i].cnl].length-team[a].name[i].start, stdout);
-		//	printf("\n");
+																		//	fwrite(buf+line[team[a].name[i].cnl].start_index+team[a].name[i].start, 1, line[team[a].name[i].cnl].length-team[a].name[i].start, stdout);
+																		//	printf("\n");
 				i += 1;
 				m += 1;
 			}
@@ -387,7 +396,7 @@ int main(int aa, char **ab){
 		}
 		if(line[lncnt].key_index == 32){
 			inning[j].teams.cnl = lncnt;
-			inning[j].teams.start = line[lncnt].ind;
+			inning[j].teams.start = line[lncnt].ind+KEYS_ARR[line[lncnt].key_index]+SUFFIX;
 		}
 		if(buf[line[lncnt].start_index+line[lncnt].length-1] == ':' &&
 				buf[line[lncnt].start_index+line[lncnt].length-2] == '1' &&
@@ -428,6 +437,8 @@ int main(int aa, char **ab){
 	}
 	//-------------------------------------------------------------------------------------------------------
 	lncnt = inning[0].start, i=0, flag=0, j=0, cnt=0, len=0;
+	team[0].nbowler = 0;
+	team[1].nbowler = 0;
 	while(lncnt < nl){//get the Players.name initialised
 		if(buf[line[lncnt].start_index+line[lncnt].length-1] == ':' &&
 				buf[line[lncnt].start_index+line[lncnt].length-2] == '1' &&
@@ -541,98 +552,152 @@ int main(int aa, char **ab){
 		}
 		lncnt += 1;
 	}
-	//-------------------------------------------------------------------------------
-	initscr();
-	cbreak();
-	noecho();
-	keypad(stdscr, TRUE);
-	int my, mx, n_choices, ly, running = 1,x=2,y=1, z=0;
-	getmaxyx(stdscr, my, mx);
-	WINDOW *mainwin = NULL;
-	WINDOW *nwin0 = NULL;
-	WINDOW *nwin1 = NULL;
-	z = 0;
-	while(running){
-		mainwin = newwin(my, mx, 0, 0); 
-		box(mainwin, 0, 0); 
-		y = 1, x=2;
-		mvwprintw(mainwin, y++, x, "Main Window");
-		mvwprintw(mainwin, y++, x, "Choose index");
-		mvwprintw(mainwin, y++, x, "-------------------------------------------------");
-		for(z=0;z<2;z++){
-			for(i=0;i<line[players.teams[z].cnl].length-players.teams[z].start;i++){
-				mvwprintw(mainwin, y+z, x, "%d.", z);
-				mvwprintw(mainwin, y+z, x+i+2, "%c", buf[line[players.teams[z].cnl].start_index+players.teams[z].start+i]);
-			}
-		}
-		wrefresh(mainwin);
-		noecho();
-		int ch = wgetch(mainwin);
-		delwin(mainwin);
-		mainwin = NULL;
-		if(ch == 27){
-			running = 0;
-		}
-		else if(ch == 48 || ch == 49){//48:0, 49:1, 50:2
-			z = 0;
-			if(ch == 49) z = 1;
-			int running2 = 1;
-			while(running2){
-				nwin0 = newwin(my, mx, 0, 0);
-				box(nwin0, 0, 0);
-				y = 1, x=2;
-				mvwprintw(nwin0, y++, x, "Sub Window");
-				mvwprintw(nwin0, y++, x, "Press 'q' for exit");
-				for(i=0;i<line[players.teams[z].cnl].length-players.teams[z].start;i++){
-					mvwprintw(nwin0, y, x, "%d.", z);
-					mvwprintw(nwin0, y, x+i+2, "%c", buf[line[players.teams[z].cnl].start_index+players.teams[z].start+i]);
-				}y++;
-				keypad(nwin0, TRUE);
-				mvwprintw(nwin0, y++, x, "-------------------------------------------------");
-				mvwprintw(nwin0, y++, x, "0.Players List");
-				mvwprintw(nwin0, y++, x, "1.Score Card");
-				wrefresh(nwin0);
-				noecho();
-				int ch2 = wgetch(nwin0);
-				if(ch2 == 81 || ch2 == 113){
-					running2 = 0;//81:Q, 113:q
+	//---------------------------------------------------------------------------------------------------------------
+	unsigned char c = 101;
+	i=0, a = 101;
+		while(i<2){//players.teams[i].cnl].length-1, -1 to ignore the ':' at the end of players team name
+			for(j=0;j<MAXLENGTH(((line[players.teams[i].cnl].length-1)-players.teams[i].start),(line[inning[0].teams.cnl].length-inning[0].teams.start));j++){
+				if((buf[line[inning[0].teams.cnl].start_index+inning[0].teams.start+j]) != buf[line[players.teams[i].cnl].start_index+players.teams[i].start+j]){
+					break;
 				}
-				else if(ch2 == 48 || ch2 == 49){//48:0, 49:1, 50:2
-						int running3 = 1;
-					while(running3){
-						nwin1 = newwin(my, mx, 0, 0);
-						box(nwin1, 0, 0);
-						y = 1, x=2;
-						mvwprintw(nwin1, y++, x, "Player List");
-						mvwprintw(nwin1, y++, x, "(Press 'q' for exit)");
-						keypad(nwin1, TRUE);
-						mvwprintw(nwin1, y++, x, "-------------------------------------------------");
-						for(j=0;j<team[z].nplr;j++){
-							for(i=0;i<line[team[z].name[j].cnl].length-team[z].name[j].start;i++){
-								mvwprintw(nwin1, y, x+i, "%c", buf[line[team[z].name[j].cnl].start_index+team[z].name[j].start+i]);
-							}
-							y++;
-						}
-						wrefresh(nwin1);
-						noecho();
-						int ch3 = wgetch(nwin1);
-						if(ch3 == 81 || ch3 == 113){
-							running3 = 0;//81:Q, 113:q
-						}
-						wrefresh(nwin1);
-						delwin(nwin1);
-						nwin1 = NULL;
-
+			}
+			if(j == (line[players.teams[i].cnl].length-1)-players.teams[i].start){
+				c = i;
+			}
+			i += 1;
+		}
+	printf("for bat c: %d\n", c);
+	flag=0, cnt=0, len=0, cnt0=0;
+	team[0].nbatsman = 0;
+	team[1].nbatsman = 0;
+	for(i=0;i<2;i++){
+		for(j=0;j<team[c].nplr;j++){
+			for(cnt=0;cnt<inning[i].novers;cnt++){
+				for(cnt0=0;cnt0<inning[i].overs[cnt].ndel;cnt0++){
+					flag = 0;
+					if(team[c].index[j] == inning[i].overs[cnt].ds[cnt0].plr_index[0] || team[c].index[j] == inning[i].overs[cnt].ds[cnt0].plr_index[1]){
+						team[c].nbatsman += 1;
+						flag = 1;
+						break;
 					}
-					wrefresh(nwin0);
-					delwin(nwin0);
-					nwin0 = NULL;
+				}
+				if(flag) break;
+			}
+		}
+		c = !c;
+	}
+	printf("team[0].nbatsman: %d\n", team[0].nbatsman);
+	printf("team[1].nbatsman: %d\n", team[1].nbatsman);
+	//---------------------------------------------------------------------------------------------------------------
+	i=0, flag=0, j=0, cnt=0, len=0, cnt0=0, a=0, c = !c;
+	printf("for bowl c: %d\n", c);
+	for(i=0;i<2;i++){
+		for(j=0;j<team[c].nplr;j++){
+			for(cnt=0;cnt<inning[i].novers;cnt++){
+				flag = 0;
+				if(team[c].index[j] == inning[i].overs[cnt].plr_index){
+					team[c].nbowler += 1;
+					flag = 1;
+					break;
 				}
 			}
 		}
+		c = !c;
 	}
-	delwin(mainwin);
-	endwin();
+	printf("team[0].nbowler: %d\n", team[0].nbowler);
+	printf("team[1].nbowler: %d\n", team[1].nbowler);
+	//-------------------------------------------------------------------------------
+	//	initscr();
+	//	cbreak();
+	//	noecho();
+	//	keypad(stdscr, TRUE);
+	//	int my, mx, n_choices, ly, running = 1,x=2,y=1, z=0;
+	//	getmaxyx(stdscr, my, mx);
+	//	WINDOW *mainwin = NULL;
+	//	WINDOW *nwin0 = NULL;
+	//	WINDOW *nwin1 = NULL;
+	//	z = 0;
+	//	while(running){
+	//		mainwin = newwin(my, mx, 0, 0); 
+	//		box(mainwin, 0, 0); 
+	//		y = 1, x=2;
+	//		mvwprintw(mainwin, y++, x, "Main Window");
+	//		mvwprintw(mainwin, y++, x, "Choose index");
+	//		mvwprintw(mainwin, y++, x, "-------------------------------------------------");
+	//		for(z=0;z<2;z++){
+	//			for(i=0;i<line[players.teams[z].cnl].length-players.teams[z].start;i++){
+	//				mvwprintw(mainwin, y+z, x, "%d.", z);
+	//				mvwprintw(mainwin, y+z, x+i+2, "%c", buf[line[players.teams[z].cnl].start_index+players.teams[z].start+i]);
+	//			}
+	//		}
+	//		wrefresh(mainwin);
+	//		noecho();
+	//		int ch = wgetch(mainwin);
+	//		delwin(mainwin);
+	//		mainwin = NULL;
+	//		if(ch == 27){
+	//			running = 0;
+	//		}
+	//		else if(ch == 48 || ch == 49){//48:0, 49:1, 50:2
+	//			z = 0;
+	//			if(ch == 49) z = 1;
+	//			int running2 = 1;
+	//			while(running2){
+	//				nwin0 = newwin(my, mx, 0, 0);
+	//				box(nwin0, 0, 0);
+	//				y = 1, x=2;
+	//				mvwprintw(nwin0, y++, x, "Sub Window");
+	//				mvwprintw(nwin0, y++, x, "Press 'q' for exit");
+	//				for(i=0;i<line[players.teams[z].cnl].length-players.teams[z].start;i++){
+	//					mvwprintw(nwin0, y, x, "%d.", z);
+	//					mvwprintw(nwin0, y, x+i+2, "%c", buf[line[players.teams[z].cnl].start_index+players.teams[z].start+i]);
+	//				}y++;
+	//				keypad(nwin0, TRUE);
+	//				mvwprintw(nwin0, y++, x, "-------------------------------------------------");
+	//				mvwprintw(nwin0, y++, x, "0.Players List");
+	//				mvwprintw(nwin0, y++, x, "1.Score Card");
+	//				wrefresh(nwin0);
+	//				noecho();
+	//				int ch2 = wgetch(nwin0);
+	//				if(ch2 == 81 || ch2 == 113){
+	//					running2 = 0;//81:Q, 113:q
+	//				}
+	//				else if(ch2 == 48 || ch2 == 49){//48:0, 49:1, 50:2
+	//					int running3 = 1;
+	//					while(running3){
+	//						nwin1 = newwin(my, mx, 0, 0);
+	//						box(nwin1, 0, 0);
+	//						y = 1, x=2;
+	//						mvwprintw(nwin1, y++, x, "Player List");
+	//						mvwprintw(nwin1, y++, x, "(Press 'q' for exit)");
+	//						keypad(nwin1, TRUE);
+	//						mvwprintw(nwin1, y++, x, "-------------------------------------------------");
+	//						for(j=0;j<team[z].nplr;j++){
+	//							for(i=0;i<line[team[z].name[j].cnl].length-team[z].name[j].start;i++){
+	//								mvwprintw(nwin1, y, x+i, "%c", buf[line[team[z].name[j].cnl].start_index+team[z].name[j].start+i]);
+	//							}
+	//							y++;
+	//						}
+	//						wrefresh(nwin1);
+	//						noecho();
+	//						int ch3 = wgetch(nwin1);
+	//						if(ch3 == 81 || ch3 == 113){
+	//							running3 = 0;//81:Q, 113:q
+	//						}
+	//						wrefresh(nwin1);
+	//						delwin(nwin1);
+	//						nwin1 = NULL;
+	//
+	//					}
+	//					wrefresh(nwin0);
+	//					delwin(nwin0);
+	//					nwin0 = NULL;
+	//				}
+	//			}
+	//		}
+	//	}
+	//	delwin(mainwin);
+	//	endwin();
 
 
 	//free the memory allocated
