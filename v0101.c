@@ -111,7 +111,7 @@ typedef struct BatsmanS{
 }BatsmanS;
 
 typedef struct BowlerS{
-	unsigned char run, over;
+	unsigned char run, ball;
 }BowlerS;
 
 typedef struct TeamS{
@@ -641,8 +641,6 @@ int main(int aa, char **ab){
 			for(cnt=0;cnt<inning[i].novers;cnt++){
 				for(cnt0=0;cnt0<inning[i].overs[cnt].ndel;cnt0++){
 					if(team[c].index[j] == inning[i].overs[cnt].ds[cnt0].plr_index[0]){
-						//printf("inning[%d].overs[%d].ds[%d].runs>>4: %d\n",i, cnt, cnt0, inning[i].overs[cnt].ds[cnt0].runs>>4);
-						//printf("inning[%d].overs[%d].ds[%d].runs: %d\n",i, cnt, cnt0, inning[i].overs[cnt].ds[cnt0].runs&0b00001111);
 						lncnt = lncnt + (inning[i].overs[cnt].ds[cnt0].runs>>4);
 						ball += 1;
 					}
@@ -650,8 +648,28 @@ int main(int aa, char **ab){
 			}
 			team[c].batsman[j].run = lncnt;
 			team[c].batsman[j].ball = ball;
-			printf("team[%d].batsman[%d].run: %d\n", c, j, team[c].batsman[j].run);
-			printf("team[%d].batsman[%d].ball: %d\n", c, j, team[c].batsman[j].ball);
+//			printf("team[%d].batsman[%d].run: %d\n", c, j, team[c].batsman[j].run);
+//			printf("team[%d].batsman[%d].ball: %d\n", c, j, team[c].batsman[j].ball);
+			lncnt = 0, ball = 0;
+		}
+		c = !c;
+	}
+	cnt=0, cnt0=0, a=0, lncnt = 0, c = !c;//lncnt(total)
+	ball = 0;
+	for(i=0;i<2;i++){
+		for(j=0;j<team[c].nplr;j++){
+			for(cnt=0;cnt<inning[i].novers;cnt++){
+				for(cnt0=0;cnt0<inning[i].overs[cnt].ndel;cnt0++){
+					if(team[c].index[j] == inning[i].overs[cnt].plr_index){
+						lncnt = lncnt + (inning[i].overs[cnt].ds[cnt0].runs& 0b00001111);
+						ball += 1;
+					}
+				}
+			}
+			team[c].bowler[j].run = lncnt;
+			team[c].bowler[j].ball= ball;//total balls/6(overs), +1(for sealing value)
+//			printf("team[%d].bowler[%d].run: %d\n", c, j, team[c].bowler[j].run);
+//			printf("team[%d].bowler[%d].ball: %d\n", c, j, team[c].bowler[j].ball);
 			lncnt = 0, ball = 0;
 		}
 		c = !c;
