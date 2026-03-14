@@ -498,12 +498,13 @@ int main(int aa, char **ab){
 			inning[i].overs[cnt-1].ds[cnt0].del_no.cnl = lncnt, inning[i].overs[cnt-1].ds[cnt0].del_no.start = line[lncnt].ind;
 			if(! (0 < (inning[i].overs[cnt-1].ds[cnt0].del_no.start))) dsV.flag_del = dsV.flag_del | (1<<7);//empty delivery start flag
 			inning[i].overs[cnt-1].ds[cnt0].start = lncnt, flag = 0, inning[i].overs[cnt-1].ds[cnt0].plr_index[2] = -1; 
+			inning[i].overs[cnt-1].ds[cnt0].runs = 0;
 			inning[i].overs[cnt-1].ds[cnt0].plr_index[0] = -1,inning[i].overs[cnt-1].ds[cnt0].plr_index[1] = -1, cnt0++;
 		}
 
 		if(line[lncnt].key_index == 3 || line[lncnt].key_index == 22 || line[lncnt].key_index == 27){//3:batsman key, 22:non_striker key, 27:player_out
 			inning[i].overs[cnt-1].ds[cnt0-1].extra = 0b11110000;
-			inning[i].overs[cnt-1].ds[cnt0-1].runs = 0;//init for all
+//			inning[i].overs[cnt-1].ds[cnt0-1].runs = 0;//init for all
 			len = 0;
 			for(j=0;buf[line[lncnt].start_index+line[lncnt].ind+KEYS_ARR[line[lncnt].key_index]+SUFFIX+j] != '\n';j++){
 				len += 1;
@@ -541,11 +542,13 @@ int main(int aa, char **ab){
 			}
 			if(line[lncnt].key_index == 3){//batsman key index
 				if(!('0' <= (buf[line[lncnt].start_index+line[lncnt].length-1]) && (buf[line[lncnt].start_index+line[lncnt].length-1] <= '9'))) dsV.flag_del = dsV.flag_del | (1<<6); //batsman: 0 digit validation
-				inning[i].overs[cnt-1].ds[cnt0-1].runs = inning[i].overs[cnt-1].ds[cnt0-1].runs | buf[line[lncnt].start_index+line[lncnt].length-1] << 4;
+				inning[i].overs[cnt-1].ds[cnt0-1].runs = inning[i].overs[cnt-1].ds[cnt0-1].runs | (buf[line[lncnt].start_index+line[lncnt].length-1]-48) << 4;
+			//	printf("inning[%d].overs[%d].ds[%d].runs: %c\n", i, cnt-1, cnt0-1,buf[line[lncnt].start_index+line[lncnt].length-1]);
 			}
 			if(line[lncnt].key_index == 35){//total key index
 				if(!('0' <= (buf[line[lncnt].start_index+line[lncnt].length-1]) && (buf[line[lncnt].start_index+line[lncnt].length-1] <= '9'))) dsV.flag_del = dsV.flag_del | (1<<6); //total: 0 digit validation
-				inning[i].overs[cnt-1].ds[cnt0-1].runs = inning[i].overs[cnt-1].ds[cnt0-1].runs | buf[line[lncnt].start_index+line[lncnt].length-1];
+				inning[i].overs[cnt-1].ds[cnt0-1].runs = inning[i].overs[cnt-1].ds[cnt0-1].runs | (buf[line[lncnt].start_index+line[lncnt].length-1]-48);
+//				printf("inning[%d].overs[%d].ds[%d].runs: %c | buf[line[%d].start_index+line[%d].length-1]: %c\n", i, cnt-1, cnt0-1,inning[i].overs[cnt-1].ds[cnt0-1].runs, lncnt, lncnt, buf[line[lncnt].start_index+line[lncnt].length-1]);
 			}
 		}
 		if(line[lncnt].key_index == 1){//1: 2nd inning, to reset the values
@@ -631,20 +634,25 @@ int main(int aa, char **ab){
 	printf("team[0].run: %d\n", team[0].run);
 	printf("team[1].run: %d\n", team[1].run);
 	cnt=0, cnt0=0, a=0, lncnt = 0;//lncnt(total)
+	unsigned short ball = 0;
 	printf("c for bat run: %d\n", c);
 	for(i=0;i<2;i++){
 		for(j=0;j<team[c].nplr;j++){
 			for(cnt=0;cnt<inning[i].novers;cnt++){
 				for(cnt0=0;cnt0<inning[i].overs[cnt].ndel;cnt0++){
 					if(team[c].index[j] == inning[i].overs[cnt].ds[cnt0].plr_index[0]){
-						printf("inside if\n");
-						lncnt += inning[i].overs[cnt].ds[cnt0].runs & 0b11110000;
+						//printf("inning[%d].overs[%d].ds[%d].runs>>4: %d\n",i, cnt, cnt0, inning[i].overs[cnt].ds[cnt0].runs>>4);
+						//printf("inning[%d].overs[%d].ds[%d].runs: %d\n",i, cnt, cnt0, inning[i].overs[cnt].ds[cnt0].runs&0b00001111);
+						lncnt = lncnt + (inning[i].overs[cnt].ds[cnt0].runs>>4);
+						ball += 1;
 					}
 				}
 			}
 			team[c].batsman[j].run = lncnt;
+			team[c].batsman[j].ball = ball;
 			printf("team[%d].batsman[%d].run: %d\n", c, j, team[c].batsman[j].run);
-			lncnt = 0;
+			printf("team[%d].batsman[%d].ball: %d\n", c, j, team[c].batsman[j].ball);
+			lncnt = 0, ball = 0;
 		}
 		c = !c;
 	}

@@ -45,9 +45,13 @@ int main(){
 		cnt = 0;
 	}
 	cnt = 0;
+	cnt = cnt | 3;
+	cnt = cnt | (2<<4);
+	printf("cnt for 1st nibble: %d\n", cnt>>4);
+	printf("cnt for 2nd nibble: %d\n", cnt&0b00001111);
 	cnt = (8 << 4);
 	cnt = (6 << 4);
-	printf("cnt: %d\n", (cnt>>4 & 0x0F));//shift the first 4bits to right and get the last 4bits
+//	printf("cnt: %d\n", (cnt>>4 & 0x0F));//shift the first 4bits to right and get the last 4bits
 	/*
 	cnt: 01100000
 	cnt>>4 :00000110
@@ -56,7 +60,7 @@ int main(){
 	---------------
 	00000110(6 indecimal)
 	*/
-	printf("cnt: %d\n",(cnt&0x0F));//get the last four bits
+//	printf("cnt: %d\n",(cnt&0x0F));//get the last four bits
 
 
 	return 0;
