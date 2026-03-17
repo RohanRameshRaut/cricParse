@@ -24,6 +24,10 @@
 #define MAXLENGTH(a, b) ((a) > (b) ? (a): (b))
 #define MINLENGTH(a, b) ((a) < (b) ? (a): (b))
 
+void h_line(int y, int x, int width, WINDOW *win);
+void v_line(int y, int x, int height, WINDOW *win);
+void print_t(int y, int x, char **arr, int len, WINDOW *win, int col_w);
+
 //ref validation objects
 typedef struct sbytesV{
 	unsigned long max;//1000000
@@ -108,10 +112,12 @@ typedef struct InningT{
 //summary objects
 typedef struct BatsmanS{
 	unsigned char run, ball;
+	char index, w_index;
 }BatsmanS;
 
 typedef struct BowlerS{
 	unsigned char run, ball;
+	char index;
 }BowlerS;
 
 typedef struct TeamS{
@@ -175,7 +181,7 @@ int main(int aa, char **ab){
 
 	unsigned long cnt = 0, nl = 0;
 	unsigned short lncnt = 0;
-	unsigned char *sub_str = WBYTES, len=0, sizem = 1, flag = 1, i=0, j=0, cnt0;
+	unsigned char *sub_str = WBYTES, len=0, sizem = 1, flag = 1, i=0, j=0, cnt0, k=0;
 	unsigned char *dsub_str[] = KEYS;
 	int isub_str[] = EXTRAS;
 	b.wb = sub_str;
@@ -504,7 +510,7 @@ int main(int aa, char **ab){
 
 		if(line[lncnt].key_index == 3 || line[lncnt].key_index == 22 || line[lncnt].key_index == 27){//3:batsman key, 22:non_striker key, 27:player_out
 			inning[i].overs[cnt-1].ds[cnt0-1].extra = 0b11110000;
-//			inning[i].overs[cnt-1].ds[cnt0-1].runs = 0;//init for all
+			//			inning[i].overs[cnt-1].ds[cnt0-1].runs = 0;//init for all
 			len = 0;
 			for(j=0;buf[line[lncnt].start_index+line[lncnt].ind+KEYS_ARR[line[lncnt].key_index]+SUFFIX+j] != '\n';j++){
 				len += 1;
@@ -543,12 +549,12 @@ int main(int aa, char **ab){
 			if(line[lncnt].key_index == 3){//batsman key index
 				if(!('0' <= (buf[line[lncnt].start_index+line[lncnt].length-1]) && (buf[line[lncnt].start_index+line[lncnt].length-1] <= '9'))) dsV.flag_del = dsV.flag_del | (1<<6); //batsman: 0 digit validation
 				inning[i].overs[cnt-1].ds[cnt0-1].runs = inning[i].overs[cnt-1].ds[cnt0-1].runs | (buf[line[lncnt].start_index+line[lncnt].length-1]-48) << 4;
-			//	printf("inning[%d].overs[%d].ds[%d].runs: %c\n", i, cnt-1, cnt0-1,buf[line[lncnt].start_index+line[lncnt].length-1]);
+				//	printf("inning[%d].overs[%d].ds[%d].runs: %c\n", i, cnt-1, cnt0-1,buf[line[lncnt].start_index+line[lncnt].length-1]);
 			}
 			if(line[lncnt].key_index == 35){//total key index
 				if(!('0' <= (buf[line[lncnt].start_index+line[lncnt].length-1]) && (buf[line[lncnt].start_index+line[lncnt].length-1] <= '9'))) dsV.flag_del = dsV.flag_del | (1<<6); //total: 0 digit validation
 				inning[i].overs[cnt-1].ds[cnt0-1].runs = inning[i].overs[cnt-1].ds[cnt0-1].runs | (buf[line[lncnt].start_index+line[lncnt].length-1]-48);
-//				printf("inning[%d].overs[%d].ds[%d].runs: %c | buf[line[%d].start_index+line[%d].length-1]: %c\n", i, cnt-1, cnt0-1,inning[i].overs[cnt-1].ds[cnt0-1].runs, lncnt, lncnt, buf[line[lncnt].start_index+line[lncnt].length-1]);
+				//				printf("inning[%d].overs[%d].ds[%d].runs: %c | buf[line[%d].start_index+line[%d].length-1]: %c\n", i, cnt-1, cnt0-1,inning[i].overs[cnt-1].ds[cnt0-1].runs, lncnt, lncnt, buf[line[lncnt].start_index+line[lncnt].length-1]);
 			}
 		}
 		if(line[lncnt].key_index == 1){//1: 2nd inning, to reset the values
@@ -557,7 +563,7 @@ int main(int aa, char **ab){
 		lncnt += 1;
 	}
 	//---------------------------------------------------------------------------------------------------------------
-	unsigned char c = 101;
+	unsigned char c = 101;//dummy initialisation
 	i=0, a = 101;
 	while(i<2){//players.teams[i].cnl].length-1, -1 to ignore the ':' at the end of players team name
 		for(j=0;j<MAXLENGTH(((line[players.teams[i].cnl].length-1)-players.teams[i].start),(line[inning[0].teams.cnl].length-inning[0].teams.start));j++){
@@ -566,20 +572,16 @@ int main(int aa, char **ab){
 			}
 		}
 		if(j == (line[players.teams[i].cnl].length-1)-players.teams[i].start){
-			c = i;
+			c = i;//it will set(0 or 1) according to 1st innings team index
 		}
 		i += 1;
 	}
-	flag=0, cnt=0, len=0, cnt0=0;
-	team[0].nbatsman = 0;
-	team[1].nbatsman = 0;
-	printf("c for bat: %d\n", c);
+	flag=0, cnt=0, len=0, cnt0=0;//count the number of batsman
 	for(i=0;i<2;i++){
 		for(j=0;j<team[c].nplr;j++){
 			for(cnt=0;cnt<inning[i].novers;cnt++){
 				for(cnt0=0;cnt0<inning[i].overs[cnt].ndel;cnt0++){
 					flag = 0;
-				//	printf("inning[i].overs[cnt].ds[cnt0].plr_index[0]: %d\n", inning[i].overs[cnt].ds[cnt0].plr_index[1]);
 					if(team[c].index[j] == inning[i].overs[cnt].ds[cnt0].plr_index[0] || team[c].index[j] == inning[i].overs[cnt].ds[cnt0].plr_index[1]){
 						team[c].nbatsman += 1;
 						flag = 1;
@@ -591,16 +593,16 @@ int main(int aa, char **ab){
 		}
 		c = !c;
 	}
-	printf("team[0].nbatsman: %d\n", team[0].nbatsman );
-	printf("team[1].nbatsman: %d\n", team[1].nbatsman );
-	BatsmanS *bt1 = calloc(team[0].nbatsman, sizeof(BatsmanS));
+	BatsmanS *bt1 = calloc(team[0].nbatsman, sizeof(BatsmanS));//allocate memory to batsman
 	if(!bt1) return ERR;
 	team[0].batsman = bt1;
 	BatsmanS *bt2 = calloc(team[1].nbatsman, sizeof(BatsmanS));
 	if(!bt2) return ERR;
 	team[1].batsman = bt2;
+	printf("team[0].nbatsman: %d\n", team[0].nbatsman);
+	printf("team[1].nbatsman: %d\n", team[1].nbatsman);
 	//---------------------------------------------------------------------------------------------------------------
-	i=0, flag=0, j=0, cnt=0, len=0, cnt0=0, a=0, c = !c;
+	i=0, flag=0, j=0, cnt=0, len=0, cnt0=0, a=0, c = !c;//count the number of bowler, (c = !c, flip the c to get opposite teams bowler info)
 	for(i=0;i<2;i++){
 		for(j=0;j<team[c].nplr;j++){
 			for(cnt=0;cnt<inning[i].novers;cnt++){
@@ -614,13 +616,15 @@ int main(int aa, char **ab){
 		}
 		c = !c;
 	}
-	BowlerS *bs1 = calloc(team[0].nbowler, sizeof(BowlerS));
+	BowlerS *bs1 = calloc(team[0].nbowler, sizeof(BowlerS));//allocate memory to bowlers
 	if(!bs1) return ERR;
 	team[0].bowler = bs1;
 	BowlerS *bs2 = calloc(team[1].nbowler, sizeof(BowlerS));
 	if(!bs2) return ERR;
 	team[1].bowler = bs2;
-	i=0, flag=0, j=0, cnt=0, len=0, cnt0=0, a=0, c = !c, lncnt = 0;//lncnt(total)
+	printf("team[0].nbowler: %d\n", team[0].nbowler);
+	printf("team[1].nbowler: %d\n", team[1].nbowler);
+	i=0, flag=0, j=0, cnt=0, len=0, cnt0=0, a=0, c = !c, lncnt = 0;//team score count
 	for(i=0;i<2;i++){
 		for(cnt=0;cnt<inning[i].novers;cnt++){
 			for(cnt0=0;cnt0<inning[i].overs[cnt].ndel;cnt0++){
@@ -631,13 +635,10 @@ int main(int aa, char **ab){
 		lncnt = 0;
 		c = !c;
 	}
-	printf("team[0].run: %d\n", team[0].run);
-	printf("team[1].run: %d\n", team[1].run);
-	cnt=0, cnt0=0, a=0, lncnt = 0;//lncnt(total)
+	cnt=0, cnt0=0, a=0, lncnt = 0;//individual batsman runs
 	unsigned short ball = 0;
-	printf("c for bat run: %d\n", c);
 	for(i=0;i<2;i++){
-		for(j=0;j<team[c].nplr;j++){
+		for(j=0;j<team[c].nbatsman;j++){
 			for(cnt=0;cnt<inning[i].novers;cnt++){
 				for(cnt0=0;cnt0<inning[i].overs[cnt].ndel;cnt0++){
 					if(team[c].index[j] == inning[i].overs[cnt].ds[cnt0].plr_index[0]){
@@ -648,16 +649,16 @@ int main(int aa, char **ab){
 			}
 			team[c].batsman[j].run = lncnt;
 			team[c].batsman[j].ball = ball;
-//			printf("team[%d].batsman[%d].run: %d\n", c, j, team[c].batsman[j].run);
-//			printf("team[%d].batsman[%d].ball: %d\n", c, j, team[c].batsman[j].ball);
+			//			printf("team[%d].batsman[%d].run: %d\n", c, j, team[c].batsman[j].run);
+			//			printf("team[%d].batsman[%d].ball: %d\n", c, j, team[c].batsman[j].ball);
 			lncnt = 0, ball = 0;
 		}
 		c = !c;
 	}
-	cnt=0, cnt0=0, a=0, lncnt = 0, c = !c;//lncnt(total)
+	cnt=0, cnt0=0, a=0, lncnt = 0, c = !c;//individual bowler ball and run count
 	ball = 0;
 	for(i=0;i<2;i++){
-		for(j=0;j<team[c].nplr;j++){
+		for(j=0;j<team[c].nbowler;j++){
 			for(cnt=0;cnt<inning[i].novers;cnt++){
 				for(cnt0=0;cnt0<inning[i].overs[cnt].ndel;cnt0++){
 					if(team[c].index[j] == inning[i].overs[cnt].plr_index){
@@ -667,106 +668,244 @@ int main(int aa, char **ab){
 				}
 			}
 			team[c].bowler[j].run = lncnt;
-			team[c].bowler[j].ball= ball;//total balls/6(overs), +1(for sealing value)
-//			printf("team[%d].bowler[%d].run: %d\n", c, j, team[c].bowler[j].run);
-//			printf("team[%d].bowler[%d].ball: %d\n", c, j, team[c].bowler[j].ball);
+			team[c].bowler[j].ball= ball;
+			//			printf("team[%d].bowler[%d].run: %d\n", c, j, team[c].bowler[j].run);
+			//			printf("team[%d].bowler[%d].ball: %d\n", c, j, team[c].bowler[j].ball);
 			lncnt = 0, ball = 0;
 		}
 		c = !c;
 	}
+	cnt=0, cnt0=0, c = !c;//get the bowler_index for wicket of batsman
+	char wicket_index = -1;
+	for(i=0;i<2;i++){
+		for(j=0;j<team[c].nbatsman;j++){
+			for(cnt=0;cnt<inning[i].novers;cnt++){
+				for(cnt0=0;cnt0<inning[i].overs[cnt].ndel;cnt0++){
+					flag = 0;
+					if(team[c].index[j] == inning[i].overs[cnt].ds[cnt0].plr_index[2]){ 
+						wicket_index = inning[i].overs[cnt].plr_index;//bowler_index of that over
+						flag = 1;
+						break;
+					}
+				}
+				if(flag) break;
+			}
+			team[c].batsman[j].w_index = wicket_index;
+			wicket_index = -1;
+		}
+		c = !c;
+	}
+	cnt=0, cnt0=0;//get the batsman index
+	wicket_index = -1;
+	for(i=0;i<2;i++){
+		a = 0;
+		for(j=0;j<team[c].nplr;j++){
+			wicket_index = -1;
+			flag = 0;
+			for(cnt=0;cnt<inning[i].novers;cnt++){
+				for(cnt0=0;cnt0<inning[i].overs[cnt].ndel;cnt0++){
+					if((team[c].index[j] == inning[i].overs[cnt].ds[cnt0].plr_index[0]) || (team[c].index[j] == inning[i].overs[cnt].ds[cnt0].plr_index[1])){ 
+						wicket_index = team[c].index[j];
+						flag = 1;
+						break;
+					}
+				}
+				if(flag) break;
+			}
+			if(wicket_index != -1){
+				team[c].batsman[a].index = wicket_index;
+				//printf("team[%d].batsman[%d].index: %d\n", c, a, team[c].batsman[a].index);
+				a += 1;
+			}
+		}
+		c = !c;
+	}
+	cnt=0, c = !c;//get the bowler index
+	wicket_index = -1;
+	for(i=0;i<2;i++){
+		a = 0;
+		for(j=0;j<team[c].nplr;j++){
+			wicket_index = -1;
+			for(cnt=0;cnt<inning[i].novers;cnt++){
+				if(team[c].index[j] == inning[i].overs[cnt].plr_index){
+					wicket_index = team[c].index[j];
+					break;
+				}
+			}
+			if(wicket_index != -1){
+				team[c].bowler[a].index = wicket_index;
+				//printf("team[%d].bowler[%d].index: %d\n", c, a, team[c].bowler[a].index);
+				a += 1;
+			}
+		}
+		c = !c;
+	}
 	//-------------------------------------------------------------------------------
-	//	initscr();
-	//	cbreak();
-	//	noecho();
-	//	keypad(stdscr, TRUE);
-	//	int my, mx, n_choices, ly, running = 1,x=2,y=1, z=0;
-	//	getmaxyx(stdscr, my, mx);
-	//	WINDOW *mainwin = NULL;
-	//	WINDOW *nwin0 = NULL;
-	//	WINDOW *nwin1 = NULL;
-	//	z = 0;
-	//	while(running){
-	//		mainwin = newwin(my, mx, 0, 0); 
-	//		box(mainwin, 0, 0); 
-	//		y = 1, x=2;
-	//		mvwprintw(mainwin, y++, x, "Main Window");
-	//		mvwprintw(mainwin, y++, x, "Choose index");
-	//		mvwprintw(mainwin, y++, x, "-------------------------------------------------");
-	//		for(z=0;z<2;z++){
-	//			for(i=0;i<line[players.teams[z].cnl].length-players.teams[z].start;i++){
-	//				mvwprintw(mainwin, y+z, x, "%d.", z);
-	//				mvwprintw(mainwin, y+z, x+i+2, "%c", buf[line[players.teams[z].cnl].start_index+players.teams[z].start+i]);
-	//			}
-	//		}
-	//		wrefresh(mainwin);
-	//		noecho();
-	//		int ch = wgetch(mainwin);
-	//		delwin(mainwin);
-	//		mainwin = NULL;
-	//		if(ch == 27){
-	//			running = 0;
-	//		}
-	//		else if(ch == 48 || ch == 49){//48:0, 49:1, 50:2
-	//			z = 0;
-	//			if(ch == 49) z = 1;
-	//			int running2 = 1;
-	//			while(running2){
-	//				nwin0 = newwin(my, mx, 0, 0);
-	//				box(nwin0, 0, 0);
-	//				y = 1, x=2;
-	//				mvwprintw(nwin0, y++, x, "Sub Window");
-	//				mvwprintw(nwin0, y++, x, "Press 'q' for exit");
-	//				for(i=0;i<line[players.teams[z].cnl].length-players.teams[z].start;i++){
-	//					mvwprintw(nwin0, y, x, "%d.", z);
-	//					mvwprintw(nwin0, y, x+i+2, "%c", buf[line[players.teams[z].cnl].start_index+players.teams[z].start+i]);
-	//				}y++;
-	//				keypad(nwin0, TRUE);
-	//				mvwprintw(nwin0, y++, x, "-------------------------------------------------");
-	//				mvwprintw(nwin0, y++, x, "0.Players List");
-	//				mvwprintw(nwin0, y++, x, "1.Score Card");
-	//				wrefresh(nwin0);
-	//				noecho();
-	//				int ch2 = wgetch(nwin0);
-	//				if(ch2 == 81 || ch2 == 113){
-	//					running2 = 0;//81:Q, 113:q
-	//				}
-	//				else if(ch2 == 48 || ch2 == 49){//48:0, 49:1, 50:2
-	//					int running3 = 1;
-	//					while(running3){
-	//						nwin1 = newwin(my, mx, 0, 0);
-	//						box(nwin1, 0, 0);
-	//						y = 1, x=2;
-	//						mvwprintw(nwin1, y++, x, "Player List");
-	//						mvwprintw(nwin1, y++, x, "(Press 'q' for exit)");
-	//						keypad(nwin1, TRUE);
-	//						mvwprintw(nwin1, y++, x, "-------------------------------------------------");
-	//						for(j=0;j<team[z].nplr;j++){
-	//							for(i=0;i<line[team[z].name[j].cnl].length-team[z].name[j].start;i++){
-	//								mvwprintw(nwin1, y, x+i, "%c", buf[line[team[z].name[j].cnl].start_index+team[z].name[j].start+i]);
-	//							}
-	//							y++;
-	//						}
-	//						wrefresh(nwin1);
-	//						noecho();
-	//						int ch3 = wgetch(nwin1);
-	//						if(ch3 == 81 || ch3 == 113){
-	//							running3 = 0;//81:Q, 113:q
-	//						}
-	//						wrefresh(nwin1);
-	//						delwin(nwin1);
-	//						nwin1 = NULL;
-	//
-	//					}
-	//					wrefresh(nwin0);
-	//					delwin(nwin0);
-	//					nwin0 = NULL;
-	//				}
-	//			}
-	//		}
-	//	}
-	//	delwin(mainwin);
-	//	endwin();
+	initscr();
+	cbreak();
+	noecho();
+	keypad(stdscr, TRUE);
+	int my, mx, n_choices, ly, running = 1,x=2,y=1, z=0;
+	getmaxyx(stdscr, my, mx);
+	WINDOW *mainwin = NULL;
+	WINDOW *nwin0 = NULL;
+	WINDOW *nwin1 = NULL;
+	WINDOW *nwin2 = NULL;
+	z = 0;
+	while(running){
+		mainwin = newwin(my, mx, 0, 0); 
+		box(mainwin, 0, 0); 
+		y = 1, x=2;
+		mvwprintw(mainwin, y++, x, "Main Window");
+		mvwprintw(mainwin, y++, x, "Choose index");
+		mvwprintw(mainwin, y++, x, "-------------------------------------------------");
+		for(z=0;z<2;z++){
+			for(i=0;i<line[players.teams[z].cnl].length-players.teams[z].start;i++){
+				mvwprintw(mainwin, y+z, x, "%d.", z);
+				mvwprintw(mainwin, y+z, x+i+2, "%c", buf[line[players.teams[z].cnl].start_index+players.teams[z].start+i]);
+			}
+		}
+		wrefresh(mainwin);
+		noecho();
+		int ch = wgetch(mainwin);
+		delwin(mainwin);
+		mainwin = NULL;
+		if(ch == 27){
+			running = 0;
+		}
+		else if(ch == 48 || ch == 49){//48:0, 49:1, 50:2
+			z = 0;
+			if(ch == 49) z = 1;
+			int running2 = 1;
+			while(running2){
+				nwin0 = newwin(my, mx, 0, 0);
+				box(nwin0, 0, 0);
+				y = 1, x=2;
+				mvwprintw(nwin0, y++, x, "Sub Window");
+				mvwprintw(nwin0, y++, x, "Press 'q' for exit");
+				for(i=0;i<line[players.teams[z].cnl].length-players.teams[z].start;i++){
+					mvwprintw(nwin0, y, x, "%d.", z);
+					mvwprintw(nwin0, y, x+i+2, "%c", buf[line[players.teams[z].cnl].start_index+players.teams[z].start+i]);
+				}y++;
+				keypad(nwin0, TRUE);
+				mvwprintw(nwin0, y++, x, "-------------------------------------------------");
+				mvwprintw(nwin0, y++, x, "0.Players List");
+				mvwprintw(nwin0, y++, x, "1.Score Card");
+				wrefresh(nwin0);
+				noecho();
+				int ch2 = wgetch(nwin0);
+				if(ch2 == 81 || ch2 == 113){
+					running2 = 0;//81:Q, 113:q
+				}
+				else if(ch2 == 48){//48:0, 49:1, 50:2
+					int running3 = 1;
+					while(running3){
+						nwin1 = newwin(my, mx, 0, 0);
+						box(nwin1, 0, 0);
+						y = 1, x=2;
+						mvwprintw(nwin1, y++, x, "Player List");
+						mvwprintw(nwin1, y++, x, "(Press 'q' for exit)");
+						keypad(nwin1, TRUE);
+						mvwprintw(nwin1, y++, x, "-------------------------------------------------");
+						for(j=0;j<team[z].nplr;j++){
+							for(i=0;i<line[team[z].name[j].cnl].length-team[z].name[j].start;i++){
+								mvwprintw(nwin1, y, x+i, "%c", buf[line[team[z].name[j].cnl].start_index+team[z].name[j].start+i]);
+							}
+							y++;
+						}
+						wrefresh(nwin1);
+						noecho();
+						int ch3 = wgetch(nwin1);
+						if(ch3 == 81 || ch3 == 113){
+							running3 = 0;//81:Q, 113:q
+						}
+						wrefresh(nwin1);
+						delwin(nwin1);
+						nwin1 = NULL;
 
+					}
+					wrefresh(nwin0);
+					delwin(nwin0);
+					nwin0 = NULL;
+				}
+				else if(ch2 == 49){//48:0, 49:1, 50:2
+					int running4 = 1, max_x=0, col_w =0, col_h =0, box_h =0, box_w=0, ncols=4;
+					char *title[] = {"Batsman", "Run", "Ball", "Wicket"};
+					while(running4){
+						nwin2 = newwin(my, mx, 0, 0);
+						box(nwin2, 0, 0);
+						y = 1, x=2;
+						mvwprintw(nwin2, y++, x, "Score Card");
+						mvwprintw(nwin2, y++, x, "(Press 'q' for exit)");
+						for(j=0;j<team[z].nbatsman;j++){
+							for(i=0;i<line[team[z].name[j].cnl].length-team[z].name[j].start;i++){
+								x + i;
+							}
+							if(max_x<x+i) max_x = x+i;//get the max value of x
+							y++;
+						}
+						col_w = max_x, box_w = (max_x*ncols);//4 vertical lines
+						v_line(y,x,box_h, nwin2);//print top vertical line
+						box_h = team[z].nbatsman;
+						y = y-team[z].nbatsman;//set the y back to top
+						h_line(y,x,box_w, nwin2);//print top horizontal line
+						y++;
+						print_t(y,x,title,ncols,nwin2,col_w);//print the titles
+						y++;
+						h_line(y,x,box_w, nwin2);//print top horizontal line
+						y++;
+						for(j=0;j<team[z].nbatsman;j++){
+							for(i=0;i<line[team[z].name[j].cnl].length-team[z].name[j].start;i++){
+								mvwprintw(nwin2, y, x+i, "%c", buf[line[team[z].name[j].cnl].start_index+team[z].name[j].start+i]);
+							}
+							y++;
+						}
+						h_line(y,x,box_w, nwin2);
+						y = y-team[z].nbatsman;//set the y back to top
+						v_line(y,max_x,box_h, nwin2);//print top vertical line
+						for(j=0;j<team[z].nbatsman;j++){
+							mvwprintw(nwin2, y,max_x+2, "%d", team[z].batsman[j].run);
+							y++;
+						}
+						y = y-team[z].nbatsman, max_x += col_w;//set the y back to top
+						v_line(y,max_x,box_h, nwin2);//print top vertical line
+						for(j=0;j<team[z].nbatsman;j++){
+							mvwprintw(nwin2, y,max_x+2, "%d", team[z].batsman[j].ball);
+							y++;
+						}
+						y = y-team[z].nbatsman, max_x += col_w;//set the y back to top
+						v_line(y,max_x,box_h, nwin2);//print top vertical line
+						for(j=0;j<team[z].nbatsman;j++){
+							if(team[z].batsman[j].w_index >= 0){
+								mvwprintw(nwin2, y,max_x+2, "OUT");
+							}
+							else{
+								mvwprintw(nwin2, y,max_x+2, "NOT-OUT");
+							}
+							y++;
+						}
+						y = y-team[z].nbatsman, max_x += col_w;//set the y back to top
+						v_line(y,max_x,box_h, nwin2);//print top vertical line
+						wrefresh(nwin2);
+						noecho();
+						int ch3 = wgetch(nwin2);
+						if(ch3 == 81 || ch3 == 113){
+							running4 = 0;//81:Q, 113:q
+						}
+						wrefresh(nwin2);
+						delwin(nwin2);
+						nwin2 = NULL;
+
+					}
+					wrefresh(nwin1);
+					delwin(nwin1);
+					nwin1 = NULL;
+				}
+			}
+		}
+	}
+	delwin(mainwin);
+	endwin();
 
 	//free the memory allocated
 	for(i=0;i<2;i++){
@@ -776,28 +915,22 @@ int main(int aa, char **ab){
 	return 0;
 }
 
-void print_pat(int *arr, unsigned char len, unsigned char a, unsigned char b){
-	printf("%c", a);
-	for(int i=0;i<len;i++){
-		for(int j=0;j<arr[i];j++){
-			printf("%c", b);
-		}
-		printf("%c", a);
-	}
-}
-void print_data(unsigned char row, unsigned char col, unsigned char *value){
-	unsigned char flag = 1;
-	for(int i=0;i<row;i++){
-		for(int j=0;j<col;j++){
-			if(value[j] == '\0') flag = 0;//use '\n' for yaml
-			if(flag){
-				printf("%c", value[j]);
-			}
-			else{
-				printf(" ");
-			}
-		}
-		printf("|");
+void h_line(int y, int x, int width, WINDOW *win){
+	for(int i=0;i<width;i++){
+		mvwprintw(win, y, x+i, "-");
 	}
 }
 
+void v_line(int y, int x, int height, WINDOW *win){
+	for(int i=0;i<height;i++){
+		mvwprintw(win, y+i, x, "|");
+	}
+}
+
+void print_t(int y, int x, char *arr[], int len, WINDOW *win, int col_w){
+	char i, j;
+	for(i=0;i<len;i++){
+		mvwprintw(win, y, x, "%s", arr[i]);
+		x += col_w+1;//1 for vertical col line
+	}
+}
