@@ -831,23 +831,24 @@ int main(int aa, char **ab){
 				else if(ch2 == 49){//48:0, 49:1, 50:2
 					int running4 = 1, max_x=0, col_w =0, col_h =0, box_h =0, box_w=0, ncols=4;
 					char *title[] = {"Batsman", "Run", "Ball", "Wicket"};
+					y = 1, x=2;
+					for(j=0;j<team[z].nbatsman;j++){
+						for(i=0;i<line[team[z].name[j].cnl].length-team[z].name[j].start;i++){
+							x + i;
+						}
+						if(max_x<x+i) max_x = x+i;//get the max value of x
+						y++;
+					}
+					col_w = max_x, box_w = (max_x*ncols);//4 vertical lines
+									     //	v_line(y,x,box_h, nwin2);//print top vertical line
+					box_h = team[z].nbatsman;
 					while(running4){
+						//	y = y-team[z].nbatsman;//set the y back to top
+						y = 1, x=2;
 						nwin2 = newwin(my, mx, 0, 0);
 						box(nwin2, 0, 0);
-						y = 1, x=2;
 						mvwprintw(nwin2, y++, x, "Score Card");
 						mvwprintw(nwin2, y++, x, "(Press 'q' for exit)");
-						for(j=0;j<team[z].nbatsman;j++){
-							for(i=0;i<line[team[z].name[j].cnl].length-team[z].name[j].start;i++){
-								x + i;
-							}
-							if(max_x<x+i) max_x = x+i;//get the max value of x
-							y++;
-						}
-						col_w = max_x, box_w = (max_x*ncols);//4 vertical lines
-						v_line(y,x,box_h, nwin2);//print top vertical line
-						box_h = team[z].nbatsman;
-						y = y-team[z].nbatsman;//set the y back to top
 						h_line(y,x,box_w, nwin2);//print top horizontal line
 						y++;
 						print_t(y,x,title,ncols,nwin2,col_w);//print the titles
@@ -862,18 +863,18 @@ int main(int aa, char **ab){
 						}
 						h_line(y,x,box_w, nwin2);
 						y = y-team[z].nbatsman;//set the y back to top
-						v_line(y,max_x,box_h, nwin2);//print top vertical line
+						v_line(y,col_w,box_h, nwin2);//print top vertical line
 						for(j=0;j<team[z].nbatsman;j++){
-							mvwprintw(nwin2, y,max_x+2, "%d", team[z].batsman[j].run);
+							mvwprintw(nwin2, y,col_w+2, "%d", team[z].batsman[j].run);
 							y++;
 						}
-						y = y-team[z].nbatsman, max_x += col_w;//set the y back to top
+						y = y-team[z].nbatsman, max_x = 2*col_w;//set the y back to top
 						v_line(y,max_x,box_h, nwin2);//print top vertical line
 						for(j=0;j<team[z].nbatsman;j++){
 							mvwprintw(nwin2, y,max_x+2, "%d", team[z].batsman[j].ball);
 							y++;
 						}
-						y = y-team[z].nbatsman, max_x += col_w;//set the y back to top
+						y = y-team[z].nbatsman, max_x = 3*col_w;//set the y back to top
 						v_line(y,max_x,box_h, nwin2);//print top vertical line
 						for(j=0;j<team[z].nbatsman;j++){
 							if(team[z].batsman[j].w_index >= 0){
@@ -884,12 +885,13 @@ int main(int aa, char **ab){
 							}
 							y++;
 						}
-						y = y-team[z].nbatsman, max_x += col_w;//set the y back to top
+						y = y-team[z].nbatsman, max_x = 4*col_w;//set the y back to top
 						v_line(y,max_x,box_h, nwin2);//print top vertical line
 						wrefresh(nwin2);
 						noecho();
-						int ch3 = wgetch(nwin2);
-						if(ch3 == 81 || ch3 == 113){
+						keypad(nwin2, TRUE);
+						int ch4 = wgetch(nwin2);
+						if(ch4 == 81 || ch4 == 113){
 							running4 = 0;//81:Q, 113:q
 						}
 						wrefresh(nwin2);

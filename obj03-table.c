@@ -20,7 +20,7 @@ int main()
     t.nr = 6;
     t.nc = 4;
     t.cw = 6;
-    t.rh = 1;
+    t.rh = 2;
     t.rc = '-';
     t.cc = '|';
     t.tc = '+';
