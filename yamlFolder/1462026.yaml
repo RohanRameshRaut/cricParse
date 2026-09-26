@@ -1,0 +1,4781 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-08-27'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Birmingham
+  competition: One-Day Cup
+  dates:
+  - '2025-08-26'
+  gender: male
+  match_type: ODM
+  outcome:
+    winner: Sussex
+    by:
+      runs: 21
+    method: D/L
+  overs: 50
+  players:
+    Sussex:
+    - HP Rogers
+    - D Ibrahim
+    - TGR Clark
+    - TP Alsop
+    - JA Simpson
+    - DJ Lamb
+    - AM Foreman
+    - AC Lenham
+    - TDA Henry
+    - HT Crocombe
+    - SF Hunt
+    Warwickshire:
+    - RM Yates
+    - EG Barnard
+    - Z Malik
+    - AL Davies
+    - Hamza Shaikh
+    - K Smith
+    - VL Jani
+    - JB Lintott
+    - TC Ali
+    - AR Sylvester
+    - OJ Hannon-Dalby
+  registry:
+    people:
+      AC Harris: ef14c0ec
+      AC Lenham: 8f9c5014
+      AL Davies: 29ede60b
+      AM Foreman: bf659c0f
+      AR Sylvester: 909b090d
+      D Ibrahim: 457cab44
+      DJ Lamb: 27c5a793
+      EG Barnard: a510bdd3
+      GD Cross: 776fbf9b
+      HP Rogers: 489b9a32
+      HT Crocombe: 27fc5808
+      Hamza Shaikh: 1917d713
+      JA Simpson: f05fe9b1
+      JB Lintott: e5218454
+      JJ Swift: 78deed6e
+      K Smith: ee6ebf47
+      OJ Hannon-Dalby: e0ac7144
+      RM Yates: 3581a798
+      SF Hunt: 7f7f658b
+      TC Ali: 634749ad
+      TDA Henry: c928cb45
+      TGR Clark: ed8faea2
+      TP Alsop: 961b8ff1
+      VL Jani: ecdd6cc9
+      Z Malik: 1732cd55
+  teams:
+  - Sussex
+  - Warwickshire
+  toss:
+    winner: Sussex
+    decision: bat
+  umpires:
+  - AC Harris
+  - GD Cross
+  venue: Edgbaston, Birmingham
+innings:
+- 1st innings:
+    team: Sussex
+    deliveries:
+    - 0.1:
+        non_striker: D Ibrahim
+        bowler: OJ Hannon-Dalby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HP Rogers
+    - 0.2:
+        non_striker: D Ibrahim
+        bowler: OJ Hannon-Dalby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HP Rogers
+    - 0.3:
+        non_striker: D Ibrahim
+        bowler: OJ Hannon-Dalby
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HP Rogers
+    - 0.4:
+        non_striker: D Ibrahim
+        bowler: OJ Hannon-Dalby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HP Rogers
+    - 0.5:
+        non_striker: D Ibrahim
+        bowler: OJ Hannon-Dalby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HP Rogers
+    - 0.6:
+        non_striker: D Ibrahim
+        bowler: OJ Hannon-Dalby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HP Rogers
+    - 1.1:
+        non_striker: HP Rogers
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ibrahim
+    - 1.2:
+        non_striker: HP Rogers
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ibrahim
+    - 1.3:
+        non_striker: HP Rogers
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ibrahim
+    - 1.4:
+        non_striker: HP Rogers
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ibrahim
+    - 1.5:
+        non_striker: HP Rogers
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ibrahim
+    - 1.6:
+        non_striker: HP Rogers
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ibrahim
+    - 2.1:
+        non_striker: D Ibrahim
+        bowler: OJ Hannon-Dalby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HP Rogers
+    - 2.2:
+        non_striker: D Ibrahim
+        bowler: OJ Hannon-Dalby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HP Rogers
+    - 2.3:
+        non_striker: HP Rogers
+        bowler: OJ Hannon-Dalby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ibrahim
+    - 2.4:
+        non_striker: HP Rogers
+        bowler: OJ Hannon-Dalby
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Ibrahim
+    - 2.5:
+        non_striker: HP Rogers
+        bowler: OJ Hannon-Dalby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ibrahim
+    - 2.6:
+        non_striker: HP Rogers
+        bowler: OJ Hannon-Dalby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ibrahim
+    - 3.1:
+        non_striker: D Ibrahim
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HP Rogers
+    - 3.2:
+        non_striker: D Ibrahim
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HP Rogers
+    - 3.3:
+        non_striker: D Ibrahim
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HP Rogers
+    - 3.4:
+        non_striker: D Ibrahim
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HP Rogers
+    - 3.5:
+        non_striker: D Ibrahim
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HP Rogers
+    - 3.6:
+        non_striker: D Ibrahim
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HP Rogers
+    - 4.1:
+        non_striker: HP Rogers
+        bowler: OJ Hannon-Dalby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ibrahim
+    - 4.2:
+        non_striker: HP Rogers
+        bowler: OJ Hannon-Dalby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ibrahim
+    - 4.3:
+        non_striker: HP Rogers
+        bowler: OJ Hannon-Dalby
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Ibrahim
+    - 4.4:
+        non_striker: HP Rogers
+        bowler: OJ Hannon-Dalby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ibrahim
+    - 4.5:
+        non_striker: HP Rogers
+        bowler: OJ Hannon-Dalby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ibrahim
+    - 4.6:
+        non_striker: HP Rogers
+        bowler: OJ Hannon-Dalby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ibrahim
+    - 5.1:
+        non_striker: D Ibrahim
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HP Rogers
+    - 5.2:
+        non_striker: D Ibrahim
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HP Rogers
+    - 5.3:
+        non_striker: D Ibrahim
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HP Rogers
+    - 5.4:
+        non_striker: D Ibrahim
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HP Rogers
+    - 5.5:
+        non_striker: D Ibrahim
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HP Rogers
+    - 5.6:
+        non_striker: HP Rogers
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ibrahim
+    - 6.1:
+        non_striker: D Ibrahim
+        bowler: OJ Hannon-Dalby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HP Rogers
+        wicket:
+          player_out: HP Rogers
+          fielders:
+          - Hamza Shaikh
+          kind: caught
+    - 6.2:
+        non_striker: D Ibrahim
+        bowler: OJ Hannon-Dalby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TGR Clark
+    - 6.3:
+        non_striker: D Ibrahim
+        bowler: OJ Hannon-Dalby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TGR Clark
+    - 6.4:
+        non_striker: D Ibrahim
+        bowler: OJ Hannon-Dalby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TGR Clark
+    - 6.5:
+        non_striker: D Ibrahim
+        bowler: OJ Hannon-Dalby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TGR Clark
+    - 6.6:
+        non_striker: D Ibrahim
+        bowler: OJ Hannon-Dalby
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TGR Clark
+    - 7.1:
+        non_striker: TGR Clark
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Ibrahim
+    - 7.2:
+        non_striker: TGR Clark
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ibrahim
+    - 7.3:
+        non_striker: TGR Clark
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ibrahim
+    - 7.4:
+        non_striker: D Ibrahim
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TGR Clark
+    - 7.5:
+        non_striker: D Ibrahim
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TGR Clark
+    - 7.6:
+        non_striker: D Ibrahim
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TGR Clark
+    - 8.1:
+        non_striker: D Ibrahim
+        bowler: OJ Hannon-Dalby
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: TGR Clark
+    - 8.2:
+        non_striker: TGR Clark
+        bowler: OJ Hannon-Dalby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ibrahim
+    - 8.3:
+        non_striker: TGR Clark
+        bowler: OJ Hannon-Dalby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ibrahim
+    - 8.4:
+        non_striker: D Ibrahim
+        bowler: OJ Hannon-Dalby
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TGR Clark
+    - 8.5:
+        non_striker: D Ibrahim
+        bowler: OJ Hannon-Dalby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TGR Clark
+    - 8.6:
+        non_striker: D Ibrahim
+        bowler: OJ Hannon-Dalby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TGR Clark
+    - 9.1:
+        non_striker: D Ibrahim
+        bowler: AR Sylvester
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TGR Clark
+    - 9.2:
+        non_striker: D Ibrahim
+        bowler: AR Sylvester
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TGR Clark
+    - 9.3:
+        non_striker: D Ibrahim
+        bowler: AR Sylvester
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TGR Clark
+    - 9.4:
+        non_striker: D Ibrahim
+        bowler: AR Sylvester
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TGR Clark
+    - 9.5:
+        non_striker: D Ibrahim
+        bowler: AR Sylvester
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TGR Clark
+    - 9.6:
+        non_striker: D Ibrahim
+        bowler: AR Sylvester
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TGR Clark
+    - 10.1:
+        non_striker: TGR Clark
+        bowler: OJ Hannon-Dalby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ibrahim
+    - 10.2:
+        non_striker: TGR Clark
+        bowler: OJ Hannon-Dalby
+        extras:
+          legbyes: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: D Ibrahim
+    - 10.3:
+        non_striker: D Ibrahim
+        bowler: OJ Hannon-Dalby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TGR Clark
+    - 10.4:
+        non_striker: D Ibrahim
+        bowler: OJ Hannon-Dalby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TGR Clark
+    - 10.5:
+        non_striker: D Ibrahim
+        bowler: OJ Hannon-Dalby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TGR Clark
+    - 10.6:
+        non_striker: D Ibrahim
+        bowler: OJ Hannon-Dalby
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TGR Clark
+    - 11.1:
+        non_striker: TGR Clark
+        bowler: AR Sylvester
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ibrahim
+    - 11.2:
+        non_striker: D Ibrahim
+        bowler: AR Sylvester
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TGR Clark
+    - 11.3:
+        non_striker: D Ibrahim
+        bowler: AR Sylvester
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TGR Clark
+    - 11.4:
+        non_striker: TGR Clark
+        bowler: AR Sylvester
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Ibrahim
+    - 11.5:
+        non_striker: TGR Clark
+        bowler: AR Sylvester
+        extras:
+          legbyes: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: D Ibrahim
+    - 11.6:
+        non_striker: D Ibrahim
+        bowler: AR Sylvester
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TGR Clark
+    - 12.1:
+        non_striker: TGR Clark
+        bowler: RM Yates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ibrahim
+    - 12.2:
+        non_striker: TGR Clark
+        bowler: RM Yates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ibrahim
+    - 12.3:
+        non_striker: D Ibrahim
+        bowler: RM Yates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TGR Clark
+    - 12.4:
+        non_striker: D Ibrahim
+        bowler: RM Yates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TGR Clark
+    - 12.5:
+        non_striker: D Ibrahim
+        bowler: RM Yates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TGR Clark
+    - 12.6:
+        non_striker: D Ibrahim
+        bowler: RM Yates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TGR Clark
+    - 13.1:
+        non_striker: D Ibrahim
+        bowler: AR Sylvester
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TGR Clark
+    - 13.2:
+        non_striker: D Ibrahim
+        bowler: AR Sylvester
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TGR Clark
+    - 13.3:
+        non_striker: D Ibrahim
+        bowler: AR Sylvester
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TGR Clark
+    - 13.4:
+        non_striker: D Ibrahim
+        bowler: AR Sylvester
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: TGR Clark
+    - 13.5:
+        non_striker: TGR Clark
+        bowler: AR Sylvester
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ibrahim
+    - 13.6:
+        non_striker: TGR Clark
+        bowler: AR Sylvester
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ibrahim
+    - 14.1:
+        non_striker: D Ibrahim
+        bowler: RM Yates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TGR Clark
+    - 14.2:
+        non_striker: D Ibrahim
+        bowler: RM Yates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TGR Clark
+    - 14.3:
+        non_striker: TGR Clark
+        bowler: RM Yates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ibrahim
+    - 14.4:
+        non_striker: D Ibrahim
+        bowler: RM Yates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TGR Clark
+    - 14.5:
+        non_striker: D Ibrahim
+        bowler: RM Yates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TGR Clark
+    - 14.6:
+        non_striker: TGR Clark
+        bowler: RM Yates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ibrahim
+    - 15.1:
+        non_striker: D Ibrahim
+        bowler: AR Sylvester
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TGR Clark
+    - 15.2:
+        non_striker: D Ibrahim
+        bowler: AR Sylvester
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TGR Clark
+    - 15.3:
+        non_striker: D Ibrahim
+        bowler: AR Sylvester
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TGR Clark
+    - 15.4:
+        non_striker: D Ibrahim
+        bowler: AR Sylvester
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TGR Clark
+    - 15.5:
+        non_striker: D Ibrahim
+        bowler: AR Sylvester
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TGR Clark
+    - 15.6:
+        non_striker: D Ibrahim
+        bowler: AR Sylvester
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TGR Clark
+    - 16.1:
+        non_striker: D Ibrahim
+        bowler: RM Yates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TGR Clark
+    - 16.2:
+        non_striker: D Ibrahim
+        bowler: RM Yates
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TGR Clark
+    - 16.3:
+        non_striker: D Ibrahim
+        bowler: RM Yates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TGR Clark
+    - 16.4:
+        non_striker: D Ibrahim
+        bowler: RM Yates
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TGR Clark
+    - 16.5:
+        non_striker: D Ibrahim
+        bowler: RM Yates
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TGR Clark
+    - 16.6:
+        non_striker: D Ibrahim
+        bowler: RM Yates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TGR Clark
+    - 17.1:
+        non_striker: D Ibrahim
+        bowler: TC Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TGR Clark
+    - 17.2:
+        non_striker: D Ibrahim
+        bowler: TC Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TGR Clark
+    - 17.3:
+        non_striker: D Ibrahim
+        bowler: TC Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TGR Clark
+    - 17.4:
+        non_striker: TGR Clark
+        bowler: TC Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ibrahim
+    - 17.5:
+        non_striker: D Ibrahim
+        bowler: TC Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TGR Clark
+    - 17.6:
+        non_striker: D Ibrahim
+        bowler: TC Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TGR Clark
+    - 18.1:
+        non_striker: TGR Clark
+        bowler: RM Yates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ibrahim
+    - 18.2:
+        non_striker: D Ibrahim
+        bowler: RM Yates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TGR Clark
+    - 18.3:
+        non_striker: D Ibrahim
+        bowler: RM Yates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TGR Clark
+    - 18.4:
+        non_striker: D Ibrahim
+        bowler: RM Yates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TGR Clark
+    - 18.5:
+        non_striker: TGR Clark
+        bowler: RM Yates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ibrahim
+        wicket:
+          player_out: D Ibrahim
+          fielders:
+          - K Smith
+          kind: caught
+    - 18.6:
+        non_striker: TGR Clark
+        bowler: RM Yates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Alsop
+    - 19.1:
+        non_striker: TGR Clark
+        bowler: TC Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Alsop
+    - 19.2:
+        non_striker: TGR Clark
+        bowler: TC Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Alsop
+    - 19.3:
+        non_striker: TP Alsop
+        bowler: TC Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TGR Clark
+    - 19.4:
+        non_striker: TGR Clark
+        bowler: TC Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Alsop
+    - 19.5:
+        non_striker: TGR Clark
+        bowler: TC Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Alsop
+    - 19.6:
+        non_striker: TGR Clark
+        bowler: TC Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TP Alsop
+    - 20.1:
+        non_striker: TP Alsop
+        bowler: RM Yates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TGR Clark
+    - 20.2:
+        non_striker: TP Alsop
+        bowler: RM Yates
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: TGR Clark
+    - 20.3:
+        non_striker: TGR Clark
+        bowler: RM Yates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Alsop
+    - 20.4:
+        non_striker: TGR Clark
+        bowler: RM Yates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Alsop
+    - 20.5:
+        non_striker: TGR Clark
+        bowler: RM Yates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Alsop
+    - 20.6:
+        non_striker: TP Alsop
+        bowler: RM Yates
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TGR Clark
+    - 21.1:
+        non_striker: TGR Clark
+        bowler: TC Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Alsop
+    - 21.2:
+        non_striker: TGR Clark
+        bowler: TC Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Alsop
+    - 21.3:
+        non_striker: TP Alsop
+        bowler: TC Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TGR Clark
+    - 21.4:
+        non_striker: TP Alsop
+        bowler: TC Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TGR Clark
+    - 21.5:
+        non_striker: TGR Clark
+        bowler: TC Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Alsop
+    - 21.6:
+        non_striker: TP Alsop
+        bowler: TC Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TGR Clark
+    - 22.1:
+        non_striker: TGR Clark
+        bowler: RM Yates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Alsop
+    - 22.2:
+        non_striker: TGR Clark
+        bowler: RM Yates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Alsop
+    - 22.3:
+        non_striker: TP Alsop
+        bowler: RM Yates
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TGR Clark
+    - 22.4:
+        non_striker: TP Alsop
+        bowler: RM Yates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TGR Clark
+    - 22.5:
+        non_striker: TP Alsop
+        bowler: RM Yates
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TGR Clark
+    - 22.6:
+        non_striker: TP Alsop
+        bowler: RM Yates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TGR Clark
+    - 23.1:
+        non_striker: TGR Clark
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Alsop
+    - 23.2:
+        non_striker: TGR Clark
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Alsop
+    - 23.3:
+        non_striker: TGR Clark
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Alsop
+    - 23.4:
+        non_striker: TGR Clark
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Alsop
+    - 23.5:
+        non_striker: TGR Clark
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Alsop
+    - 23.6:
+        non_striker: TP Alsop
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TGR Clark
+    - 24.1:
+        non_striker: TGR Clark
+        bowler: TC Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Alsop
+    - 24.2:
+        non_striker: TP Alsop
+        bowler: TC Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TGR Clark
+    - 24.3:
+        non_striker: TGR Clark
+        bowler: TC Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Alsop
+    - 24.4:
+        non_striker: TGR Clark
+        bowler: TC Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Alsop
+    - 24.5:
+        non_striker: TP Alsop
+        bowler: TC Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TGR Clark
+    - 24.6:
+        non_striker: TGR Clark
+        bowler: TC Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TP Alsop
+    - 25.1:
+        non_striker: TP Alsop
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TGR Clark
+    - 25.2:
+        non_striker: TP Alsop
+        bowler: JB Lintott
+        extras:
+          wides: 5
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        batsman: TGR Clark
+    - 25.3:
+        non_striker: TP Alsop
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TGR Clark
+    - 25.4:
+        non_striker: TP Alsop
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TGR Clark
+    - 25.5:
+        non_striker: TP Alsop
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TGR Clark
+    - 25.6:
+        non_striker: TGR Clark
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Alsop
+    - 25.7:
+        non_striker: TGR Clark
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Alsop
+    - 26.1:
+        non_striker: TP Alsop
+        bowler: TC Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TGR Clark
+    - 26.2:
+        non_striker: TP Alsop
+        bowler: TC Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TGR Clark
+        wicket:
+          player_out: TGR Clark
+          fielders:
+          - JB Lintott
+          kind: caught
+    - 26.3:
+        non_striker: TP Alsop
+        bowler: TC Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Simpson
+    - 26.4:
+        non_striker: TP Alsop
+        bowler: TC Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Simpson
+    - 26.5:
+        non_striker: TP Alsop
+        bowler: TC Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Simpson
+    - 26.6:
+        non_striker: JA Simpson
+        bowler: TC Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Alsop
+    - 27.1:
+        non_striker: TP Alsop
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Simpson
+    - 27.2:
+        non_striker: TP Alsop
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Simpson
+    - 27.3:
+        non_striker: TP Alsop
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Simpson
+    - 27.4:
+        non_striker: TP Alsop
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Simpson
+    - 27.5:
+        non_striker: JA Simpson
+        bowler: JB Lintott
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: TP Alsop
+    - 27.6:
+        non_striker: JA Simpson
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Alsop
+    - 27.7:
+        non_striker: JA Simpson
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Alsop
+    - 28.1:
+        non_striker: JA Simpson
+        bowler: TC Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TP Alsop
+    - 28.2:
+        non_striker: JA Simpson
+        bowler: TC Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TP Alsop
+    - 28.3:
+        non_striker: JA Simpson
+        bowler: TC Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Alsop
+    - 28.4:
+        non_striker: JA Simpson
+        bowler: TC Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Alsop
+    - 28.5:
+        non_striker: JA Simpson
+        bowler: TC Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Alsop
+        wicket:
+          player_out: TP Alsop
+          fielders:
+          - RM Yates
+          kind: caught
+    - 28.6:
+        non_striker: JA Simpson
+        bowler: TC Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Lamb
+    - 29.1:
+        non_striker: DJ Lamb
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Simpson
+    - 29.2:
+        non_striker: JA Simpson
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Lamb
+    - 29.3:
+        non_striker: JA Simpson
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Lamb
+    - 29.4:
+        non_striker: DJ Lamb
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Simpson
+    - 29.5:
+        non_striker: JA Simpson
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Lamb
+    - 29.6:
+        non_striker: DJ Lamb
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Simpson
+    - 30.1:
+        non_striker: JA Simpson
+        bowler: TC Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Lamb
+    - 30.2:
+        non_striker: JA Simpson
+        bowler: TC Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Lamb
+    - 30.3:
+        non_striker: JA Simpson
+        bowler: TC Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Lamb
+    - 30.4:
+        non_striker: JA Simpson
+        bowler: TC Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJ Lamb
+    - 30.5:
+        non_striker: JA Simpson
+        bowler: TC Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Lamb
+    - 30.6:
+        non_striker: JA Simpson
+        bowler: TC Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Lamb
+    - 31.1:
+        non_striker: DJ Lamb
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Simpson
+    - 31.2:
+        non_striker: DJ Lamb
+        bowler: JB Lintott
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: JA Simpson
+    - 31.3:
+        non_striker: DJ Lamb
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Simpson
+    - 31.4:
+        non_striker: JA Simpson
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Lamb
+    - 31.5:
+        non_striker: DJ Lamb
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Simpson
+    - 31.6:
+        non_striker: DJ Lamb
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Simpson
+    - 31.7:
+        non_striker: DJ Lamb
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Simpson
+    - 32.1:
+        non_striker: DJ Lamb
+        bowler: TC Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Simpson
+    - 32.2:
+        non_striker: JA Simpson
+        bowler: TC Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Lamb
+    - 32.3:
+        non_striker: JA Simpson
+        bowler: TC Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Lamb
+    - 32.4:
+        non_striker: DJ Lamb
+        bowler: TC Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Simpson
+    - 32.5:
+        non_striker: JA Simpson
+        bowler: TC Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Lamb
+    - 32.6:
+        non_striker: JA Simpson
+        bowler: TC Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Lamb
+    - 33.1:
+        non_striker: DJ Lamb
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Simpson
+    - 33.2:
+        non_striker: DJ Lamb
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Simpson
+    - 33.3:
+        non_striker: JA Simpson
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Lamb
+    - 33.4:
+        non_striker: JA Simpson
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Lamb
+    - 33.5:
+        non_striker: DJ Lamb
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Simpson
+    - 33.6:
+        non_striker: JA Simpson
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Lamb
+    - 34.1:
+        non_striker: JA Simpson
+        bowler: TC Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Lamb
+    - 34.2:
+        non_striker: JA Simpson
+        bowler: TC Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Lamb
+    - 34.3:
+        non_striker: DJ Lamb
+        bowler: TC Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Simpson
+    - 34.4:
+        non_striker: DJ Lamb
+        bowler: TC Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Simpson
+    - 34.5:
+        non_striker: JA Simpson
+        bowler: TC Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Lamb
+    - 34.6:
+        non_striker: JA Simpson
+        bowler: TC Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Lamb
+    - 35.1:
+        non_striker: JA Simpson
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: DJ Lamb
+    - 35.2:
+        non_striker: DJ Lamb
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Simpson
+    - 35.3:
+        non_striker: DJ Lamb
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Simpson
+    - 35.4:
+        non_striker: DJ Lamb
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JA Simpson
+    - 35.5:
+        non_striker: DJ Lamb
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Simpson
+        wicket:
+          player_out: JA Simpson
+          kind: lbw
+    - 35.6:
+        non_striker: DJ Lamb
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Foreman
+    - 36.1:
+        non_striker: AM Foreman
+        bowler: TC Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Lamb
+    - 36.2:
+        non_striker: AM Foreman
+        bowler: TC Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Lamb
+    - 36.3:
+        non_striker: DJ Lamb
+        bowler: TC Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Foreman
+    - 36.4:
+        non_striker: DJ Lamb
+        bowler: TC Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Foreman
+    - 36.5:
+        non_striker: AM Foreman
+        bowler: TC Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJ Lamb
+    - 36.6:
+        non_striker: AM Foreman
+        bowler: TC Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Lamb
+    - 37.1:
+        non_striker: AM Foreman
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Lamb
+    - 37.2:
+        non_striker: DJ Lamb
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Foreman
+    - 37.3:
+        non_striker: AM Foreman
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Lamb
+    - 37.4:
+        non_striker: DJ Lamb
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Foreman
+    - 37.5:
+        non_striker: DJ Lamb
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Foreman
+    - 37.6:
+        non_striker: AM Foreman
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Lamb
+    - 38.1:
+        non_striker: DJ Lamb
+        bowler: AR Sylvester
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Foreman
+    - 38.2:
+        non_striker: AM Foreman
+        bowler: AR Sylvester
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Lamb
+    - 38.3:
+        non_striker: AM Foreman
+        bowler: AR Sylvester
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Lamb
+    - 38.4:
+        non_striker: DJ Lamb
+        bowler: AR Sylvester
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Foreman
+    - 38.5:
+        non_striker: DJ Lamb
+        bowler: AR Sylvester
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Foreman
+    - 38.6:
+        non_striker: AM Foreman
+        bowler: AR Sylvester
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Lamb
+    - 39.1:
+        non_striker: AM Foreman
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Lamb
+    - 39.2:
+        non_striker: AM Foreman
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Lamb
+    - 39.3:
+        non_striker: DJ Lamb
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Foreman
+    - 39.4:
+        non_striker: DJ Lamb
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Foreman
+    - 39.5:
+        non_striker: AM Foreman
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Lamb
+    - 39.6:
+        non_striker: AM Foreman
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Lamb
+    - 40.1:
+        non_striker: AM Foreman
+        bowler: AR Sylvester
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Lamb
+    - 40.2:
+        non_striker: AM Foreman
+        bowler: AR Sylvester
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Lamb
+    - 40.3:
+        non_striker: DJ Lamb
+        bowler: AR Sylvester
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Foreman
+    - 40.4:
+        non_striker: DJ Lamb
+        bowler: AR Sylvester
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Foreman
+    - 40.5:
+        non_striker: DJ Lamb
+        bowler: AR Sylvester
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Foreman
+    - 40.6:
+        non_striker: AM Foreman
+        bowler: AR Sylvester
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Lamb
+    - 41.1:
+        non_striker: AM Foreman
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Lamb
+    - 41.2:
+        non_striker: DJ Lamb
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Foreman
+    - 41.3:
+        non_striker: DJ Lamb
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Foreman
+    - 41.4:
+        non_striker: DJ Lamb
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AM Foreman
+    - 41.5:
+        non_striker: DJ Lamb
+        bowler: JB Lintott
+        extras:
+          legbyes: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: AM Foreman
+    - 41.6:
+        non_striker: AM Foreman
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Lamb
+        wicket:
+          player_out: DJ Lamb
+          fielders:
+          - AL Davies
+          kind: caught
+    - 42.1:
+        non_striker: AC Lenham
+        bowler: AR Sylvester
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Foreman
+    - 42.2:
+        non_striker: AC Lenham
+        bowler: AR Sylvester
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Foreman
+    - 42.3:
+        non_striker: AC Lenham
+        bowler: AR Sylvester
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Foreman
+    - 42.4:
+        non_striker: AM Foreman
+        bowler: AR Sylvester
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Lenham
+    - 42.5:
+        non_striker: AM Foreman
+        bowler: AR Sylvester
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Lenham
+    - 42.6:
+        non_striker: AC Lenham
+        bowler: AR Sylvester
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Foreman
+    - 43.1:
+        non_striker: AM Foreman
+        bowler: OJ Hannon-Dalby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Lenham
+    - 43.2:
+        non_striker: AM Foreman
+        bowler: OJ Hannon-Dalby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Lenham
+    - 43.3:
+        non_striker: AC Lenham
+        bowler: OJ Hannon-Dalby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Foreman
+    - 43.4:
+        non_striker: AM Foreman
+        bowler: OJ Hannon-Dalby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Lenham
+    - 43.5:
+        non_striker: AC Lenham
+        bowler: OJ Hannon-Dalby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Foreman
+    - 43.6:
+        non_striker: AC Lenham
+        bowler: OJ Hannon-Dalby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Foreman
+    - 44.1:
+        non_striker: AM Foreman
+        bowler: AR Sylvester
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Lenham
+    - 44.2:
+        non_striker: AC Lenham
+        bowler: AR Sylvester
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Foreman
+    - 44.3:
+        non_striker: AC Lenham
+        bowler: AR Sylvester
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Foreman
+    - 44.4:
+        non_striker: AC Lenham
+        bowler: AR Sylvester
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Foreman
+    - 44.5:
+        non_striker: AC Lenham
+        bowler: AR Sylvester
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Foreman
+    - 44.6:
+        non_striker: AM Foreman
+        bowler: AR Sylvester
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Lenham
+    - 45.1:
+        non_striker: AM Foreman
+        bowler: OJ Hannon-Dalby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Lenham
+    - 45.2:
+        non_striker: AM Foreman
+        bowler: OJ Hannon-Dalby
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Lenham
+    - 45.3:
+        non_striker: AM Foreman
+        bowler: OJ Hannon-Dalby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Lenham
+        wicket:
+          player_out: AC Lenham
+          fielders:
+          - RM Yates
+          kind: caught
+    - 45.4:
+        non_striker: AM Foreman
+        bowler: OJ Hannon-Dalby
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: TDA Henry
+    - 45.5:
+        non_striker: AM Foreman
+        bowler: OJ Hannon-Dalby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TDA Henry
+    - 45.6:
+        non_striker: TDA Henry
+        bowler: OJ Hannon-Dalby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Foreman
+    - 45.7:
+        non_striker: AM Foreman
+        bowler: OJ Hannon-Dalby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TDA Henry
+    - 46.1:
+        non_striker: TDA Henry
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Foreman
+    - 46.2:
+        non_striker: TDA Henry
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Foreman
+    - 46.3:
+        non_striker: AM Foreman
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TDA Henry
+    - 46.4:
+        non_striker: TDA Henry
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Foreman
+        wicket:
+          player_out: AM Foreman
+          fielders:
+          - Z Malik
+          kind: caught
+    - 46.5:
+        non_striker: TDA Henry
+        bowler: EG Barnard
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: HT Crocombe
+    - 46.6:
+        non_striker: TDA Henry
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Crocombe
+    - 46.7:
+        non_striker: HT Crocombe
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TDA Henry
+    - 47.1:
+        non_striker: HT Crocombe
+        bowler: OJ Hannon-Dalby
+        extras:
+          byes: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: TDA Henry
+    - 47.2:
+        non_striker: TDA Henry
+        bowler: OJ Hannon-Dalby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Crocombe
+        wicket:
+          player_out: HT Crocombe
+          fielders:
+          - EG Barnard
+          kind: caught
+    - 47.3:
+        non_striker: TDA Henry
+        bowler: OJ Hannon-Dalby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SF Hunt
+    - 47.4:
+        non_striker: SF Hunt
+        bowler: OJ Hannon-Dalby
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TDA Henry
+    - 47.5:
+        non_striker: SF Hunt
+        bowler: OJ Hannon-Dalby
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TDA Henry
+    - 47.6:
+        non_striker: SF Hunt
+        bowler: OJ Hannon-Dalby
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TDA Henry
+- 2nd innings:
+    team: Warwickshire
+    deliveries:
+    - 0.1:
+        non_striker: EG Barnard
+        bowler: SF Hunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Yates
+    - 0.2:
+        non_striker: EG Barnard
+        bowler: SF Hunt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Yates
+    - 0.3:
+        non_striker: RM Yates
+        bowler: SF Hunt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EG Barnard
+    - 0.4:
+        non_striker: EG Barnard
+        bowler: SF Hunt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RM Yates
+    - 0.5:
+        non_striker: EG Barnard
+        bowler: SF Hunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Yates
+    - 0.6:
+        non_striker: EG Barnard
+        bowler: SF Hunt
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: RM Yates
+    - 0.7:
+        non_striker: EG Barnard
+        bowler: SF Hunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Yates
+    - 1.1:
+        non_striker: RM Yates
+        bowler: TGR Clark
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EG Barnard
+    - 1.2:
+        non_striker: RM Yates
+        bowler: TGR Clark
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EG Barnard
+    - 1.3:
+        non_striker: RM Yates
+        bowler: TGR Clark
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EG Barnard
+    - 1.4:
+        non_striker: EG Barnard
+        bowler: TGR Clark
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Yates
+    - 1.5:
+        non_striker: EG Barnard
+        bowler: TGR Clark
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Yates
+    - 1.6:
+        non_striker: RM Yates
+        bowler: TGR Clark
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EG Barnard
+    - 2.1:
+        non_striker: EG Barnard
+        bowler: SF Hunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Yates
+        wicket:
+          player_out: RM Yates
+          fielders:
+          - AC Lenham
+          kind: caught
+    - 2.2:
+        non_striker: EG Barnard
+        bowler: SF Hunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Malik
+    - 2.3:
+        non_striker: EG Barnard
+        bowler: SF Hunt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Z Malik
+    - 2.4:
+        non_striker: EG Barnard
+        bowler: SF Hunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Malik
+    - 2.5:
+        non_striker: EG Barnard
+        bowler: SF Hunt
+        extras:
+          noballs: 2
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        batsman: Z Malik
+    - 2.6:
+        non_striker: EG Barnard
+        bowler: SF Hunt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Z Malik
+    - 2.7:
+        non_striker: EG Barnard
+        bowler: SF Hunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Malik
+    - 3.1:
+        non_striker: Z Malik
+        bowler: TGR Clark
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: EG Barnard
+    - 3.2:
+        non_striker: Z Malik
+        bowler: TGR Clark
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EG Barnard
+    - 3.3:
+        non_striker: Z Malik
+        bowler: TGR Clark
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EG Barnard
+    - 3.4:
+        non_striker: EG Barnard
+        bowler: TGR Clark
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Malik
+    - 3.5:
+        non_striker: EG Barnard
+        bowler: TGR Clark
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Malik
+    - 3.6:
+        non_striker: EG Barnard
+        bowler: TGR Clark
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Malik
+    - 3.7:
+        non_striker: EG Barnard
+        bowler: TGR Clark
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Z Malik
+    - 4.1:
+        non_striker: EG Barnard
+        bowler: SF Hunt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Z Malik
+    - 4.2:
+        non_striker: EG Barnard
+        bowler: SF Hunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Malik
+    - 4.3:
+        non_striker: EG Barnard
+        bowler: SF Hunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Malik
+    - 4.4:
+        non_striker: EG Barnard
+        bowler: SF Hunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Malik
+    - 4.5:
+        non_striker: EG Barnard
+        bowler: SF Hunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Malik
+    - 4.6:
+        non_striker: EG Barnard
+        bowler: SF Hunt
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Z Malik
+    - 5.1:
+        non_striker: Z Malik
+        bowler: TGR Clark
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EG Barnard
+    - 5.2:
+        non_striker: Z Malik
+        bowler: TGR Clark
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EG Barnard
+    - 5.3:
+        non_striker: Z Malik
+        bowler: TGR Clark
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EG Barnard
+    - 5.4:
+        non_striker: Z Malik
+        bowler: TGR Clark
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EG Barnard
+    - 5.5:
+        non_striker: Z Malik
+        bowler: TGR Clark
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EG Barnard
+    - 5.6:
+        non_striker: EG Barnard
+        bowler: TGR Clark
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Z Malik
+    - 6.1:
+        non_striker: EG Barnard
+        bowler: SF Hunt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Z Malik
+    - 6.2:
+        non_striker: Z Malik
+        bowler: SF Hunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EG Barnard
+    - 6.3:
+        non_striker: Z Malik
+        bowler: SF Hunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EG Barnard
+    - 6.4:
+        non_striker: Z Malik
+        bowler: SF Hunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EG Barnard
+    - 6.5:
+        non_striker: Z Malik
+        bowler: SF Hunt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EG Barnard
+    - 6.6:
+        non_striker: Z Malik
+        bowler: SF Hunt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EG Barnard
+    - 7.1:
+        non_striker: Z Malik
+        bowler: TGR Clark
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EG Barnard
+    - 7.2:
+        non_striker: EG Barnard
+        bowler: TGR Clark
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Malik
+    - 7.3:
+        non_striker: EG Barnard
+        bowler: TGR Clark
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Malik
+    - 7.4:
+        non_striker: EG Barnard
+        bowler: TGR Clark
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Z Malik
+    - 7.5:
+        non_striker: EG Barnard
+        bowler: TGR Clark
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Malik
+    - 7.6:
+        non_striker: EG Barnard
+        bowler: TGR Clark
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Malik
+    - 8.1:
+        non_striker: Z Malik
+        bowler: HT Crocombe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EG Barnard
+    - 8.2:
+        non_striker: Z Malik
+        bowler: HT Crocombe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EG Barnard
+    - 8.3:
+        non_striker: Z Malik
+        bowler: HT Crocombe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EG Barnard
+    - 8.4:
+        non_striker: Z Malik
+        bowler: HT Crocombe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EG Barnard
+    - 8.5:
+        non_striker: EG Barnard
+        bowler: HT Crocombe
+        extras:
+          legbyes: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: Z Malik
+    - 8.6:
+        non_striker: Z Malik
+        bowler: HT Crocombe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EG Barnard
+    - 9.1:
+        non_striker: Z Malik
+        bowler: TGR Clark
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EG Barnard
+    - 9.2:
+        non_striker: Z Malik
+        bowler: TGR Clark
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EG Barnard
+    - 9.3:
+        non_striker: EG Barnard
+        bowler: TGR Clark
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Malik
+        wicket:
+          player_out: Z Malik
+          fielders:
+          - HP Rogers
+          kind: caught
+    - 9.4:
+        non_striker: EG Barnard
+        bowler: TGR Clark
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Davies
+    - 9.5:
+        non_striker: AL Davies
+        bowler: TGR Clark
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EG Barnard
+    - 9.6:
+        non_striker: AL Davies
+        bowler: TGR Clark
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EG Barnard
+    - 10.1:
+        non_striker: AL Davies
+        bowler: HT Crocombe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EG Barnard
+    - 10.2:
+        non_striker: EG Barnard
+        bowler: HT Crocombe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Davies
+    - 10.3:
+        non_striker: AL Davies
+        bowler: HT Crocombe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EG Barnard
+    - 10.4:
+        non_striker: AL Davies
+        bowler: HT Crocombe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EG Barnard
+    - 10.5:
+        non_striker: AL Davies
+        bowler: HT Crocombe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EG Barnard
+    - 10.6:
+        non_striker: AL Davies
+        bowler: HT Crocombe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EG Barnard
+    - 11.1:
+        non_striker: EG Barnard
+        bowler: AM Foreman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AL Davies
+    - 11.2:
+        non_striker: EG Barnard
+        bowler: AM Foreman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Davies
+    - 11.3:
+        non_striker: AL Davies
+        bowler: AM Foreman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EG Barnard
+    - 11.4:
+        non_striker: AL Davies
+        bowler: AM Foreman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EG Barnard
+    - 11.5:
+        non_striker: EG Barnard
+        bowler: AM Foreman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Davies
+    - 11.6:
+        non_striker: AL Davies
+        bowler: AM Foreman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EG Barnard
+    - 12.1:
+        non_striker: EG Barnard
+        bowler: HT Crocombe
+        extras:
+          legbyes: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: AL Davies
+    - 12.2:
+        non_striker: AL Davies
+        bowler: HT Crocombe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EG Barnard
+    - 12.3:
+        non_striker: AL Davies
+        bowler: HT Crocombe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EG Barnard
+    - 12.4:
+        non_striker: EG Barnard
+        bowler: HT Crocombe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Davies
+    - 12.5:
+        non_striker: EG Barnard
+        bowler: HT Crocombe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Davies
+    - 12.6:
+        non_striker: AL Davies
+        bowler: HT Crocombe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: EG Barnard
+    - 13.1:
+        non_striker: EG Barnard
+        bowler: AM Foreman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Davies
+    - 13.2:
+        non_striker: EG Barnard
+        bowler: AM Foreman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Davies
+    - 13.3:
+        non_striker: AL Davies
+        bowler: AM Foreman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EG Barnard
+    - 13.4:
+        non_striker: EG Barnard
+        bowler: AM Foreman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AL Davies
+    - 13.5:
+        non_striker: EG Barnard
+        bowler: AM Foreman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Davies
+    - 13.6:
+        non_striker: EG Barnard
+        bowler: AM Foreman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Davies
+    - 14.1:
+        non_striker: EG Barnard
+        bowler: HT Crocombe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Davies
+    - 14.2:
+        non_striker: EG Barnard
+        bowler: HT Crocombe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Davies
+    - 14.3:
+        non_striker: AL Davies
+        bowler: HT Crocombe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EG Barnard
+    - 14.4:
+        non_striker: AL Davies
+        bowler: HT Crocombe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EG Barnard
+    - 14.5:
+        non_striker: AL Davies
+        bowler: HT Crocombe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EG Barnard
+    - 14.6:
+        non_striker: AL Davies
+        bowler: HT Crocombe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EG Barnard
+    - 15.1:
+        non_striker: AL Davies
+        bowler: AM Foreman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EG Barnard
+    - 15.2:
+        non_striker: EG Barnard
+        bowler: AM Foreman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Davies
+    - 15.3:
+        non_striker: AL Davies
+        bowler: AM Foreman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EG Barnard
+    - 15.4:
+        non_striker: EG Barnard
+        bowler: AM Foreman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Davies
+    - 15.5:
+        non_striker: EG Barnard
+        bowler: AM Foreman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Davies
+    - 15.6:
+        non_striker: EG Barnard
+        bowler: AM Foreman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Davies
+    - 16.1:
+        non_striker: EG Barnard
+        bowler: DJ Lamb
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: AL Davies
+    - 16.2:
+        non_striker: AL Davies
+        bowler: DJ Lamb
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EG Barnard
+    - 16.3:
+        non_striker: EG Barnard
+        bowler: DJ Lamb
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Davies
+    - 16.4:
+        non_striker: AL Davies
+        bowler: DJ Lamb
+        extras:
+          wides: 2
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        batsman: EG Barnard
+    - 16.5:
+        non_striker: EG Barnard
+        bowler: DJ Lamb
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Davies
+    - 16.6:
+        non_striker: EG Barnard
+        bowler: DJ Lamb
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Davies
+    - 16.7:
+        non_striker: EG Barnard
+        bowler: DJ Lamb
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Davies
+    - 17.1:
+        non_striker: EG Barnard
+        bowler: AM Foreman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Davies
+    - 17.2:
+        non_striker: EG Barnard
+        bowler: AM Foreman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Davies
+    - 17.3:
+        non_striker: EG Barnard
+        bowler: AM Foreman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Davies
+    - 17.4:
+        non_striker: EG Barnard
+        bowler: AM Foreman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Davies
+    - 17.5:
+        non_striker: AL Davies
+        bowler: AM Foreman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EG Barnard
+    - 17.6:
+        non_striker: EG Barnard
+        bowler: AM Foreman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Davies
+    - 18.1:
+        non_striker: AL Davies
+        bowler: DJ Lamb
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EG Barnard
+    - 18.2:
+        non_striker: AL Davies
+        bowler: DJ Lamb
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EG Barnard
+    - 18.3:
+        non_striker: EG Barnard
+        bowler: DJ Lamb
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Davies
+    - 18.4:
+        non_striker: AL Davies
+        bowler: DJ Lamb
+        extras:
+          byes: 4
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        batsman: EG Barnard
+    - 18.5:
+        non_striker: AL Davies
+        bowler: DJ Lamb
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EG Barnard
+    - 18.6:
+        non_striker: AL Davies
+        bowler: DJ Lamb
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EG Barnard
+    - 19.1:
+        non_striker: AL Davies
+        bowler: AM Foreman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EG Barnard
+    - 19.2:
+        non_striker: EG Barnard
+        bowler: AM Foreman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Davies
+    - 19.3:
+        non_striker: AL Davies
+        bowler: AM Foreman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EG Barnard
+    - 19.4:
+        non_striker: AL Davies
+        bowler: AM Foreman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EG Barnard
+    - 19.5:
+        non_striker: AL Davies
+        bowler: AM Foreman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EG Barnard
+    - 19.6:
+        non_striker: EG Barnard
+        bowler: AM Foreman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Davies
+    - 20.1:
+        non_striker: EG Barnard
+        bowler: DJ Lamb
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Davies
+    - 20.2:
+        non_striker: AL Davies
+        bowler: DJ Lamb
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EG Barnard
+    - 20.3:
+        non_striker: EG Barnard
+        bowler: DJ Lamb
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AL Davies
+    - 20.4:
+        non_striker: EG Barnard
+        bowler: DJ Lamb
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Davies
+    - 20.5:
+        non_striker: EG Barnard
+        bowler: DJ Lamb
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Davies
+    - 20.6:
+        non_striker: AL Davies
+        bowler: DJ Lamb
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EG Barnard
+    - 21.1:
+        non_striker: EG Barnard
+        bowler: TDA Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Davies
+    - 21.2:
+        non_striker: AL Davies
+        bowler: TDA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EG Barnard
+    - 21.3:
+        non_striker: AL Davies
+        bowler: TDA Henry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EG Barnard
+    - 21.4:
+        non_striker: AL Davies
+        bowler: TDA Henry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EG Barnard
+    - 21.5:
+        non_striker: AL Davies
+        bowler: TDA Henry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EG Barnard
+    - 21.6:
+        non_striker: AL Davies
+        bowler: TDA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EG Barnard
+    - 22.1:
+        non_striker: EG Barnard
+        bowler: DJ Lamb
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AL Davies
+    - 22.2:
+        non_striker: EG Barnard
+        bowler: DJ Lamb
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Davies
+    - 22.3:
+        non_striker: AL Davies
+        bowler: DJ Lamb
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EG Barnard
+    - 22.4:
+        non_striker: AL Davies
+        bowler: DJ Lamb
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EG Barnard
+    - 22.5:
+        non_striker: AL Davies
+        bowler: DJ Lamb
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EG Barnard
+    - 22.6:
+        non_striker: EG Barnard
+        bowler: DJ Lamb
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Davies
+    - 23.1:
+        non_striker: EG Barnard
+        bowler: TDA Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Davies
+    - 23.2:
+        non_striker: AL Davies
+        bowler: TDA Henry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EG Barnard
+    - 23.3:
+        non_striker: AL Davies
+        bowler: TDA Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EG Barnard
+    - 23.4:
+        non_striker: EG Barnard
+        bowler: TDA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Davies
+    - 23.5:
+        non_striker: EG Barnard
+        bowler: TDA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Davies
+    - 23.6:
+        non_striker: EG Barnard
+        bowler: TDA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Davies
+    - 24.1:
+        non_striker: AL Davies
+        bowler: DJ Lamb
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: EG Barnard
+    - 24.2:
+        non_striker: AL Davies
+        bowler: DJ Lamb
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: EG Barnard
+    - 24.3:
+        non_striker: EG Barnard
+        bowler: DJ Lamb
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Davies
+    - 24.4:
+        non_striker: EG Barnard
+        bowler: DJ Lamb
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Davies
+    - 24.5:
+        non_striker: EG Barnard
+        bowler: DJ Lamb
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Davies
+    - 24.6:
+        non_striker: AL Davies
+        bowler: DJ Lamb
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EG Barnard
+    - 24.7:
+        non_striker: EG Barnard
+        bowler: DJ Lamb
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Davies
+    - 25.1:
+        non_striker: AL Davies
+        bowler: TDA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EG Barnard
+    - 25.2:
+        non_striker: AL Davies
+        bowler: TDA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EG Barnard
+    - 25.3:
+        non_striker: AL Davies
+        bowler: TDA Henry
+        extras:
+          wides: 2
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        batsman: EG Barnard
+    - 25.4:
+        non_striker: EG Barnard
+        bowler: TDA Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Davies
+    - 25.5:
+        non_striker: AL Davies
+        bowler: TDA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EG Barnard
+    - 25.6:
+        non_striker: AL Davies
+        bowler: TDA Henry
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: EG Barnard
+    - 25.7:
+        non_striker: AL Davies
+        bowler: TDA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EG Barnard
+    - 25.8:
+        non_striker: AL Davies
+        bowler: TDA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EG Barnard
+        wicket:
+          player_out: EG Barnard
+          fielders:
+          - TGR Clark
+          kind: caught
+    - 26.1:
+        non_striker: Hamza Shaikh
+        bowler: AC Lenham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Davies
+    - 26.2:
+        non_striker: Hamza Shaikh
+        bowler: AC Lenham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Davies
+    - 26.3:
+        non_striker: Hamza Shaikh
+        bowler: AC Lenham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Davies
+    - 26.4:
+        non_striker: Hamza Shaikh
+        bowler: AC Lenham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Davies
+    - 26.5:
+        non_striker: Hamza Shaikh
+        bowler: AC Lenham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Davies
+    - 26.6:
+        non_striker: AL Davies
+        bowler: AC Lenham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamza Shaikh
+    - 27.1:
+        non_striker: Hamza Shaikh
+        bowler: TDA Henry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AL Davies
+    - 27.2:
+        non_striker: Hamza Shaikh
+        bowler: TDA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Davies
+    - 27.3:
+        non_striker: Hamza Shaikh
+        bowler: TDA Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Davies
+    - 27.4:
+        non_striker: AL Davies
+        bowler: TDA Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hamza Shaikh
+    - 27.5:
+        non_striker: Hamza Shaikh
+        bowler: TDA Henry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AL Davies
+    - 27.6:
+        non_striker: Hamza Shaikh
+        bowler: TDA Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Davies
+    - 28.1:
+        non_striker: Hamza Shaikh
+        bowler: AC Lenham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Davies
+    - 28.2:
+        non_striker: Hamza Shaikh
+        bowler: AC Lenham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Davies
+    - 28.3:
+        non_striker: AL Davies
+        bowler: AC Lenham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hamza Shaikh
+    - 28.4:
+        non_striker: Hamza Shaikh
+        bowler: AC Lenham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Davies
+    - 28.5:
+        non_striker: AL Davies
+        bowler: AC Lenham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hamza Shaikh
+    - 28.6:
+        non_striker: Hamza Shaikh
+        bowler: AC Lenham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Davies
+    - 29.1:
+        non_striker: Hamza Shaikh
+        bowler: AM Foreman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Davies
+    - 29.2:
+        non_striker: Hamza Shaikh
+        bowler: AM Foreman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Davies
+    - 29.3:
+        non_striker: Hamza Shaikh
+        bowler: AM Foreman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Davies
+    - 29.4:
+        non_striker: AL Davies
+        bowler: AM Foreman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hamza Shaikh
+    - 29.5:
+        non_striker: Hamza Shaikh
+        bowler: AM Foreman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AL Davies
+    - 29.6:
+        non_striker: Hamza Shaikh
+        bowler: AM Foreman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Davies
+    - 30.1:
+        non_striker: AL Davies
+        bowler: AC Lenham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hamza Shaikh
+    - 30.2:
+        non_striker: Hamza Shaikh
+        bowler: AC Lenham
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: AL Davies
+    - 30.3:
+        non_striker: AL Davies
+        bowler: AC Lenham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hamza Shaikh
+    - 30.4:
+        non_striker: Hamza Shaikh
+        bowler: AC Lenham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Davies
+    - 30.5:
+        non_striker: Hamza Shaikh
+        bowler: AC Lenham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Davies
+    - 30.6:
+        non_striker: AL Davies
+        bowler: AC Lenham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Hamza Shaikh
+    - 31.1:
+        non_striker: Hamza Shaikh
+        bowler: AM Foreman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Davies
+    - 31.2:
+        non_striker: Hamza Shaikh
+        bowler: AM Foreman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Davies
+    - 31.3:
+        non_striker: Hamza Shaikh
+        bowler: AM Foreman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AL Davies
+    - 31.4:
+        non_striker: Hamza Shaikh
+        bowler: AM Foreman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Davies
+    - 31.5:
+        non_striker: AL Davies
+        bowler: AM Foreman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamza Shaikh
+        wicket:
+          player_out: Hamza Shaikh
+          fielders:
+          - SF Hunt
+          kind: caught
+    - 31.6:
+        non_striker: AL Davies
+        bowler: AM Foreman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Smith
+    - 32.1:
+        non_striker: K Smith
+        bowler: AC Lenham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Davies
+    - 32.2:
+        non_striker: AL Davies
+        bowler: AC Lenham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Smith
+    - 32.3:
+        non_striker: K Smith
+        bowler: AC Lenham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Davies
+    - 32.4:
+        non_striker: AL Davies
+        bowler: AC Lenham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Smith
+    - 32.5:
+        non_striker: AL Davies
+        bowler: AC Lenham
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Smith
+    - 32.6:
+        non_striker: AL Davies
+        bowler: AC Lenham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Smith
+    - 33.1:
+        non_striker: K Smith
+        bowler: AM Foreman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Davies
+    - 33.2:
+        non_striker: K Smith
+        bowler: AM Foreman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Davies
+    - 33.3:
+        non_striker: AL Davies
+        bowler: AM Foreman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Smith
+    - 33.4:
+        non_striker: K Smith
+        bowler: AM Foreman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Davies
+    - 33.5:
+        non_striker: K Smith
+        bowler: AM Foreman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Davies
+    - 33.6:
+        non_striker: K Smith
+        bowler: AM Foreman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Davies
+    - 34.1:
+        non_striker: K Smith
+        bowler: AC Lenham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Davies
+    - 34.2:
+        non_striker: AL Davies
+        bowler: AC Lenham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Smith
+    - 34.3:
+        non_striker: AL Davies
+        bowler: AC Lenham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Smith
+    - 34.4:
+        non_striker: AL Davies
+        bowler: AC Lenham
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Smith
+    - 34.5:
+        non_striker: AL Davies
+        bowler: AC Lenham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Smith
+    - 34.6:
+        non_striker: AL Davies
+        bowler: AC Lenham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Smith
+    - 35.1:
+        non_striker: K Smith
+        bowler: AM Foreman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AL Davies
+    - 35.2:
+        non_striker: K Smith
+        bowler: AM Foreman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AL Davies
+    - 35.3:
+        non_striker: K Smith
+        bowler: AM Foreman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Davies
+    - 35.4:
+        non_striker: K Smith
+        bowler: AM Foreman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Davies
+    - 35.5:
+        non_striker: K Smith
+        bowler: AM Foreman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Davies
+    - 35.6:
+        non_striker: K Smith
+        bowler: AM Foreman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Davies
+    - 36.1:
+        non_striker: AL Davies
+        bowler: AC Lenham
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Smith
+    - 36.2:
+        non_striker: AL Davies
+        bowler: AC Lenham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Smith
+    - 36.3:
+        non_striker: AL Davies
+        bowler: AC Lenham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Smith
+    - 36.4:
+        non_striker: AL Davies
+        bowler: AC Lenham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Smith
+    - 36.5:
+        non_striker: K Smith
+        bowler: AC Lenham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Davies
+        wicket:
+          player_out: AL Davies
+          fielders:
+          - TGR Clark
+          kind: caught
+    - 36.6:
+        non_striker: K Smith
+        bowler: AC Lenham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VL Jani
+        wicket:
+          player_out: VL Jani
+          kind: bowled
+    - 37.1:
+        non_striker: JB Lintott
+        bowler: HT Crocombe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Smith
+    - 37.2:
+        non_striker: JB Lintott
+        bowler: HT Crocombe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Smith
+    - 37.3:
+        non_striker: JB Lintott
+        bowler: HT Crocombe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Smith
+    - 37.4:
+        non_striker: JB Lintott
+        bowler: HT Crocombe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Smith
+    - 37.5:
+        non_striker: K Smith
+        bowler: HT Crocombe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JB Lintott
+    - 37.6:
+        non_striker: K Smith
+        bowler: HT Crocombe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JB Lintott
+    - 38.1:
+        non_striker: K Smith
+        bowler: AC Lenham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JB Lintott
+    - 38.2:
+        non_striker: JB Lintott
+        bowler: AC Lenham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Smith
+    - 38.3:
+        non_striker: JB Lintott
+        bowler: AC Lenham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Smith
+    - 38.4:
+        non_striker: JB Lintott
+        bowler: AC Lenham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Smith
+    - 38.5:
+        non_striker: JB Lintott
+        bowler: AC Lenham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Smith
+    - 38.6:
+        non_striker: K Smith
+        bowler: AC Lenham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JB Lintott
+        wicket:
+          player_out: JB Lintott
+          fielders:
+          - TP Alsop
+          kind: caught
+    - 39.1:
+        non_striker: TC Ali
+        bowler: HT Crocombe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Smith
+    - 39.2:
+        non_striker: K Smith
+        bowler: HT Crocombe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Ali
+    - 39.3:
+        non_striker: TC Ali
+        bowler: HT Crocombe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Smith
+    - 39.4:
+        non_striker: TC Ali
+        bowler: HT Crocombe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Smith
+    - 39.5:
+        non_striker: TC Ali
+        bowler: HT Crocombe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Smith
+    - 39.6:
+        non_striker: TC Ali
+        bowler: HT Crocombe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Smith
+    - 40.1:
+        non_striker: K Smith
+        bowler: AC Lenham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Ali
+    - 40.2:
+        non_striker: TC Ali
+        bowler: AC Lenham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Smith
+    - 40.3:
+        non_striker: TC Ali
+        bowler: AC Lenham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Smith
+    - 40.4:
+        non_striker: K Smith
+        bowler: AC Lenham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TC Ali
+    - 40.5:
+        non_striker: K Smith
+        bowler: AC Lenham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Ali
+    - 40.6:
+        non_striker: TC Ali
+        bowler: AC Lenham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Smith
+        wicket:
+          player_out: K Smith
+          kind: bowled
+    - 41.1:
+        non_striker: AR Sylvester
+        bowler: HT Crocombe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Ali
+    - 41.2:
+        non_striker: TC Ali
+        bowler: HT Crocombe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Sylvester
+    - 41.3:
+        non_striker: AR Sylvester
+        bowler: HT Crocombe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TC Ali
+    - 41.4:
+        non_striker: AR Sylvester
+        bowler: HT Crocombe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Ali
+    - 41.5:
+        non_striker: TC Ali
+        bowler: HT Crocombe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Sylvester
+    - 41.6:
+        non_striker: TC Ali
+        bowler: HT Crocombe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Sylvester
+    - 42.1:
+        non_striker: AR Sylvester
+        bowler: AC Lenham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TC Ali
+    - 42.2:
+        non_striker: AR Sylvester
+        bowler: AC Lenham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Ali
+    - 42.3:
+        non_striker: TC Ali
+        bowler: AC Lenham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Sylvester
+    - 42.4:
+        non_striker: AR Sylvester
+        bowler: AC Lenham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Ali
+    - 42.5:
+        non_striker: TC Ali
+        bowler: AC Lenham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Sylvester
+        wicket:
+          player_out: AR Sylvester
+          fielders:
+          - D Ibrahim
+          kind: caught
+    - 42.6:
+        non_striker: TC Ali
+        bowler: AC Lenham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Hannon-Dalby
+    - 43.1:
+        non_striker: OJ Hannon-Dalby
+        bowler: HT Crocombe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TC Ali
+    - 43.2:
+        non_striker: OJ Hannon-Dalby
+        bowler: HT Crocombe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Ali
+    - 43.3:
+        non_striker: TC Ali
+        bowler: HT Crocombe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Hannon-Dalby
+    - 43.4:
+        non_striker: TC Ali
+        bowler: HT Crocombe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Hannon-Dalby
+    - 43.5:
+        non_striker: TC Ali
+        bowler: HT Crocombe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OJ Hannon-Dalby
+    - 43.6:
+        non_striker: OJ Hannon-Dalby
+        bowler: HT Crocombe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TC Ali
+    - 44.1:
+        non_striker: TC Ali
+        bowler: AC Lenham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OJ Hannon-Dalby
+    - 44.2:
+        non_striker: OJ Hannon-Dalby
+        bowler: AC Lenham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Ali
+    - 44.3:
+        non_striker: TC Ali
+        bowler: AC Lenham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Hannon-Dalby
+    - 44.4:
+        non_striker: TC Ali
+        bowler: AC Lenham
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: OJ Hannon-Dalby
+    - 44.5:
+        non_striker: TC Ali
+        bowler: AC Lenham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Hannon-Dalby
+    - 44.6:
+        non_striker: TC Ali
+        bowler: AC Lenham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OJ Hannon-Dalby
+    - 45.1:
+        non_striker: TC Ali
+        bowler: HT Crocombe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Hannon-Dalby
+        wicket:
+          player_out: OJ Hannon-Dalby
+          kind: bowled
