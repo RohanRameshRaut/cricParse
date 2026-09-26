@@ -1,0 +1,4838 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-08-27'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Cardiff
+  competition: One-Day Cup
+  dates:
+  - '2025-08-26'
+  gender: male
+  match_type: ODM
+  outcome:
+    winner: Glamorgan
+    by:
+      wickets: 7
+  overs: 50
+  players:
+    Leicestershire:
+    - RK Patel
+    - SG Budinger
+    - LJ Hill
+    - Shan Masood
+    - PSP Handscomb
+    - SB Wood
+    - RI Walker
+    - L Trevaskis
+    - CJC Wright
+    - AM Green
+    - MET Salisbury
+    Glamorgan:
+    - EJ Byrom
+    - AM Tribe
+    - HE Hurle
+    - KS Carlson
+    - WT Smale
+    - WT Root
+    - DA Douthwaite
+    - Zain-ul-Hassan
+    - TO Norton
+    - AW Gorvin
+    - RCM Franco
+  registry:
+    people:
+      AM Green: bf26cd81
+      AM Tribe: 86f84b37
+      AW Gorvin: 7d7233a9
+      CJC Wright: 6c908ffc
+      DA Douthwaite: 03df7a25
+      EJ Byrom: 9e1b7792
+      HE Hurle: b3c19360
+      IL Herbert: 125f9f05
+      KS Carlson: 9e707e02
+      L Trevaskis: b5781ac3
+      LJ Hill: 35f9a295
+      MET Salisbury: e05b2a5b
+      NL Bainton: cd219cb3
+      PSP Handscomb: ada15e88
+      RCM Franco: f309b0f1
+      RI Walker: c78a879c
+      RK Patel: 4531f249
+      SB Wood: c2d9b9cd
+      SG Budinger: bfc60227
+      Shan Masood: 6843a783
+      TO Norton: 0420ab58
+      W Mohammed: 0a3e73a5
+      WT Root: '72898514'
+      WT Smale: 97da28bd
+      Zain-ul-Hassan: d12cead8
+  teams:
+  - Leicestershire
+  - Glamorgan
+  toss:
+    winner: Glamorgan
+    decision: field
+  umpires:
+  - W Mohammed
+  - NL Bainton
+  venue: Sophia Gardens, Cardiff
+innings:
+- 1st innings:
+    team: Leicestershire
+    deliveries:
+    - 0.1:
+        non_striker: SG Budinger
+        bowler: AW Gorvin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Patel
+    - 0.2:
+        non_striker: SG Budinger
+        bowler: AW Gorvin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RK Patel
+    - 0.3:
+        non_striker: SG Budinger
+        bowler: AW Gorvin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Patel
+    - 0.4:
+        non_striker: RK Patel
+        bowler: AW Gorvin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SG Budinger
+    - 0.5:
+        non_striker: RK Patel
+        bowler: AW Gorvin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Budinger
+    - 0.6:
+        non_striker: RK Patel
+        bowler: AW Gorvin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SG Budinger
+    - 1.1:
+        non_striker: SG Budinger
+        bowler: Zain-ul-Hassan
+        extras:
+          wides: 5
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        batsman: RK Patel
+    - 1.2:
+        non_striker: SG Budinger
+        bowler: Zain-ul-Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Patel
+    - 1.3:
+        non_striker: SG Budinger
+        bowler: Zain-ul-Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Patel
+    - 1.4:
+        non_striker: SG Budinger
+        bowler: Zain-ul-Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Patel
+    - 1.5:
+        non_striker: SG Budinger
+        bowler: Zain-ul-Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Patel
+    - 1.6:
+        non_striker: SG Budinger
+        bowler: Zain-ul-Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Patel
+    - 1.7:
+        non_striker: SG Budinger
+        bowler: Zain-ul-Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Patel
+    - 2.1:
+        non_striker: RK Patel
+        bowler: AW Gorvin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SG Budinger
+    - 2.2:
+        non_striker: RK Patel
+        bowler: AW Gorvin
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SG Budinger
+    - 2.3:
+        non_striker: RK Patel
+        bowler: AW Gorvin
+        runs:
+          extras: 0
+          total: 5
+          batsman: 5
+        batsman: SG Budinger
+    - 2.4:
+        non_striker: SG Budinger
+        bowler: AW Gorvin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Patel
+    - 2.5:
+        non_striker: RK Patel
+        bowler: AW Gorvin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SG Budinger
+    - 2.6:
+        non_striker: SG Budinger
+        bowler: AW Gorvin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Patel
+    - 3.1:
+        non_striker: RK Patel
+        bowler: Zain-ul-Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Budinger
+    - 3.2:
+        non_striker: RK Patel
+        bowler: Zain-ul-Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Budinger
+    - 3.3:
+        non_striker: RK Patel
+        bowler: Zain-ul-Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Budinger
+    - 3.4:
+        non_striker: RK Patel
+        bowler: Zain-ul-Hassan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SG Budinger
+    - 3.5:
+        non_striker: RK Patel
+        bowler: Zain-ul-Hassan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SG Budinger
+    - 3.6:
+        non_striker: RK Patel
+        bowler: Zain-ul-Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SG Budinger
+    - 4.1:
+        non_striker: RK Patel
+        bowler: AW Gorvin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Budinger
+    - 4.2:
+        non_striker: RK Patel
+        bowler: AW Gorvin
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SG Budinger
+    - 4.3:
+        non_striker: RK Patel
+        bowler: AW Gorvin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Budinger
+    - 4.4:
+        non_striker: RK Patel
+        bowler: AW Gorvin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Budinger
+    - 4.5:
+        non_striker: RK Patel
+        bowler: AW Gorvin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Budinger
+    - 4.6:
+        non_striker: RK Patel
+        bowler: AW Gorvin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Budinger
+        wicket:
+          player_out: SG Budinger
+          fielders:
+          - TO Norton
+          kind: caught
+    - 5.1:
+        non_striker: LJ Hill
+        bowler: Zain-ul-Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Patel
+    - 5.2:
+        non_striker: LJ Hill
+        bowler: Zain-ul-Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Patel
+    - 5.3:
+        non_striker: LJ Hill
+        bowler: Zain-ul-Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Patel
+    - 5.4:
+        non_striker: LJ Hill
+        bowler: Zain-ul-Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Patel
+    - 5.5:
+        non_striker: LJ Hill
+        bowler: Zain-ul-Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Patel
+    - 5.6:
+        non_striker: LJ Hill
+        bowler: Zain-ul-Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Patel
+        wicket:
+          player_out: RK Patel
+          fielders:
+          - AM Tribe
+          kind: caught
+    - 6.1:
+        non_striker: Shan Masood
+        bowler: AW Gorvin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Hill
+    - 6.2:
+        non_striker: Shan Masood
+        bowler: AW Gorvin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Hill
+    - 6.3:
+        non_striker: Shan Masood
+        bowler: AW Gorvin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Hill
+    - 6.4:
+        non_striker: Shan Masood
+        bowler: AW Gorvin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Hill
+    - 6.5:
+        non_striker: Shan Masood
+        bowler: AW Gorvin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Hill
+    - 6.6:
+        non_striker: LJ Hill
+        bowler: AW Gorvin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shan Masood
+    - 7.1:
+        non_striker: Shan Masood
+        bowler: Zain-ul-Hassan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LJ Hill
+    - 7.2:
+        non_striker: Shan Masood
+        bowler: Zain-ul-Hassan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LJ Hill
+    - 7.3:
+        non_striker: Shan Masood
+        bowler: Zain-ul-Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Hill
+    - 7.4:
+        non_striker: Shan Masood
+        bowler: Zain-ul-Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Hill
+    - 7.5:
+        non_striker: Shan Masood
+        bowler: Zain-ul-Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Hill
+    - 7.6:
+        non_striker: Shan Masood
+        bowler: Zain-ul-Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Hill
+    - 8.1:
+        non_striker: LJ Hill
+        bowler: AW Gorvin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shan Masood
+    - 8.2:
+        non_striker: LJ Hill
+        bowler: AW Gorvin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shan Masood
+    - 8.3:
+        non_striker: LJ Hill
+        bowler: AW Gorvin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shan Masood
+    - 8.4:
+        non_striker: LJ Hill
+        bowler: AW Gorvin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shan Masood
+    - 8.5:
+        non_striker: Shan Masood
+        bowler: AW Gorvin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Hill
+    - 8.6:
+        non_striker: Shan Masood
+        bowler: AW Gorvin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Hill
+    - 9.1:
+        non_striker: Shan Masood
+        bowler: Zain-ul-Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Hill
+    - 9.2:
+        non_striker: Shan Masood
+        bowler: Zain-ul-Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Hill
+    - 9.3:
+        non_striker: Shan Masood
+        bowler: Zain-ul-Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Hill
+    - 9.4:
+        non_striker: Shan Masood
+        bowler: Zain-ul-Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Hill
+    - 9.5:
+        non_striker: LJ Hill
+        bowler: Zain-ul-Hassan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shan Masood
+    - 9.6:
+        non_striker: LJ Hill
+        bowler: Zain-ul-Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shan Masood
+    - 10.1:
+        non_striker: Shan Masood
+        bowler: AW Gorvin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Hill
+    - 10.2:
+        non_striker: Shan Masood
+        bowler: AW Gorvin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Hill
+    - 10.3:
+        non_striker: Shan Masood
+        bowler: AW Gorvin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LJ Hill
+    - 10.4:
+        non_striker: Shan Masood
+        bowler: AW Gorvin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LJ Hill
+    - 10.5:
+        non_striker: Shan Masood
+        bowler: AW Gorvin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Hill
+    - 10.6:
+        non_striker: LJ Hill
+        bowler: AW Gorvin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shan Masood
+    - 11.1:
+        non_striker: Shan Masood
+        bowler: Zain-ul-Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Hill
+    - 11.2:
+        non_striker: Shan Masood
+        bowler: Zain-ul-Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Hill
+    - 11.3:
+        non_striker: Shan Masood
+        bowler: Zain-ul-Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Hill
+    - 11.4:
+        non_striker: Shan Masood
+        bowler: Zain-ul-Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Hill
+    - 11.5:
+        non_striker: LJ Hill
+        bowler: Zain-ul-Hassan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shan Masood
+    - 11.6:
+        non_striker: LJ Hill
+        bowler: Zain-ul-Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shan Masood
+    - 12.1:
+        non_striker: Shan Masood
+        bowler: DA Douthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Hill
+    - 12.2:
+        non_striker: LJ Hill
+        bowler: DA Douthwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shan Masood
+    - 12.3:
+        non_striker: LJ Hill
+        bowler: DA Douthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shan Masood
+    - 12.4:
+        non_striker: Shan Masood
+        bowler: DA Douthwaite
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LJ Hill
+    - 12.5:
+        non_striker: Shan Masood
+        bowler: DA Douthwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Hill
+    - 12.6:
+        non_striker: Shan Masood
+        bowler: DA Douthwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Hill
+    - 13.1:
+        non_striker: LJ Hill
+        bowler: TO Norton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shan Masood
+    - 13.2:
+        non_striker: Shan Masood
+        bowler: TO Norton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Hill
+    - 13.3:
+        non_striker: LJ Hill
+        bowler: TO Norton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shan Masood
+    - 13.4:
+        non_striker: LJ Hill
+        bowler: TO Norton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shan Masood
+    - 13.5:
+        non_striker: LJ Hill
+        bowler: TO Norton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shan Masood
+    - 13.6:
+        non_striker: LJ Hill
+        bowler: TO Norton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shan Masood
+    - 14.1:
+        non_striker: LJ Hill
+        bowler: DA Douthwaite
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shan Masood
+    - 14.2:
+        non_striker: LJ Hill
+        bowler: DA Douthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shan Masood
+    - 14.3:
+        non_striker: Shan Masood
+        bowler: DA Douthwaite
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LJ Hill
+    - 14.4:
+        non_striker: Shan Masood
+        bowler: DA Douthwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Hill
+    - 14.5:
+        non_striker: Shan Masood
+        bowler: DA Douthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Hill
+    - 14.6:
+        non_striker: LJ Hill
+        bowler: DA Douthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shan Masood
+    - 15.1:
+        non_striker: LJ Hill
+        bowler: TO Norton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shan Masood
+    - 15.2:
+        non_striker: LJ Hill
+        bowler: TO Norton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shan Masood
+        wicket:
+          player_out: Shan Masood
+          kind: lbw
+    - 15.3:
+        non_striker: LJ Hill
+        bowler: TO Norton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 15.4:
+        non_striker: LJ Hill
+        bowler: TO Norton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 15.5:
+        non_striker: LJ Hill
+        bowler: TO Norton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 15.6:
+        non_striker: PSP Handscomb
+        bowler: TO Norton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Hill
+    - 16.1:
+        non_striker: PSP Handscomb
+        bowler: DA Douthwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Hill
+    - 16.2:
+        non_striker: PSP Handscomb
+        bowler: DA Douthwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Hill
+    - 16.3:
+        non_striker: PSP Handscomb
+        bowler: DA Douthwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Hill
+    - 16.4:
+        non_striker: PSP Handscomb
+        bowler: DA Douthwaite
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: LJ Hill
+    - 16.5:
+        non_striker: PSP Handscomb
+        bowler: DA Douthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Hill
+    - 16.6:
+        non_striker: LJ Hill
+        bowler: DA Douthwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 16.7:
+        non_striker: LJ Hill
+        bowler: DA Douthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 17.1:
+        non_striker: LJ Hill
+        bowler: TO Norton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 17.2:
+        non_striker: LJ Hill
+        bowler: TO Norton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 17.3:
+        non_striker: LJ Hill
+        bowler: TO Norton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 17.4:
+        non_striker: LJ Hill
+        bowler: TO Norton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 17.5:
+        non_striker: LJ Hill
+        bowler: TO Norton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 17.6:
+        non_striker: LJ Hill
+        bowler: TO Norton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 18.1:
+        non_striker: PSP Handscomb
+        bowler: DA Douthwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Hill
+    - 18.2:
+        non_striker: PSP Handscomb
+        bowler: DA Douthwaite
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LJ Hill
+    - 18.3:
+        non_striker: PSP Handscomb
+        bowler: DA Douthwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Hill
+    - 18.4:
+        non_striker: PSP Handscomb
+        bowler: DA Douthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Hill
+    - 18.5:
+        non_striker: LJ Hill
+        bowler: DA Douthwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 18.6:
+        non_striker: LJ Hill
+        bowler: DA Douthwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 19.1:
+        non_striker: PSP Handscomb
+        bowler: TO Norton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Hill
+    - 19.2:
+        non_striker: LJ Hill
+        bowler: TO Norton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 19.3:
+        non_striker: LJ Hill
+        bowler: TO Norton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 19.4:
+        non_striker: LJ Hill
+        bowler: TO Norton
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: PSP Handscomb
+    - 19.5:
+        non_striker: LJ Hill
+        bowler: TO Norton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 19.6:
+        non_striker: LJ Hill
+        bowler: TO Norton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 19.7:
+        non_striker: LJ Hill
+        bowler: TO Norton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 20.1:
+        non_striker: PSP Handscomb
+        bowler: RCM Franco
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: LJ Hill
+    - 20.2:
+        non_striker: PSP Handscomb
+        bowler: RCM Franco
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Hill
+    - 20.3:
+        non_striker: PSP Handscomb
+        bowler: RCM Franco
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Hill
+    - 20.4:
+        non_striker: PSP Handscomb
+        bowler: RCM Franco
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Hill
+    - 20.5:
+        non_striker: PSP Handscomb
+        bowler: RCM Franco
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Hill
+    - 20.6:
+        non_striker: PSP Handscomb
+        bowler: RCM Franco
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Hill
+    - 20.7:
+        non_striker: PSP Handscomb
+        bowler: RCM Franco
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Hill
+    - 21.1:
+        non_striker: LJ Hill
+        bowler: TO Norton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 21.2:
+        non_striker: PSP Handscomb
+        bowler: TO Norton
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LJ Hill
+    - 21.3:
+        non_striker: PSP Handscomb
+        bowler: TO Norton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Hill
+    - 21.4:
+        non_striker: PSP Handscomb
+        bowler: TO Norton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LJ Hill
+    - 21.5:
+        non_striker: PSP Handscomb
+        bowler: TO Norton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Hill
+    - 21.6:
+        non_striker: LJ Hill
+        bowler: TO Norton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 22.1:
+        non_striker: PSP Handscomb
+        bowler: RCM Franco
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Hill
+    - 22.2:
+        non_striker: LJ Hill
+        bowler: RCM Franco
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 22.3:
+        non_striker: PSP Handscomb
+        bowler: RCM Franco
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LJ Hill
+    - 22.4:
+        non_striker: PSP Handscomb
+        bowler: RCM Franco
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Hill
+    - 22.5:
+        non_striker: LJ Hill
+        bowler: RCM Franco
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 22.6:
+        non_striker: PSP Handscomb
+        bowler: RCM Franco
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Hill
+    - 23.1:
+        non_striker: PSP Handscomb
+        bowler: KS Carlson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Hill
+    - 23.2:
+        non_striker: PSP Handscomb
+        bowler: KS Carlson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Hill
+    - 23.3:
+        non_striker: LJ Hill
+        bowler: KS Carlson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PSP Handscomb
+    - 23.4:
+        non_striker: LJ Hill
+        bowler: KS Carlson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 23.5:
+        non_striker: PSP Handscomb
+        bowler: KS Carlson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Hill
+    - 23.6:
+        non_striker: LJ Hill
+        bowler: KS Carlson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PSP Handscomb
+    - 24.1:
+        non_striker: PSP Handscomb
+        bowler: RCM Franco
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Hill
+    - 24.2:
+        non_striker: LJ Hill
+        bowler: RCM Franco
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 24.3:
+        non_striker: LJ Hill
+        bowler: RCM Franco
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 24.4:
+        non_striker: PSP Handscomb
+        bowler: RCM Franco
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Hill
+    - 24.5:
+        non_striker: LJ Hill
+        bowler: RCM Franco
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PSP Handscomb
+    - 24.6:
+        non_striker: LJ Hill
+        bowler: RCM Franco
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PSP Handscomb
+    - 25.1:
+        non_striker: PSP Handscomb
+        bowler: AW Gorvin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Hill
+    - 25.2:
+        non_striker: PSP Handscomb
+        bowler: AW Gorvin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Hill
+    - 25.3:
+        non_striker: LJ Hill
+        bowler: AW Gorvin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 25.4:
+        non_striker: LJ Hill
+        bowler: AW Gorvin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PSP Handscomb
+    - 25.5:
+        non_striker: LJ Hill
+        bowler: AW Gorvin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 25.6:
+        non_striker: LJ Hill
+        bowler: AW Gorvin
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PSP Handscomb
+    - 26.1:
+        non_striker: PSP Handscomb
+        bowler: RCM Franco
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LJ Hill
+    - 26.2:
+        non_striker: PSP Handscomb
+        bowler: RCM Franco
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Hill
+    - 26.3:
+        non_striker: PSP Handscomb
+        bowler: RCM Franco
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Hill
+    - 26.4:
+        non_striker: PSP Handscomb
+        bowler: RCM Franco
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Hill
+    - 26.5:
+        non_striker: PSP Handscomb
+        bowler: RCM Franco
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Hill
+    - 26.6:
+        non_striker: LJ Hill
+        bowler: RCM Franco
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PSP Handscomb
+    - 27.1:
+        non_striker: PSP Handscomb
+        bowler: AW Gorvin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Hill
+    - 27.2:
+        non_striker: LJ Hill
+        bowler: AW Gorvin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 27.3:
+        non_striker: PSP Handscomb
+        bowler: AW Gorvin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LJ Hill
+    - 27.4:
+        non_striker: PSP Handscomb
+        bowler: AW Gorvin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LJ Hill
+    - 27.5:
+        non_striker: PSP Handscomb
+        bowler: AW Gorvin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Hill
+    - 27.6:
+        non_striker: PSP Handscomb
+        bowler: AW Gorvin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Hill
+    - 28.1:
+        non_striker: LJ Hill
+        bowler: TO Norton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 28.2:
+        non_striker: LJ Hill
+        bowler: TO Norton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PSP Handscomb
+    - 28.3:
+        non_striker: LJ Hill
+        bowler: TO Norton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+        wicket:
+          player_out: PSP Handscomb
+          fielders:
+          - HE Hurle
+          kind: run out
+    - 28.4:
+        non_striker: SB Wood
+        bowler: TO Norton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Hill
+    - 28.5:
+        non_striker: SB Wood
+        bowler: TO Norton
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: LJ Hill
+    - 28.6:
+        non_striker: SB Wood
+        bowler: TO Norton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Hill
+    - 28.7:
+        non_striker: SB Wood
+        bowler: TO Norton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Hill
+    - 29.1:
+        non_striker: SB Wood
+        bowler: AM Tribe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Hill
+    - 29.2:
+        non_striker: SB Wood
+        bowler: AM Tribe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Hill
+    - 29.3:
+        non_striker: LJ Hill
+        bowler: AM Tribe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Wood
+    - 29.4:
+        non_striker: LJ Hill
+        bowler: AM Tribe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Wood
+    - 29.5:
+        non_striker: LJ Hill
+        bowler: AM Tribe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Wood
+    - 29.6:
+        non_striker: SB Wood
+        bowler: AM Tribe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Hill
+    - 30.1:
+        non_striker: SB Wood
+        bowler: TO Norton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Hill
+    - 30.2:
+        non_striker: LJ Hill
+        bowler: TO Norton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Wood
+    - 30.3:
+        non_striker: LJ Hill
+        bowler: TO Norton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Wood
+    - 30.4:
+        non_striker: LJ Hill
+        bowler: TO Norton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Wood
+    - 30.5:
+        non_striker: SB Wood
+        bowler: TO Norton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Hill
+    - 30.6:
+        non_striker: LJ Hill
+        bowler: TO Norton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Wood
+    - 31.1:
+        non_striker: SB Wood
+        bowler: AM Tribe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Hill
+    - 31.2:
+        non_striker: LJ Hill
+        bowler: AM Tribe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Wood
+    - 31.3:
+        non_striker: LJ Hill
+        bowler: AM Tribe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Wood
+    - 31.4:
+        non_striker: LJ Hill
+        bowler: AM Tribe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Wood
+    - 31.5:
+        non_striker: LJ Hill
+        bowler: AM Tribe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Wood
+    - 31.6:
+        non_striker: SB Wood
+        bowler: AM Tribe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Hill
+    - 32.1:
+        non_striker: SB Wood
+        bowler: TO Norton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LJ Hill
+    - 32.2:
+        non_striker: SB Wood
+        bowler: TO Norton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Hill
+    - 32.3:
+        non_striker: LJ Hill
+        bowler: TO Norton
+        extras:
+          legbyes: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: SB Wood
+    - 32.4:
+        non_striker: SB Wood
+        bowler: TO Norton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Hill
+        wicket:
+          player_out: LJ Hill
+          fielders:
+          - WT Smale
+          kind: caught
+    - 32.5:
+        non_striker: SB Wood
+        bowler: TO Norton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RI Walker
+    - 32.6:
+        non_striker: SB Wood
+        bowler: TO Norton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RI Walker
+    - 33.1:
+        non_striker: RI Walker
+        bowler: AM Tribe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Wood
+    - 33.2:
+        non_striker: RI Walker
+        bowler: AM Tribe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SB Wood
+    - 33.3:
+        non_striker: RI Walker
+        bowler: AM Tribe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SB Wood
+    - 33.4:
+        non_striker: RI Walker
+        bowler: AM Tribe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Wood
+    - 33.5:
+        non_striker: RI Walker
+        bowler: AM Tribe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Wood
+    - 33.6:
+        non_striker: SB Wood
+        bowler: AM Tribe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RI Walker
+    - 34.1:
+        non_striker: RI Walker
+        bowler: DA Douthwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Wood
+    - 34.2:
+        non_striker: RI Walker
+        bowler: DA Douthwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Wood
+    - 34.3:
+        non_striker: RI Walker
+        bowler: DA Douthwaite
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: SB Wood
+    - 34.4:
+        non_striker: SB Wood
+        bowler: DA Douthwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RI Walker
+    - 34.5:
+        non_striker: SB Wood
+        bowler: DA Douthwaite
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RI Walker
+    - 34.6:
+        non_striker: SB Wood
+        bowler: DA Douthwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RI Walker
+    - 35.1:
+        non_striker: RI Walker
+        bowler: Zain-ul-Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Wood
+    - 35.2:
+        non_striker: RI Walker
+        bowler: Zain-ul-Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Wood
+    - 35.3:
+        non_striker: RI Walker
+        bowler: Zain-ul-Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Wood
+    - 35.4:
+        non_striker: RI Walker
+        bowler: Zain-ul-Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Wood
+    - 35.5:
+        non_striker: RI Walker
+        bowler: Zain-ul-Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Wood
+    - 35.6:
+        non_striker: RI Walker
+        bowler: Zain-ul-Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Wood
+    - 36.1:
+        non_striker: RI Walker
+        bowler: DA Douthwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Wood
+    - 36.2:
+        non_striker: RI Walker
+        bowler: DA Douthwaite
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SB Wood
+    - 36.3:
+        non_striker: RI Walker
+        bowler: DA Douthwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Wood
+        wicket:
+          player_out: SB Wood
+          fielders:
+          - AM Tribe
+          kind: run out
+    - 36.4:
+        non_striker: RI Walker
+        bowler: DA Douthwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Trevaskis
+    - 36.5:
+        non_striker: RI Walker
+        bowler: DA Douthwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Trevaskis
+    - 36.6:
+        non_striker: RI Walker
+        bowler: DA Douthwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Trevaskis
+    - 37.1:
+        non_striker: L Trevaskis
+        bowler: Zain-ul-Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RI Walker
+    - 37.2:
+        non_striker: L Trevaskis
+        bowler: Zain-ul-Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RI Walker
+    - 37.3:
+        non_striker: L Trevaskis
+        bowler: Zain-ul-Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RI Walker
+    - 37.4:
+        non_striker: L Trevaskis
+        bowler: Zain-ul-Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RI Walker
+    - 37.5:
+        non_striker: L Trevaskis
+        bowler: Zain-ul-Hassan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RI Walker
+    - 37.6:
+        non_striker: L Trevaskis
+        bowler: Zain-ul-Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RI Walker
+    - 38.1:
+        non_striker: L Trevaskis
+        bowler: DA Douthwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RI Walker
+    - 38.2:
+        non_striker: L Trevaskis
+        bowler: DA Douthwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RI Walker
+    - 38.3:
+        non_striker: L Trevaskis
+        bowler: DA Douthwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RI Walker
+    - 38.4:
+        non_striker: L Trevaskis
+        bowler: DA Douthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RI Walker
+    - 38.5:
+        non_striker: RI Walker
+        bowler: DA Douthwaite
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Trevaskis
+    - 38.6:
+        non_striker: RI Walker
+        bowler: DA Douthwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Trevaskis
+    - 39.1:
+        non_striker: L Trevaskis
+        bowler: RCM Franco
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RI Walker
+    - 39.2:
+        non_striker: RI Walker
+        bowler: RCM Franco
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Trevaskis
+    - 39.3:
+        non_striker: RI Walker
+        bowler: RCM Franco
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Trevaskis
+    - 39.4:
+        non_striker: L Trevaskis
+        bowler: RCM Franco
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RI Walker
+    - 39.5:
+        non_striker: L Trevaskis
+        bowler: RCM Franco
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RI Walker
+    - 39.6:
+        non_striker: RI Walker
+        bowler: RCM Franco
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Trevaskis
+    - 40.1:
+        non_striker: RI Walker
+        bowler: DA Douthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Trevaskis
+    - 40.2:
+        non_striker: L Trevaskis
+        bowler: DA Douthwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RI Walker
+    - 40.3:
+        non_striker: L Trevaskis
+        bowler: DA Douthwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RI Walker
+    - 40.4:
+        non_striker: L Trevaskis
+        bowler: DA Douthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RI Walker
+    - 40.5:
+        non_striker: RI Walker
+        bowler: DA Douthwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Trevaskis
+    - 40.6:
+        non_striker: RI Walker
+        bowler: DA Douthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Trevaskis
+    - 41.1:
+        non_striker: RI Walker
+        bowler: RCM Franco
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Trevaskis
+    - 41.2:
+        non_striker: RI Walker
+        bowler: RCM Franco
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Trevaskis
+    - 41.3:
+        non_striker: RI Walker
+        bowler: RCM Franco
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Trevaskis
+    - 41.4:
+        non_striker: RI Walker
+        bowler: RCM Franco
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Trevaskis
+    - 41.5:
+        non_striker: L Trevaskis
+        bowler: RCM Franco
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RI Walker
+    - 41.6:
+        non_striker: RI Walker
+        bowler: RCM Franco
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Trevaskis
+    - 42.1:
+        non_striker: RI Walker
+        bowler: TO Norton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Trevaskis
+    - 42.2:
+        non_striker: L Trevaskis
+        bowler: TO Norton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RI Walker
+    - 42.3:
+        non_striker: RI Walker
+        bowler: TO Norton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Trevaskis
+    - 42.4:
+        non_striker: RI Walker
+        bowler: TO Norton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Trevaskis
+    - 42.5:
+        non_striker: L Trevaskis
+        bowler: TO Norton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RI Walker
+    - 42.6:
+        non_striker: RI Walker
+        bowler: TO Norton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Trevaskis
+    - 43.1:
+        non_striker: RI Walker
+        bowler: RCM Franco
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Trevaskis
+    - 43.2:
+        non_striker: L Trevaskis
+        bowler: RCM Franco
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RI Walker
+    - 43.3:
+        non_striker: L Trevaskis
+        bowler: RCM Franco
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RI Walker
+    - 43.4:
+        non_striker: L Trevaskis
+        bowler: RCM Franco
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RI Walker
+    - 43.5:
+        non_striker: L Trevaskis
+        bowler: RCM Franco
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RI Walker
+    - 43.6:
+        non_striker: L Trevaskis
+        bowler: RCM Franco
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RI Walker
+    - 44.1:
+        non_striker: RI Walker
+        bowler: TO Norton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Trevaskis
+    - 44.2:
+        non_striker: L Trevaskis
+        bowler: TO Norton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RI Walker
+    - 44.3:
+        non_striker: RI Walker
+        bowler: TO Norton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Trevaskis
+        wicket:
+          player_out: L Trevaskis
+          fielders:
+          - WT Root
+          kind: caught
+    - 44.4:
+        non_striker: RI Walker
+        bowler: TO Norton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJC Wright
+    - 44.5:
+        non_striker: CJC Wright
+        bowler: TO Norton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RI Walker
+    - 44.6:
+        non_striker: CJC Wright
+        bowler: TO Norton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RI Walker
+    - 45.1:
+        non_striker: RI Walker
+        bowler: RCM Franco
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJC Wright
+    - 45.2:
+        non_striker: CJC Wright
+        bowler: RCM Franco
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RI Walker
+        wicket:
+          player_out: RI Walker
+          kind: bowled
+    - 45.3:
+        non_striker: CJC Wright
+        bowler: RCM Franco
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Green
+    - 45.4:
+        non_striker: AM Green
+        bowler: RCM Franco
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJC Wright
+    - 45.5:
+        non_striker: AM Green
+        bowler: RCM Franco
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJC Wright
+    - 45.6:
+        non_striker: CJC Wright
+        bowler: RCM Franco
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Green
+    - 46.1:
+        non_striker: AM Green
+        bowler: DA Douthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJC Wright
+    - 46.2:
+        non_striker: CJC Wright
+        bowler: DA Douthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Green
+    - 46.3:
+        non_striker: AM Green
+        bowler: DA Douthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJC Wright
+    - 46.4:
+        non_striker: CJC Wright
+        bowler: DA Douthwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Green
+    - 46.5:
+        non_striker: CJC Wright
+        bowler: DA Douthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Green
+    - 46.6:
+        non_striker: AM Green
+        bowler: DA Douthwaite
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJC Wright
+    - 47.1:
+        non_striker: CJC Wright
+        bowler: RCM Franco
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Green
+    - 47.2:
+        non_striker: AM Green
+        bowler: RCM Franco
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJC Wright
+    - 47.3:
+        non_striker: CJC Wright
+        bowler: RCM Franco
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Green
+    - 47.4:
+        non_striker: CJC Wright
+        bowler: RCM Franco
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Green
+    - 47.5:
+        non_striker: AM Green
+        bowler: RCM Franco
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJC Wright
+        wicket:
+          player_out: CJC Wright
+          fielders:
+          - TO Norton
+          kind: caught
+    - 47.6:
+        non_striker: AM Green
+        bowler: RCM Franco
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MET Salisbury
+    - 48.1:
+        non_striker: AM Green
+        bowler: DA Douthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MET Salisbury
+    - 48.2:
+        non_striker: MET Salisbury
+        bowler: DA Douthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Green
+    - 48.3:
+        non_striker: AM Green
+        bowler: DA Douthwaite
+        extras:
+          legbyes: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: MET Salisbury
+    - 48.4:
+        non_striker: MET Salisbury
+        bowler: DA Douthwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Green
+    - 48.5:
+        non_striker: MET Salisbury
+        bowler: DA Douthwaite
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Green
+    - 48.6:
+        non_striker: MET Salisbury
+        bowler: DA Douthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Green
+    - 49.1:
+        non_striker: MET Salisbury
+        bowler: RCM Franco
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AM Green
+    - 49.2:
+        non_striker: MET Salisbury
+        bowler: RCM Franco
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AM Green
+    - 49.3:
+        non_striker: MET Salisbury
+        bowler: RCM Franco
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AM Green
+    - 49.4:
+        non_striker: MET Salisbury
+        bowler: RCM Franco
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Green
+        wicket:
+          player_out: AM Green
+          fielders:
+          - TO Norton
+          kind: caught
+- 2nd innings:
+    team: Glamorgan
+    deliveries:
+    - 0.1:
+        non_striker: AM Tribe
+        bowler: MET Salisbury
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Byrom
+    - 0.2:
+        non_striker: AM Tribe
+        bowler: MET Salisbury
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Byrom
+    - 0.3:
+        non_striker: AM Tribe
+        bowler: MET Salisbury
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Byrom
+    - 0.4:
+        non_striker: EJ Byrom
+        bowler: MET Salisbury
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 0.5:
+        non_striker: EJ Byrom
+        bowler: MET Salisbury
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 0.6:
+        non_striker: EJ Byrom
+        bowler: MET Salisbury
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 1.1:
+        non_striker: AM Tribe
+        bowler: CJC Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Byrom
+    - 1.2:
+        non_striker: AM Tribe
+        bowler: CJC Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Byrom
+    - 1.3:
+        non_striker: AM Tribe
+        bowler: CJC Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Byrom
+    - 1.4:
+        non_striker: AM Tribe
+        bowler: CJC Wright
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EJ Byrom
+    - 1.5:
+        non_striker: AM Tribe
+        bowler: CJC Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Byrom
+    - 1.6:
+        non_striker: AM Tribe
+        bowler: CJC Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Byrom
+    - 2.1:
+        non_striker: EJ Byrom
+        bowler: MET Salisbury
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 2.2:
+        non_striker: EJ Byrom
+        bowler: MET Salisbury
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AM Tribe
+    - 2.3:
+        non_striker: EJ Byrom
+        bowler: MET Salisbury
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 2.4:
+        non_striker: EJ Byrom
+        bowler: MET Salisbury
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Tribe
+    - 2.5:
+        non_striker: EJ Byrom
+        bowler: MET Salisbury
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 2.6:
+        non_striker: EJ Byrom
+        bowler: MET Salisbury
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 3.1:
+        non_striker: AM Tribe
+        bowler: CJC Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Byrom
+    - 3.2:
+        non_striker: AM Tribe
+        bowler: CJC Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Byrom
+    - 3.3:
+        non_striker: AM Tribe
+        bowler: CJC Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Byrom
+    - 3.4:
+        non_striker: AM Tribe
+        bowler: CJC Wright
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EJ Byrom
+    - 3.5:
+        non_striker: AM Tribe
+        bowler: CJC Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Byrom
+    - 3.6:
+        non_striker: AM Tribe
+        bowler: CJC Wright
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EJ Byrom
+    - 4.1:
+        non_striker: EJ Byrom
+        bowler: MET Salisbury
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 4.2:
+        non_striker: EJ Byrom
+        bowler: MET Salisbury
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 4.3:
+        non_striker: EJ Byrom
+        bowler: MET Salisbury
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 4.4:
+        non_striker: EJ Byrom
+        bowler: MET Salisbury
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Tribe
+    - 4.5:
+        non_striker: EJ Byrom
+        bowler: MET Salisbury
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 4.6:
+        non_striker: EJ Byrom
+        bowler: MET Salisbury
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 5.1:
+        non_striker: AM Tribe
+        bowler: CJC Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Byrom
+    - 5.2:
+        non_striker: EJ Byrom
+        bowler: CJC Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 5.3:
+        non_striker: EJ Byrom
+        bowler: CJC Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 5.4:
+        non_striker: EJ Byrom
+        bowler: CJC Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 5.5:
+        non_striker: AM Tribe
+        bowler: CJC Wright
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EJ Byrom
+    - 5.6:
+        non_striker: AM Tribe
+        bowler: CJC Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Byrom
+    - 6.1:
+        non_striker: EJ Byrom
+        bowler: MET Salisbury
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 6.2:
+        non_striker: AM Tribe
+        bowler: MET Salisbury
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EJ Byrom
+    - 6.3:
+        non_striker: AM Tribe
+        bowler: MET Salisbury
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Byrom
+    - 6.4:
+        non_striker: AM Tribe
+        bowler: MET Salisbury
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Byrom
+    - 6.5:
+        non_striker: AM Tribe
+        bowler: MET Salisbury
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Byrom
+    - 6.6:
+        non_striker: EJ Byrom
+        bowler: MET Salisbury
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 7.1:
+        non_striker: AM Tribe
+        bowler: CJC Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Byrom
+    - 7.2:
+        non_striker: AM Tribe
+        bowler: CJC Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Byrom
+    - 7.3:
+        non_striker: AM Tribe
+        bowler: CJC Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Byrom
+    - 7.4:
+        non_striker: AM Tribe
+        bowler: CJC Wright
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EJ Byrom
+    - 7.5:
+        non_striker: AM Tribe
+        bowler: CJC Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Byrom
+        wicket:
+          player_out: EJ Byrom
+          fielders:
+          - RK Patel
+          kind: caught
+    - 7.6:
+        non_striker: AM Tribe
+        bowler: CJC Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE Hurle
+    - 8.1:
+        non_striker: AM Tribe
+        bowler: MET Salisbury
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE Hurle
+    - 8.2:
+        non_striker: AM Tribe
+        bowler: MET Salisbury
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE Hurle
+    - 8.3:
+        non_striker: AM Tribe
+        bowler: MET Salisbury
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE Hurle
+    - 8.4:
+        non_striker: HE Hurle
+        bowler: MET Salisbury
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 8.5:
+        non_striker: AM Tribe
+        bowler: MET Salisbury
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE Hurle
+    - 8.6:
+        non_striker: AM Tribe
+        bowler: MET Salisbury
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE Hurle
+    - 9.1:
+        non_striker: HE Hurle
+        bowler: CJC Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 9.2:
+        non_striker: HE Hurle
+        bowler: CJC Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 9.3:
+        non_striker: AM Tribe
+        bowler: CJC Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE Hurle
+    - 9.4:
+        non_striker: AM Tribe
+        bowler: CJC Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE Hurle
+    - 9.5:
+        non_striker: AM Tribe
+        bowler: CJC Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE Hurle
+    - 9.6:
+        non_striker: AM Tribe
+        bowler: CJC Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE Hurle
+    - 10.1:
+        non_striker: HE Hurle
+        bowler: SB Wood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AM Tribe
+    - 10.2:
+        non_striker: HE Hurle
+        bowler: SB Wood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Tribe
+    - 10.3:
+        non_striker: HE Hurle
+        bowler: SB Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 10.4:
+        non_striker: HE Hurle
+        bowler: SB Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 10.5:
+        non_striker: AM Tribe
+        bowler: SB Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE Hurle
+    - 10.6:
+        non_striker: HE Hurle
+        bowler: SB Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 11.1:
+        non_striker: HE Hurle
+        bowler: AM Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 11.2:
+        non_striker: AM Tribe
+        bowler: AM Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE Hurle
+        wicket:
+          player_out: HE Hurle
+          kind: bowled
+    - 11.3:
+        non_striker: AM Tribe
+        bowler: AM Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Carlson
+    - 11.4:
+        non_striker: AM Tribe
+        bowler: AM Green
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KS Carlson
+    - 11.5:
+        non_striker: AM Tribe
+        bowler: AM Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Carlson
+    - 11.6:
+        non_striker: AM Tribe
+        bowler: AM Green
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: KS Carlson
+    - 11.7:
+        non_striker: AM Tribe
+        bowler: AM Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Carlson
+    - 12.1:
+        non_striker: KS Carlson
+        bowler: SB Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 12.2:
+        non_striker: AM Tribe
+        bowler: SB Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Carlson
+    - 12.3:
+        non_striker: KS Carlson
+        bowler: SB Wood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AM Tribe
+    - 12.4:
+        non_striker: KS Carlson
+        bowler: SB Wood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Tribe
+    - 12.5:
+        non_striker: KS Carlson
+        bowler: SB Wood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AM Tribe
+    - 12.6:
+        non_striker: KS Carlson
+        bowler: SB Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 13.1:
+        non_striker: AM Tribe
+        bowler: AM Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Carlson
+    - 13.2:
+        non_striker: AM Tribe
+        bowler: AM Green
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KS Carlson
+    - 13.3:
+        non_striker: AM Tribe
+        bowler: AM Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Carlson
+    - 13.4:
+        non_striker: KS Carlson
+        bowler: AM Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 13.5:
+        non_striker: AM Tribe
+        bowler: AM Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Carlson
+    - 13.6:
+        non_striker: AM Tribe
+        bowler: AM Green
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KS Carlson
+    - 14.1:
+        non_striker: KS Carlson
+        bowler: RI Walker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 14.2:
+        non_striker: KS Carlson
+        bowler: RI Walker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 14.3:
+        non_striker: AM Tribe
+        bowler: RI Walker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Carlson
+    - 14.4:
+        non_striker: KS Carlson
+        bowler: RI Walker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 14.5:
+        non_striker: AM Tribe
+        bowler: RI Walker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Carlson
+    - 14.6:
+        non_striker: KS Carlson
+        bowler: RI Walker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 15.1:
+        non_striker: KS Carlson
+        bowler: AM Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 15.2:
+        non_striker: KS Carlson
+        bowler: AM Green
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AM Tribe
+    - 15.3:
+        non_striker: KS Carlson
+        bowler: AM Green
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Tribe
+    - 15.4:
+        non_striker: KS Carlson
+        bowler: AM Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 15.5:
+        non_striker: KS Carlson
+        bowler: AM Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 15.6:
+        non_striker: KS Carlson
+        bowler: AM Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 16.1:
+        non_striker: AM Tribe
+        bowler: RI Walker
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KS Carlson
+    - 16.2:
+        non_striker: AM Tribe
+        bowler: RI Walker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KS Carlson
+    - 16.3:
+        non_striker: AM Tribe
+        bowler: RI Walker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Carlson
+    - 16.4:
+        non_striker: KS Carlson
+        bowler: RI Walker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 16.5:
+        non_striker: KS Carlson
+        bowler: RI Walker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Tribe
+    - 16.6:
+        non_striker: KS Carlson
+        bowler: RI Walker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Tribe
+    - 17.1:
+        non_striker: AM Tribe
+        bowler: AM Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Carlson
+        wicket:
+          player_out: KS Carlson
+          fielders:
+          - SG Budinger
+          kind: caught
+    - 17.2:
+        non_striker: AM Tribe
+        bowler: AM Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WT Smale
+    - 17.3:
+        non_striker: WT Smale
+        bowler: AM Green
+        extras:
+          noballs: 2
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        batsman: AM Tribe
+    - 17.4:
+        non_striker: WT Smale
+        bowler: AM Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 17.5:
+        non_striker: WT Smale
+        bowler: AM Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 17.6:
+        non_striker: WT Smale
+        bowler: AM Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 17.7:
+        non_striker: WT Smale
+        bowler: AM Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 18.1:
+        non_striker: AM Tribe
+        bowler: CJC Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WT Smale
+    - 18.2:
+        non_striker: WT Smale
+        bowler: CJC Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 18.3:
+        non_striker: WT Smale
+        bowler: CJC Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 18.4:
+        non_striker: WT Smale
+        bowler: CJC Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 18.5:
+        non_striker: WT Smale
+        bowler: CJC Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 18.6:
+        non_striker: AM Tribe
+        bowler: CJC Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT Smale
+    - 19.1:
+        non_striker: WT Smale
+        bowler: AM Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 19.2:
+        non_striker: WT Smale
+        bowler: AM Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 19.3:
+        non_striker: AM Tribe
+        bowler: AM Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WT Smale
+    - 19.4:
+        non_striker: WT Smale
+        bowler: AM Green
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Tribe
+    - 19.5:
+        non_striker: WT Smale
+        bowler: AM Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 19.6:
+        non_striker: AM Tribe
+        bowler: AM Green
+        extras:
+          noballs: 2
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        batsman: WT Smale
+    - 19.7:
+        non_striker: AM Tribe
+        bowler: AM Green
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WT Smale
+    - 20.1:
+        non_striker: WT Smale
+        bowler: CJC Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 20.2:
+        non_striker: WT Smale
+        bowler: CJC Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 20.3:
+        non_striker: AM Tribe
+        bowler: CJC Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT Smale
+    - 20.4:
+        non_striker: AM Tribe
+        bowler: CJC Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT Smale
+    - 20.5:
+        non_striker: AM Tribe
+        bowler: CJC Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT Smale
+    - 20.6:
+        non_striker: AM Tribe
+        bowler: CJC Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT Smale
+    - 21.1:
+        non_striker: WT Smale
+        bowler: RK Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Tribe
+    - 21.2:
+        non_striker: WT Smale
+        bowler: RK Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 21.3:
+        non_striker: AM Tribe
+        bowler: RK Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WT Smale
+    - 21.4:
+        non_striker: WT Smale
+        bowler: RK Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 21.5:
+        non_striker: AM Tribe
+        bowler: RK Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WT Smale
+    - 21.6:
+        non_striker: WT Smale
+        bowler: RK Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 22.1:
+        non_striker: AM Tribe
+        bowler: CJC Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT Smale
+    - 22.2:
+        non_striker: AM Tribe
+        bowler: CJC Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WT Smale
+    - 22.3:
+        non_striker: WT Smale
+        bowler: CJC Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 22.4:
+        non_striker: WT Smale
+        bowler: CJC Wright
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Tribe
+    - 22.5:
+        non_striker: WT Smale
+        bowler: CJC Wright
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AM Tribe
+    - 22.6:
+        non_striker: WT Smale
+        bowler: CJC Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 23.1:
+        non_striker: AM Tribe
+        bowler: RK Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT Smale
+    - 23.2:
+        non_striker: AM Tribe
+        bowler: RK Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WT Smale
+    - 23.3:
+        non_striker: AM Tribe
+        bowler: RK Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WT Smale
+    - 23.4:
+        non_striker: WT Smale
+        bowler: RK Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 23.5:
+        non_striker: AM Tribe
+        bowler: RK Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT Smale
+    - 23.6:
+        non_striker: AM Tribe
+        bowler: RK Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT Smale
+    - 24.1:
+        non_striker: WT Smale
+        bowler: MET Salisbury
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 24.2:
+        non_striker: WT Smale
+        bowler: MET Salisbury
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 24.3:
+        non_striker: WT Smale
+        bowler: MET Salisbury
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 24.4:
+        non_striker: WT Smale
+        bowler: MET Salisbury
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 24.5:
+        non_striker: AM Tribe
+        bowler: MET Salisbury
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT Smale
+    - 24.6:
+        non_striker: AM Tribe
+        bowler: MET Salisbury
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT Smale
+    - 25.1:
+        non_striker: WT Smale
+        bowler: SB Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 25.2:
+        non_striker: AM Tribe
+        bowler: SB Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WT Smale
+    - 25.3:
+        non_striker: WT Smale
+        bowler: SB Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 25.4:
+        non_striker: WT Smale
+        bowler: SB Wood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Tribe
+    - 25.5:
+        non_striker: WT Smale
+        bowler: SB Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 25.6:
+        non_striker: AM Tribe
+        bowler: SB Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT Smale
+    - 26.1:
+        non_striker: WT Smale
+        bowler: MET Salisbury
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 26.2:
+        non_striker: WT Smale
+        bowler: MET Salisbury
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AM Tribe
+    - 26.3:
+        non_striker: WT Smale
+        bowler: MET Salisbury
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 26.4:
+        non_striker: WT Smale
+        bowler: MET Salisbury
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 26.5:
+        non_striker: AM Tribe
+        bowler: MET Salisbury
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WT Smale
+    - 26.6:
+        non_striker: WT Smale
+        bowler: MET Salisbury
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 27.1:
+        non_striker: AM Tribe
+        bowler: SB Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT Smale
+    - 27.2:
+        non_striker: AM Tribe
+        bowler: SB Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT Smale
+    - 27.3:
+        non_striker: AM Tribe
+        bowler: SB Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT Smale
+    - 27.4:
+        non_striker: AM Tribe
+        bowler: SB Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT Smale
+    - 27.5:
+        non_striker: AM Tribe
+        bowler: SB Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT Smale
+    - 27.6:
+        non_striker: AM Tribe
+        bowler: SB Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WT Smale
+    - 28.1:
+        non_striker: AM Tribe
+        bowler: MET Salisbury
+        extras:
+          legbyes: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: WT Smale
+    - 28.2:
+        non_striker: WT Smale
+        bowler: MET Salisbury
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 28.3:
+        non_striker: WT Smale
+        bowler: MET Salisbury
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 28.4:
+        non_striker: WT Smale
+        bowler: MET Salisbury
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 28.5:
+        non_striker: WT Smale
+        bowler: MET Salisbury
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: AM Tribe
+    - 28.6:
+        non_striker: WT Smale
+        bowler: MET Salisbury
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 28.7:
+        non_striker: AM Tribe
+        bowler: MET Salisbury
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WT Smale
+    - 29.1:
+        non_striker: AM Tribe
+        bowler: SB Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WT Smale
+    - 29.2:
+        non_striker: WT Smale
+        bowler: SB Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 29.3:
+        non_striker: WT Smale
+        bowler: SB Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 29.4:
+        non_striker: WT Smale
+        bowler: SB Wood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AM Tribe
+    - 29.5:
+        non_striker: WT Smale
+        bowler: SB Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 29.6:
+        non_striker: AM Tribe
+        bowler: SB Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT Smale
+    - 30.1:
+        non_striker: WT Smale
+        bowler: AM Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 30.2:
+        non_striker: AM Tribe
+        bowler: AM Green
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WT Smale
+    - 30.3:
+        non_striker: AM Tribe
+        bowler: AM Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WT Smale
+    - 30.4:
+        non_striker: WT Smale
+        bowler: AM Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 30.5:
+        non_striker: WT Smale
+        bowler: AM Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 30.6:
+        non_striker: WT Smale
+        bowler: AM Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 31.1:
+        non_striker: AM Tribe
+        bowler: SB Wood
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: WT Smale
+    - 31.2:
+        non_striker: AM Tribe
+        bowler: SB Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT Smale
+    - 31.3:
+        non_striker: AM Tribe
+        bowler: SB Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WT Smale
+    - 31.4:
+        non_striker: WT Smale
+        bowler: SB Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 31.5:
+        non_striker: AM Tribe
+        bowler: SB Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT Smale
+    - 31.6:
+        non_striker: AM Tribe
+        bowler: SB Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WT Smale
+    - 31.7:
+        non_striker: WT Smale
+        bowler: SB Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 32.1:
+        non_striker: AM Tribe
+        bowler: AM Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT Smale
+    - 32.2:
+        non_striker: AM Tribe
+        bowler: AM Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT Smale
+    - 32.3:
+        non_striker: AM Tribe
+        bowler: AM Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT Smale
+    - 32.4:
+        non_striker: AM Tribe
+        bowler: AM Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WT Smale
+    - 32.5:
+        non_striker: WT Smale
+        bowler: AM Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 32.6:
+        non_striker: AM Tribe
+        bowler: AM Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WT Smale
+    - 33.1:
+        non_striker: AM Tribe
+        bowler: SB Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT Smale
+    - 33.2:
+        non_striker: AM Tribe
+        bowler: SB Wood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WT Smale
+    - 33.3:
+        non_striker: AM Tribe
+        bowler: SB Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT Smale
+    - 33.4:
+        non_striker: AM Tribe
+        bowler: SB Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT Smale
+    - 33.5:
+        non_striker: AM Tribe
+        bowler: SB Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT Smale
+    - 33.6:
+        non_striker: AM Tribe
+        bowler: SB Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WT Smale
+    - 34.1:
+        non_striker: AM Tribe
+        bowler: AM Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT Smale
+    - 34.2:
+        non_striker: AM Tribe
+        bowler: AM Green
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WT Smale
+    - 34.3:
+        non_striker: AM Tribe
+        bowler: AM Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WT Smale
+    - 34.4:
+        non_striker: WT Smale
+        bowler: AM Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 34.5:
+        non_striker: AM Tribe
+        bowler: AM Green
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WT Smale
+    - 34.6:
+        non_striker: AM Tribe
+        bowler: AM Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT Smale
+    - 35.1:
+        non_striker: WT Smale
+        bowler: RI Walker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 35.2:
+        non_striker: AM Tribe
+        bowler: RI Walker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WT Smale
+    - 35.3:
+        non_striker: WT Smale
+        bowler: RI Walker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 35.4:
+        non_striker: AM Tribe
+        bowler: RI Walker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WT Smale
+    - 35.5:
+        non_striker: WT Smale
+        bowler: RI Walker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 35.6:
+        non_striker: WT Smale
+        bowler: RI Walker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 36.1:
+        non_striker: WT Smale
+        bowler: CJC Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 36.2:
+        non_striker: WT Smale
+        bowler: CJC Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 36.3:
+        non_striker: AM Tribe
+        bowler: CJC Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT Smale
+    - 36.4:
+        non_striker: AM Tribe
+        bowler: CJC Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT Smale
+    - 36.5:
+        non_striker: AM Tribe
+        bowler: CJC Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT Smale
+    - 36.6:
+        non_striker: AM Tribe
+        bowler: CJC Wright
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WT Smale
+    - 37.1:
+        non_striker: WT Smale
+        bowler: RI Walker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 37.2:
+        non_striker: AM Tribe
+        bowler: RI Walker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WT Smale
+    - 37.3:
+        non_striker: WT Smale
+        bowler: RI Walker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Tribe
+    - 37.4:
+        non_striker: WT Smale
+        bowler: RI Walker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 37.5:
+        non_striker: WT Smale
+        bowler: RI Walker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 37.6:
+        non_striker: WT Smale
+        bowler: RI Walker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 38.1:
+        non_striker: AM Tribe
+        bowler: CJC Wright
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WT Smale
+    - 38.2:
+        non_striker: AM Tribe
+        bowler: CJC Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT Smale
+    - 38.3:
+        non_striker: AM Tribe
+        bowler: CJC Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WT Smale
+    - 38.4:
+        non_striker: WT Smale
+        bowler: CJC Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 38.5:
+        non_striker: WT Smale
+        bowler: CJC Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 38.6:
+        non_striker: AM Tribe
+        bowler: CJC Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WT Smale
+    - 39.1:
+        non_striker: AM Tribe
+        bowler: RI Walker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT Smale
+    - 39.2:
+        non_striker: AM Tribe
+        bowler: RI Walker
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WT Smale
+    - 39.3:
+        non_striker: AM Tribe
+        bowler: RI Walker
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WT Smale
+    - 39.4:
+        non_striker: AM Tribe
+        bowler: RI Walker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WT Smale
+    - 39.5:
+        non_striker: WT Smale
+        bowler: RI Walker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 39.6:
+        non_striker: WT Smale
+        bowler: RI Walker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 40.1:
+        non_striker: AM Tribe
+        bowler: MET Salisbury
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WT Smale
+    - 40.2:
+        non_striker: WT Smale
+        bowler: MET Salisbury
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 40.3:
+        non_striker: AM Tribe
+        bowler: MET Salisbury
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WT Smale
+    - 40.4:
+        non_striker: AM Tribe
+        bowler: MET Salisbury
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WT Smale
+    - 40.5:
+        non_striker: WT Smale
+        bowler: MET Salisbury
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 40.6:
+        non_striker: AM Tribe
+        bowler: MET Salisbury
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT Smale
+    - 41.1:
+        non_striker: WT Smale
+        bowler: RI Walker
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: AM Tribe
+    - 41.2:
+        non_striker: WT Smale
+        bowler: RI Walker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 41.3:
+        non_striker: AM Tribe
+        bowler: RI Walker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT Smale
+    - 41.4:
+        non_striker: AM Tribe
+        bowler: RI Walker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT Smale
+    - 41.5:
+        non_striker: AM Tribe
+        bowler: RI Walker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT Smale
+    - 41.6:
+        non_striker: AM Tribe
+        bowler: RI Walker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WT Smale
+    - 41.7:
+        non_striker: WT Smale
+        bowler: RI Walker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 42.1:
+        non_striker: WT Smale
+        bowler: MET Salisbury
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 42.2:
+        non_striker: AM Tribe
+        bowler: MET Salisbury
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WT Smale
+    - 42.3:
+        non_striker: AM Tribe
+        bowler: MET Salisbury
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WT Smale
+    - 42.4:
+        non_striker: WT Smale
+        bowler: MET Salisbury
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 42.5:
+        non_striker: AM Tribe
+        bowler: MET Salisbury
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WT Smale
+    - 42.6:
+        non_striker: WT Smale
+        bowler: MET Salisbury
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 43.1:
+        non_striker: WT Smale
+        bowler: RI Walker
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AM Tribe
+    - 43.2:
+        non_striker: WT Smale
+        bowler: RI Walker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Tribe
+    - 43.3:
+        non_striker: WT Smale
+        bowler: RI Walker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 43.4:
+        non_striker: AM Tribe
+        bowler: RI Walker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT Smale
+    - 43.5:
+        non_striker: AM Tribe
+        bowler: RI Walker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WT Smale
+    - 43.6:
+        non_striker: WT Smale
+        bowler: RI Walker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 44.1:
+        non_striker: AM Tribe
+        bowler: AM Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT Smale
+    - 44.2:
+        non_striker: AM Tribe
+        bowler: AM Green
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WT Smale
+    - 44.3:
+        non_striker: AM Tribe
+        bowler: AM Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WT Smale
+    - 44.4:
+        non_striker: WT Smale
+        bowler: AM Green
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Tribe
+    - 44.5:
+        non_striker: WT Smale
+        bowler: AM Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 44.6:
+        non_striker: AM Tribe
+        bowler: AM Green
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WT Smale
+    - 45.1:
+        non_striker: WT Smale
+        bowler: RI Walker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Tribe
+    - 45.2:
+        non_striker: WT Smale
+        bowler: RI Walker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 45.3:
+        non_striker: AM Tribe
+        bowler: RI Walker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WT Smale
+    - 45.4:
+        non_striker: WT Smale
+        bowler: RI Walker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Tribe
