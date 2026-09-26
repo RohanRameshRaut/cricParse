@@ -1,0 +1,120 @@
+/*
+Name: Rohan Ramesh Raut
+
+question_number01:
+
+constructor:
+
+In object oriented programing we have to create different type of objects as per our requirement, after that we need some way to construct/initialise these objects
+for that we may write a program/code but to avoid repetative overhead we write a special method call constructor.
+which we use to build our objects from the given data/file, this method comes before all the methods as it is constructing phase.
+
+set:
+
+After construction of the objects user may wish to modify the objects after some time for that we a method which will contain the code to get the required changes 
+from the user and update the mentioned object, for this purpose set method playes an important role to update/ change or set the object according to the user want.
+
+get:
+
+This get method is used to give the information to the user, example as we designed the Computer Science Department then user may wish to get the student details 
+and his course details which we have created using objects and stored in our memory, from that we have to give them the user as per his request so for that we need
+this get method.
+
+destructor:
+
+After constructing all the methods, where we have constructed the unwanted/temporary object to store the data into memory after that we have to free the used space/memory
+which we have used throughout the program and also close all the data files, for this the destructor method is used here we delete the unwanted objects and keep only
+required objects like we did in cricket yaml file for the abstract validation we then deleted the previously created ref objects.
+
+
+
+question_number02:
+
+1. this is a similar problem like we discussed in our lecture where user want player names who has played most match and other quick details.
+   gather the information like which books are used and requested most and how frequent.
+2. also get information about the books which are new/trending and can be requested frequently.
+3. after that we will design our object which will hold the mapping of these book names to its stored id/address, which will help us to get the books quickly
+4. we can also store the books in sorted order then apply so called binary searching
+
+
+
+question_number03:
+
+In our course we discussed object creation and how to store them in memory, but as we know we have 2 types of memory(m1, m2) which are fast and slow, after creating the 
+objects we store them in memory not on just arbitery place or address, for that we compute the memory requirement and retrival of the object(memoisation)
+i.e our object can be anywhere in the memory as it may or may not be continuous for this we need a proper logic and mathematical computation to compute and derive the
+size and requirement, after that data structure plays a vital role as we don't have memory continuous so we need linked list like data structure to keep the track of
+next oject details, binary searching to save the search time, and many more our own defined structures to store and construct the objects.
+
+
+
+
+question_number05:
+
+Complex OO desing: Yaml Cricket file construction and validation
+
+invariants:
+1.number of total players, umpires, teams, innings, overs, deliveries, wickets etc. should not be changed throughout the program
+2.character count/symantic of these object.
+3.team score,individual players score(batsman/bowler),  toss winner, match winner.
+
+Note: After constructing the objects for validation the data which was present in the .yaml file should remain even after the construction of the objects
+
+
+
+question_number07:
+
+Object oriented languages like C++/python/java provides inbuild methods like constructor, destructor and get/set to create/construct the objects
+which helps the experienced programmer, which save the time to rewrite the code as templates are provided by these languages.
+
+Some features provided by these languages are vector(resizable array, using load factor), liked list(keeps the track of next location also), sorting techniques,
+quick sort, searching techniques(binary search), stack, queue. it helps experienced programmer.
+
+However, these languages are for experienced programmers which may have knowledge about objects and category theory and how they are built but for new/beginner
+programmer one should not use these inbuilt features/ he can use simple notations to express the construction and derrive his own methods and structures.
+
+
+
+
+question_number08:
+
+To validate something one may wish to compare it with the provided domain/file/data which is correct according to the rules.
+
+I was validating the reference validation of provided yaml file, there I was supposed to compare the reference object created with rules defined by me(designed by checking
+all the .yaml files) there was repeation of code to compare the one sequence with other sequence for that, we created and array to store all the sequence index and 
+match with the string.
+
+Another issues was to set the rules for validation.
+
+For that we had to search all the .yaml files to make the ref rules as domain rules(cricket) were provided, there we used some bash commands like "sed", "grep", "awk"
+which helped us to dig throug all the files at one go.
+
+After that the language/notation barrier was there so we use set notation and predicate notations. 
+
+The most overhead was the sub string matching which we resolved using index mapping to the given strings, as most of the strings are repeated.
+
+
+
+Bonus:
+
+the most non-trivial object design work you have done in the course is cricket match object construction/validation and summary printing
+
+provided:
+.yaml file, with yaml file structure and rules, cricket domain rules
+
+steps:
+1.devide the given data/file into lines, which will help to manupulate the content and differentiate between them using ('\n')
+2.create the required objects and constructed them using for, while loops and if-else conditions to match the strings
+3.to avoid the redendancy we used arrays to store the keys(yaml file has data in key-value style)and mapped them with the indices
+4.to save the space we focused on avoiding storage of redendant data and used index storage in ojects its like constructing the objects which holds the handles to 
+another objects.
+5.display of cricket summary, I used ncurses windows to show the menu like structure and display the summary.
+
+achievement:
+- object creation with minimum space and minimum number of lines(array like structures, key-index structure)
+- decipline and clean code
+- without using any inbuild features
+- and no subrutines
+
+*/
+

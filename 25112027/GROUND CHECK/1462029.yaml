@@ -1,0 +1,3753 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-09-03'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Taunton
+  competition: One-Day Cup
+  dates:
+  - '2025-08-28'
+  gender: male
+  match_type: ODM
+  outcome:
+    winner: Somerset
+    by:
+      wickets: 6
+    method: D/L
+  overs: 50
+  players:
+    Gloucestershire:
+    - James Bracey
+    - CT Bancroft
+    - OJ Price
+    - BG Charlesworth
+    - JMR Taylor
+    - GL van Buuren
+    - TW Boorman
+    - DJ Ahmed
+    - CN Miles
+    - MD Taylor
+    - J Shaw
+    Somerset:
+    - AM Vaughan
+    - TA Lammonby
+    - LP Goldsworthy
+    - JEK Rew
+    - THS Rew
+    - JF Thomas
+    - FJ Hill
+    - BGF Green
+    - MJ Leach
+    - Kasey Aldridge
+    - JT Ball
+  registry:
+    people:
+      AC Harris: ef14c0ec
+      AM Vaughan: 33a6488e
+      BG Charlesworth: ffdba4e2
+      BGF Green: 34b37279
+      CN Miles: 5fed6272
+      CT Bancroft: 399b0b94
+      DA Cosker: aac9f784
+      DJ Ahmed: d74ce089
+      FJ Hill: ac4c18ed
+      GL van Buuren: ba377b40
+      ID Blackwell: 818e8bf2
+      J Shaw: b82e3032
+      JEK Rew: 521595e7
+      JF Thomas: bdd4bc21
+      JMR Taylor: aed5be04
+      JT Ball: 3d0ed2f9
+      James Bracey: 5bfdc77a
+      Kasey Aldridge: 31b01074
+      LP Goldsworthy: ed47cb25
+      MD Taylor: 01a95383
+      MJ Leach: 3987e390
+      OJ Price: dfc3f02d
+      S Widdup: 65bf2837
+      TA Lammonby: 73f1f6b0
+      THS Rew: a8ffcd4f
+      TW Boorman: 2f979390
+  teams:
+  - Gloucestershire
+  - Somerset
+  toss:
+    winner: Gloucestershire
+    decision: bat
+  umpires:
+  - ID Blackwell
+  - S Widdup
+  venue: The Cooper Associates County Ground, Taunton
+innings:
+- 1st innings:
+    team: Gloucestershire
+    deliveries:
+    - 0.1:
+        non_striker: CT Bancroft
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: James Bracey
+    - 0.2:
+        non_striker: CT Bancroft
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: James Bracey
+        wicket:
+          player_out: James Bracey
+          kind: bowled
+    - 0.3:
+        non_striker: CT Bancroft
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Price
+    - 0.4:
+        non_striker: CT Bancroft
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Price
+    - 0.5:
+        non_striker: CT Bancroft
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Price
+    - 0.6:
+        non_striker: CT Bancroft
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Price
+    - 1.1:
+        non_striker: OJ Price
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Bancroft
+    - 1.2:
+        non_striker: OJ Price
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Bancroft
+    - 1.3:
+        non_striker: OJ Price
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Bancroft
+    - 1.4:
+        non_striker: OJ Price
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Bancroft
+    - 1.5:
+        non_striker: OJ Price
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Bancroft
+    - 1.6:
+        non_striker: OJ Price
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Bancroft
+    - 2.1:
+        non_striker: CT Bancroft
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Price
+    - 2.2:
+        non_striker: CT Bancroft
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: OJ Price
+    - 2.3:
+        non_striker: CT Bancroft
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Price
+    - 2.4:
+        non_striker: CT Bancroft
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Price
+    - 2.5:
+        non_striker: CT Bancroft
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: OJ Price
+    - 2.6:
+        non_striker: OJ Price
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Bancroft
+    - 3.1:
+        non_striker: CT Bancroft
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Price
+    - 3.2:
+        non_striker: CT Bancroft
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Price
+    - 3.3:
+        non_striker: CT Bancroft
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Price
+    - 3.4:
+        non_striker: CT Bancroft
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Price
+    - 3.5:
+        non_striker: CT Bancroft
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Price
+    - 3.6:
+        non_striker: CT Bancroft
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OJ Price
+    - 4.1:
+        non_striker: CT Bancroft
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Price
+    - 4.2:
+        non_striker: CT Bancroft
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OJ Price
+    - 4.3:
+        non_striker: OJ Price
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Bancroft
+    - 4.4:
+        non_striker: OJ Price
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Bancroft
+    - 4.5:
+        non_striker: OJ Price
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CT Bancroft
+    - 4.6:
+        non_striker: OJ Price
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CT Bancroft
+    - 5.1:
+        non_striker: CT Bancroft
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Price
+    - 5.2:
+        non_striker: CT Bancroft
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Price
+    - 5.3:
+        non_striker: CT Bancroft
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Price
+    - 5.4:
+        non_striker: CT Bancroft
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Price
+    - 5.5:
+        non_striker: CT Bancroft
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Price
+    - 5.6:
+        non_striker: CT Bancroft
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Price
+    - 6.1:
+        non_striker: OJ Price
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Bancroft
+    - 6.2:
+        non_striker: CT Bancroft
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Price
+    - 6.3:
+        non_striker: CT Bancroft
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OJ Price
+    - 6.4:
+        non_striker: OJ Price
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Bancroft
+    - 6.5:
+        non_striker: OJ Price
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Bancroft
+    - 6.6:
+        non_striker: OJ Price
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Bancroft
+    - 7.1:
+        non_striker: OJ Price
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Bancroft
+    - 7.2:
+        non_striker: OJ Price
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CT Bancroft
+    - 7.3:
+        non_striker: OJ Price
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Bancroft
+    - 7.4:
+        non_striker: OJ Price
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Bancroft
+    - 7.5:
+        non_striker: CT Bancroft
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Price
+    - 7.6:
+        non_striker: CT Bancroft
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: OJ Price
+    - 8.1:
+        non_striker: OJ Price
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Bancroft
+    - 8.2:
+        non_striker: CT Bancroft
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Price
+    - 8.3:
+        non_striker: CT Bancroft
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OJ Price
+    - 8.4:
+        non_striker: OJ Price
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Bancroft
+    - 8.5:
+        non_striker: CT Bancroft
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Price
+    - 8.6:
+        non_striker: CT Bancroft
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Price
+    - 9.1:
+        non_striker: OJ Price
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Bancroft
+    - 9.2:
+        non_striker: OJ Price
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Bancroft
+    - 9.3:
+        non_striker: CT Bancroft
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Price
+    - 9.4:
+        non_striker: CT Bancroft
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Price
+    - 9.5:
+        non_striker: CT Bancroft
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Price
+    - 9.6:
+        non_striker: CT Bancroft
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Price
+    - 10.1:
+        non_striker: OJ Price
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Bancroft
+    - 10.2:
+        non_striker: OJ Price
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Bancroft
+    - 10.3:
+        non_striker: CT Bancroft
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Price
+    - 10.4:
+        non_striker: CT Bancroft
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OJ Price
+    - 10.5:
+        non_striker: OJ Price
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Bancroft
+    - 10.6:
+        non_striker: OJ Price
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Bancroft
+    - 11.1:
+        non_striker: OJ Price
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Bancroft
+    - 11.2:
+        non_striker: OJ Price
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Bancroft
+    - 11.3:
+        non_striker: CT Bancroft
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Price
+    - 11.4:
+        non_striker: CT Bancroft
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OJ Price
+    - 11.5:
+        non_striker: OJ Price
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CT Bancroft
+    - 11.6:
+        non_striker: OJ Price
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Bancroft
+    - 12.1:
+        non_striker: OJ Price
+        bowler: TA Lammonby
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: CT Bancroft
+    - 12.2:
+        non_striker: OJ Price
+        bowler: TA Lammonby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Bancroft
+    - 12.3:
+        non_striker: CT Bancroft
+        bowler: TA Lammonby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OJ Price
+    - 12.4:
+        non_striker: OJ Price
+        bowler: TA Lammonby
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: CT Bancroft
+    - 12.5:
+        non_striker: OJ Price
+        bowler: TA Lammonby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Bancroft
+    - 12.6:
+        non_striker: OJ Price
+        bowler: TA Lammonby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Bancroft
+    - 12.7:
+        non_striker: CT Bancroft
+        bowler: TA Lammonby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Price
+    - 12.8:
+        non_striker: CT Bancroft
+        bowler: TA Lammonby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OJ Price
+    - 13.1:
+        non_striker: CT Bancroft
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OJ Price
+    - 13.2:
+        non_striker: OJ Price
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Bancroft
+    - 13.3:
+        non_striker: OJ Price
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CT Bancroft
+    - 13.4:
+        non_striker: OJ Price
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Bancroft
+        wicket:
+          player_out: CT Bancroft
+          kind: caught and bowled
+    - 13.5:
+        non_striker: OJ Price
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Charlesworth
+    - 13.6:
+        non_striker: OJ Price
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BG Charlesworth
+    - 14.1:
+        non_striker: BG Charlesworth
+        bowler: TA Lammonby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Price
+    - 14.2:
+        non_striker: BG Charlesworth
+        bowler: TA Lammonby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OJ Price
+    - 14.3:
+        non_striker: OJ Price
+        bowler: TA Lammonby
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: BG Charlesworth
+    - 14.4:
+        non_striker: OJ Price
+        bowler: TA Lammonby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BG Charlesworth
+    - 14.5:
+        non_striker: BG Charlesworth
+        bowler: TA Lammonby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OJ Price
+    - 14.6:
+        non_striker: OJ Price
+        bowler: TA Lammonby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BG Charlesworth
+    - 14.7:
+        non_striker: BG Charlesworth
+        bowler: TA Lammonby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OJ Price
+    - 15.1:
+        non_striker: BG Charlesworth
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Price
+    - 15.2:
+        non_striker: BG Charlesworth
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OJ Price
+    - 15.3:
+        non_striker: OJ Price
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Charlesworth
+    - 15.4:
+        non_striker: OJ Price
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BG Charlesworth
+    - 15.5:
+        non_striker: BG Charlesworth
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OJ Price
+    - 15.6:
+        non_striker: OJ Price
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Charlesworth
+    - 16.1:
+        non_striker: BG Charlesworth
+        bowler: TA Lammonby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Price
+        wicket:
+          player_out: OJ Price
+          kind: lbw
+    - 16.2:
+        non_striker: BG Charlesworth
+        bowler: TA Lammonby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JMR Taylor
+    - 16.3:
+        non_striker: BG Charlesworth
+        bowler: TA Lammonby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JMR Taylor
+    - 16.4:
+        non_striker: BG Charlesworth
+        bowler: TA Lammonby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JMR Taylor
+    - 16.5:
+        non_striker: BG Charlesworth
+        bowler: TA Lammonby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JMR Taylor
+    - 16.6:
+        non_striker: BG Charlesworth
+        bowler: TA Lammonby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JMR Taylor
+    - 17.1:
+        non_striker: JMR Taylor
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BG Charlesworth
+    - 17.2:
+        non_striker: BG Charlesworth
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JMR Taylor
+    - 17.3:
+        non_striker: JMR Taylor
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Charlesworth
+    - 17.4:
+        non_striker: JMR Taylor
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BG Charlesworth
+    - 17.5:
+        non_striker: BG Charlesworth
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JMR Taylor
+    - 17.6:
+        non_striker: BG Charlesworth
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JMR Taylor
+    - 18.1:
+        non_striker: BG Charlesworth
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JMR Taylor
+    - 18.2:
+        non_striker: BG Charlesworth
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JMR Taylor
+    - 18.3:
+        non_striker: JMR Taylor
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Charlesworth
+    - 18.4:
+        non_striker: JMR Taylor
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Charlesworth
+    - 18.5:
+        non_striker: JMR Taylor
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Charlesworth
+    - 18.6:
+        non_striker: JMR Taylor
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Charlesworth
+    - 19.1:
+        non_striker: BG Charlesworth
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JMR Taylor
+    - 19.2:
+        non_striker: JMR Taylor
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BG Charlesworth
+    - 19.3:
+        non_striker: BG Charlesworth
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JMR Taylor
+    - 19.4:
+        non_striker: BG Charlesworth
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JMR Taylor
+    - 19.5:
+        non_striker: BG Charlesworth
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JMR Taylor
+    - 19.6:
+        non_striker: BG Charlesworth
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JMR Taylor
+    - 20.1:
+        non_striker: JMR Taylor
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BG Charlesworth
+    - 20.2:
+        non_striker: BG Charlesworth
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JMR Taylor
+    - 20.3:
+        non_striker: BG Charlesworth
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JMR Taylor
+    - 20.4:
+        non_striker: BG Charlesworth
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JMR Taylor
+    - 20.5:
+        non_striker: BG Charlesworth
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JMR Taylor
+    - 20.6:
+        non_striker: BG Charlesworth
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JMR Taylor
+    - 21.1:
+        non_striker: BG Charlesworth
+        bowler: TA Lammonby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JMR Taylor
+    - 21.2:
+        non_striker: JMR Taylor
+        bowler: TA Lammonby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Charlesworth
+    - 21.3:
+        non_striker: JMR Taylor
+        bowler: TA Lammonby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Charlesworth
+    - 21.4:
+        non_striker: JMR Taylor
+        bowler: TA Lammonby
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BG Charlesworth
+    - 21.5:
+        non_striker: JMR Taylor
+        bowler: TA Lammonby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Charlesworth
+    - 21.6:
+        non_striker: JMR Taylor
+        bowler: TA Lammonby
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: BG Charlesworth
+    - 22.1:
+        non_striker: JMR Taylor
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Charlesworth
+    - 22.2:
+        non_striker: JMR Taylor
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Charlesworth
+    - 22.3:
+        non_striker: JMR Taylor
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BG Charlesworth
+    - 22.4:
+        non_striker: BG Charlesworth
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JMR Taylor
+    - 22.5:
+        non_striker: BG Charlesworth
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JMR Taylor
+    - 22.6:
+        non_striker: BG Charlesworth
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JMR Taylor
+    - 23.1:
+        non_striker: JMR Taylor
+        bowler: TA Lammonby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Charlesworth
+    - 23.2:
+        non_striker: JMR Taylor
+        bowler: TA Lammonby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Charlesworth
+        wicket:
+          player_out: BG Charlesworth
+          fielders:
+          - BGF Green
+          kind: caught
+    - 23.3:
+        non_striker: JMR Taylor
+        bowler: TA Lammonby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GL van Buuren
+    - 23.4:
+        non_striker: JMR Taylor
+        bowler: TA Lammonby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GL van Buuren
+    - 23.5:
+        non_striker: JMR Taylor
+        bowler: TA Lammonby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GL van Buuren
+    - 23.6:
+        non_striker: JMR Taylor
+        bowler: TA Lammonby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GL van Buuren
+    - 24.1:
+        non_striker: GL van Buuren
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JMR Taylor
+    - 24.2:
+        non_striker: GL van Buuren
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JMR Taylor
+    - 24.3:
+        non_striker: GL van Buuren
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JMR Taylor
+    - 24.4:
+        non_striker: GL van Buuren
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JMR Taylor
+    - 24.5:
+        non_striker: GL van Buuren
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JMR Taylor
+    - 24.6:
+        non_striker: GL van Buuren
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JMR Taylor
+    - 25.1:
+        non_striker: JMR Taylor
+        bowler: TA Lammonby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GL van Buuren
+        wicket:
+          player_out: GL van Buuren
+          kind: caught and bowled
+    - 25.2:
+        non_striker: JMR Taylor
+        bowler: TA Lammonby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TW Boorman
+    - 25.3:
+        non_striker: TW Boorman
+        bowler: TA Lammonby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JMR Taylor
+    - 25.4:
+        non_striker: TW Boorman
+        bowler: TA Lammonby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JMR Taylor
+    - 25.5:
+        non_striker: JMR Taylor
+        bowler: TA Lammonby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TW Boorman
+    - 25.6:
+        non_striker: JMR Taylor
+        bowler: TA Lammonby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TW Boorman
+    - 26.1:
+        non_striker: TW Boorman
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JMR Taylor
+    - 26.2:
+        non_striker: TW Boorman
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JMR Taylor
+    - 26.3:
+        non_striker: TW Boorman
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JMR Taylor
+    - 26.4:
+        non_striker: TW Boorman
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JMR Taylor
+    - 26.5:
+        non_striker: TW Boorman
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JMR Taylor
+    - 26.6:
+        non_striker: JMR Taylor
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TW Boorman
+    - 27.1:
+        non_striker: TW Boorman
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JMR Taylor
+    - 27.2:
+        non_striker: JMR Taylor
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TW Boorman
+    - 27.3:
+        non_striker: JMR Taylor
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TW Boorman
+    - 27.4:
+        non_striker: JMR Taylor
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TW Boorman
+    - 27.5:
+        non_striker: TW Boorman
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JMR Taylor
+    - 27.6:
+        non_striker: JMR Taylor
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TW Boorman
+    - 28.1:
+        non_striker: TW Boorman
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JMR Taylor
+    - 28.2:
+        non_striker: JMR Taylor
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TW Boorman
+    - 28.3:
+        non_striker: JMR Taylor
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TW Boorman
+    - 28.4:
+        non_striker: JMR Taylor
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TW Boorman
+    - 28.5:
+        non_striker: JMR Taylor
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TW Boorman
+    - 28.6:
+        non_striker: JMR Taylor
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TW Boorman
+    - 29.1:
+        non_striker: TW Boorman
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JMR Taylor
+    - 29.2:
+        non_striker: TW Boorman
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JMR Taylor
+    - 29.3:
+        non_striker: JMR Taylor
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TW Boorman
+    - 29.4:
+        non_striker: TW Boorman
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JMR Taylor
+    - 29.5:
+        non_striker: TW Boorman
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JMR Taylor
+    - 29.6:
+        non_striker: JMR Taylor
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TW Boorman
+    - 30.1:
+        non_striker: JMR Taylor
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TW Boorman
+    - 30.2:
+        non_striker: JMR Taylor
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TW Boorman
+    - 30.3:
+        non_striker: JMR Taylor
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TW Boorman
+    - 30.4:
+        non_striker: TW Boorman
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JMR Taylor
+    - 30.5:
+        non_striker: TW Boorman
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JMR Taylor
+    - 30.6:
+        non_striker: JMR Taylor
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TW Boorman
+    - 31.1:
+        non_striker: TW Boorman
+        bowler: LP Goldsworthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JMR Taylor
+    - 31.2:
+        non_striker: TW Boorman
+        bowler: LP Goldsworthy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JMR Taylor
+    - 31.3:
+        non_striker: TW Boorman
+        bowler: LP Goldsworthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JMR Taylor
+    - 31.4:
+        non_striker: TW Boorman
+        bowler: LP Goldsworthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JMR Taylor
+    - 31.5:
+        non_striker: TW Boorman
+        bowler: LP Goldsworthy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JMR Taylor
+    - 31.6:
+        non_striker: TW Boorman
+        bowler: LP Goldsworthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JMR Taylor
+    - 32.1:
+        non_striker: JMR Taylor
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TW Boorman
+        wicket:
+          player_out: TW Boorman
+          kind: lbw
+    - 32.2:
+        non_striker: JMR Taylor
+        bowler: MJ Leach
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: DJ Ahmed
+    - 32.3:
+        non_striker: JMR Taylor
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Ahmed
+    - 32.4:
+        non_striker: JMR Taylor
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Ahmed
+    - 32.5:
+        non_striker: JMR Taylor
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Ahmed
+    - 32.6:
+        non_striker: JMR Taylor
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Ahmed
+    - 32.7:
+        non_striker: JMR Taylor
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Ahmed
+    - 33.1:
+        non_striker: DJ Ahmed
+        bowler: LP Goldsworthy
+        extras:
+          wides: 3
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        batsman: JMR Taylor
+    - 33.2:
+        non_striker: DJ Ahmed
+        bowler: LP Goldsworthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JMR Taylor
+    - 33.3:
+        non_striker: JMR Taylor
+        bowler: LP Goldsworthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Ahmed
+    - 33.4:
+        non_striker: JMR Taylor
+        bowler: LP Goldsworthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Ahmed
+    - 33.5:
+        non_striker: DJ Ahmed
+        bowler: LP Goldsworthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JMR Taylor
+    - 33.6:
+        non_striker: JMR Taylor
+        bowler: LP Goldsworthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Ahmed
+    - 33.7:
+        non_striker: DJ Ahmed
+        bowler: LP Goldsworthy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JMR Taylor
+    - 34.1:
+        non_striker: JMR Taylor
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Ahmed
+        wicket:
+          player_out: DJ Ahmed
+          fielders:
+          - Kasey Aldridge
+          kind: caught
+    - 34.2:
+        non_striker: JMR Taylor
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Miles
+    - 34.3:
+        non_striker: CN Miles
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JMR Taylor
+    - 34.4:
+        non_striker: CN Miles
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JMR Taylor
+    - 34.5:
+        non_striker: JMR Taylor
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Miles
+    - 34.6:
+        non_striker: JMR Taylor
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Miles
+    - 35.1:
+        non_striker: CN Miles
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JMR Taylor
+    - 35.2:
+        non_striker: CN Miles
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JMR Taylor
+        wicket:
+          player_out: JMR Taylor
+          fielders:
+          - Kasey Aldridge
+          kind: caught
+    - 35.3:
+        non_striker: CN Miles
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Taylor
+    - 35.4:
+        non_striker: MD Taylor
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Miles
+    - 35.5:
+        non_striker: MD Taylor
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Miles
+    - 35.6:
+        non_striker: MD Taylor
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Miles
+    - 36.1:
+        non_striker: CN Miles
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Taylor
+    - 36.2:
+        non_striker: CN Miles
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Taylor
+    - 36.3:
+        non_striker: CN Miles
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Taylor
+    - 36.4:
+        non_striker: CN Miles
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Taylor
+    - 36.5:
+        non_striker: CN Miles
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Taylor
+    - 36.6:
+        non_striker: CN Miles
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Taylor
+    - 37.1:
+        non_striker: MD Taylor
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Miles
+    - 37.2:
+        non_striker: MD Taylor
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Miles
+    - 37.3:
+        non_striker: CN Miles
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Taylor
+    - 37.4:
+        non_striker: MD Taylor
+        bowler: BGF Green
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: CN Miles
+    - 37.5:
+        non_striker: MD Taylor
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Miles
+    - 37.6:
+        non_striker: MD Taylor
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Miles
+    - 37.7:
+        non_striker: MD Taylor
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CN Miles
+    - 38.1:
+        non_striker: CN Miles
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Taylor
+        wicket:
+          player_out: MD Taylor
+          fielders:
+          - JEK Rew
+          kind: caught
+    - 38.2:
+        non_striker: CN Miles
+        bowler: JT Ball
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: J Shaw
+    - 38.3:
+        non_striker: CN Miles
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Shaw
+    - 38.4:
+        non_striker: CN Miles
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Shaw
+    - 38.5:
+        non_striker: CN Miles
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Shaw
+    - 38.6:
+        non_striker: J Shaw
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CN Miles
+    - 38.7:
+        non_striker: J Shaw
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Miles
+    - 39.1:
+        non_striker: CN Miles
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Shaw
+    - 39.2:
+        non_striker: CN Miles
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Shaw
+    - 39.3:
+        non_striker: CN Miles
+        bowler: BGF Green
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: J Shaw
+    - 39.4:
+        non_striker: CN Miles
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Shaw
+    - 39.5:
+        non_striker: J Shaw
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Miles
+    - 39.6:
+        non_striker: J Shaw
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Miles
+    - 39.7:
+        non_striker: CN Miles
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Shaw
+    - 40.1:
+        non_striker: CN Miles
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Shaw
+    - 40.2:
+        non_striker: CN Miles
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Shaw
+    - 40.3:
+        non_striker: CN Miles
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Shaw
+    - 40.4:
+        non_striker: CN Miles
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Shaw
+    - 40.5:
+        non_striker: J Shaw
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Miles
+        wicket:
+          player_out: CN Miles
+          fielders:
+          - JEK Rew
+          kind: caught
+- 2nd innings:
+    team: Somerset
+    deliveries:
+    - 0.1:
+        non_striker: TA Lammonby
+        bowler: MD Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Vaughan
+    - 0.2:
+        non_striker: TA Lammonby
+        bowler: MD Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Vaughan
+    - 0.3:
+        non_striker: TA Lammonby
+        bowler: MD Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Vaughan
+    - 0.4:
+        non_striker: AM Vaughan
+        bowler: MD Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Lammonby
+    - 0.5:
+        non_striker: TA Lammonby
+        bowler: MD Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Vaughan
+    - 0.6:
+        non_striker: TA Lammonby
+        bowler: MD Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Vaughan
+    - 1.1:
+        non_striker: AM Vaughan
+        bowler: J Shaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Lammonby
+    - 1.2:
+        non_striker: AM Vaughan
+        bowler: J Shaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Lammonby
+    - 1.3:
+        non_striker: AM Vaughan
+        bowler: J Shaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Lammonby
+    - 1.4:
+        non_striker: AM Vaughan
+        bowler: J Shaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Lammonby
+    - 1.5:
+        non_striker: AM Vaughan
+        bowler: J Shaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Lammonby
+    - 1.6:
+        non_striker: AM Vaughan
+        bowler: J Shaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Lammonby
+    - 2.1:
+        non_striker: TA Lammonby
+        bowler: MD Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Vaughan
+    - 2.2:
+        non_striker: TA Lammonby
+        bowler: MD Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Vaughan
+    - 2.3:
+        non_striker: TA Lammonby
+        bowler: MD Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Vaughan
+    - 2.4:
+        non_striker: TA Lammonby
+        bowler: MD Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Vaughan
+    - 2.5:
+        non_striker: TA Lammonby
+        bowler: MD Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Vaughan
+    - 2.6:
+        non_striker: TA Lammonby
+        bowler: MD Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Vaughan
+    - 3.1:
+        non_striker: AM Vaughan
+        bowler: J Shaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Lammonby
+    - 3.2:
+        non_striker: AM Vaughan
+        bowler: J Shaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Lammonby
+    - 3.3:
+        non_striker: TA Lammonby
+        bowler: J Shaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Vaughan
+    - 3.4:
+        non_striker: AM Vaughan
+        bowler: J Shaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Lammonby
+    - 3.5:
+        non_striker: AM Vaughan
+        bowler: J Shaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Lammonby
+    - 3.6:
+        non_striker: TA Lammonby
+        bowler: J Shaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Vaughan
+    - 4.1:
+        non_striker: AM Vaughan
+        bowler: MD Taylor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TA Lammonby
+    - 4.2:
+        non_striker: AM Vaughan
+        bowler: MD Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Lammonby
+    - 4.3:
+        non_striker: AM Vaughan
+        bowler: MD Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Lammonby
+    - 4.4:
+        non_striker: TA Lammonby
+        bowler: MD Taylor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Vaughan
+    - 4.5:
+        non_striker: TA Lammonby
+        bowler: MD Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Vaughan
+    - 4.6:
+        non_striker: AM Vaughan
+        bowler: MD Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Lammonby
+    - 5.1:
+        non_striker: TA Lammonby
+        bowler: J Shaw
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: AM Vaughan
+    - 5.2:
+        non_striker: TA Lammonby
+        bowler: J Shaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Vaughan
+    - 5.3:
+        non_striker: TA Lammonby
+        bowler: J Shaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Vaughan
+    - 5.4:
+        non_striker: AM Vaughan
+        bowler: J Shaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Lammonby
+    - 5.5:
+        non_striker: AM Vaughan
+        bowler: J Shaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Lammonby
+    - 5.6:
+        non_striker: AM Vaughan
+        bowler: J Shaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Lammonby
+    - 5.7:
+        non_striker: AM Vaughan
+        bowler: J Shaw
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TA Lammonby
+    - 6.1:
+        non_striker: TA Lammonby
+        bowler: MD Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Vaughan
+        wicket:
+          player_out: AM Vaughan
+          fielders:
+          - James Bracey
+          kind: caught
+    - 6.2:
+        non_striker: TA Lammonby
+        bowler: MD Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LP Goldsworthy
+    - 6.3:
+        non_striker: LP Goldsworthy
+        bowler: MD Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Lammonby
+    - 6.4:
+        non_striker: LP Goldsworthy
+        bowler: MD Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Lammonby
+    - 6.5:
+        non_striker: LP Goldsworthy
+        bowler: MD Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Lammonby
+    - 6.6:
+        non_striker: TA Lammonby
+        bowler: MD Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LP Goldsworthy
+    - 7.1:
+        non_striker: LP Goldsworthy
+        bowler: J Shaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Lammonby
+    - 7.2:
+        non_striker: LP Goldsworthy
+        bowler: J Shaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Lammonby
+    - 7.3:
+        non_striker: TA Lammonby
+        bowler: J Shaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LP Goldsworthy
+    - 7.4:
+        non_striker: LP Goldsworthy
+        bowler: J Shaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Lammonby
+    - 7.5:
+        non_striker: LP Goldsworthy
+        bowler: J Shaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Lammonby
+    - 7.6:
+        non_striker: LP Goldsworthy
+        bowler: J Shaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Lammonby
+    - 8.1:
+        non_striker: TA Lammonby
+        bowler: MD Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LP Goldsworthy
+    - 8.2:
+        non_striker: TA Lammonby
+        bowler: MD Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LP Goldsworthy
+    - 8.3:
+        non_striker: LP Goldsworthy
+        bowler: MD Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Lammonby
+    - 8.4:
+        non_striker: LP Goldsworthy
+        bowler: MD Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Lammonby
+    - 8.5:
+        non_striker: LP Goldsworthy
+        bowler: MD Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Lammonby
+    - 8.6:
+        non_striker: LP Goldsworthy
+        bowler: MD Taylor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TA Lammonby
+    - 9.1:
+        non_striker: TA Lammonby
+        bowler: J Shaw
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: LP Goldsworthy
+    - 9.2:
+        non_striker: TA Lammonby
+        bowler: J Shaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LP Goldsworthy
+    - 9.3:
+        non_striker: TA Lammonby
+        bowler: J Shaw
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LP Goldsworthy
+    - 9.4:
+        non_striker: TA Lammonby
+        bowler: J Shaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LP Goldsworthy
+    - 9.5:
+        non_striker: TA Lammonby
+        bowler: J Shaw
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: LP Goldsworthy
+    - 9.6:
+        non_striker: TA Lammonby
+        bowler: J Shaw
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LP Goldsworthy
+    - 9.7:
+        non_striker: TA Lammonby
+        bowler: J Shaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LP Goldsworthy
+    - 9.8:
+        non_striker: TA Lammonby
+        bowler: J Shaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LP Goldsworthy
+    - 10.1:
+        non_striker: TA Lammonby
+        bowler: MD Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LP Goldsworthy
+    - 10.2:
+        non_striker: TA Lammonby
+        bowler: MD Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LP Goldsworthy
+    - 10.3:
+        non_striker: TA Lammonby
+        bowler: MD Taylor
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LP Goldsworthy
+    - 10.4:
+        non_striker: TA Lammonby
+        bowler: MD Taylor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LP Goldsworthy
+    - 10.5:
+        non_striker: TA Lammonby
+        bowler: MD Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LP Goldsworthy
+    - 10.6:
+        non_striker: TA Lammonby
+        bowler: MD Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LP Goldsworthy
+    - 11.1:
+        non_striker: LP Goldsworthy
+        bowler: CN Miles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Lammonby
+    - 11.2:
+        non_striker: LP Goldsworthy
+        bowler: CN Miles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Lammonby
+        wicket:
+          player_out: TA Lammonby
+          fielders:
+          - James Bracey
+          kind: caught
+    - 11.3:
+        non_striker: LP Goldsworthy
+        bowler: CN Miles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEK Rew
+    - 11.4:
+        non_striker: LP Goldsworthy
+        bowler: CN Miles
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JEK Rew
+    - 11.5:
+        non_striker: JEK Rew
+        bowler: CN Miles
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: LP Goldsworthy
+    - 11.6:
+        non_striker: JEK Rew
+        bowler: CN Miles
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LP Goldsworthy
+    - 11.7:
+        non_striker: LP Goldsworthy
+        bowler: CN Miles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEK Rew
+    - 12.1:
+        non_striker: JEK Rew
+        bowler: GL van Buuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LP Goldsworthy
+    - 12.2:
+        non_striker: JEK Rew
+        bowler: GL van Buuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LP Goldsworthy
+    - 12.3:
+        non_striker: JEK Rew
+        bowler: GL van Buuren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LP Goldsworthy
+    - 12.4:
+        non_striker: LP Goldsworthy
+        bowler: GL van Buuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEK Rew
+    - 12.5:
+        non_striker: LP Goldsworthy
+        bowler: GL van Buuren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JEK Rew
+    - 12.6:
+        non_striker: JEK Rew
+        bowler: GL van Buuren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LP Goldsworthy
+    - 13.1:
+        non_striker: JEK Rew
+        bowler: CN Miles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LP Goldsworthy
+    - 13.2:
+        non_striker: JEK Rew
+        bowler: CN Miles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LP Goldsworthy
+    - 13.3:
+        non_striker: JEK Rew
+        bowler: CN Miles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LP Goldsworthy
+    - 13.4:
+        non_striker: JEK Rew
+        bowler: CN Miles
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LP Goldsworthy
+    - 13.5:
+        non_striker: JEK Rew
+        bowler: CN Miles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LP Goldsworthy
+    - 13.6:
+        non_striker: JEK Rew
+        bowler: CN Miles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LP Goldsworthy
+    - 14.1:
+        non_striker: LP Goldsworthy
+        bowler: GL van Buuren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JEK Rew
+    - 14.2:
+        non_striker: JEK Rew
+        bowler: GL van Buuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LP Goldsworthy
+    - 14.3:
+        non_striker: JEK Rew
+        bowler: GL van Buuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LP Goldsworthy
+    - 14.4:
+        non_striker: JEK Rew
+        bowler: GL van Buuren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LP Goldsworthy
+    - 14.5:
+        non_striker: LP Goldsworthy
+        bowler: GL van Buuren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JEK Rew
+    - 14.6:
+        non_striker: JEK Rew
+        bowler: GL van Buuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LP Goldsworthy
+    - 15.1:
+        non_striker: LP Goldsworthy
+        bowler: CN Miles
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JEK Rew
+    - 15.2:
+        non_striker: LP Goldsworthy
+        bowler: CN Miles
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JEK Rew
+    - 15.3:
+        non_striker: JEK Rew
+        bowler: CN Miles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LP Goldsworthy
+    - 15.4:
+        non_striker: JEK Rew
+        bowler: CN Miles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LP Goldsworthy
+    - 15.5:
+        non_striker: JEK Rew
+        bowler: CN Miles
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LP Goldsworthy
+    - 15.6:
+        non_striker: LP Goldsworthy
+        bowler: CN Miles
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JEK Rew
+    - 16.1:
+        non_striker: LP Goldsworthy
+        bowler: GL van Buuren
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JEK Rew
+    - 16.2:
+        non_striker: LP Goldsworthy
+        bowler: GL van Buuren
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JEK Rew
+    - 16.3:
+        non_striker: LP Goldsworthy
+        bowler: GL van Buuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEK Rew
+    - 16.4:
+        non_striker: LP Goldsworthy
+        bowler: GL van Buuren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JEK Rew
+    - 16.5:
+        non_striker: JEK Rew
+        bowler: GL van Buuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LP Goldsworthy
+    - 16.6:
+        non_striker: JEK Rew
+        bowler: GL van Buuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LP Goldsworthy
+    - 17.1:
+        non_striker: LP Goldsworthy
+        bowler: CN Miles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEK Rew
+    - 17.2:
+        non_striker: LP Goldsworthy
+        bowler: CN Miles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEK Rew
+    - 17.3:
+        non_striker: LP Goldsworthy
+        bowler: CN Miles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEK Rew
+    - 17.4:
+        non_striker: LP Goldsworthy
+        bowler: CN Miles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEK Rew
+    - 17.5:
+        non_striker: LP Goldsworthy
+        bowler: CN Miles
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JEK Rew
+    - 17.6:
+        non_striker: LP Goldsworthy
+        bowler: CN Miles
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JEK Rew
+    - 18.1:
+        non_striker: LP Goldsworthy
+        bowler: GL van Buuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEK Rew
+    - 18.2:
+        non_striker: LP Goldsworthy
+        bowler: GL van Buuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEK Rew
+    - 18.3:
+        non_striker: LP Goldsworthy
+        bowler: GL van Buuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEK Rew
+    - 18.4:
+        non_striker: LP Goldsworthy
+        bowler: GL van Buuren
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JEK Rew
+    - 18.5:
+        non_striker: LP Goldsworthy
+        bowler: GL van Buuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEK Rew
+    - 18.6:
+        non_striker: LP Goldsworthy
+        bowler: GL van Buuren
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: JEK Rew
+    - 18.7:
+        non_striker: LP Goldsworthy
+        bowler: GL van Buuren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JEK Rew
+    - 19.1:
+        non_striker: LP Goldsworthy
+        bowler: DJ Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEK Rew
+    - 19.2:
+        non_striker: LP Goldsworthy
+        bowler: DJ Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JEK Rew
+    - 19.3:
+        non_striker: JEK Rew
+        bowler: DJ Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LP Goldsworthy
+    - 19.4:
+        non_striker: JEK Rew
+        bowler: DJ Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LP Goldsworthy
+        wicket:
+          player_out: LP Goldsworthy
+          kind: caught and bowled
+    - 19.5:
+        non_striker: JEK Rew
+        bowler: DJ Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: THS Rew
+    - 19.6:
+        non_striker: JEK Rew
+        bowler: DJ Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: THS Rew
+    - 20.1:
+        non_striker: THS Rew
+        bowler: J Shaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEK Rew
+    - 20.2:
+        non_striker: THS Rew
+        bowler: J Shaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEK Rew
+    - 20.3:
+        non_striker: THS Rew
+        bowler: J Shaw
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JEK Rew
+    - 20.4:
+        non_striker: THS Rew
+        bowler: J Shaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JEK Rew
+    - 20.5:
+        non_striker: JEK Rew
+        bowler: J Shaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: THS Rew
+    - 20.6:
+        non_striker: JEK Rew
+        bowler: J Shaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: THS Rew
+    - 21.1:
+        non_striker: THS Rew
+        bowler: DJ Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JEK Rew
+    - 21.2:
+        non_striker: JEK Rew
+        bowler: DJ Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: THS Rew
+    - 21.3:
+        non_striker: THS Rew
+        bowler: DJ Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEK Rew
+    - 21.4:
+        non_striker: THS Rew
+        bowler: DJ Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEK Rew
+    - 21.5:
+        non_striker: THS Rew
+        bowler: DJ Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JEK Rew
+    - 21.6:
+        non_striker: THS Rew
+        bowler: DJ Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEK Rew
+    - 22.1:
+        non_striker: JEK Rew
+        bowler: J Shaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: THS Rew
+    - 22.2:
+        non_striker: JEK Rew
+        bowler: J Shaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: THS Rew
+    - 22.3:
+        non_striker: THS Rew
+        bowler: J Shaw
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JEK Rew
+    - 22.4:
+        non_striker: THS Rew
+        bowler: J Shaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JEK Rew
+    - 22.5:
+        non_striker: JEK Rew
+        bowler: J Shaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: THS Rew
+    - 22.6:
+        non_striker: THS Rew
+        bowler: J Shaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEK Rew
+    - 23.1:
+        non_striker: JEK Rew
+        bowler: DJ Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: THS Rew
+    - 23.2:
+        non_striker: JEK Rew
+        bowler: DJ Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: THS Rew
+    - 23.3:
+        non_striker: JEK Rew
+        bowler: DJ Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: THS Rew
+    - 23.4:
+        non_striker: JEK Rew
+        bowler: DJ Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: THS Rew
+    - 23.5:
+        non_striker: JEK Rew
+        bowler: DJ Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: THS Rew
+    - 23.6:
+        non_striker: JEK Rew
+        bowler: DJ Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: THS Rew
+    - 24.1:
+        non_striker: THS Rew
+        bowler: J Shaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEK Rew
+    - 24.2:
+        non_striker: THS Rew
+        bowler: J Shaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JEK Rew
+    - 24.3:
+        non_striker: JEK Rew
+        bowler: J Shaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: THS Rew
+    - 24.4:
+        non_striker: JEK Rew
+        bowler: J Shaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: THS Rew
+    - 24.5:
+        non_striker: JEK Rew
+        bowler: J Shaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: THS Rew
+    - 24.6:
+        non_striker: THS Rew
+        bowler: J Shaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JEK Rew
+    - 25.1:
+        non_striker: THS Rew
+        bowler: OJ Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEK Rew
+    - 25.2:
+        non_striker: THS Rew
+        bowler: OJ Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEK Rew
+    - 25.3:
+        non_striker: THS Rew
+        bowler: OJ Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEK Rew
+    - 25.4:
+        non_striker: THS Rew
+        bowler: OJ Price
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JEK Rew
+    - 25.5:
+        non_striker: THS Rew
+        bowler: OJ Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEK Rew
+    - 25.6:
+        non_striker: THS Rew
+        bowler: OJ Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEK Rew
+    - 26.1:
+        non_striker: JEK Rew
+        bowler: JMR Taylor
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: THS Rew
+    - 26.2:
+        non_striker: JEK Rew
+        bowler: JMR Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: THS Rew
+    - 26.3:
+        non_striker: THS Rew
+        bowler: JMR Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEK Rew
+    - 26.4:
+        non_striker: THS Rew
+        bowler: JMR Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JEK Rew
+    - 26.5:
+        non_striker: JEK Rew
+        bowler: JMR Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: THS Rew
+    - 26.6:
+        non_striker: THS Rew
+        bowler: JMR Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEK Rew
+        wicket:
+          player_out: JEK Rew
+          fielders:
+          - James Bracey
+          kind: stumped
+    - 27.1:
+        non_striker: JF Thomas
+        bowler: OJ Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: THS Rew
+    - 27.2:
+        non_striker: JF Thomas
+        bowler: OJ Price
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: THS Rew
+    - 27.3:
+        non_striker: JF Thomas
+        bowler: OJ Price
+        extras:
+          legbyes: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: THS Rew
+    - 27.4:
+        non_striker: THS Rew
+        bowler: OJ Price
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Thomas
+    - 27.5:
+        non_striker: JF Thomas
+        bowler: OJ Price
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: THS Rew
+    - 27.6:
+        non_striker: THS Rew
+        bowler: OJ Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Thomas
+    - 28.1:
+        non_striker: JF Thomas
+        bowler: JMR Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: THS Rew
+    - 28.2:
+        non_striker: JF Thomas
+        bowler: JMR Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: THS Rew
+    - 28.3:
+        non_striker: JF Thomas
+        bowler: JMR Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: THS Rew
+    - 28.4:
+        non_striker: THS Rew
+        bowler: JMR Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Thomas
+    - 28.5:
+        non_striker: THS Rew
+        bowler: JMR Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Thomas
+    - 28.6:
+        non_striker: JF Thomas
+        bowler: JMR Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: THS Rew
+    - 29.1:
+        non_striker: JF Thomas
+        bowler: OJ Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: THS Rew
+    - 29.2:
+        non_striker: JF Thomas
+        bowler: OJ Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: THS Rew
+    - 29.3:
+        non_striker: JF Thomas
+        bowler: OJ Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: THS Rew
+    - 29.4:
+        non_striker: JF Thomas
+        bowler: OJ Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: THS Rew
+    - 29.5:
+        non_striker: JF Thomas
+        bowler: OJ Price
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: THS Rew
+    - 29.6:
+        non_striker: THS Rew
+        bowler: OJ Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Thomas
+    - 30.1:
+        non_striker: JF Thomas
+        bowler: JMR Taylor
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: THS Rew
+    - 30.2:
+        non_striker: JF Thomas
+        bowler: JMR Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: THS Rew
+    - 30.3:
+        non_striker: THS Rew
+        bowler: JMR Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Thomas
+    - 30.4:
+        non_striker: THS Rew
+        bowler: JMR Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Thomas
+    - 30.5:
+        non_striker: JF Thomas
+        bowler: JMR Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: THS Rew
+    - 30.6:
+        non_striker: JF Thomas
+        bowler: JMR Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: THS Rew
+    - 31.1:
+        non_striker: THS Rew
+        bowler: OJ Price
+        extras:
+          legbyes: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: JF Thomas
+    - 31.2:
+        non_striker: JF Thomas
+        bowler: OJ Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: THS Rew
+    - 31.3:
+        non_striker: JF Thomas
+        bowler: OJ Price
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: THS Rew
