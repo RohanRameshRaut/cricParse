@@ -1,0 +1,233 @@
+# cricParse — YAML Visualiser & Data Validator
+
+## YAML Format & Cricket Domain Validation Rules
+
+### 1. YAML FORMAT / STRUCTURAL VALIDATION
+
+| Rule No. | Validation Rule         | Description                                                                                                                                                                              |
+| -------- | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Y-01     | Indentation             | Each nested YAML element must follow the expected indentation structure.                                                                                                                 |
+| Y-02     | Indentation Range       | Indentation must remain within the supported range of the parser.                                                                                                                        |
+| Y-03     | Key Structure           | Mapping entries must follow the `key: value` YAML structure.                                                                                                                             |
+| Y-04     | Sequence Structure      | YAML list/sequence entries using `-` must be structurally valid.                                                                                                                         |
+| Y-05     | Nested Mapping          | Parent-child relationships must be represented correctly.                                                                                                                                |
+| Y-06     | Line Length             | Each line must satisfy the configured minimum and maximum line-length limits.                                                                                                            |
+| Y-07     | File Size / Line Count  | The input must remain within the parser's configured file/line limits.                                                                                                                   |
+| Y-08     | Recognised Cricket Keys | Known cricket keys such as `info`, `teams`, `players`, `innings`, `overs`, `deliveries`, etc. are identified by the parser.                                                              |
+| Y-09     | Dynamic YAML Keys       | Valid YAML mapping keys that are data values, such as `Pakistan`, `South Africa`, or player names, must not automatically be rejected merely because they are not in the fixed key list. |
+| Y-10     | Structural Consistency  | The parsed line structure must be consistent with the expected YAML hierarchy.                                                                                                           |
+
+---
+
+# 2. CRICKET DOMAIN / SEMANTIC VALIDATION
+
+These rules are applied after the YAML structure has been parsed.
+
+| Rule No. | Validation Rule | Description                                                                                        |
+| -------- | --------------- | -------------------------------------------------------------------------------------------------- |
+| D-01     | Team Count      | Match data must contain the expected two teams.                                                    |
+| D-02     | Team Names      | Teams appearing in match information should correspond to the teams represented in the match data. |
+| D-03     | Players         | Players should be associated with the appropriate teams.                                           |
+| D-04     | Innings         | Innings must have the expected cricket structure.                                                  |
+| D-05     | Innings Team    | Each innings should identify the team batting in that innings.                                     |
+| D-06     | Overs           | Innings should contain properly structured overs.                                                  |
+| D-07     | Deliveries      | Overs should contain properly structured deliveries.                                               |
+| D-08     | Batsman         | A delivery should identify the batsman involved.                                                   |
+| D-09     | Bowler          | A delivery should identify the bowler involved.                                                    |
+| D-10     | Non-Striker     | Delivery data should maintain the non-striker information where required by the input structure.   |
+| D-11     | Runs            | Delivery run information must be internally consistent.                                            |
+| D-12     | Extras          | Extra-run information must use supported extra categories/values.                                  |
+| D-13     | Run Total       | `total = batsman runs + extra runs`.                                                               |
+| D-14     | Wickets         | Wicket information must follow the expected delivery structure.                                    |
+| D-15     | Toss            | Toss information must contain the expected decision/winner structure.                              |
+| D-16     | Over Number     | Over information must be represented correctly.                                                    |
+| D-17     | Delivery Number | Delivery identifiers must follow the expected delivery representation.                             |
+
+---
+
+# 3. IMPORTANT RUN VALIDATION
+
+For every delivery:
+
+```text
+Total Runs = Batsman Runs + Extra Runs
+```
+
+### Valid example
+
+```yaml
+runs:
+  batsman: 4
+  extras: 0
+  total: 4
+```
+
+Because:
+
+```text
+4 + 0 = 4
+```
+
+### Invalid example
+
+```yaml
+runs:
+  batsman: 4
+  extras: 1
+  total: 4
+```
+
+Because:
+
+```text
+4 + 1 != 4
+```
+
+The validator flags this as a domain inconsistency.
+
+---
+
+# 4. EXTRAS VALIDATION
+
+The parser represents extra/run information using compact internal fields.
+
+The supported cricket extra categories include:
+
+```text
+Byes
+Leg-byes
+No-balls
+Wides
+```
+
+The validator checks that the encoded extra information remains within the supported range and that the resulting run information is consistent.
+
+---
+
+# 5. VALIDATION RESULT
+
+The application combines the detected validation flags and displays:
+
+```text
+VALIDATION PASSED
+```
+
+when no validation rule has been violated.
+
+If one or more rules fail:
+
+```text
+VALIDATION FAILED
+```
+
+The UI reports the relevant line number and a short description of the detected problem.
+
+---
+
+# 6. VALIDATION ARCHITECTURE
+
+The validation process is divided into two stages:
+
+```
+    YAML FILE
+        |
+        v
++------------------+
+| YAML STRUCTURAL  |
+|   VALIDATION     |
++------------------+
+        |
+        v
+   Parsed Data
+        |
+        v
++------------------+
+| CRICKET DOMAIN   |
+|   VALIDATION     |
++------------------+
+        |
+        v
++------------------+
+| Validation Flags |
++------------------+
+        |
+        v
+PASS / FAIL + Error Details
+```
+
+---
+
+# 7. EXAMPLE
+
+### Input
+
+```yaml
+info:
+  teams:
+    - Pakistan
+    - South Africa
+  toss:
+    decision: bat
+    winner: South Africa
+```
+
+### YAML validation
+
+```text
+✓ Valid indentation
+✓ Valid mappings
+✓ Valid sequences
+✓ Valid nesting
+```
+
+### Domain validation
+
+```text
+✓ Two teams
+✓ Toss structure present
+✓ Toss winner present
+✓ Toss decision present
+```
+
+### Result
+
+```text
+VALIDATION PASSED
+```
+
+---
+
+# 8. KEY DESIGN PRINCIPLE
+
+The validator separates:
+
+**Syntax/Structure**
+
+> "Is the input correctly structured as YAML?"
+
+from:
+
+**Semantics/Domain**
+
+> "Does the structured data represent a valid cricket match according to the rules implemented by cricParse?"
+
+This separation prevents valid YAML values such as team names, player names, cities, and registry entries from being incorrectly classified as YAML errors.
+
+---
+
+## Configuration Limits Used by the Current Parser
+
+```text
+Minimum indentation : 0
+Maximum indentation : 12
+
+Minimum line limit   : 3
+Maximum line limit   : 75
+
+Configured parser line/file limits:
+MINL = 150
+MAXL = 25000
+```
+
+These are **implementation limits of cricParse**, not universal YAML specifications.
+
